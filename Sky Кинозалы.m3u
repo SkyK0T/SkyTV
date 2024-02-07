@@ -42,7 +42,7 @@ https://v2.catcast.tv/content/41331/index.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/186021.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы", FantasticMystiC
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", FantasticMystiC
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/187741.m3u8
 
@@ -50,7 +50,7 @@ https://hls.goodgame.ru/hls/187741.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/199417.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Мелодрамы
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Кино и сериалы
