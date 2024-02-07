@@ -38,7 +38,7 @@ https://v2.catcast.tv/content/40783/index.m3u8
 https://v2.catcast.tv/content/41331/index.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132_other/Series%20Tv%20HD.png?ref_type=heads&inline=false", TV Series 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo=" ", TV Series 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/186021.m3u8
 
@@ -60,41 +60,34 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/202127.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",Фантастика HD
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Фантастика HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/187241.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",MediaService Lorenz TV
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",Akudji TV
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Akudji TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/5346.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",Cinema Classic
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы", FILM TV HD 
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы", FILM TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/163253.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",Всё ТВ FILM
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Всё ТВ FILM
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/180204.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",STR TV HD
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",STR TV HD
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",SCR TV HD
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",SCR TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/61358.m3u8
 
-#EXTINF:-1 tvg-logo="https://sun6-23.userapi.com/s/v1/ig2/KAbHRjXmnAGg3KgXqoGjQHo2OrSpWGnWXA0w0HVJ-2AllOV2b8UdqpFJ-ueXJiDRHhq-aI9nVk-zEo9kv4IFCsxE.jpg?size=1080x1080&quality=95&crop=21,0,1080,1080&ava=1" tvg-id="no_epg_cinema" group-title="Кинозалы",Видеокассета
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-
-
-
-
-
-
-
