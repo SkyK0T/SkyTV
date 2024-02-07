@@ -88,10 +88,10 @@ https://hls.goodgame.ru/hls/106103.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Мелодрамы
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Кино и сериалы
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Cinema Classic
