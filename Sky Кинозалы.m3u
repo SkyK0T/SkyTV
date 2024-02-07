@@ -2,17 +2,20 @@
 #EXTINF:0 tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
 http://195.9.195.3:8080/hls/180509.m3u8
 
-#EXTINF:0 tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",SeriesTV
-http://195.9.195.3:8080/hls/186021.m3u8
-
-#EXTINF:0 tvg-logo="https://psv4.userapi.com/c536236/u1279180/docs/d24/bca59dc00165/www.png",WWW 
-http://195.9.195.3:8080/hls/192005.m3u8
-
-#EXTINF:0 tvg-logo="https://psv4.userapi.com/c520036/u1279180/docs/d20/69fcef75b548/FMC.png",FMC 
-http://195.9.195.3:8080/hls/187741.m3u8
-
 #EXTINF:0,TechnoDanceRadio
 http://freeuk22.listen2myradio.com:19047
+
+#EXTINF:0 tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TV SERIES
+http://195.9.195.3:8080/hls/186021.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Что? Где? Когда? WWW  What? Where? When?
+http://195.9.195.3:8080/hls/192005.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/VNcTD9fW/FMC.png",Fantastic MystiC
+http://195.9.195.3:8080/hls/187741.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",TechnoDance+TV МУЛЬТИКИ И СКАЗКИ @TDM777
+http://195.9.195.3:8080/hls/198446.m3u8
 
 
 
@@ -82,12 +85,12 @@ https://hls.goodgame.ru/hls/163253.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/180204.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",STR TV HD
-https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",SCR TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/61358.m3u8
+
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",STR TV HD
+https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
