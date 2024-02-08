@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTM3U url-tvg="https://epgx.site/epg.xml.gz"
+
 #EXTINF:0 tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
 http://195.9.195.3:8080/hls/180509.m3u8
 
@@ -37,6 +39,7 @@ https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:0  tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Сити Эдем - Сити Эдем TV - на русском
 https://v2.catcast.tv/content/34246/index.m3u8
 
+https://v2.catcast.tv/content/41327/index.m3u8
 
 
 
@@ -52,7 +55,7 @@ https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv",Movify.tv HISTORY
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
 
-#EXTINF:-1 tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" group-title="Кинозалы",Movify Кино
+#EXTINF:-1 tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" group-title="Movify.tv",Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 
 
