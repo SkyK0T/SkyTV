@@ -39,15 +39,10 @@ https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:0  tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Сити Эдем - Сити Эдем TV - на русском
 https://v2.catcast.tv/content/34246/index.m3u8
 
-https://v2.catcast.tv/content/41327/index.m3u8
-
-
-
 #EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png" group-title="Catcast.tv", КIНО TV VHS (niko630)
 https://s.catcast.tv/hls/brotv-kino-1591.ts
 #EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png" group-title="Catcast.tv", Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv", Movify.tv SERIES
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
@@ -57,8 +52,6 @@ https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" group-title="Movify.tv",Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
-
-
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Good Game" tvg-logo=" ", TV Series 
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -109,7 +102,6 @@ https://hls.goodgame.ru/hls/158191.m3u8
 https://hls.goodgame.ru/hls/106103.m3u8
 
 #EXTINF:-1 group-title="Good Game",Южный парк (NateRou)
-#EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/hls/61358.m3u8
 
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",MediaService Lorenz TV
