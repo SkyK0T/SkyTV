@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTM3U url-tvg="http://fiptv.zapto.org/epg.xml.gz"
 
-#EXTINF:-1,
-group-title="Релакс",
-Природа WORLD HD
+#EXTINF:-1, group-title="Релакс", Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-# EXTINF:-1 group-title="Good Game", Мультсериалы (NateRou)
+#EXTINF:-1 group-title="Good Game", Мультсериалы (NateRou)
 https://hls.goodgame.ru/hls/61358.m3u8
 
 #EXTINF:0 tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
