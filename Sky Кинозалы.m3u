@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgx.site/epg.xml.gz"
+#EXTM3U url-tvg="http://global-media.info/gabba/epg_1.xml.gz"
+#EXTM3U url-tvg="http://fiptv.zapto.org/epg.xml.gz"
 
 #EXTINF:0 tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
 http://195.9.195.3:8080/hls/180509.m3u8
