@@ -2,12 +2,6 @@
 #EXTINF:0 tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
 http://195.9.195.3:8080/hls/180509.m3u8
 
-#EXTINF:0,TechnoDanceRadio
-http://freeuk22.listen2myradio.com:19047
-
-#EXTINF:0 tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TV SERIES
-http://195.9.195.3:8080/hls/186021.m3u8
-
 #EXTINF:0 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Что? Где? Когда? WWW  What? Where? When?
 http://195.9.195.3:8080/hls/192005.m3u8
 
@@ -17,18 +11,23 @@ http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",TechnoDance+TV МУЛЬТИКИ И СКАЗКИ @TDM777
 http://195.9.195.3:8080/hls/198446.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png" group-title="Киноканалы Сити Эдем", Сити Эдем - КиноЭкшен
-https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:0,TechnoDanceRadio
+http://freeuk22.listen2myradio.com:19047
 
-#EXTINF:0  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" group-title="Киноканалы Сити Эдем", Сити Эдем - КиноМистика
+#EXTINF:0 tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TV SERIES
+http://195.9.195.3:8080/hls/186021.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png" group-title="Сити Эдем", Сити Эдем - КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:0  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" group-title="Сити Эдем", Сити Эдем - КиноМистика
 https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png" group-title="Киноканалы Сити Эдем", Сити Эдем - КиноКомедия
+#EXTINF:0  tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png" group-title="Сити Эдем", Сити Эдем - КиноКомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" group-title="Киноканалы Сити Эдем", Сити Эдем - КиноДетектив
+#EXTINF:0  tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" group-title="Сити Эдем", Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png" group-title="Киноканалы Сити Эдем", Сити Эдем - КиноДрама
+#EXTINF:0  tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png" group-title="Сити Эдем", Сити Эдем - КиноДрама
 https://autopilot.catcast.tv/content/45269/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png" group-title="Киноканалы Сити Эдем", Сити Эдем - КиноКлассика
+#EXTINF:0  tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png" group-title="Сити Эдем", Сити Эдем - КиноКлассика
 https://autopilot.catcast.tv/content/34185/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Кинозалы", Movify.tv SERIES
@@ -37,39 +36,39 @@ https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Кинозалы",Movify.tv HISTORY
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo=" ", TV Series 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Good Game" tvg-logo=" ", TV Series 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/186021.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", FantasticMystiC
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Good Game", FantasticMystiC
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/187741.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngwing.com/ru/free-png-zxcyp/download" tvg-id="no_epg_cinema" group-title="Кинозалы", Футурама
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/ru/free-png-zxcyp/download" tvg-id="no_epg_cinema" group-title="Good Game", Футурама
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/199417.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы", Страх HD
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Good Game", Страх HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/202127.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Фантастика HD
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Good Game",Фантастика HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/187241.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Akudji TV
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Good Game",Akudji TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/5346.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы", FILM TV HD
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Good Game", FILM TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/163253.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Всё ТВ FILM
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Good Game",Всё ТВ FILM
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/180204.m3u8
 
-#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",SCR TV HD
+#EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Good Game",SCR TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/61358.m3u8
 
@@ -85,10 +84,13 @@ https://hls.goodgame.ru/hls/158191.m3u8
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/hls/106103.m3u8
 
+#EXTINF:-1 group-title="Good Game", Южный парк (NateRou)
+https://hls.goodgame.ru/hls/61358.m3u8
+
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Мелодрамы
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Кино и сериалы
@@ -103,5 +105,11 @@ https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 
-#EXTINF:-1 " tvg-id="no_epg_cinema" group-title="Кинозалы", Тест ютуба
-https://youtu.be/CEUYCE6LiLg?si=WKNyseu0vrVdRzeE
+#EXTINF:-1 " tvg-id="no_epg_cinema" group-title="Кинозалы", Тест ютуба 1
+https://www.youtube.com/watch?v=aoB8msCG8jQ
+
+#EXTINF:-1 " tvg-id="no_epg_cinema" group-title="Кинозалы", Тест ютуба 1
+https://youtu.be/aoB8msCG8jQ?si=97821TPka_KaVDrm
+
+
+streamlink <goodgame-stream-page> best --stream-url
