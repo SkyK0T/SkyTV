@@ -82,6 +82,7 @@ https://vkplay.live/xmanru
 
 #EXTINF:0 tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
 http://195.9.195.3:8080/hls/180509.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Что? Где? Когда? WWW  What? Where? When?
 http://195.9.195.3:8080/hls/192005.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/VNcTD9fW/FMC.png",Fantastic MystiC
