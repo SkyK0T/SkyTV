@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTM3U url-tvg="http://fiptv.zapto.org/epg.xml.gz"
+#EXTM3U url-tvg="https://epgx.site/epg.xml.gz"
 
 #EXTINF:-1 group-title="Релакс", Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Good Game", Goodgame: Мультсериалы SC TV NateRou (Рик и морти)
+#EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png" group-title="Catcast.tv", Eurodance 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1 group-title="Good Game", Goodgame: Мультсериалы SC TV NateRou
 https://hls.goodgame.ru/hls/61358.m3u8
 
 #EXTINF:-1 group-title="Good Game", Goodgame: Мультсериалы Футурама
@@ -49,6 +52,41 @@ https://hls.goodgame.ru/hls/158191.m3u8
 #EXTINF:-1 group-title="Good Game",AlexVira (Работает не всегда)
 https://hls.goodgame.ru/hls/106103.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png" group-title="Сити Эдем", Сити Эдем - КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" group-title="Сити Эдем", Сити Эдем - КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" group-title="Сити Эдем", Сити Эдем - КиноМистика 2
+https://v2.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png" group-title="Сити Эдем", Сити Эдем - КиноКомедия
+https://autopilot.catcast.tv/content/41331/index.m3u8
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" group-title="Сити Эдем", Сити Эдем - КиноДетектив
+https://autopilot.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png" group-title="Сити Эдем", Сити Эдем - КиноДрама
+https://autopilot.catcast.tv/content/45269/index.m3u8
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png" group-title="Сити Эдем", Сити Эдем - КиноКлассика
+https://autopilot.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:0  tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Сити Эдем - Сити Эдем TV - на русском
+https://v2.catcast.tv/content/34246/index.m3u8
+
+#EXTINF:0  tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Сити Эдем - Сити Эдем TV - на русском 2
+https://autopilot.catcast.tv/content/34246/index.m3u8
+
+#EXTINF:0  tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Христианское радио Сити Эдем
+https://v2.catcast.tv/content/34246/index.m3u8
+
+#EXTINF:0  tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Христианское радио Сити Эдем 2
+https://autopilot.catcast.tv/content/34246/index.m3u8
+
+#EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png" group-title="Catcast.tv", КIНО TV VHS (niko630)
+https://s.catcast.tv/hls/brotv-kino-1591.ts
 
 #EXTINF:-1 group-title="VKPlay.live",Кинообзор 24/7 2024-01-24 03:09
 https://vkplay.live/video_prokat
@@ -93,26 +131,8 @@ http://195.9.195.3:8080/hls/198446.m3u8
 http://freeuk22.listen2myradio.com:19047
 #EXTINF:0 tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TV SERIES
 http://195.9.195.3:8080/hls/186021.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png" group-title="Сити Эдем", Сити Эдем - КиноЭкшен
-https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" group-title="Сити Эдем", Сити Эдем - КиноМистика
-https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" group-title="Сити Эдем", Сити Эдем - КиноМистика 2
-https://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png" group-title="Сити Эдем", Сити Эдем - КиноКомедия
-https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" group-title="Сити Эдем", Сити Эдем - КиноДетектив
-https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png" group-title="Сити Эдем", Сити Эдем - КиноДрама
-https://autopilot.catcast.tv/content/45269/index.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png" group-title="Сити Эдем", Сити Эдем - КиноКлассика
-https://autopilot.catcast.tv/content/34185/index.m3u8
-#EXTINF:0  tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Сити Эдем - Сити Эдем TV - на русском
-https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png" group-title="Catcast.tv", КIНО TV VHS (niko630)
-https://s.catcast.tv/hls/brotv-kino-1591.ts
-#EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png" group-title="Catcast.tv", Eurodance 90
-https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv", Movify.tv SERIES
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv",Movify.tv HISTORY
@@ -123,15 +143,19 @@ https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ - Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Cinema Classic
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",STR TV HD (2 источник)
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="no_epg_cinema" group-title="Кинозалы",Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
+
 #EXTINF:-1 " tvg-id="no_epg_cinema" group-title="Кинозалы", Тест ютуба 1
 https://www.youtube.com/watch?v=aoB8msCG8jQ
+
 #EXTINF:-1 " tvg-id="no_epg_cinema" group-title="Кинозалы", Тест ютуба 2
 https://youtu.be/aoB8msCG8jQ?si=97821TPka_KaVDrm
