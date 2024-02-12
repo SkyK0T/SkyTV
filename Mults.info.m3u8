@@ -1,10 +1,41 @@
 ﻿#EXTM3U
 #EXTINF:-1 , Сайт
 https://mults.info/mults/?p=27&by=100
+
 #EXTINF:-1 group-title="38 попугаев", 38 попугаев (Союзмультфильм 1976 г.)
 https://mults.info/mp4/38_popugaev.mp4
 #EXTINF:-1 group-title="38 попугаев", А вдруг получится (Союзмультфильм 1978 г.)
 https://mults.info/mp4/38_a_vdrug_poluchitsya.mp4
+#EXTINF:-1 group-title="38 попугаев", Бабушка удава (Союзмультфильм 1977 г.)
+https://mults.info/mp4/38_babushka_udava.mp4
+#EXTINF:-1 group-title="38 попугаев", Великое закрытие (Союзмультфильм 1985 г.)
+https://mults.info/mp4/38_velikoe_zakrytie.mp4
+#EXTINF:-1 group-title="38 попугаев", Завтра будет завтра (Союзмультфильм 1979 г.)
+https://mults.info/mp4/38_zavtra_budet_zavtra.mp4
+#EXTINF:-1 group-title="38 попугаев", Зарядка для хвоста (Союзмультфильм 1979 г.)
+https://mults.info/mp4/38_zaraydka_dlya_hvosta.mp4
+#EXTINF:-1 group-title="38 попугаев", Как лечить удава (Союзмультфильм 1977 г.)
+https://mults.info/mp4/38_kak_lechit_udava.mp4
+#EXTINF:-1 group-title="38 попугаев", Куда идет слоненок (Союзмультфильм 1977 г.)
+https://mults.info/mp4/38_kuda_idet_slonenok.mp4
+#EXTINF:-1 group-title="38 попугаев", Ненаглядное пособие (Союзмультфильм 1991 г.)
+https://mults.info/mp4/38_nenaglyadnoe_posobie.mp4
+#EXTINF:-1 group-title="38 попугаев", Привет мартышке (Союзмультфильм 1978 г.)
+https://mults.info/mp4/38_privet_martyshke.mp4
+
+#EXTINF:-1 group-title="Три богатыря", Алеша Попович и Тугарин Змей (Мельница, 2004 г.) 
+https://mults.info/mp4/alesha_popovich_i_tugarin_zmey.mp4
+#EXTINF:-1 group-title="Три богатыря", Добрыня Никитич и Змей Горыныч (Мельница, 2006 г.)
+https://mults.info/mp4/dobrynya_nikitich_i_zmey_gorynych.mp4
+#EXTINF:-1 group-title="Три богатыря", Илья Муромец и Соловей-Разбойник (Мельница, 2007 г.)
+https://mults.info/mp4/ilya_muromets_i_solovey_razboynik.mp4
+#EXTINF:-1 group-title="Три богатыря", Три Богатыря и Шамаханская Царица (Мельница, 2010 г.)
+https://mults.info/mp4/tri_bogatyrya_i_shamahanskaya_tsaritsa.mp4
+#EXTINF:-1 group-title="Три богатыря", Три богатыря на дальних берегах (Мельница, 2012 г.)
+https://mults.info/mp4/tri_bogatyrya_na_dalnih_beregah.mp4
+#EXTINF:-1 group-title="Три богатыря", Ход конем (Мельница, 2014 г.) 
+https://mults.info/mp4/tri_bogatyrya_hod_konem.mp4
+
 
 #EXTINF:-1 group-title="Бременские музыканты", Бременские музыканты (Союзмультфильм, 1969 г.  Режиссёр: Ковалевская Инесса)
 https://mults.info/mp4/bremenskie_muzykanty.mp4
@@ -13,49 +44,49 @@ https://mults.info/mp4/po_sledam_bremenskih_muzykantov.mp4
 #EXTINF:-1 group-title="Бременские музыканты", Новые бременские (Кино-Мост 2000 г.)
 https://mults.info/mp4/novye_bremenskie.mp4
 
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 1 В городе и на пляже (1 января 1969г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 1 В городе и на пляже (1 января 1969г.)
 https://mults.info/mp4/nu_pogodi_01.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 2 В городском парке (Союзмультфильм 18 июля 1970г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 2 В городском парке (Союзмультфильм 18 июля 1970г.)
 https://mults.info/mp4/nu_pogodi_02.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 3 На дороге (Союзмультфильм 29 мая 1971г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 3 На дороге (Союзмультфильм 29 мая 1971г.)
 https://mults.info/mp4/nu_pogodi_03.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 4 На стадионе (Союзмультфильм 26 июня 1971г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 4 На стадионе (Союзмультфильм 26 июня 1971г.)
 https://mults.info/mp4/nu_pogodi_04.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 5 В городе (Союзмультфильм 23 сентября 1972г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 5 В городе (Союзмультфильм 23 сентября 1972г.)
 https://mults.info/mp4/nu_pogodi_05.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 6 В деревне (Союзмультфильм 21 апреля 1973г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 6 В деревне (Союзмультфильм 21 апреля 1973г.)
 https://mults.info/mp4/nu_pogodi_06.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 7 На корабле 1(Союзмультфильм 2 мая 1973г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 7 На корабле 1(Союзмультфильм 2 мая 1973г.)
 https://mults.info/mp4/nu_pogodi_07.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 8 Новый год (Союзмультфильм 5 января 1974г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 8 Новый год (Союзмультфильм 5 января 1974г.)
 https://mults.info/mp4/nu_pogodi_08.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 9 В телестудии (Союзмультфильм 4 сентября 1976г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 9 В телестудии (Союзмультфильм 4 сентября 1976г.)
 https://mults.info/mp4/nu_pogodi_09.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 10 На стройке (Союзмультфильм 9 октября 1976г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 10 На стройке (Союзмультфильм 9 октября 1976г.)
 https://mults.info/mp4/nu_pogodi_10.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 11 В цирке (Союзмультфильм 30 июля 1977г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 11 В цирке (Союзмультфильм 30 июля 1977г.)
 https://mults.info/mp4/nu_pogodi_11.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 12 В музее (Союзмультфильм 8 апреля 1978г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 12 В музее (Союзмультфильм 8 апреля 1978г.)
 https://mults.info/mp4/nu_pogodi_12.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 13 Олимпиада 80 (Союзмультфильм 17 мая 1980г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 13 Олимпиада 80 (Союзмультфильм 17 мая 1980г.)
 https://mults.info/mp4/nu_pogodi_13.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 14 (Союзмультфильм Дом юного техника 2 июня 1984г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 14 (Союзмультфильм Дом юного техника 2 июня 1984г.)
 https://mults.info/mp4/nu_pogodi_14.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 15 (Союзмультфильм Дом культуры 22.июня 1985г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 15 (Союзмультфильм Дом культуры 22.июня 1985г.)
 https://mults.info/mp4/nu_pogodi_15.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди! 16 (Союзмультфильм В мире сказок 27 сентября 1986 г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди! 16 (Союзмультфильм В мире сказок 27 сентября 1986 г.)
 https://mults.info/mp4/nu_pogodi_16.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 17 (Союзмультфильм На острове 25 июня 1993г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 17 (Союзмультфильм На острове 25 июня 1993г.)
 https://mults.info/mp4/nu_pogodi_17.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 18 (Союзмультфильм Супермаркет 24 июня 1994г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 18 (Союзмультфильм Супермаркет 24 июня 1994г.)
 https://mults.info/mp4/nu_pogodi_18.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 19 (Кристмас Филмз На курорте 22 декабря 2005г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 19 (Кристмас Филмз На курорте 22 декабря 2005г.)
 https://mults.info/mp4/nu_pogodi_19.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 20 (Кристмас Филмз На даче 1 апреля 2006г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 20 (Кристмас Филмз На даче 1 апреля 2006г.)
 https://mults.info/mp4/nu_pogodi_20.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 1 телевыпуск (ЭКРАН 1980 г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 1 телевыпуск (ЭКРАН 1980 г.)
 https://mults.info/mp4/nu_pogodi_tv_1.mp4
-#EXTINF:-1 group-title="Ну, погоди", Ну, погоди 2-3 телевыпуск (ЭКРАН 1981 г.)
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 2-3 телевыпуск (ЭКРАН 1981 г.)
 https://mults.info/mp4/nu_pogodi_tv.mp4
 
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы","Метеор" на ринге (Союзмультфильм 1970 г.)
@@ -178,8 +209,6 @@ https://mults.info/mp4/alenushka_i_soldat.mp4
 https://mults.info/mp4/skazki_na_noch_alenkiy_tsvetochek.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Аленький цветочек (Союзмультфильм 1952 г.)
 https://mults.info/mp4/alenkij_tsvetochek.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Алеша Попович и Тугарин Змей (Мельница 2004 г.)
-https://mults.info/mp4/alesha_popovich_i_tugarin_zmey.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Алешины сказки (Союзмультфильм 1964 г.)
 https://mults.info/mp4/alyoshiny_skazki.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Али-Баба и сорок разбойников (СПК 2010 г.)
@@ -302,8 +331,7 @@ https://mults.info/mp4/babushka_1.mp4
 https://mults.info/mp4/babushka_metelica.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Бабушка научи! (САРАТОВТЕЛЕФИЛЬМ 1983 г.)
 https://mults.info/mp4/babushka_nauchi.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Бабушка удава (Союзмультфильм 1977 г.)
-https://mults.info/mp4/38_babushka_udava.mp4
+
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Бабушкин зонтик (Союзмультфильм 1969 г.)
 https://mults.info/mp4/babushkin_zontik.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Бабушкин козлик. Сказка для взрослых (Союзмультфильм 1963 г.)
@@ -764,8 +792,7 @@ https://mults.info/mp4/velikan_egoist.mp4
 https://mults.info/mp4/velikaya_bitva_slona_s_kitom.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Великие холода (Союзмультфильм 1969 г.)
 https://mults.info/mp4/velikie_holoda.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Великое закрытие (Союзмультфильм 1985 г.)
-https://mults.info/mp4/38_velikoe_zakrytie.mp4
+
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Великолепный Гоша (Экран 1981 г.)
 https://mults.info/mp4/velikolepniy_gosha.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Велоспорт (ЭКРАН 1980 г.)
@@ -1610,8 +1637,7 @@ https://mults.info/mp4/nu_slushayte_dobroe_slovo.mp4
 https://mults.info/mp4/dobry_les.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Добрыня Никитич (Союзмультфильм 1965 г.)
 https://mults.info/mp4/dobrynya_nikitich.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Добрыня Никитич и Змей Горыныч (Мельница 2006 г.)
-https://mults.info/mp4/dobrynya_nikitich_i_zmey_gorynych.mp4
+
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Доверчивый дракон (Союзмультфильм 1988 г.)
 https://mults.info/mp4/doverchivy_drakon.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Догада (Союзмультфильм 1977 г.)
@@ -1914,8 +1940,7 @@ https://mults.info/mp4/zabytyi_den_rozhdenia.mp4
 https://mults.info/mp4/zavetnaja_mechta_1989.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Заветная мечта (Союзмультфильм 1972 г.)
 https://mults.info/mp4/zavetnaja_mechta.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Завтра будет завтра (Союзмультфильм 1979 г.)
-https://mults.info/mp4/38_zavtra_budet_zavtra.mp4
+
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Завтра день рождения бабушки (ЭКРАН 1975 г.)
 https://mults.info/mp4/zavtra_den_rozhdeniya_babushki.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Завтрак на привале
@@ -1984,8 +2009,7 @@ https://mults.info/mp4/zapiski_pirata.mp4
 https://mults.info/mp4/zapovednik.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Заразительный пример (Литовская киностудия 1987 г.)
 https://mults.info/mp4/zarazitelny_primer.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Зарядка для хвоста (Союзмультфильм 1979 г.)
-https://mults.info/mp4/38_zaraydka_dlya_hvosta.mp4
+
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Засыпет снег дороги (Укранимафильм 2004 г.)
 https://mults.info/mp4/zasypet_sneg_dorogi.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Затерянный в снегах (Jet Media Animera AB 2007 г.)
@@ -2260,8 +2284,6 @@ https://mults.info/mp4/ikar_i_mudrecy.mp4
 https://mults.info/mp4/iko_otvazhny_zherebenok.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Иллюзион (БЕЛАРУСЬФИЛЬМ 1990 г.)
 https://mults.info/mp4/illjuzion.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Илья Муромец и Соловей-Разбойник (Мельница 2007 г.)
-https://mults.info/mp4/ilya_muromets_i_solovey_razboynik.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Илья Муромец и Соловей-разбойник (Союзмультфильм 1978 г.)
 https://mults.info/mp4/iliya_muromets_i_solovey_razboinik.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Илья Муромец. Пролог (Союзмультфильм 1975 г.)
@@ -2514,8 +2536,6 @@ https://mults.info/mp4/kak_kotenku_postroili_dom.mp4
 https://mults.info/mp4/kak_koshechka_i_sobachka_mili_pol.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Как кошка с собакой (ЭКРАН 1973 г.)
 https://mults.info/mp4/kak_koshka_s_sobakoy.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Как лечить удава (Союзмультфильм 1977 г.)
-https://mults.info/mp4/38_kak_lechit_udava.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Как лиса волка судила (БЕЛАРУСЬФИЛЬМ 1989 г.)
 https://mults.info/mp4/kak_lisa_volka_sudila.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Как лиса зайца догоняла (Союзмультфильм 1979 г.)
@@ -3336,8 +3356,7 @@ https://mults.info/mp4/kubik.mp4
 https://mults.info/mp4/kubik_i_tobik.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Кувшинка (КУЙБЫШЕВТЕЛЕФИЛЬМ 1987 г.)
 https://mults.info/mp4/kuvshinka.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Куда идет слоненок (Союзмультфильм 1977 г.)
-https://mults.info/mp4/38_kuda_idet_slonenok.mp4
+
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Куда летишь Витар? (Союзмультфильм 1972 г.)
 https://mults.info/mp4/kuda_letish_vitar.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Куда пропала луна (БЕЛАРУСЬФИЛЬМ 1982 г.)
@@ -4340,8 +4359,7 @@ https://mults.info/mp4/nekotorye_uprazhnenija_dlja_samostojatelnoj_zhizni.mp4
 https://mults.info/mp4/kolybeln_nemetskaya.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Немухинские музыканты (Союзмультфильм 1973 г.)
 https://mults.info/mp4/nemuhinskie_muzykanty.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Ненаглядное пособие (Союзмультфильм 1991 г.)
-https://mults.info/mp4/38_nenaglyadnoe_posobie.mp4
+
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Ненаписанное письмо (КИЕВНАУЧФИЛЬМ 1985 г.)
 https://mults.info/mp4/nenapisannoe_pismo.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Ненастоящая девочка (Союзмультфильм 2012 г.)
@@ -5385,8 +5403,6 @@ https://mults.info/mp4/kenterberiyskie_rasskazy_2.mp4
 https://mults.info/mp4/privet_druzyam.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Привет из Кисловодска (Свердловская киностудия 2000 г.)
 https://mults.info/mp4/privet_iz_kislovodska.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Привет мартышке (Союзмультфильм 1978 г.)
-https://mults.info/mp4/38_privet_martyshke.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Приезжайте в гости (Союзмультфильм 1979 г.)
 https://mults.info/mp4/priezzhayte_v_gosti.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Приемыш аиста (СОФИЯ ГРУЗИЯ-ФИЛЬМ 1982 г.)
@@ -7087,8 +7103,6 @@ https://mults.info/mp4/trah_tibi_doh.mp4
 https://mults.info/mp4/tredichino.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Треугольник (ТАЛЛИННФИЛЬМ 1982 г.)
 https://mults.info/mp4/treugolnik.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Три Богатыря и Шамаханская Царица (Мельница 2010 г.)
-https://mults.info/mp4/tri_bogatyrya_i_shamahanskaya_tsaritsa.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Три Ивана (КИЕВНАУЧФИЛЬМ 1982 г.)
 https://mults.info/mp4/tri_ivana.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Три Панька (КИЕВНАУЧФИЛЬМ 1989 г.)
@@ -7099,8 +7113,6 @@ https://mults.info/mp4/tri_panka_na_yarmarke.mp4
 https://mults.info/mp4/tri_panka_hozyaystvuyut.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Три банана (Союзмультфильм 1971 г.)
 https://mults.info/mp4/tri_banana.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Три богатыря на дальних берегах (Мельница 2012 г.)
-https://mults.info/mp4/tri_bogatyrya_na_dalnih_beregah.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Три дровосека (Союзмультфильм 1959 г.)
 https://mults.info/mp4/tri_drovoseka.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Три желания (ТАЛЛИННФИЛЬМ 1982 г.)
@@ -7413,8 +7425,6 @@ https://mults.info/mp4/hitry_ants_i_nechisty.mp4
 https://mults.info/mp4/hleb_1984.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Хоббит. Сокровища под горой (Аргус Интернейшнл 1994 г.)
 https://mults.info/mp4/hobbit_ili_sokrovischa_pod_goroy.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Ход конем (Мельница 2014 г.)
-https://mults.info/mp4/tri_bogatyrya_hod_konem.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Ходжа Насреддин (ч.1) (УЗБЕКФИЛЬМ 1982 г.)
 https://mults.info/mp4/hodzha_nasreddin_1.mp4
 #EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Ходжа Насреддин (ч.2) (УЗБЕКФИЛЬМ 1983 г.)
