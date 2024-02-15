@@ -122,20 +122,6 @@ http://dmi3y-tv.ru/hls/multfilm/STAN_LEGENDOY.m3u8
 #EXTINF:-1 group-title="Мультики dmi3y-tv",Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]
 http://dmi3y-tv.ru/hls/multfilm/DIKIE_PREDKI.m3u8
 
-
-#EXTINF:-1 group-title="Три богатыря", Алеша Попович и Тугарин Змей (Мельница, 2004 г.) 
-https://mults.info/mp4/alesha_popovich_i_tugarin_zmey.mp4
-#EXTINF:-1 group-title="Три богатыря", Добрыня Никитич и Змей Горыныч (Мельница, 2006 г.)
-https://mults.info/mp4/dobrynya_nikitich_i_zmey_gorynych.mp4
-#EXTINF:-1 group-title="Три богатыря", Илья Муромец и Соловей-Разбойник (Мельница, 2007 г.)
-https://mults.info/mp4/ilya_muromets_i_solovey_razboynik.mp4
-#EXTINF:-1 group-title="Три богатыря", Три Богатыря и Шамаханская Царица (Мельница, 2010 г.)
-https://mults.info/mp4/tri_bogatyrya_i_shamahanskaya_tsaritsa.mp4
-#EXTINF:-1 group-title="Три богатыря", Три богатыря на дальних берегах (Мельница, 2012 г.)
-https://mults.info/mp4/tri_bogatyrya_na_dalnih_beregah.mp4
-#EXTINF:-1 group-title="Три богатыря", Ход конем (Мельница, 2014 г.) 
-https://mults.info/mp4/tri_bogatyrya_hod_konem.mp4
-
 #EXTINF:-1 group-title="Ну погоди", Ну, погоди 1 В городе и на пляже (1 января 1969г.)
 https://mults.info/mp4/nu_pogodi_01.mp4
 #EXTINF:-1 group-title="Ну погоди", Ну, погоди 2 В городском парке (Союзмультфильм 18 июля 1970г.)
@@ -582,7 +568,94 @@ https://mults.info/mp4/volshebnik_06_tajna_koldunji_gingemy.mp4
 
 
 
+#EXTINF:-1 group-title="Только для взрослых (1971-1974)", Только для взрослых (выпуск 1) (Союзмультфильм, 1971 г.) 
 
+#EXTINF:-1 group-title="Только для взрослых (1971-1974)", Только для взрослых (выпуск 3) (Союзмультфильм, 1974 г.) 
+	
+#EXTINF:-1 group-title="Три богатыря", Алеша Попович и Тугарин Змей (Мельница, 2004 г.) 
+https://mults.info/mp4/alesha_popovich_i_tugarin_zmey.mp4
+#EXTINF:-1 group-title="Три богатыря", Добрыня Никитич и Змей Горыныч (Мельница, 2006 г.)
+https://mults.info/mp4/dobrynya_nikitich_i_zmey_gorynych.mp4
+#EXTINF:-1 group-title="Три богатыря", Илья Муромец и Соловей-Разбойник (Мельница, 2007 г.)
+https://mults.info/mp4/ilya_muromets_i_solovey_razboynik.mp4
+#EXTINF:-1 group-title="Три богатыря", Три Богатыря и Шамаханская Царица (Мельница, 2010 г.)
+https://mults.info/mp4/tri_bogatyrya_i_shamahanskaya_tsaritsa.mp4
+#EXTINF:-1 group-title="Три богатыря", Три богатыря на дальних берегах (Мельница, 2012 г.)
+https://mults.info/mp4/tri_bogatyrya_na_dalnih_beregah.mp4
+#EXTINF:-1 group-title="Три богатыря", Ход конем (Мельница, 2014 г.) 
+https://mults.info/mp4/tri_bogatyrya_hod_konem.mp4
+
+
+#EXTINF:-1 group-title="Три лягушонка", Три лягушонка ч.1 (Союзмультфильм, 1987 г.) 
+https://mults.info/mp4/tri_lyagushonka_1.mp4
+#EXTINF:-1 group-title="Три лягушонка", Три лягушонка ч.2 (Союзмультфильм, 1988 г.) 
+https://mults.info/mp4/tri_lyagushonka_2.mp4
+#EXTINF:-1 group-title="Три лягушонка", Три лягушонка ч.3 (Союзмультфильм, 1990 г.)
+https://mults.info/mp4/tri_lyagushonka_3.mp4
+
+#EXTINF:-1 group-title="Три мечты", Девочка дура (Свердловская студия анимации «А-фильм», 2006 г.)
+https://mults.info/mp4/devochka_dura.mp4
+#EXTINF:-1 group-title="Три мечты", Ряба (Свердловская студия анимации «А-фильм», 2006 г.)
+https://mults.info/mp4/ryaba.mp4
+#EXTINF:-1 group-title="Три мечты", Чёрный рыцарь, белый рыцарь (Свердловская студия анимации «А-фильм», 2006 г.)
+https://mults.info/mp4/cherny_rytsar_bely_rytsar.mp4
+
+#EXTINF:-1 group-title="Три Панька",Три Панька (КИЕВНАУЧФИЛЬМ, 1989 г.)
+https://mults.info/mp4/tri_panka.mp4
+#EXTINF:-1 group-title="Три Панька",Три Панька хозяйствуют (КИЕВНАУЧФИЛЬМ, 1990 г.)
+https://mults.info/mp4/tri_panka_hozyaystvuyut.mp4
+#EXTINF:-1 group-title="Три Панька",Три Панька на ярмарке (УКРАНИМАФИЛЬМ, 1991 г.)
+https://mults.info/mp4/tri_panka_na_yarmarke.mp4
+
+#EXTINF:-1 group-title="Трое из Простоквашино", Трое из Простоквашино (ч. 1) (Союзмультфильм, 1978 г.)
+https://mults.info/mp4/troe_iz_prostokvashino.mp4
+#EXTINF:-1 group-title="Трое из Простоквашино", Каникулы в Простоквашино (ч. 2) (Союзмультфильм, 1980 г.)
+https://mults.info/mp4/kanikuly_v_prostokvashino.mp4
+#EXTINF:-1 group-title="Трое из Простоквашино", Зима в Простоквашино (ч. 3) (Союзмультфильм, 1984 г.) 
+https://mults.info/mp4/zima_v_prostokvashino.mp4
+
+#EXTINF:-1 group-title="Тушканчик", Тушканчик. Ракушка (Экран, 1983 г.)
+https://mults.info/mp4/tushkanchik_rakushka.mp4
+#EXTINF:-1 group-title="Тушканчик", Крем-Брюле (Экран, 1984 г.)
+https://mults.info/mp4/tushkanchik_krem_brule.mp4
+#EXTINF:-1 group-title="Тушканчик", Корабль пустыни (Экран, 1985 г.)
+https://mults.info/mp4/tushkanchik_korabl_pustyni.mp4
+
+#EXTINF:-1 group-title="Тяп и Мика", Тяп и Мика (ПЕРМЬТЕЛЕФИЛЬМ, 1972 г.)
+https://mults.info/mp4/tyap_i_mika.mp4
+#EXTINF:-1 group-title="Тяп и Мика", День рождения (Пермьтелефильм, 1974 г.) 
+https://mults.info/mp4/den_rozhdenija_1974.mp4
+
+#EXTINF:-1 group-title="Умка", Умка (Союзмультфильм, 1969 г.)
+https://mults.info/mp4/umka.mp4
+#EXTINF:-1 group-title="Умка", Умка ищет друга (Союзмультфильм, 1970 г.)
+https://mults.info/mp4/umka_ishet_druga.mp4
+
+#EXTINF:-1 group-title="Умная собачка Соня", Умная собачка Соня (ч.1) (ЭКРАН, 1991 г.)
+https://mults.info/mp4/umnaja_sobachka_sonja_1.mp4
+#EXTINF:-1 group-title="Умная собачка Соня", Умная собачка Соня (ч.2) (ЭКРАН, 1993 г.)
+https://mults.info/mp4/umnaja_sobachka_sonja_2.mp4
+
+#EXTINF:-1 group-title="Утёнок-музыкант", Утёнок, который не умел играть в футбол (Союзмультфильм, 1972 г.)
+https://mults.info/mp4/utenok_kotory_ne_umel_igrat_v_futbol.mp4
+#EXTINF:-1 group-title="Утёнок-музыкант", Как утёнок-музыкант стал футболистом (Союзмультфильм, 1978 г.) 
+https://mults.info/mp4/kak_utenok_muzykant_stal_futbolistom.mp4
+
+#EXTINF:-1 group-title="Уходя гасите свет", Уходя гасите свет (ч.1) (ЭКРАН, 1987 г.) 
+https://mults.info/mp4/uhodya_gasite_svet_1.mp4
+#EXTINF:-1 group-title="Уходя гасите свет", Уходя гасите свет (ч.2) (ЭКРАН, 1988 г.) 
+https://mults.info/mp4/uhodya_gasite_svet_2.mp4
+
+
+#EXTINF:-1 group-title="Ушастик", Ушастик (ЭКРАН, 1979 г.)
+https://mults.info/mp4/ushastik.mp4
+#EXTINF:-1 group-title="Ушастик", Когда медвежонок проснется (ЭКРАН, 1979 г.)
+https://mults.info/mp4/ush_kogda_medvezhonok_prosnetsya.mp4XTINF:-1 #EXTINF:-1 #EXTINF:-1 group-title="Ушастик", Ушастик и его друзья (Экран, 1981 г.)
+https://mults.info/mp4/ushastik_i_ego_druzya.mp4
+#EXTINF:-1 group-title="Ушастик", Как гусенок на лису охотился (ЭКРАН, 1982 г.) 
+https://mults.info/mp4/ush_kak_gusenok_na_lisu_ohotilsya.mp4
+#EXTINF:-1 group-title="Ушастик", Таинственная пропажа (ЭКРАН, 1982 г.)
+https://mults.info/mp4/ush_tainstvennaya_propazha.mp4
 
 #EXTINF:-1 group-title="Фантадром (1984 г.)", Какао (Студия анимации "DAUKA") 
 https://mults.info/mp4/fantadrom_kakao.mp4
