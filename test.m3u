@@ -122,50 +122,10 @@ http://dmi3y-tv.ru/hls/multfilm/STAN_LEGENDOY.m3u8
 #EXTINF:-1 group-title="Мультики dmi3y-tv",Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]
 http://dmi3y-tv.ru/hls/multfilm/DIKIE_PREDKI.m3u8
 
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 1 В городе и на пляже (1 января 1969г.)
-https://mults.info/mp4/nu_pogodi_01.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 2 В городском парке (Союзмультфильм 18 июля 1970г.)
-https://mults.info/mp4/nu_pogodi_02.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 3 На дороге (Союзмультфильм 29 мая 1971г.)
-https://mults.info/mp4/nu_pogodi_03.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 4 На стадионе (Союзмультфильм 26 июня 1971г.)
-https://mults.info/mp4/nu_pogodi_04.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 5 В городе (Союзмультфильм 23 сентября 1972г.)
-https://mults.info/mp4/nu_pogodi_05.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 6 В деревне (Союзмультфильм 21 апреля 1973г.)
-https://mults.info/mp4/nu_pogodi_06.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 7 На корабле 1(Союзмультфильм 2 мая 1973г.)
-https://mults.info/mp4/nu_pogodi_07.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 8 Новый год (Союзмультфильм 5 января 1974г.)
-https://mults.info/mp4/nu_pogodi_08.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 9 В телестудии (Союзмультфильм 4 сентября 1976г.)
-https://mults.info/mp4/nu_pogodi_09.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 10 На стройке (Союзмультфильм 9 октября 1976г.)
-https://mults.info/mp4/nu_pogodi_10.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 11 В цирке (Союзмультфильм 30 июля 1977г.)
-https://mults.info/mp4/nu_pogodi_11.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 12 В музее (Союзмультфильм 8 апреля 1978г.)
-https://mults.info/mp4/nu_pogodi_12.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 13 Олимпиада 80 (Союзмультфильм 17 мая 1980г.)
-https://mults.info/mp4/nu_pogodi_13.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 14 (Союзмультфильм Дом юного техника 2 июня 1984г.)
-https://mults.info/mp4/nu_pogodi_14.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 15 (Союзмультфильм Дом культуры 22.июня 1985г.)
-https://mults.info/mp4/nu_pogodi_15.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди! 16 (Союзмультфильм В мире сказок 27 сентября 1986 г.)
-https://mults.info/mp4/nu_pogodi_16.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 17 (Союзмультфильм На острове 25 июня 1993г.)
-https://mults.info/mp4/nu_pogodi_17.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 18 (Союзмультфильм Супермаркет 24 июня 1994г.)
-https://mults.info/mp4/nu_pogodi_18.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 19 (Кристмас Филмз На курорте 22 декабря 2005г.)
-https://mults.info/mp4/nu_pogodi_19.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 20 (Кристмас Филмз На даче 1 апреля 2006г.)
-https://mults.info/mp4/nu_pogodi_20.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 1 телевыпуск (Экран 1980 г.)
-https://mults.info/mp4/nu_pogodi_tv_1.mp4
-#EXTINF:-1 group-title="Ну погоди", Ну, погоди 2-3 телевыпуск (Экран 1981 г.)
-https://mults.info/mp4/nu_pogodi_tv.mp4
+
+
+
+
 
 #EXTINF:-1 group-title="38 попугаев", 38 попугаев (Союзмультфильм 1976 г.)
 https://mults.info/mp4/38_popugaev.mp4
@@ -1025,9 +985,6 @@ https://mults.info/mp4/koapp_tainstvennyj_ka.mp4
 #EXTINF:-1 group-title="КОАПП (1984-1990)", КОАПП. 20 лет спустя. Зубастовка (Студия М.И.Р. 2007 г.)
 https://mults.info/mp4/koapp_20_let_spustja_zubastovka.mp4
 
-
-
-
 #EXTINF:-1 group-title="Колыбельные мира (2005-2006)", Русская колыбельная (Метроном Фильм, 2005 г.)
 https://mults.info/mp4/kolybeln_russkaya.mp4
 #EXTINF:-1 group-title="Колыбельные мира (2005-2006)", Азербайджанская колыбельная (Метроном Фильм, 2005 г.)
@@ -1213,6 +1170,336 @@ https://mults.info/mp4/pochemu_u_zaycev_ushi_dlinnye.mp4
 https://mults.info/mp4/stary_volk_i_novichok_pufik.mp4
 #EXTINF:-1 group-title="Лесные сказки (1970-1974, Свердловское телевидение)",  Я рисую красный лес (1974 г.)
 https://mults.info/mp4/ya_risuyu_krasny_les.mp4
+
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Сказка о старом эхо (Экран, 1989 г.)
+https://mults.info/mp4/lisenok_skazka_o_starom_eho.mp4
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Земляничный дождик (Экран, 1990 г.)
+https://mults.info/mp4/zemljanichniy_dozhdik.mp4
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Мотылёк (Союзтелефильм, 1991 г.)
+https://mults.info/mp4/lisenok_motylek.mp4
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Туман из Лондона (Союзтелефильм, 1992 г.)
+https://mults.info/mp4/tuman_iz_londona.mp4
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Эй, на том берегу! (Экран, 1992 г.)
+https://mults.info/mp4/ey_na_tom_beregu.mp4
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Еловое яблоко (Союзтелефильм, 1993 г.)
+https://mults.info/mp4/lisenok_elovoe_yabloko.mp4
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Лунная дорожка (Экран, 1994 г.)
+https://mults.info/mp4/lunnaya_dorozhka.mp4
+#EXTINF:-1 group-title="Маленький лисёнок (1986*1994)", Летний снеговик (Экран, 1994 г.)
+https://mults.info/mp4/letnij_snegovik.mp4
+
+#EXTINF:-1 group-title="Лоло (1986-1987)", Приключения пингвиненка Лоло ч.1 (Союзмультфильм, Лайфвок, Совинфильм, Аист, 1986 г.)
+https://mults.info/mp4/lolo1.mp4
+#EXTINF:-1 group-title="Лоло (1986-1987)", Приключения пингвиненка Лоло ч.2 (Союзмультфильм, Лайфвок, Совинфильм, Аист, 1987 г.)
+https://mults.info/mp4/lolo2.mp4
+#EXTINF:-1 group-title="Лоло (1986-1987)", Приключения пингвиненка Лоло ч.3 (Союзмультфильм, Лайфвок, Совинфильм, Аист, 1987 г.)
+https://mults.info/mp4/lolo3.mp4
+
+#EXTINF:-1 group-title="Маленький рыжик (1982)", Маленький рыжик (ч.1) (Экран, 1982 г.)
+https://mults.info/mp4/malenkiy_ryzhik_1.mp4
+#EXTINF:-1 group-title="Маленький рыжик (1982)", Маленький рыжик (ч.2) (Экран, 1982 г.)
+https://mults.info/mp4/malenkiy_ryzhik_2.mp4
+
+#EXTINF:-1 group-title="Мария, Мирабела (1982-1983)", Мария, Мирабела (МолдоваФильм, 1982 г.)
+https://mults.info/mp4/maria_mirabella.mp4
+#EXTINF:-1 group-title="Мария, Мирабела (1982-1983)", Мария, Мирабела в Транзистории (Румыния, 1989 г.)
+https://mults.info/mp4/marija_mirabela_v_tranzistorii.mp4
+
+#EXTINF:-1 group-title="Маша и Медведь",
+с1.ч1. Первая встреча (Анимаккорд, 2009 г.)
+https://mults.info/mp4/masha_i_medved_pervaya_vstrecha.mp4
+с1.ч2. До весны не будить (Анимаккорд, 2009 г.)
+https://mults.info/mp4/masha_i_medved_do_vesny_ne_budit.mp4
+с1.ч3. Раз, два, три - ёлочка, гори! (Анимаккорд, 2009 г.)
+https://mults.info/mp4/masha_i_medved_raz_dva_tri_elochka_gori.mp4
+с1.ч4. Весна пришла! (Анимаккорд, 2009 г.)
+https://mults.info/mp4/masha_i_medved_vesna_prishla.mp4
+с1.ч5. Ловись, рыбка (Анимаккорд, 2009 г.)
+https://mults.info/mp4/masha_i_medved_lovis_rybka.mp4
+с1.ч6. Следы невиданных зверей (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_sledy_nevidannyh_zverey.mp4
+с1.ч7. С волками жить... (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_s_volkami_zhit.mp4
+с1.ч8. Позвони мне, позвони! (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_pozvoni_mne_pozvoni.mp4
+с1.ч9. День варенья (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_den_vareniya.mp4
+с1.ч10.Праздник на льду (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_prazdnik_na_ldu.mp4
+с1.ч11. Первый раз в первый класс (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_perviy_raz_v_perviy_klass.mp4
+с1.ч12. Граница на замке (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_granitsa_na_zamke.mp4
+с1.ч13.Кто не спрятался, я не виноват! (Анимаккорд, 2010 г.)
+https://mults.info/mp4/masha_i_medved_kto_ne_spyatalsya_ya_ne_vinovat.mp4
+с1.ч14. Лыжню! (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_lyzhnyu.mp4
+с1.ч15. Будьте здоровы! (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_budte_zdorovy.mp4
+с1.ч16. Маша + каша (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_masha_plus_kasha.mp4
+с1.ч17. Дальний родственник (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_dalniy_rodstvennik.mp4
+с1.ч18. Большая стирка (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_bolshaya_stirka.mp4
+с1.ч19. Репетиция оркестра (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_repetitsiya_orkestra.mp4
+с1.ч20. Усатый - Полосатый (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_usatiy_polosatiy.mp4
+с1.ч22. Дышите не дышите (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_dyshite_ne_dyshite.mp4
+с1.ч21. Один дома (Анимаккорд, 2011 г.)
+https://mults.info/mp4/masha_i_medved_odin_doma.mp4
+
+#EXTINF:-1 group-title="Мимикрия (1989-1994)", Мимикрия (Пермская студия телевидения, 1989 г.)
+https://mults.info/mp4/mimikrija_1.mp4
+#EXTINF:-1 group-title="Мимикрия (1989-1994)", Когда родителей нет дома (Пермская студия телевидения, 1993 г.)
+https://mults.info/mp4/mimikrija_2.mp4
+#EXTINF:-1 group-title="Мимикрия (1989-1994)", Смолянка, Восковинка и Жевательная резинка (Пермская студия телевидения, 1994 г.)
+https://mults.info/mp4/mimikrija_3.mp4
+
+#EXTINF:-1 group-title="Молния (1991)", Двое (Dauka, 1991 г.)
+https://mults.info/mp4/molnija_dvoe.mp4
+#EXTINF:-1 group-title="Молния (1991)", Краткий курс (Dauka, 1991 г.)
+https://mults.info/mp4/molnija_kratkij_kurs.mp4
+#EXTINF:-1 group-title="Молния (1991)", Ну и? (Dauka, 1991 г.)
+https://mults.info/mp4/molnija_nu_i.mp4
+#EXTINF:-1 group-title="Молния (1991)", Про ведьму и корову (Dauka, 1991 г.)
+https://mults.info/mp4/molnija_pro_vedmu_i_korovu.mp4
+
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Алтайский край (Пилот, 2007 г.)
+https://mults.info/mp4/altay.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Вятский край (Кировская область) (Пилот, 2006 г.)
+https://mults.info/mp4/vyatka.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Калининградская область (Пилот, 2007 г.)
+https://mults.info/mp4/kaliningrad.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Красноярский край (Пилот, 2008 г.)
+https://mults.info/mp4/krasnoyarsk.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Кубань (Краснодарский край) (Пилот, 2007 г.)
+https://mults.info/mp4/krasnodar.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Курская область (Пилот, 2008 г.)
+https://mults.info/mp4/kursk.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Магнитогорск (Челябинская область) (Пилот, 2007 г.)
+https://mults.info/mp4/magnitogorsk.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Москва (Пилот, 2008 г.)
+https://mults.info/mp4/moscow.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Мурманская область (Пилот, 2007 г.)
+https://mults.info/mp4/murmansk.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Нижегородская область (Пилот, 2007 г.)
+https://mults.info/mp4/nnovgorod.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Новосибирская область (Пилот, 2007 г.)
+https://mults.info/mp4/novosibirsk.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Омская область (Пилот, 2008 г.)
+https://mults.info/mp4/omsk.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Приморье (Пилот, 2007 г.)
+https://mults.info/mp4/primorje.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Ростовская область (Пилот, 2007 г.)
+https://mults.info/mp4/rostov.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Рязанская область (Пилот, 2007 г.)
+https://mults.info/mp4/ryazan.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Самарa (Пилот, 2007 г.)
+https://mults.info/mp4/samara.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Таймыр (Пилот, 2007 г.)
+https://mults.info/mp4/taymyr.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Тамбовская область (Пилот, 2007 г.)
+https://mults.info/mp4/tambov.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Татарстан (Пилот, 2007 г.)
+https://mults.info/mp4/tatarstan.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Тверская область (Пилот, 2007 г.)
+https://mults.info/mp4/tver.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Удмуртия (Пилот, 2007 г.)
+https://mults.info/mp4/udmurt.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Ульяновск (Пилот, 2007 г.)
+https://mults.info/mp4/uljanovsk.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Хакасия (Пилот, 2007 г.)
+https://mults.info/mp4/hakassia.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Ханты-Мансийский автономный округ-Югра (Пилот, 2008 г.)
+https://mults.info/mp4/yugra.mp4
+#EXTINF:-1 group-title="Мульти-Россия (2006-2008)", Якутия (Пилот, 2007 г.)
+https://mults.info/mp4/yakutia.mp4
+
+#EXTINF:-1 group-title="Мультипликационный крокодил (1960-1961)", Мульт крокодил Выпуск №1 (Союзмультфильм, 1960 г.)
+https://mults.info/mp4/multkrokodil_1.mp4
+#EXTINF:-1 group-title="Мультипликационный крокодил (1960-1961)", Мульт крокодил Выпуск №2 (Союзмультфильм, 1960 г.)
+https://mults.info/mp4/multkrokodil_2.mp4
+#EXTINF:-1 group-title="Мультипликационный крокодил (1960-1961)", Мульт крокодил Выпуск №4. На чистую воду (Союзмультфильм, 1961 г.)
+https://mults.info/mp4/multkrokodil_4.mp4
+#EXTINF:-1 group-title="Мультипликационный крокодил (1960-1961)", Мульт крокодил Выпуск №5 (Союзмультфильм, 1961 г.)
+https://mults.info/mp4/multkrokodil_5.mp4
+#EXTINF:-1 group-title="Мультипликационный крокодил (1960-1961)", Мульт крокодил Выпуск №6 (Союзмультфильм, 1961 г.)
+https://mults.info/mp4/multkrokodil_6.mp4
+
+#EXTINF:-1 group-title="Мультипотам", Евстифейка-волк (Кинокомпания "Мастер-Фильм", 2001 г.)
+https://mults.info/mp4/evstifeyka_volk.mp4
+#EXTINF:-1 group-title="Мультипотам", Мультипотам (ч. 1) (Мастер-Фильм, 2001 г.)
+https://mults.info/mp4/multipotam_1.mp4
+#EXTINF:-1 group-title="Мультипотам", Мультипотам (ч. 2) (Мастер-Фильм, 2005 г.)
+https://mults.info/mp4/multipotam_2.mp4
+
+#EXTINF:-1 group-title="Муми-тролль", Муми-тролль и другие (Экран, 1978 г.)
+https://mults.info/mp4/mumi_trol_i_drugie.mp4
+#EXTINF:-1 group-title="Муми-тролль", Муми-тролль и комета. (Экран, 1978 г.)
+https://mults.info/mp4/mumi_trol_i_kometa.mp4
+#EXTINF:-1 group-title="Муми-тролль", Муми-тролль и комета. Путь домой. (Экран, 1978 г.)
+https://mults.info/mp4/mumi_trol_i_kometa2.mp4
+
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Визит (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_vizit.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Грызун (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_gryzun.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Идол (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_idol.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Летим! (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_letim.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Мама (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_mama.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Носорог (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_nosorog.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Орех (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_oreh.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Орхидеи (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_orhidei.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Пещера (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_peschera.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Рога (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_roga.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Смех (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_smeh.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Фотограф (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_fotograf.mp4
+#EXTINF:-1 group-title="Мунк и Лемми (1993)", Хвост (Студия "Анимационная бригада", 1993 г.)
+https://mults.info/mp4/munk_i_lemmi_hvost.mp4 
+
+#EXTINF:-1 group-title="Мюнхаузен (1972-1995)", Между крокодилом и львом (Экран, 1972 г.)
+https://mults.info/mp4/megdu_krokodilom_i_lvom.mp4
+#EXTINF:-1 group-title="Мюнхаузен (1972-1995)", Меткий выстрел (Экран, 1973 г.)
+https://mults.info/mp4/metkij_vystrel.mp4
+#EXTINF:-1 group-title="Мюнхаузен (1972-1995)", Павлин (Экран, 1974 г.)
+https://mults.info/mp4/pavlin.mp4
+#EXTINF:-1 group-title="Мюнхаузен (1972-1995)", Чудесный остров (Экран, 1974 г.)
+https://mults.info/mp4/chudesnyj_ostrov.mp4
+#EXTINF:-1 group-title="Мюнхаузен (1972-1995)", Волк в упряжке (Экран, 1995 г.)
+https://mults.info/mp4/volk_v_upryagke.mp4
+
+#EXTINF:-1 group-title="На задней парте (1978-1985)", На задней парте (выпуск 1) (Союзмультфильм, 1978 г.)
+https://mults.info/mp4/na_zadnei_parte_1.mp4
+#EXTINF:-1 group-title="На задней парте (1978-1985)", На задней парте (выпуск 2) (Союзмультфильм, 1980 г.)
+https://mults.info/mp4/na_zadnei_parte_2.mp4
+#EXTINF:-1 group-title="На задней парте (1978-1985)", На задней парте (выпуск 3) (Союзмультфильм, 1984 г.)
+https://mults.info/mp4/na_zadnei_parte_3.mp4
+#EXTINF:-1 group-title="На задней парте (1978-1985)", На задней парте (выпуск 4) (Союзмультфильм, 1985 г.)
+https://mults.info/mp4/na_zadnei_parte_4.mp4
+
+#EXTINF:-1 group-title="Настоящие приключения Белки и Стрелки (2008-2009)", Настоящие приключения Белки и Стрелки (эпизод 1) (Студия Toonbox и ООО "Мультиков.нет", 2008 г.)
+https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_1.mp4
+#EXTINF:-1 group-title="Настоящие приключения Белки и Стрелки (2008-2009)", Планета ЖЭГ (эпизод 2, часть 1) (Студия Toonbox и ООО "Мультиков.нет", 2008 г.)
+https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_2_1.mp4
+#EXTINF:-1 group-title="Настоящие приключения Белки и Стрелки (2008-2009)", Планета ЖЭГ (эпизод 2, часть 2) (Студия Toonbox и ООО "Мультиков.нет", 2008 г.)
+https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_2_2.mp4
+#EXTINF:-1 group-title="Настоящие приключения Белки и Стрелки (2008-2009)", Эпизод 3/1 (Студия Toonbox и ООО "Мультиков.нет", 2008 г.)
+https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_3_1.mp4
+#EXTINF:-1 group-title="Настоящие приключения Белки и Стрелки (2008-2009)", Эпизод новогодний. Часть 1 (Студия Toonbox и ООО "Мультиков.нет", 2008 г.)
+https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_4_1.mp4
+#EXTINF:-1 group-title="Настоящие приключения Белки и Стрелки (2008-2009)", Эпизод новогодний. Часть 2 (Студия Toonbox и ООО "Мультиков.нет", 2009 г.)
+https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_4_2.mp4
+
+#EXTINF:-1 group-title="Наш друг Пишичитай (1978-1980)", Наш друг Пишичитай (выпуск 1) (Союзмультфильм, 1978 г.)
+https://mults.info/mp4/nash_drug_pishichitay_1.mp4
+#EXTINF:-1 group-title="Наш друг Пишичитай (1978-1980)", Наш друг Пишичитай (выпуск 2) (Союзмультфильм, 1979 г.)
+https://mults.info/mp4/nash_drug_pishichitay_2.mp4
+#EXTINF:-1 group-title="Наш друг Пишичитай (1978-1980)", Наш друг Пишичитай (выпуск 3) (Союзмультфильм, 1980 г.)
+https://mults.info/mp4/nash_drug_pishichitay_3.mp4
+
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Как Незнайка совершал хорошие поступки (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_11_kak_neznayka_sovershal_horoshie_postupki.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Встреча с волшебником (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_12_vstrecha_s_volshebnikom.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Превращения начинаются (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_13_prevrascheniya_nachinautsya.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Побег (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_14_pobeg.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Превращения продолжаются (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_15_prevrascheniya_prodoljautsya.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Приключения трех ослов (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_16_priklucheniya_treh_oslov.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Удивительные подвиги (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_17_udivitelnie_podvigi.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Снова вместе (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_18_snova_vmeste.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Переполох в зоопарке (Союзтелефильм, 1977 г.)
+https://mults.info/mp4/neznayka_19_perepoloh_v_zooparke.mp4
+#EXTINF:-1 group-title="Незнайка в Солнечном городе (1976-1977)", Волшебник появляется снова (Экран, 1976 г.)
+https://mults.info/mp4/neznayka_20_volshebnik_poyavlyaetsya_snova.mp4
+
+#EXTINF:-1 group-title="Незнайка на Луне (1997)", Незнайка на Луне. Часть 1 (FAF Entertainment, 1997 г.)
+https://mults.info/mp4/neznayka_na_lune_1.mp4
+#EXTINF:-1 group-title="Незнайка на Луне (1997)", Незнайка на Луне. Часть 2 (FAF Entertainment, 1997 г.)
+https://mults.info/mp4/neznayka_na_lune_2.mp4
+#EXTINF:-1 group-title="Незнайка на Луне (1997)", Незнайка на Луне. Часть 3 (FAF Entertainment, 1997 г.)
+https://mults.info/mp4/neznayka_na_lune_3.mp4
+	
+		
+#EXTINF:-1 group-title="Новые никому неизвестные приключения барона Мюнхгаузена (2007-2009)", Новые никому неизвестные приключения барона Мюнхгаузена (ч. 1) (Студия Продюcерского Кино, 2007 г.)
+https://mults.info/mp4/novye_priklyucheniya_barona_myunhgauzena.mp4
+#EXTINF:-1 group-title="Новые никому неизвестные приключения барона Мюнхгаузена (2007-2009)", Новые никому неизвестные приключения барона Мюнхгаузена (ч. 2) (Студия Продюcерского Кино, 2009 г.)
+https://mults.info/mp4/novye_priklyucheniya_barona_myunhgauzena_2.mp4
+
+#EXTINF:-1 group-title="Новые приключения попугая Кеши", Утро попугая Кеши (Союзмультфильм, 2002 г.)
+https://mults.info/mp4/utro_popugaya_keshi.mp4
+#EXTINF:-1 group-title="Новые приключения попугая Кеши", Кеша-рыболов (Союзмультфильм, 2005 г.)
+https://mults.info/mp4/kesha_rybolov.mp4
+#EXTINF:-1 group-title="Новые приключения попугая Кеши", Мужество попугая Кеши (Союзмультфильм, 2005 г.)
+https://mults.info/mp4/muzhestvo_popugaja_keshi.mp4
+#EXTINF:-1 group-title="Новые приключения попугая Кеши", Похищение попугая Кеши / Попугай Кеша и чудовище (Союзмультфильм, 2006 г.)
+https://mults.info/mp4/kesha_i_chudovishe.mp4
+
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 1 В городе и на пляже (1 января 1969г.)
+https://mults.info/mp4/nu_pogodi_01.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 2 В городском парке (Союзмультфильм 18 июля 1970г.)
+https://mults.info/mp4/nu_pogodi_02.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 3 На дороге (Союзмультфильм 29 мая 1971г.)
+https://mults.info/mp4/nu_pogodi_03.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 4 На стадионе (Союзмультфильм 26 июня 1971г.)
+https://mults.info/mp4/nu_pogodi_04.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 5 В городе (Союзмультфильм 23 сентября 1972г.)
+https://mults.info/mp4/nu_pogodi_05.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 6 В деревне (Союзмультфильм 21 апреля 1973г.)
+https://mults.info/mp4/nu_pogodi_06.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 7 На корабле 1(Союзмультфильм 2 мая 1973г.)
+https://mults.info/mp4/nu_pogodi_07.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 8 Новый год (Союзмультфильм 5 января 1974г.)
+https://mults.info/mp4/nu_pogodi_08.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 9 В телестудии (Союзмультфильм 4 сентября 1976г.)
+https://mults.info/mp4/nu_pogodi_09.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 10 На стройке (Союзмультфильм 9 октября 1976г.)
+https://mults.info/mp4/nu_pogodi_10.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 11 В цирке (Союзмультфильм 30 июля 1977г.)
+https://mults.info/mp4/nu_pogodi_11.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 12 В музее (Союзмультфильм 8 апреля 1978г.)
+https://mults.info/mp4/nu_pogodi_12.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 13 Олимпиада 80 (Союзмультфильм 17 мая 1980г.)
+https://mults.info/mp4/nu_pogodi_13.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 14 (Союзмультфильм Дом юного техника 2 июня 1984г.)
+https://mults.info/mp4/nu_pogodi_14.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 15 (Союзмультфильм Дом культуры 22.июня 1985г.)
+https://mults.info/mp4/nu_pogodi_15.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди! 16 (Союзмультфильм В мире сказок 27 сентября 1986 г.)
+https://mults.info/mp4/nu_pogodi_16.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 17 (Союзмультфильм На острове 25 июня 1993г.)
+https://mults.info/mp4/nu_pogodi_17.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 18 (Союзмультфильм Супермаркет 24 июня 1994г.)
+https://mults.info/mp4/nu_pogodi_18.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 19 (Кристмас Филмз На курорте 22 декабря 2005г.)
+https://mults.info/mp4/nu_pogodi_19.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 20 (Кристмас Филмз На даче 1 апреля 2006г.)
+https://mults.info/mp4/nu_pogodi_20.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 1 телевыпуск (Экран 1980 г.)
+https://mults.info/mp4/nu_pogodi_tv_1.mp4
+#EXTINF:-1 group-title="Ну погоди", Ну, погоди 2-3 телевыпуск (Экран 1981 г.)
+https://mults.info/mp4/nu_pogodi_tv.mp4
+
+
+
 
 
 
