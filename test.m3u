@@ -2325,7 +2325,7 @@ https://mults.info/mp4/cheburashka.mp4
 https://mults.info/mp4/shapoklyak.mp4
 #EXTINF:-1 group-title="Чебурашка",Чебурашка идет в школу (Союзмультфильм, 1983 г.) 
 https://mults.info/mp4/cheburashka_idet_v_shkolu.mp4
-#EXTINF:-1 $ExtFilter="Мультфильмы" group-title="Мультфильмы",Чебурашка  (Ffangoentertoyment 2010 г.)
+#EXTINF:-1 group-title="Чебурашка",Чебурашка  (Ffangoentertoyment 2010 г.)
 https://mults.info/mp4/cheburashka_2010.mp4
 
 #EXTINF:-1 group-title="Чертёнок №13", Шиворот-навыворот (Экран, 1981 г.)
@@ -2362,11 +2362,11 @@ https://mults.info/mp4/chucha_2.mp4
 #EXTINF:-1 group-title="Чуча (1998-2004)", Чуча 3 (Стайер, 2004 г.)
 https://mults.info/mp4/chucha_3.mp4
 
-#EXTINF:-1 group-title="Шарман, шарман! (1992-1995)", Шарман, шарман! (часть 1) (Союзмультфильм, 1992 г.)
+#EXTINF:-1 group-title="Шарман шарман! (1992-1995)", Шарман, шарман! (часть 1) (Союзмультфильм, 1992 г.)
 https://mults.info/mp4/sharman_sharman_1.mp4 
-#EXTINF:-1 group-title="Шарман, шарман! (1992-1995)", Шарман, шарман! (часть 2) (Союзмультфильм, 1994 г.)
+#EXTINF:-1 group-title="Шарман шарман! (1992-1995)", Шарман, шарман! (часть 2) (Союзмультфильм, 1994 г.)
  https://mults.info/mp4/sharman_sharman_2.mp4
-#EXTINF:-1 group-title="Шарман, шарман! (1992-1995)", Шарман, шарман! (часть 3) (Союзмультфильм, 1995 г.)
+#EXTINF:-1 group-title="Шарман шарман! (1992-1995)", Шарман, шарман! (часть 3) (Союзмультфильм, 1995 г.)
 https://mults.info/mp4/sharman_sharman_3.mp4
 #EXTINF:-1 group-title="Шекспир: Великие комедии и трагедии (2005)", Шекспир: Великие комедии и трагедии 1 (2005 г.)
 https://mults.info/mp4/shekspir_komedii_i_tragedii_1.mp4
