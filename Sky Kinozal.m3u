@@ -108,6 +108,11 @@ https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png", Всё тв Film Premiere
 https://playlist.nuum.ru/live/85729/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы Смотрим", СМОТРИМ - Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы Смотрим"", СМОТРИМ - Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 group-title="📺 Фильмовые",НСТ
 https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 group-title="📺 Фильмовые",Timeless Dizi Channel HD
