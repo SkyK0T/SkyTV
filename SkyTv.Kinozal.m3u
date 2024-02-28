@@ -18,9 +18,9 @@ http://195.9.195.3:8080/hls/198446.m3u8
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg", Сериалы TV Series 
 http://hlss.goodgame.ru/hls/186021.m3u8
 
-#EXTINF:0 tvg-id="FMC" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/syWstRm/image-29.png", Фильмы FMC TV (TDM TV) 
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/688SVFy/image-38.png", Фильмы Фантом
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/187741.m3u8
+https://hls.goodgame.ru/hls/204722.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png", Фильмы FILM TV HD3JIou-TaTaPuH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -32,12 +32,20 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png", Фильмы 2 FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/688SVFy/image-38.png", Фильмы Фантом
+#EXTINF:0 tvg-id="FMC" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/syWstRm/image-29.png", Фильмы FMC TV (TDM TV) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/204722.m3u8
+https://hls.goodgame.ru/hls/187741.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", Фильмы SeleCaoTV
+http://hlss.goodgame.ru/hls/157269.m3u8
+
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/gVd9SkD/image-8.png", Фильмы Sever-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/146065.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", Кино и сериалы FAN
+http://hlss.goodgame.ru/hls/157239.m3u8
+
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/M8ksMM0/image-6.png", Кино и сериалы 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206513.m3u8
@@ -55,11 +63,9 @@ https://hls.goodgame.ru/hls/185110.m3u8
 #EXTINF:-1 group-title="Стримы Good Game", Фильмы Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game", Фильмы и сериалы FAN
-http://hlss.goodgame.ru/hls/157239.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game", Фильмы SeleCaoTV
-http://hlss.goodgame.ru/hls/157269.m3u8
+
+
 
 #EXTINF:0 tvg-id="Akudji" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png", Советские фильмы Akudji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -97,6 +103,7 @@ https://hls.goodgame.ru/hls/205531.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/XXXRbdF/image-12.png", VKTV
 https://hls.goodgame.ru/hls/173945.m3u8
+
 
 
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
