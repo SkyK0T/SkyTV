@@ -1,5 +1,64 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgx.site/epg.xml.gz"
+
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png" ,Всё тв Film Premiere
+https://playlist.nuum.ru/live/85729/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/DW1rRn0/image-3.png",Millennium_88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/206461.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/xzHsymw/image.png",Lex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/205531.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",КІНО ТV VHS
+https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",ВИДЕОКАССЕТА
+https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/DrTm6Lt/image-26.png",1FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png",2FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:0 tvg-id="FMC" group-title="3. Movies" tvg-logo="https://i.ibb.co/syWstRm/image-29.png",TDM TV - FMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:0 tvg-id="SCR TV" group-title="3. Movies" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png",SCR TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:0 tvg-id="STR TV" group-title="3. Movies" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png",STR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/185110.m3u8
+#EXTINF:0 tvg-id="Akudji" group-title="3. Movies" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png",Akudji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png",3JIou-TaTaPuH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/bm019WM/image-34.png",Futurama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/199417.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/fdcvKF9/image-45.png",SPIRAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/206097.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204722.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/M8ksMM0/image-6.png",4K — Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/206513.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i122.fastpic.org/big/2023/1219/b5/e997617b2e2f5ee84ab053b9113739b5.png?md5=qbJO7jzm0hwFPX6bOv2z-A&expires=1703005200",AlexVira
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/106103.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/XXXRbdF/image-12.png",VKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/173945.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/gVd9SkD/image-8.png",Sever-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1 group-title="Good Game" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png",Delta-Omega
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180204.m3u8
+
 #PLAYLISTV: pltv-logo="http://tv.team/images/chIcons/2510.png" pltv-name="OASIS" pltv-description="Простой IPTV-плеер - PlayList Экспортируется приложением Простой IPTV-плеер - Загрузите в PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Простой IPTV-плеер" pltv-site="https://playeriptv.com/app"
 
 #EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="OASIS", PlayList Экспортируется приложением Простой IPTV-плеер - Загрузите в PlayStore!
