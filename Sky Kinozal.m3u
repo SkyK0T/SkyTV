@@ -100,9 +100,210 @@ https://s.catcast.tv/hls/brotv-kino-1591.ts
 #EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png" group-title="Стримы Catcast.tv", Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",КІНО ТV VHS
+#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png", ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",ВИДЕОКАССЕТА
+#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png" ,Всё тв Film Premiere
+#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png", Всё тв Film Premiere
 https://playlist.nuum.ru/live/85729/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺 Фильмовые",НСТ
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Timeless Dizi Channel HD
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Viasat Kino Comedy HD
+http://158.101.194.132:8888/channel/n79418e48/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="📺 Фильмовые",Кинохит HD
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киномикс HD
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносемья
+http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 group-title="📺 Фильмовые",Киносемья HD
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносвидание
+http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 group-title="📺 Фильмовые",Киносвидание HD
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносерия HD
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киноужас HD
+http://158.101.214.187:8080/channel/n28880c12/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png",Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png",Кошмар
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg",MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="http://mytorrent.ucoz.ua/Onlain_TV/film_tv/Akuji.png",Akudji
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Plan_B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Про Любовь HD
+http://158.101.194.132:8880/channel/n5bf0fb1c/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Романтичное HD
+http://158.101.194.132:8880/channel/n5fd2cd7/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Криминальное HD
+http://158.101.194.132:8880/channel/7cbfee5f/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Комедийное HD
+http://158.101.194.132:8880/channel/258e9a85/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=SmartTV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Hollywood HD
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Amedia Hit HD
+http://158.101.214.187:8080/channel/60051dd2/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 group-title="📺 Фильмовые",START Air HD
+https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",START World HD
+https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 group-title="📺 Фильмовые",Русский детектив
+http://91.142.158.107:8092/play/27/index.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Наше Мужское HD
+http://158.101.194.132:8880/channel/n383d9e5e/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Наше любимое
+http://158.101.194.132:8888/channel/1515fa0f/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png",FILM TV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png",TDM TV - FMC
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png",TDM TV - Series
+http://195.9.195.3:8080/hls/186021.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png",TDM TV - WWW
+http://195.9.195.3:8080/hls/192005.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg",Фантастика HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://downkindly.com/file/images/6d22eIxqa1DA6s_s8sBZArR7qpN0YAHwr3qIn70geF8Xwpe81Xw_I29teLF4mKNp-w.jpg",SCR TV HD
+http://195.9.195.3:8080/hls/61358.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые", Star Family
+http://89.254.128.5:22280/star_family_hd/video.m3u8
+
+
+#PLAYLISTV: pltv-logo="http://tv.team/images/chIcons/2510.png" pltv-name="OASIS" pltv-description="Плейлист с токенами!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Простой IPTV-плеер" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="OASIS", 
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2510.png" group-title="OASIS", Oasis Action HD
+https://pl01.spr24.net/20951/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2647.png" group-title="OASIS", Oasis Alien and Predator HD
+https://pl01.spr24.net/20952/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2648.png" group-title="OASIS", Oasis Animals
+https://pl01.spr24.net/20953/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2650.png" group-title="OASIS", Oasis Biography HD
+https://pl01.spr24.net/20955/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2652.png" group-title="OASIS", Oasis Celentano Brando Connery HD
+https://pl01.spr24.net/20957/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2653.png" group-title="OASIS", Oasis Comedy HD
+https://pl01.spr24.net/20958/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2654.png" group-title="OASIS", Oasis Comedy Horrors HD
+https://pl01.spr24.net/20959/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2655.png" group-title="OASIS", Oasis DC HD
+https://pl01.spr24.net/20961/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2656.png" group-title="OASIS", Oasis Demon Slayer and Dororo HD
+https://pl01.spr24.net/20962/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2657.png" group-title="OASIS", Oasis Detective HD
+https://pl01.spr24.net/20963/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2660.png" group-title="OASIS", Oasis Drama HD
+https://pl01.spr24.net/20965/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2662.png" group-title="OASIS", Oasis Family HD
+https://pl01.spr24.net/20966/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2666.png" group-title="OASIS", Oasis Horror HD
+https://pl01.spr24.net/20969/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/20970.png" group-title="OASIS", Oasis In English HD
+https://pl01.spr24.net/20970/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2674.png" group-title="OASIS", Oasis Mafia HD
+https://pl01.spr24.net/20978/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2675.png" group-title="OASIS", Oasis Marvel HD
+https://pl01.spr24.net/20979/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2678.png" group-title="OASIS", Oasis Old Horrors HD
+https://pl01.spr24.net/20982/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2682.png" group-title="OASIS", Oasis RUS Драма HD
+https://pl01.spr24.net/20986/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2681.png" group-title="OASIS", Oasis RUS Комедии HD
+https://pl01.spr24.net/20985/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2684.png" group-title="OASIS", Oasis RUS Сериалы HD
+https://pl01.spr24.net/20988/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2685.png" group-title="OASIS", Oasis RUS Сериалы Драма HD
+https://pl01.spr24.net/20989/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2686.png" group-title="OASIS", Oasis Serkan Bolat HD
+https://pl01.spr24.net/20990/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2688.png" group-title="OASIS", Oasis Soviet Comedy HD
+https://pl01.spr24.net/20991/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2690.png" group-title="OASIS", Oasis Superheroes Series HD
+https://pl01.spr24.net/20993/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://global-media.info/img/tv_oasis_ufos_and_aliens.png" group-title="OASIS", Oasis Ufo and Aliens HD
+https://pl01.spr24.net/20997/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2694.png" group-title="OASIS", Oasis USA Сериалы HD
+https://pl01.spr24.net/20998/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2691.png" group-title="OASIS", Oasis Выживание HD
+https://pl01.spr24.net/20994/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2692.png" group-title="OASIS", Oasis Выжить вместе HD
+https://pl01.spr24.net/20995/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2667.png" group-title="OASIS", Oasis Корейские сериалы HD
+https://pl01.spr24.net/20971/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2668.png" group-title="OASIS", Oasis Кухня Отель HD
+https://pl01.spr24.net/20972/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2669.png" group-title="OASIS", Oasis Латиноамериканские сериалы HD
+https://pl01.spr24.net/20973/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2676.png" group-title="OASIS", Oasis Мелодрама HD
+https://pl01.spr24.net/20980/index.m3u8?token=QcwvKdNmZDqWbV
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2679.png" group-title="OASIS", Oasis Наша планета HD
+https://pl01.spr24.net/20983/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2664.png" group-title="OASIS", Oasis Рыбалка HD
+https://am01.spr24.net/21000/mpegts?token=a8AeihBVXNXmwW
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2671.png" group-title="OASIS", Oasis Учим английский HD
+https://pl01.spr24.net/20975/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2672.png" group-title="OASIS", Oasis Учим испанский HD
+https://pl01.spr24.net/20976/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2670.png" group-title="OASIS", Oasis Учим китайский HD
+https://pl01.spr24.net/20974/index.m3u8?token=7x66S3utpw9RfR
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2663.png" group-title="OASIS", Oasis Фантастика HD
+https://pl01.spr24.net/20967/index.m3u8?token=QcwvKdNmZDqWbV
+
