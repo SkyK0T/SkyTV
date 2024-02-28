@@ -100,6 +100,8 @@ http://195.9.195.3:8080/hls/192005.m3u8
 
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
 https://s.catcast.tv/hls/4k_no-864.ts
+#EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png", TV VHS (niko630)
 https://s.catcast.tv/hls/brotv-kino-1591.ts
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png", Eurodance 90
