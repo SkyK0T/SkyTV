@@ -102,7 +102,7 @@ https://hls.goodgame.ru/hls/173945.m3u8
 
 
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
-https://s.catcast.tv/hls/4k_no-864.ts
+https://s.catcast.tv/content/42935/index.m3u8?token=a4a35f3c1e3f120e426e54ac1583ffd2
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png", TV VHS (niko630)
