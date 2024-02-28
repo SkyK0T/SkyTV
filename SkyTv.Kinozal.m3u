@@ -156,14 +156,90 @@ https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" group-title="Movify.tv",Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 
+
+#EXTINF:-1 group-title="📺 Фильмовые",НСТ
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Timeless Dizi Channel HD
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Кинохит HD
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киномикс HD
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносемья HD
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносвидание HD
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносерия HD
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Hollywood HD
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+
+#EXTINF:-1 group-title="📺 Фильмовые",Viasat Kino Comedy HD
+http://158.101.194.132:8888/channel/n79418e48/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 group-title="📺 Фильмовые",Киноужас HD
+http://158.101.214.187:8080/channel/n28880c12/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 group-title="📺 Фильмовые",Про Любовь HD
+http://158.101.194.132:8880/channel/n5bf0fb1c/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Романтичное HD
+http://158.101.194.132:8880/channel/n5fd2cd7/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Криминальное HD
+http://158.101.194.132:8880/channel/7cbfee5f/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Комедийное HD
+http://158.101.194.132:8880/channel/258e9a85/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Amedia Hit HD
+http://158.101.214.187:8080/channel/60051dd2/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
+http://158.101.194.132:8880/channel/n383d9e5e/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
+#EXTINF:-1 group-title="📺 Фильмовые",Наше любимое
+http://158.101.194.132:8888/channel/1515fa0f/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
+
+#EXTINF:-1 group-title="📺 Фильмовые",Киносемья
+http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 group-title="📺 Фильмовые",Киносвидание
+http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 group-title="📺 Фильмовые",Plan_B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",UltraHD Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_/variant.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",START Air HD
+https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",START World HD
+https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 group-title="📺 Фильмовые",Русский детектив
+http://91.142.158.107:8092/play/27/index.m3u8
+#EXTINF:-1 group-title="📺 Фильмовые",Наше Мужское HD
+
+
 #EXTINF:-1 group-title="📺 Несортированное📺" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 group-title="📺 Несортированное📺" tvg-id="StarFamily.ru", Star Family (русский Латвия)
 http://89.254.128.5:22280/star_family_hd/video.m3u8
+#EXTINF:-1 group-title="📺 Несортированное📺", Вещдок HD+
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4869/stream.m3u8
+#EXTINF:-1 group-title="📺 Несортированное📺", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="📺 Несортированное📺", Bloomberg TV 4K
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 1
+https://www.youtube.com/watch?v=aoB8msCG8jQ
+#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 2
+https://youtu.be/aoB8msCG8jQ?si=97821TPka_KaVDrm
+#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 3
+https://youtu.be/aoB8msCG8jQ?si
+#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 4
+https://youtu.be/97821TPka_KaVDrm
+#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 4
+https://youtu.be/VV_6YlpMtxM?si
 
 
 #PLAYLISTV: pltv-logo="http://tv.team/images/chIcons/2510.png" pltv-name="OASIS" pltv-description="Плейлист с токенами!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Простой IPTV-плеер" pltv-site="https://playeriptv.com/app"
-
 #EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="OASIS", 
 
 #EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/2510.png" group-title="OASIS", Oasis Action HD
