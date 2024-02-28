@@ -240,3 +240,8 @@ https://youtu.be/aoB8msCG8jQ?si
 https://youtu.be/97821TPka_KaVDrm
 #EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 4
 https://youtu.be/VV_6YlpMtxM?si
+
+#EXTINF:-1 group-title="VKPlay.live",VK
+https://vsd171.mycdn.me/hls/6191393606229.m3u8/sig/RkXro-1xA6I/expires/1709221812814/srcIp/104.28.224.95/urls/45.136.20.66/clientType/36/srcAg/CHROME_ANDROID/mid/7283229607765/video.m3u8?p
+#EXTINF:-1 group-title="VKPlay.live",VK2
+https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8
