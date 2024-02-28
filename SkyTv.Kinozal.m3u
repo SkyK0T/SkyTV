@@ -156,7 +156,7 @@ https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 
 #EXTINF:-1 group-title="📺 Несортированное📺" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
-#EXTINF:-1 group-title="📺 Несортированное📺" , Star Family (русский Латвия)
+#EXTINF:-1 group-title="📺 Несортированное📺" tvg-id="StarFamily.ru", Star Family (русский Латвия)
 http://89.254.128.5:22280/star_family_hd/video.m3u8
 
 
