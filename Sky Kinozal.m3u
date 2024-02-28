@@ -87,6 +87,8 @@ https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:0 tvg-id="STR TV" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png",STR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/185110.m3u8
+#EXTINF:0 tvg-id="STR TV" group-title="Стримы Good Game" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png", Кошмар
+http://195.9.195.3:8080/hls/204709.m3u8
 
 #EXTINF:0 group-title="Стримы Good Game" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
 http://195.9.195.3:8080/hls/180509.m3u8
@@ -95,10 +97,14 @@ http://freeuk22.listen2myradio.com:19047
 #EXTINF:0 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Что? Где? Когда? WWW  What? Where? When?
 http://195.9.195.3:8080/hls/192005.m3u8
 
-#EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png" group-title="Стримы Catcast.tv", КIНО TV VHS (niko630)
+
+#EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
+https://s.catcast.tv/hls/4k_no-864.ts
+#EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png", TV VHS (niko630)
 https://s.catcast.tv/hls/brotv-kino-1591.ts
-#EXTINF:0  tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png" group-title="Стримы Catcast.tv", Eurodance 90
+#EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png", Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png" group-title="Сити Эдем", КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8
@@ -123,97 +129,34 @@ https://v2.catcast.tv/content/34246/index.m3u8
 #EXTINF:0 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Сити Эдем", Христианское радио Сити Эдем 2
 https://autopilot.catcast.tv/content/34246/index.m3u8
 
-#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png", ТV VHS
-https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета
+#EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png", Видеокассета
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Стримы Nuum.ru (VPN)" tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png", Всё тв Film Premiere
+#EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png", Видеокассета (2 ссылка)
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
+#EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png", ТV VHS
+https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png", Всё тв Film Premiere
 https://playlist.nuum.ru/live/85729/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema", Cinema Classic
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema", STR TV HD
+https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы Смотрим", СМОТРИМ - Мелодрамы
+#EXTINF:-1  group-title="Кинозалы Смотрим" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema" group-title="Кинозалы Смотрим"", СМОТРИМ - Кино и сериалы
+#EXTINF:-1 group-title="Кинозалы Смотрим" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="📺 Фильмовые",НСТ
-https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Timeless Dizi Channel HD
-https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Viasat Kino Comedy HD
-http://158.101.194.132:8888/channel/n79418e48/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="📺 Фильмовые",Кинохит HD
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Киномикс HD
-https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Киносемья
-http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
-#EXTINF:-1 group-title="📺 Фильмовые",Киносемья HD
-https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Киносвидание
-http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
-#EXTINF:-1 group-title="📺 Фильмовые",Киносвидание HD
-https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Киносерия HD
-https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Киноужас HD
-http://158.101.214.187:8080/channel/n28880c12/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png",Страх HD
-http://195.9.195.3:8080/hls/202127.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png",Кошмар
-http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg",MediaService Lorenz TV
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv", Movify.tv Series
+https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv",Movify.tv History
+https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" group-title="Movify.tv",Movify Кино
+https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
+
+#EXTINF:-1 group-title="📺 Несортированное📺" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="http://mytorrent.ucoz.ua/Onlain_TV/film_tv/Akuji.png",Akudji
-http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Plan_B HD
-http://31.148.6.4:10236/index.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Наше новое кино
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Про Любовь HD
-http://158.101.194.132:8880/channel/n5bf0fb1c/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
-#EXTINF:-1 group-title="📺 Фильмовые",Романтичное HD
-http://158.101.194.132:8880/channel/n5fd2cd7/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
-#EXTINF:-1 group-title="📺 Фильмовые",Криминальное HD
-http://158.101.194.132:8880/channel/7cbfee5f/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
-#EXTINF:-1 group-title="📺 Фильмовые",Комедийное HD
-http://158.101.194.132:8880/channel/258e9a85/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=SmartTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Hollywood HD
-https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",TV XXI
-https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Киносат
-https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Amedia Hit HD
-http://158.101.214.187:8080/channel/60051dd2/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="📺 Фильмовые",START Air HD
-https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",START World HD
-https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Русский роман HD
-http://46.151.151.245:10002/play/a0b3
-#EXTINF:-1 group-title="📺 Фильмовые",Русский детектив
-http://91.142.158.107:8092/play/27/index.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые",Наше Мужское HD
-http://158.101.194.132:8880/channel/n383d9e5e/index.m3u8?q=2155e6bc26d6a74843e4d45000f9c03d
-#EXTINF:-1 group-title="📺 Фильмовые",Наше любимое
-http://158.101.194.132:8888/channel/1515fa0f/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png",FILM TV
-http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png",TDM TV - FMC
-http://195.9.195.3:8080/hls/187741.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png",TDM TV - Series
-http://195.9.195.3:8080/hls/186021.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png",TDM TV - WWW
-http://195.9.195.3:8080/hls/192005.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg",Фантастика HD
-http://195.9.195.3:8080/hls/187241.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые" tvg-logo="https://downkindly.com/file/images/6d22eIxqa1DA6s_s8sBZArR7qpN0YAHwr3qIn70geF8Xwpe81Xw_I29teLF4mKNp-w.jpg",SCR TV HD
-http://195.9.195.3:8080/hls/61358.m3u8
-#EXTINF:-1 group-title="📺 Фильмовые", Star Family
+#EXTINF:-1 group-title="📺 Несортированное📺" , Star Family (русский Латвия)
 http://89.254.128.5:22280/star_family_hd/video.m3u8
 
 
