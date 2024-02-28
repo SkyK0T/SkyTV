@@ -63,10 +63,6 @@ https://hls.goodgame.ru/hls/185110.m3u8
 #EXTINF:-1 group-title="Стримы Good Game", Фильмы Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
 
-
-
-
-
 #EXTINF:0 tvg-id="Akudji" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png", Советские фильмы Akudji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
@@ -103,7 +99,6 @@ https://hls.goodgame.ru/hls/205531.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/XXXRbdF/image-12.png", VKTV
 https://hls.goodgame.ru/hls/173945.m3u8
-
 
 
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
