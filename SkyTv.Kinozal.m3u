@@ -95,14 +95,16 @@ https://hls.goodgame.ru/hls/61358.m3u8
 https://hls.goodgame.ru/hls/199417.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg", Сериалы TV Series 
-http://hlss.goodgame.ru/hls/186021.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/186021.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/688SVFy/image-38.png", Кинофантастика Фантом
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204722.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game", Кино Фантастика HD
-http://hlss.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="http://epg.it999.ru/img/4780.png", Кино Фантастика HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/187241.m3u8
 
 #EXTINF:0 tvg-id="Akudji" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png", Кино Akudji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -115,9 +117,12 @@ https://hls.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/DrTm6Lt/image-26.png", Кино 1FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204708_720.m3u8
+
+
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png", Кино 2FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204717.m3u8
+
 #EXTINF:0 tvg-id="FMC" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/syWstRm/image-29.png", Кино FantasticMystiC FMC TV (TDM TV) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187741.m3u8
@@ -129,23 +134,31 @@ http://hlss.goodgame.ru/hls/157269.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/146065.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game", Кино и сериалы FAN
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",Кино и сериалы FAN
 http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/157239.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/M8ksMM0/image-6.png", Кино и сериалы 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/206513.m3u8
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/206513.m3u8 
 
 #EXTINF:0 tvg-id="STR TV" group-title="Стримы Good Game" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png", Киноужас Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hlss.goodgame.ru/hls/204709.m3u8
+
 #EXTINF:-1 group-title="Стримы Good Game", Киноужас Страх HD
-http://hlss.goodgame.ru/hls/202127.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/202127.m3u8
+
+
 #EXTINF:0 tvg-id="STR TV" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png", Киноужас STR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/185110.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png", Мультики и сказки  @TDM777 TechnoDance+TV
-http://195.9.195.3:8080/hls/198446.m3u8
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png", Мультики и сказки HD @TDM777
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/198446.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Шоу Что? Где? Когда? WWW  What? Where? When?
 http://195.9.195.3:8080/hls/192005.m3u8
@@ -154,25 +167,21 @@ http://195.9.195.3:8080/hls/192005.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206097.m3u8
 
-#EXTINF:0 group-title="Стримы Good Game" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
-http://195.9.195.3:8080/hls/180509.m3u8
-#EXTINF:-1 group-title="Стримы Good Game", Музыка TechnoDanceRadio
-http://freeuk22.listen2myradio.com:19047
-
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png", Всё ТВ FILM Delta-Omega firedron (Работает не всегда)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/180204.m3u8
+https://hls.goodgame.ru/hls/131315.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game", Good Films (Работает не всегда)
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/PNnsXPZ4/Good-Films.png",Good Films (Работает не всегда)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/158191.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i122.fastpic.org/big/2023/1219/b5/e997617b2e2f5ee84ab053b9113739b5.png?md5=qbJO7jzm0hwFPX6bOv2z-A&expires=1703005200", AlexVira (Работает не всегда)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/106103.m3u8
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/106103.m3u8 
 
-#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/DW1rRn0/image-3.png", Millennium_88 Millennium UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/DW1rRn0/image-3.png", Millennium UHD Millennium_88 
+#EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/206461.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/xzHsymw/image.png", Lex
@@ -181,6 +190,92 @@ https://hls.goodgame.ru/hls/205531.m3u8
 
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/XXXRbdF/image-12.png", VKTV
 https://hls.goodgame.ru/hls/173945.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/173945.m3u8
+
+#EXTINF:0 group-title="Стримы Good Game" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180509.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", Музыка TechnoDanceRadio
+http://freeuk22.listen2myradio.com:19047
+
+#EXTINF:-1 group-title="Стримы Good Game", Видеосалон VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/175764.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", Видеокасета VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/176975.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/3CdVvm4/av-1047117-r9-Cv.png",Лесной HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/131315.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", Первый Городской (Гомель)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/165178.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://goodgame.ru/files/avatars/av_1247733_e6xJ.jpg",НИРЕЯ (Гомель)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/165177.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game",Смрадная Каракатица
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/167188.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game",Звуки дождя 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/198378.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game",Эфира net
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/181039.m3u8 
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png", Delta-Omega
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180204.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png", Fox Kids Exclusive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/179445.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/W47v1rKG/HDRmovie60fps.png",HDR Movie 60fps HD(с 19:00 до 07:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/200645.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png", Hot Beats TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/191858.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg", Mafi2a TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/147714.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg", Mega Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/175789.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", Neldoreth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/33245.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", PZN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180960.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game", TMF RUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/201891.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game",Tyty35Ru
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/206510.m3u8
+
+
+#EXTINF:-1 group-title="Стримы Good Game",VIVA Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180805.m3u8
 
 
 #EXTINF:0 group-title="Стримы Catcast.tv" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
