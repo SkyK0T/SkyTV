@@ -548,6 +548,11 @@ https://youtu.be/97821TPka_KaVDrm
 #EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 4
 https://youtu.be/VV_6YlpMtxM?si
 
+#EXTINF:-1 group-title="Инфострой (VPN)" ,Flix Snip
+http://212.22.76.51:7000/FlixSnip/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Инфострой (VPN)" ,Hollywood HD
+http://212.22.76.51:7000/Hollywood_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="VKPlay.live",VK
 https://vsd171.mycdn.me/hls/6191393606229.m3u8/sig/RkXro-1xA6I/expires/1709221812814/srcIp/104.28.224.95/urls/45.136.20.66/clientType/36/srcAg/CHROME_ANDROID/mid/7283229607765/video.m3u8?p
 #EXTINF:-1 group-title="VKPlay.live",VK2
