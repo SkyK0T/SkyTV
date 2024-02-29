@@ -26,7 +26,7 @@ http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png", Фильмы FILM TV HD3JIou-TaTaPuH
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png", Кино FILM TV HD3JIou-TaTaPuH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/163253.m3u8
 
