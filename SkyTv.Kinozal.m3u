@@ -12,9 +12,6 @@ https://hls.goodgame.ru/hls/61358.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199417.m3u8
 
-#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png", Мультики и сказки  @TDM777 TechnoDance+TV
-http://195.9.195.3:8080/hls/198446.m3u8
-
 #EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg", Сериалы TV Series 
 http://hlss.goodgame.ru/hls/186021.m3u8
 
@@ -64,6 +61,9 @@ http://hlss.goodgame.ru/hls/202127.m3u8
 #EXTINF:0 tvg-id="STR TV" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png", Киноужас STR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/185110.m3u8
+
+#EXTINF:-1 group-title="Стримы Good Game" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png", Мультики и сказки  @TDM777 TechnoDance+TV
+http://195.9.195.3:8080/hls/198446.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Шоу Что? Где? Когда? WWW  What? Where? When?
 http://195.9.195.3:8080/hls/192005.m3u8
