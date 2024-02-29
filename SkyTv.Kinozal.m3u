@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epgx.site/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
 
 #EXTINF:-1 group-title="Релакс", Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
