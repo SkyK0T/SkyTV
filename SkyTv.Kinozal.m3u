@@ -557,3 +557,28 @@ http://212.22.76.51:7000/Hollywood_HD/tracks-v1a1/mono.m3u8
 https://vsd171.mycdn.me/hls/6191393606229.m3u8/sig/RkXro-1xA6I/expires/1709221812814/srcIp/104.28.224.95/urls/45.136.20.66/clientType/36/srcAg/CHROME_ANDROID/mid/7283229607765/video.m3u8?p
 #EXTINF:-1 group-title="VKPlay.live",VK2
 https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8
+
+#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Мелодрамы 2
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Радио 8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Тайны 7
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Частный Детектив 1
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",3
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",4
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",5
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-05.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",6
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",9
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-09.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",10
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-10.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",11
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-11.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест", tvg-id="",12
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-12.smil/playlist.m3u8
