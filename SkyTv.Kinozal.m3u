@@ -33,8 +33,6 @@ http://iptv.prosto.tv:7000/ch351/video.m3u8
 https://iptv.prosto.tv/ch336/video.m3u8
 #EXTINF:-1 group-title="Релакс"tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg",Горная долина
 http://iptv.prosto.tv:7000/ch302/video.m3u8
-#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg",Просто Украина
-http://iptv.prosto.tv:7000/ch303/video.m3u8
 #EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
 http://iptv.prosto.tv:7000/ch304/video.m3u8
 #EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg",Подводный мир
