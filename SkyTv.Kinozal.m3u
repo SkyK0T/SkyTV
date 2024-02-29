@@ -3,6 +3,88 @@
 
 #EXTINF:-1 group-title="Релакс", Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
+https://stream.ads.ottera.tv/cl/231009cki5o24nsepl2jh7b2eg/1920x1080_5359200_5_f.m3u8
+#EXTINF:-1 group-title="Релакс", Камин Fireplace 4k
+https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="Релакс",Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://tgtv.ua/images/tgtv_logo.png",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg",Пейзаж
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png",Space Stream
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png",Про Факт
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png",Зоо
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg",Свет вокруг 
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg",Терраса
+https://iptv.prosto.tv/ch336/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg",Горная долина
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg",Просто Украина
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg",Подводный мир
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg",Avia Stream
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg",Катастрофы 
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png",ЭКО система
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png",Stream City
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png",Аквариум 
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg",Комната релакс
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg",Зима
+https://iptv.prosto.tv/ch327/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg",Ночь
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg",Водопад
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg",Лес
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg",Огонь
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg",Тропики
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg",Река
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg",Джунгли
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg",Горы
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg",Озеро 
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg",Бассейн
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg",Флора
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg",Сад
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg",Железная дорога
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="RELAX",Парк
+http://iptv.prosto.tv:7000/ch350/video.m3u8
 
 #EXTINF:0 tvg-id="SCR TV" group-title="Стримы Good Game" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
