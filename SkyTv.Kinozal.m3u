@@ -82,7 +82,7 @@ http://iptv.prosto.tv:7000/ch346/video.m3u8
 http://iptv.prosto.tv:7000/ch347/video.m3u8
 #EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg",Железная дорога
 http://iptv.prosto.tv:7000/ch348/video.m3u8
-#EXTINF:-1 group-title="RELAX",Парк
+#EXTINF:-1 group-title="Релакс",Парк
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 
 
