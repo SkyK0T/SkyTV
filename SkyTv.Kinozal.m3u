@@ -446,10 +446,18 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema", STR TV HD
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="Кинозалы Смотрим" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Мелодрамы
+#EXTINF:-1  group-title="ВГТРК Смотрим и политика" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы Смотрим" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Кино и сериалы
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим - Детям
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png",Смотрим - тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" ,Соловьев Live ТВ HD
+http://farm-vgtrk.rfn.ru/hls2/givc21/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" ,Соловьёв Live
+http://farm-vgtrk.rfn.ru/hls/solovievlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv", Movify.tv Series
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
