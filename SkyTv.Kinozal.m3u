@@ -660,7 +660,7 @@ https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8
 #EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcinemaqhd", Prokop TV Cinema 60 FPS
 http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8
-#EXTINF:-1 group-title="Prokop TV", tvg-id="prokoptvbest" Prokop TV Cinema Best HD
+#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvbest", Prokop TV Cinema Best HD
 http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8
 #EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcomedy", Prokop TV Comedy HD
 http://194.26.229.213/Prokop-TV-Comedy-HD/video.m3u8
