@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epg.lampa.stream/?prov=prokop"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epgx.site/epg.xml.gz,http://global-media.info/gabba/epg_1.xml.gz,http://fiptv.zapto.org/epg.xml.gz,https://mitv-cinema.ru/epg/epg.xml.gz,https://epg.lampa.stream/?prov=prokop"
 
 #EXTINF:-1 group-title="Релакс", Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
