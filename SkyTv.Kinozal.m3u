@@ -667,12 +667,14 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20214/index.m3u8
 #EXTINF:-1 group-title="Prokop TV" tvg-id="cobratriller", COBRA THRILLER HD	
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20215/index.m3u8
 
-#EXTINF:-1 group-title="Prokop TV" tvg-id="", Prokop TV Кино New Films HD
+#EXTINF:-1 group-title="Prokop TV tvg-id="Newfilms" "tvg-name="PROKOP TV NEW FILMS HD", Prokop TV Кино New Films HD
 http://194.26.229.213/Prokop-TV-New-Films-HD/index.m3u8
-#EXTINF:-1 group-title="Prokop TV"  tvg-id="cinema4k", Prokop TV Кино Cinema 4K
+#EXTINF:-1 group-title="Prokop TV" tvg-id="cinema4k" tvg-name="PROKOP TV CINEMA 4K", Prokop TV Кино Cinema 4K
 http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcinemaqhd", Prokop TV Кино Cinema 60 FPS
+#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcinemaqhd" tvg-name="PROKOP TV CINEMA 60 FPS	", Prokop TV Кино Cinema 60 FPS
 http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8
+
+
 #EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvbest", Prokop TV Кино Cinema Best HD
 http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8
 #EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcomedy", Prokop TV Кино Comedy HD
