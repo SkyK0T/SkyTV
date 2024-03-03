@@ -656,73 +656,21 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="TNTMusic.ru", ТНТ Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 
-#EXTINF:-1 group-title="Prokop TV" tvg-id="cobracomedy", COBRA COMEDY HD 
+#EXTINF:-1 group-title="Prokop TV" tvg-id="cobracomedy" tvg-name="COBRA COMEDY HD", COBRA COMEDY HD 
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20212/index.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="cobradetektiv", COBRA DETEKTIV HD	
+#EXTINF:-1 group-title="Prokop TV" tvg-id="cobradetektiv" tvg-name="COBRA DETEKTIV HD", COBRA DETEKTIV HD	
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20213/index.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="Cobradrama", COBRA DRAMA HD	
+#EXTINF:-1 group-title="Prokop TV" tvg-id="Cobradrama" tvg-name="COBRA DRAMA HD", COBRA DRAMA HD	
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31673/index.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="cobramelodrama", COBRA MELODRAMA HD	
+#EXTINF:-1 group-title="Prokop TV" tvg-id="cobramelodrama" tvg-name="COBRA MELODRAMA HD", COBRA MELODRAMA HD	
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20214/index.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="cobratriller", COBRA THRILLER HD	
+#EXTINF:-1 group-title="Prokop TV" tvg-id="cobratriller" tvg-name="COBRA THRILLER HD", COBRA THRILLER HD	
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20215/index.m3u8
 
-#EXTINF:-1 group-title="Prokop TV tvg-id="Newfilms" "tvg-name="PROKOP TV NEW FILMS HD", Prokop TV Кино New Films HD
+#EXTINF:-1 group-title="Prokop TV tvg-id="Newfilms" tvg-name="PROKOP TV NEW FILMS HD", Prokop TV Кино New Films HD
 http://194.26.229.213/Prokop-TV-New-Films-HD/index.m3u8
 #EXTINF:-1 group-title="Prokop TV" tvg-id="cinema4k" tvg-name="PROKOP TV CINEMA 4K", Prokop TV Кино Cinema 4K
 http://194.26.229.213/Prokop-TV-Cinema-4K/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcinemaqhd" tvg-name="PROKOP TV CINEMA 60 FPS	", Prokop TV Кино Cinema 60 FPS
+#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcinemaqhd" tvg-name="PROKOP TV CINEMA 60 FPS", Prokop TV Кино Cinema 60 FPS
 http://194.26.229.213/Prokop-TV-60-FPS/video.m3u8
-
-
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvbest", Prokop TV Кино Cinema Best HD
-http://194.26.229.213/Prokop-TV-HD-UA/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcomedy", Prokop TV Кино Comedy HD
-http://194.26.229.213/Prokop-TV-Comedy-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcriminalhd", Prokop TV Кино Criminal HD
-http://194.26.229.213/Prokop-TV-Criminal-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="Prokop_Detektiv", Prokop TV Кино Detektiv HD
-http://194.26.229.213/Prokop-TV-Detektiv-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="HD	prokoptvfantazy", Prokop TV Кино Fantazy HD
-http://194.26.229.213/Prokop-TV-Fantazy-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvhistory", Prokop TV Кино History HD
-http://194.26.229.213/Prokop-TV-History-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvhorror", Prokop TV Кино Horror HD
-http://194.26.229.213/Prokop-TV-Horror-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="kungfu", Prokop TV Кино Kung Fu
-http://194.26.229.213/Prokop-TV-Kung-Fu/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvnetflixserial", Prokop TV Кино Netflix HD
-http://194.26.229.213/Prokop-TV-Netflix-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="Newfilms", Prokop TV Кино New Films HD
-http://194.26.229.213/Prokop-TV-New-Films-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvserialhd", Prokop TV Кино Serial HD
-http://194.26.229.213/Prokop-TV-Serial-HD/video.m3u8
-
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvdocuhd", Prokop TV Познавательные Docu HD
-http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcinemav" tvg-name="PROKOP TV ВТОРАЯ МИРОВАЯ", Prokop TV Вторая мировая
-http://194.26.229.213/Prokop-TV-2-mirovaya/video.m3u8
-
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Music
-http://194.26.229.213/Prokop-TV-Music/video.m3u8
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Hip Hop
-http://194.26.229.213/Prokop-TV-Hip-Hop/video.m3u8
-
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Rock
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19270/index.m3u8
-
-#EXTINF:-1 group-title="Prokop TV" tvg-id="NewYear" tvg-name="PROKOP TV НОВОГОДНИЙ", Prokop TV Кулинар
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16091/index.m3u8
-
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvshow", Prokop TV Show HD
-http://194.26.229.213/Prokop-TV-Show-HD/video.m3u8
-
-#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvskazkiussr", Prokop TV Сказки СССР
-http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Kids HD
-http://194.26.229.213/Prokop-TV-Kids-HD/video.m3u8
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Масяня
-http://194.26.229.213/Prokop-TV-masyana/video.m3u8
-#EXTINF:-1 group-title="Prokop TV", Prokop TV The Simpsons HD
-http://194.26.229.213/Prokop-TV-The-Simpsons-HD-UA/video.m3u8
 
