@@ -701,15 +701,15 @@ http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8
 #EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvcinemav" tvg-name="PROKOP TV ВТОРАЯ МИРОВАЯ", Prokop TV Вторая мировая
 http://194.26.229.213/Prokop-TV-2-mirovaya/video.m3u8
 
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Музыка Music
+#EXTINF:-1 group-title="Prokop TV", Prokop TV Music
 http://194.26.229.213/Prokop-TV-Music/video.m3u8
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Музыка Hip Hop
+#EXTINF:-1 group-title="Prokop TV", Prokop TV Hip Hop
 http://194.26.229.213/Prokop-TV-Hip-Hop/video.m3u8
 
-#EXTINF:-1 group-title="Prokop TV", Prokop TV Музыка Rock
+#EXTINF:-1 group-title="Prokop TV", Prokop TV Rock
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19270/index.m3u8
 
-#EXTINF:-1 group-title="Prokop TV" tvg-id="NewYear", Prokop TV Кулинар
+#EXTINF:-1 group-title="Prokop TV" tvg-id="NewYear" tvg-name="PROKOP TV НОВОГОДНИЙ", Prokop TV Кулинар
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16091/index.m3u8
 
 #EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvshow", Prokop TV Show HD
