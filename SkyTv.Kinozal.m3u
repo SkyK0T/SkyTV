@@ -713,7 +713,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16091/index.m3u8
 #EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvshow" tvg-name="PROKOP TV SHOW HD", Prokop TV Show HD
 http://194.26.229.213/Prokop-TV-Show-HD/video.m3u8
 
-#EXTINF:-1 group-title="Prokop TV", tvg-id="prokoptvskazkiussr" tvg-name="PROKOP TV СКАЗКИ СССР", Prokop TV Сказки СССР
+#EXTINF:-1 group-title="Prokop TV" tvg-id="prokoptvskazkiussr" tvg-name="PROKOP TV СКАЗКИ СССР", Prokop TV Сказки СССР
 http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
 #EXTINF:-1 group-title="Prokop TV", Prokop TV Kids HD
 http://194.26.229.213/Prokop-TV-Kids-HD/video.m3u8
