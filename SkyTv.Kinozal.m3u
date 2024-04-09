@@ -19,9 +19,12 @@ https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f
 #EXTINF:0 tvg-id="SCR TV" group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/bm019WM/image-34.png", Мультсериалы Футурама  𝟸𝟺/𝟽
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/bm019WM/image-34.png", Мультсериалы Футурама 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199417.m3u8
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png", Fox Kids Exclusive HD 𝟸𝟺/𝟽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/179445.m3u8
 
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg", Сериалы TV Series 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -35,7 +38,7 @@ https://hls.goodgame.ru/hls/204722.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187241.m3u8
 
-#EXTINF:0 tvg-id="Akudji" group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png", Кино Akudji
+#EXTINF:0 tvg-id="Akudji" group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png", Кино Интерактивное ТВ ★ from AkuDji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
 
@@ -187,9 +190,6 @@ https://hls.goodgame.ru/hls/181039.m3u8
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png", Delta-Omega
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180204.m3u8
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png", Fox Kids Exclusive HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/179445.m3u8
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.postimg.cc/W47v1rKG/HDRmovie60fps.png",HDR Movie 60fps HD(с 19:00 до 07:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/200645.m3u8
@@ -208,9 +208,6 @@ https://hls.goodgame.ru/hls/206510.m3u8
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_271625_AV7m.png",Кино HeDoPa3yMeHue
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/22416.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png", Сити Эдем - КиноЭкшен
