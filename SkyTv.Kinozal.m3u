@@ -1,20 +1,21 @@
-#EXTM3U
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epgx.site/epg.xml.gz,http://global-media.info/gabba/epg_1.xml.gz,http://fiptv.zapto.org/epg.xml.gz,https://mitv-cinema.ru/epg/epg.xml.gz,https://epg.lampa.stream/?prov=prokop"
 
 #EXTINF:-1 group-title="Релакс", Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Релакс"tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="Релакс"tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD 1
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png", Deluxe Lounge HD 1
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="Релакс"tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD 2
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png", Deluxe Lounge HD 2
 https://stream.ads.ottera.tv/cl/231009cki5o24nsepl2jh7b2eg/1920x1080_5359200_5_f.m3u8
+#EXTINF:-1 group-title="Релакс"tvg-logo="https://cvy.okis.ru/file/cvy/9.gif", Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="Релакс", Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 #EXTINF:-1 group-title="Релакс", Камин Fireplace 4k
 https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
-#EXTINF:-1 group-title="Релакс"tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
+
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png", Камин (не идёт)
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="Релакс",Stingray Naturescape
-https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+
 
 #EXTINF:0 tvg-id="SCR TV" group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -22,7 +23,7 @@ https://hls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/bm019WM/image-34.png", Мультсериалы Футурама 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199417.m3u8
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png", Fox Kids Exclusive HD 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png", Мультсериалы Fox Kids Exclusive HD 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/179445.m3u8
 
@@ -91,12 +92,10 @@ https://hls.goodgame.ru/hls/185110.m3u8
 https://hls.goodgame.ru/hls/198446.m3u8
 
 
-#EXTINF:-1 group-title="Стриминг GoodGame.ru", Музыка TechnoDanceRadio
-http://freeuk22.listen2myradio.com:19047
-#EXTINF:-1 group-title="Стриминг GoodGame.ru "tvg-logo="https://goodgame.ru/files/avatars/av_avatar_eva.png",, Музыка VIVA MUSIC Russia 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="Стриминг GoodGame.ru "tvg-logo="https://goodgame.ru/files/avatars/av_avatar_eva.png", Музыка VIVA MUSIC Russia 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg",, Музыка MIXM.TV
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg", Музыка MIXM.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/181490.m3u8
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png", Музыка Hot Beats TV HD 𝟸𝟺/𝟽
@@ -115,6 +114,12 @@ https://hls.goodgame.ru/hls/194731.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/147714.m3u8
 
+#EXTINF:0 group-title="Стриминг GoodGame.ru" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M", Музыка TechnoDanceMusic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 group-title="Стриминг GoodGame.ru", Радио TechnoDanceRadio
+http://freeuk22.listen2myradio.com:19047
+
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_orc.png", smotriomsklive
 https://hls.goodgame.ru/hls/191952.m3u8
 
@@ -130,15 +135,15 @@ http://195.9.195.3:8080/hls/192005.m3u8
 https://hls.goodgame.ru/hls/206097.m3u8
 
 
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png", Всё ТВ FILM Delta-Omega firedron (Работает не всегда)
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png", Всё ТВ FILM Delta-Omega firedron (не 24/7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/131315.m3u8
 
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.postimg.cc/PNnsXPZ4/Good-Films.png",Good Films (Работает не всегда)
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.postimg.cc/PNnsXPZ4/Good-Films.png", Good Films (не 24/7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/158191.m3u8
 
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i122.fastpic.org/big/2023/1219/b5/e997617b2e2f5ee84ab053b9113739b5.png?md5=qbJO7jzm0hwFPX6bOv2z-A&expires=1703005200", AlexVira (Работает не всегда)
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i122.fastpic.org/big/2023/1219/b5/e997617b2e2f5ee84ab053b9113739b5.png?md5=qbJO7jzm0hwFPX6bOv2z-A&expires=1703005200", AlexVira (не 24/7)
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/106103.m3u8 
 
@@ -155,10 +160,6 @@ https://hls.goodgame.ru/hls/173945.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/173945.m3u8
 
-#EXTINF:0 group-title="Стриминг GoodGame.ru" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/180509.m3u8
-
 #EXTINF:-1 group-title="Стриминг GoodGame.ru", Видеосалон VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/175764.m3u8
@@ -167,7 +168,7 @@ https://hls.goodgame.ru/hls/175764.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/176975.m3u8
 
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/3CdVvm4/av-1047117-r9-Cv.png",Лесной HD
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://i.ibb.co/3CdVvm4/av-1047117-r9-Cv.png", Лесной HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/131315.m3u8
 
@@ -205,7 +206,7 @@ https://hls.goodgame.ru/hls/201891.m3u8
 #EXTINF:-1 group-title="Стриминг GoodGame.ru",Tyty35Ru
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/206510.m3u8
-#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_271625_AV7m.png",Кино HeDoPa3yMeHue
+#EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_271625_AV7m.png", Кино HeDoPa3yMeHue
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/22416.m3u8
 
@@ -284,19 +285,6 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Стримы Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema", STR TV HD
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="ВГТРК Смотрим и политика" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Мелодрамы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим - Детям
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png",Смотрим - тайны
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим и политика" ,Соловьев Live ТВ HD
-http://farm-vgtrk.rfn.ru/hls2/givc21/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим и политика" ,Соловьёв Live
-http://farm-vgtrk.rfn.ru/hls/solovievlive/playlist.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv", Movify.tv Series
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv",Movify.tv History
@@ -369,131 +357,13 @@ http://91.142.158.107:8092/play/27/index.m3u8
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 group-title="📺 Несортированное📺" tvg-id="StarFamily.ru", Star Family (русский Латвия)
 http://89.254.128.5:22280/star_family_hd/video.m3u8
-#EXTINF:-1 group-title="📺 Несортированное📺", Вещдок HD+
-https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4869/stream.m3u8
-#EXTINF:-1 group-title="📺 Несортированное📺", Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="📺 Несортированное📺", Bloomberg TV 4K
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
-#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 1
-https://www.youtube.com/watch?v=aoB8msCG8jQ
-#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 2
-https://youtu.be/aoB8msCG8jQ?si=97821TPka_KaVDrm
-#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 3
-https://youtu.be/aoB8msCG8jQ?si
-#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 4
-https://youtu.be/97821TPka_KaVDrm
-#EXTINF:-1 group-title="📺 Несортированное📺", Тест ютуба 4
-https://youtu.be/VV_6YlpMtxM?si
+
 
 #EXTINF:-1 group-title="Инфострой (VPN)" ,Flix Snip
 http://212.22.76.51:7000/FlixSnip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Инфострой (VPN)" ,Hollywood HD
 http://212.22.76.51:7000/Hollywood_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VKPlay.live",VK
-https://vsd171.mycdn.me/hls/6191393606229.m3u8/sig/RkXro-1xA6I/expires/1709221812814/srcIp/104.28.224.95/urls/45.136.20.66/clientType/36/srcAg/CHROME_ANDROID/mid/7283229607765/video.m3u8?p
-#EXTINF:-1 group-title="VKPlay.live",VK2
-https://vkvsd171.mycdn.me/hls/5991018596890.m3u8/sig/cQ70Fv_IxxE/srcIp/37.14.45.69/urls/45.136.22.22/expires/1708667617912/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6903417940762/id/5991018596890/5991018596890_fullhd/index.m3u8
-
-#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Мелодрамы 2
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Радио 8
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Тайны 7
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",Смотрим Частный Детектив 1
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",3
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",4
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",5
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-05.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",6
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",9
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-09.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",10
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-10.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",11
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-11.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест", tvg-id="",12
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-12.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ВГТРК Смотрим", 
-#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="360News.ru", 360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Вести ФМ
-https://player.smotrim.ru/iframe/stream/live_id/52035
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="VmesteRF.ru", Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Moskva24.ru", Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Russia1.ru", Россия 1
-https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Russia24.ru", Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/21
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RussiaK.ru", Россия-К
-https://player.smotrim.ru/iframe/stream/live_id/19201
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaAsia.ru", РТР Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/63254
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaEurope.ru", РТР Планета Евро
-https://player.smotrim.ru/iframe/stream/live_id/4941
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaEurope.ru", РТР Планета Евро
-https://player.smotrim.ru/iframe/stream/live_id/63251
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaCIS.ru", РТР Планета СНГ
-https://player.smotrim.ru/iframe/stream/live_id/63253
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaUSA.us", РТР Планета США
-https://player.smotrim.ru/iframe/stream/live_id/63250
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="SanktPeterburg.ru", Санкт Петербург
-https://player.smotrim.ru/iframe/stream/live_id/62037
-#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Мелодрамы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Радио
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Тайны
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Частный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="SolovyovLive.ru", Соловьев LIVE
-https://player.smotrim.ru/iframe/stream/live_id/63338
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Volgograd24.ru", Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Самара 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Kavkaz24.ru", Кавказ 24 (Ставрополь)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Запад 24 (Калининград)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Сибирь 24 (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Сибирь 24 (Красноярск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Bashkortostan24.ru", Башкортостан 24 (Уфа)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Урал 24 (Челябинск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="NizhniyNovgorod24.ru", Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", СургутИнформТВ
-https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Телеканал Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="UgraTV.ru", Югра
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="OTVPrim.ru", ОТВ Приморья
-https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="360.ru", 360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим", Толк
-https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="DumaTV.ru", Дума ТВ
-https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="BigAsia.ru", Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="TNTMusic.ru", ТНТ Music
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cobracomedy" tvg-name="COBRA COMEDY HD", COBRA COMEDY HD 
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20212/index.m3u8
@@ -555,3 +425,123 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31670/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19401/index.m3u8
 #EXTINF:-1 group-title="Юнионтел",Первый вегетарианский
 https://mhd128.iptv2022.com/p/xxvhqW9UVd47lXODKfpXXQ,1709670028/streaming/firstvegan/324/5/tracks-v2a1/mono.m3u8
+
+
+
+#EXTINF:-1  group-title="ВГТРК Смотрим и политика" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema", Смотрим - Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://i.postimg.cc/t48njFN7/1.png", Смотрим - Детям
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png", Смотрим - тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика", Соловьев Live ТВ HD
+http://farm-vgtrk.rfn.ru/hls2/givc21/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика", Соловьёв Live
+http://farm-vgtrk.rfn.ru/hls/solovievlive/playlist.m3u8
+
+#EXTINF:-1 group-title="ВГТРК Смотрим и политика" tvg-id="SolovyovLive.ru", Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/63338
+
+#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Радио
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Смотрим Частный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",Смотрим Мелодрамы 2
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",Смотрим Радио 8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",Смотрим Тайны 7
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",Смотрим Частный Детектив 1
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",3
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",4
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",5
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-05.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",6
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",9
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-09.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",10
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-10.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",11
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-11.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="",12
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-12.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ВГТРК Смотрим", tvg-id="360News.ru", 360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Вести ФМ
+https://player.smotrim.ru/iframe/stream/live_id/52035
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="VmesteRF.ru", Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Moskva24.ru", Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Russia1.ru", Россия 1
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Russia24.ru", Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RussiaK.ru", Россия-К
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaAsia.ru", РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/63254
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaEurope.ru", РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaEurope.ru", РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/63251
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaCIS.ru", РТР Планета СНГ
+https://player.smotrim.ru/iframe/stream/live_id/63253
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaUSA.us", РТР Планета США
+https://player.smotrim.ru/iframe/stream/live_id/63250
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="SanktPeterburg.ru", Санкт Петербург
+https://player.smotrim.ru/iframe/stream/live_id/62037
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Volgograd24.ru", Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Самара 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Kavkaz24.ru", Кавказ 24 (Ставрополь)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Запад 24 (Калининград)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Bashkortostan24.ru", Башкортостан 24 (Уфа)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Урал 24 (Челябинск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="NizhniyNovgorod24.ru", Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", СургутИнформТВ
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Телеканал Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="UgraTV.ru", Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="OTVPrim.ru", ОТВ Приморья
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="360.ru", 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Толк
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="DumaTV.ru", Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="BigAsia.ru", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="TNTMusic.ru", ТНТ Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+
+
+
