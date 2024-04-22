@@ -92,7 +92,7 @@ https://hls.goodgame.ru/hls/185110.m3u8
 https://hls.goodgame.ru/hls/198446.m3u8
 
 
-#EXTINF:-1 group-title="Стриминг GoodGame.ru "tvg-logo="https://goodgame.ru/files/avatars/av_avatar_eva.png", Музыка VIVA MUSIC Russia 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="Стриминг GoodGame.ru"tvg-logo="https://goodgame.ru/files/avatars/av_avatar_eva.png", Музыка VIVA MUSIC Russia 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:-1 group-title="Стриминг GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg", Музыка MIXM.TV
