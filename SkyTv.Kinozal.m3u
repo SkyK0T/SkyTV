@@ -544,4 +544,67 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 
 
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 group-title="Sunset" tvg-id="" tvg-name="Sunset Movie" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz2VkMnbt4BOHJ7wsbVO-RrguhMzVgnlOjBAn_M8FHNxP.png" group-title="Sunset Public",Sunset Movie
+https://stream.sunset-media.ru:443/Free/Free/1.m3u8
+#EXTINF:-1 group-title="Sunset" tvg-id="" tvg-name="Sunset Music" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz5kHi4vzPnuHWjUHFuKGvsklHdqd1PeRgH3mpeoj4RHR.png" group-title="Sunset Public",Sunset Music
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="Sunset" tvg-id="" tvg-name="Sunset Space" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz12ZvH5jnVmQFUKS5h4YOgfXGOI0xbzfNYAhy3zZ1hwk.png" group-title="Sunset Public",Sunset Space
+https://stream.sunset-media.ru:443/Free/Free/3.m3u8
+#EXTINF:-1 group-title="Sunset" tvg-id="" tvg-name="Sunset Kids" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz8lkQEGkvXUn-kGUYgVn1NAR-PZKfLBsZ0m-Q-ueM3Ij.png" group-title="Sunset Public",Sunset Kids
+https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",Первый канал
+http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",РОССИЯ 1
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕЦЕНТРАЛЬНЫЕ",Россия 1Россия 1
+http://31.148.48.15:80/Rossiya_1/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",РОССИЯ РТР
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",НТВ
+http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",НТВ
+http://31.148.48.15:80/NTV/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕЦЕНТРАЛЬНЫЕ",ЗвездаЗвезда
+http://31.148.48.15:80/Zvezda/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",ТНТ
+http://31.148.48.15:80/TNT/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",ТНТ4
+http://31.148.48.15:80/TNT4/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",СТС HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",ДОМАШНИЙ
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",МИР
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",МИР
+http://31.148.48.15:80/Mir/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕЦЕНТРАЛЬНЫЕ",Мир 24МИР 24
+http://31.148.48.15:80/Mir_24/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",7 TV
+http://31.148.48.15:80/7TV/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",ОТР
+http://31.148.48.15:80/OTR/index.m3u8?token=test
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",Красная Линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",ATV HD
+http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ЦЕНТРАЛЬНЫЕ",TDK
+http://31.148.48.15:80/TDK/index.m3u8?token=test
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
+http://31.148.48.15:80/Super/index.m3u8?token=test
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",КВН ТВ
+http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Сарафан
+
+
+
+
+
+
 
