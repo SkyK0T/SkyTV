@@ -251,7 +251,16 @@ https://catcast.tv/player/40064
 #EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", KSTR // Shelter Town Radio 2
 https://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", Fenix SSSR
-https://v2.catcast.tv/content/401102/index.m3u8
+https://v2.catcast.tv/content/40102/index.m3u8
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg", ВИДЕОСАЛОН VHS
+https://v2.catcast.tv/content/40391/index.m3u8
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg", VHS
+https://v2.catcast.tv/content/44051/index.m3u8
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", MTV Russia TEST
+https://v2.catcast.tv/content/45105/index.m3u8
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", Ремиксы
+https://v2.catcast.tv/content/41833/index.m3u8
+
 
 #EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", Disney XD VIP
 https://v2.catcast.tv/content/33501/index.m3u8
