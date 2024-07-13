@@ -201,6 +201,11 @@ https://v2.catcast.tv/content/34246/index.m3u8
 #EXTINF:0 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Стримы Catcast TV 🐈 Не 24/7", Сити Эдем - Христианское радио
 https://v2.catcast.tv/content/34246/index.m3u8
 
+#EXTINF:0 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Стримы Catcast TV 🐈 Не 24/7", Сити Эдем - Meditation Music
+https://v2.catcast.tv/content/47410/index.m3u8
+#EXTINF:0 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" group-title="Стримы Catcast TV 🐈 Не 24/7", Сити Эдем - Classic Music
+https://v2.catcast.tv/content/47400/index.m3u8
+
 
 #EXTINF:-1 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png", Armenius TV
 https://autopilot.catcast.tv/content/40504/index.m3u8
@@ -245,10 +250,15 @@ https://v2.catcast.tv/videos/ch47402/080720241200_238627/video.mp4
 https://catcast.tv/player/40064
 #EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", KSTR // Shelter Town Radio 2
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="",Fenix SSSR
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", Fenix SSSR
 https://v2.catcast.tv/content/401102/index.m3u8
 
-
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", Disney XD VIP
+https://v2.catcast.tv/content/33501/index.m3u8
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", WWE Russian
+https://v2.catcast.tv/content/42608/index.m3u8
+#EXTINF:0 group-title="Стримы Catcast TV 🐈 Не 24/7" tvg-logo="", НТВ КРАЙМ СИТИ
+https://v2.catcast.tv/content/41632/index.m3u8
 
 
 
@@ -291,7 +301,36 @@ https://stream.sunset-media.ru:443/Free/Free/2.m3u8
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
 #EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-id="" tvg-name="Sunset Kids" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz8lkQEGkvXUn-kGUYgVn1NAR-PZKfLBsZ0m-Q-ueM3Ij.png" group-title="Sunset Public",Sunset Kids
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media",Groovezzo
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
+#EXTINF:-1 taurer-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media",RRTV Europe
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
+#EXTINF:-1 taurer-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media",NINJA
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
+#EXTINF:-1 taurer-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media",World-1
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
+#EXTINF:-1 taurer-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media",Криминал и Полиция
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
+#EXTINF:-1 taurer-id="1131" tvg-id="" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png" group-title="Taurer Media",KidsPlanet
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
+#EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media",KidsPlanet+
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
+#EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png" group-title="Taurer Media",Quality HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
+#EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media",Кулинар HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
+#EXTINF:-1 taurer-id="1531" tvg-id="" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" group-title="Taurer Media",SCORELIVE 1 HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
 
+
+#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network",LIVE:ХБ-ШОУ
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/31.m3u8
+#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network",LIVE:Мылодрама
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
+#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network",LIVE:Полицейский с Рублевки
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
+#EXTINF:-1 dsn-id="19311" tvg-id="" tvg-name="LIVE_SVARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSVATY_TEMP.png" group-title="Digital Satellite Network",LIVE:Сваты
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
 #EXTINF:-1 fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png" group-title="15+ Media Group",15+ Music
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/16.m3u8
 #EXTINF:-1 fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png" group-title="15+ Media Group",Кринж ТВ
@@ -308,6 +347,7 @@ http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/11.m3u8
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/12.m3u8
 #EXTINF:-1 fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png" group-title="15+ Media Group",Alpha Sex
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/13.m3u8
+
 
 #EXTINF:-1 group-title="📺 Фильмовые",НСТ
 https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
