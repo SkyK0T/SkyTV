@@ -326,8 +326,13 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
 #EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png" group-title="Taurer Media",Quality HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
-#EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media",Кулинар HD
+#EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media", Кулинар HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
+#EXTINF:-1 taurer-id="1339" tvg-id="" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png" group-title="Taurer Media", Авто-Гир
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/28.m3u8
+#EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png" group-title="Taurer Media", TRR Georgia National Film
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/29.m3u8
+
 #EXTINF:-1 taurer-id="1531" tvg-id="" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" group-title="Taurer Media",SCORELIVE 1 HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
 
