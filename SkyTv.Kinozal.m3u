@@ -657,16 +657,107 @@ http://31.148.48.15:80/TDK/index.m3u8?token=test
 http://31.148.48.15:80/Super/index.m3u8?token=test
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",КВН ТВ
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Сарафан
 
-#EXTINF:-1 group-title="RUTUBE (тест)" tvg-logo="https://pic.rutubelist.ru/video/48/cf/48cf782d6973dce5d23010688db5378b.jpg?size=l", Крым 24 (576p)
-https://salam-mskm9-43.rutube.ru/dive/river-5-520.rutube.ru/hDgY1rwb0gbDklIhitP-uA/stream/genetta-304.m9.rutube.ru/SDSrEUy4z-WXAeKNdAGo5w/1724978793/261339ca4f1396ea0271d07364bd99dd/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Радио МУЗКОМ (Radio MUZKOM ) - прямой эфир
+https://river-3-326.rutube.ru/stream/genetta-317.m9.rutube.ru/sFSEJbDFO5xUXjScGbhsAg/1724989321/75adbc49041646ba65eef1cae3beef2e/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", 🎼🎧 24/7 Live Radio🎼🎧Best Relax House, Chillout, Study, Running, Gym, Music🎼🎧
+https://river-3-312.rutube.ru/stream/genetta-334.m9.rutube.ru/Ypcm0QdU51lPt3KYww9QJA/1724989381/a00d28b8df82321b03b89baf154b82ca/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Ритмы для отдыха, расслабления, учёбы, работы или сна ♪
+https://river-3-312.rutube.ru/stream/genetta-321.m9.rutube.ru/NqXZ6gpkf4lrRoQi8_YC7A/1724989448/6761b0cc1bcac4ad0e86101b8f9df968/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", lofi hip hop radio - beats to sleep/chill to
+https://river-3-316.rutube.ru/stream/genetta-326.m9.rutube.ru/A3aVOkZ-eyL9lskLVb2MeA/1724989471/4f6be9b0f7adb95b285638c116cf5e5b/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Tyumen Techno Radio
+https://river-3-317.rutube.ru/stream/genetta-328.m9.rutube.ru/rzDtRterLLDDlIm1ToiHrw/1724989521/499aafd89fa8fc309516f97c7ba468ee/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Dream music Расслабляющая музыка и радио. Медитация и йога.
+https://river-3-316.rutube.ru/stream/genetta-320.m9.rutube.ru/rZ5Bxei-hLQt2Jslatxz-g/1724989554/91c0c6fb9911daa11435fb690c726603/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Dream music Synthwave Music | Синтвейв музыка радио
+https://river-3-312.rutube.ru/stream/genetta-522.ost.rutube.ru/-GMK6aqfiNhc7N2HtdORLA/1724989603/5a2c2738fe5b8026ea9566d18a5c3ca2/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Dream music Средневековая расслабляющая музыка. Радио | Medieval tavern music
+https://river-3-317.rutube.ru/stream/genetta-314.m9.rutube.ru/rdi8AqbKa0QZD3V1StTcBA/1724989640/7ab3d6359bf6cec3fa2e8587011c7b85/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Dream music Chillout lofi music | Чиллаут радио. Музыка
+https://river-3-312.rutube.ru/stream/genetta-515.ost.rutube.ru/hTdhv0krV0JRalW3me2Vlw/1724989673/a87c1386bb1de7b3fcf5707e5d602e1b/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", 24/7 SynthRetroWave Radio - электронная музыка и атмосфера прошлого
+https://river-3-312.rutube.ru/stream/genetta-328.m9.rutube.ru/AAHVP4Em1os_jmX1MRa2FA/1724989700/aa5af955cb7698d9a43e3c5573cc853c/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", ALBEDO - HEAVENLY MUSICAL 💖 radio прямой эфир 🔴
+https://river-3-312.rutube.ru/stream/genetta-511.ost.rutube.ru/U5DKgge7wHdu1h6YBOzeGA/1724989742/2f4971759ee955f4b15e9d4091cd5787/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", ALBEDO подкаст
+https://podster.fm/podcasts/wert/e/360818/albedo-heavenly-musical-podcast-28-collection
 
-#EXTINF:-1 group-title="RUTUBE (тест)" tvg-logo="url('https://rutube.ru/favicon.ico')", Телеканал «Краснодар»
+#EXTINF:-1 group-title="Rutube", Музыка RUTUBE TV HD
+https://live-gcore-1.rutube.ru/stream/genetta-327.m9.rutube.ru/_xk2CWsWLGu-71YRpXLGRA/1724936056/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", tvg-logo="https://pic.rutubelist.ru/video/fa/54/fa548936c1ce92980af6a4960c2a68ca.jpg?size=l", Музыка МУЗ-ТВ HD
+https://salam-mskm9-36.rutube.ru/dive/river-5-516.rutube.ru/vjKfUrPtohSUnr5PiZhQ0w/stream/musang-704.brz.rutube.ru/rKFArPwO-lVI4bHObX26YQ/1724987972/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка ТНТ Music HD
+https://live-gcore-1.rutube.ru/stream/genetta-330.m9.rutube.ru/gy0ubn_exOGXmPCrnTcuSA/1724912642/f5ba23a0149f409c18168231844e0a3b/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка VIVA Russia HD
+https://salam-2-9.rutube.ru/dive/river-3-326.rutube.ru/hKMsuTSG23VkP19Hjd7PAA/stream/genetta-501.ost.rutube.ru/GshaaJcrScIKMAMZHAkb_Q/1724955764/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка Chill Out Music Mix Live
+https://river-3-312.rutube.ru/stream/genetta-322.m9.rutube.ru/0VPvpjMFmyr731-J3o4A_Q/1724989199/7956f50082b4999500adb90dbfa84b69/720p_stream_push.m3u8
+
+
+#EXTINF:-1 group-title="Rutube", Первый канал HD
+https://live-gcore-1.rutube.ru/stream/musang-701.brz.rutube.ru/DtPowlW_UlUJ9gJY9ASZxA/1724430497/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", НТВ HD
+https://live-gcore-1.rutube.ru/stream/genetta-327.m9.rutube.ru/41zz7n_Q_2WwFoLGWDCLOg/1724430534/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Пятница HD
+https://salam-2-16.rutube.ru/dive/river-5-511.rutube.ru/UUsRPq1SvukzYsdoshkAhA/stream/musang-701.brz.rutube.ru/JbxySA0wj9gmM2bQyadoUQ/1724869593/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Суббота HD
+https://salam-2-17.rutube.ru/dive/river-5-515.rutube.ru/MAclVGt-k4z2nYfG_Dpk7A/stream/musang-704.brz.rutube.ru/PdWo80P4zl656AKac3qSPw/1724430773/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Спас HD
+https://salam-mskm9-10.rutube.ru/dive/river-5-519.rutube.ru/_ElCUrMxUMDQNtk-iTzhkg/stream/genetta-528.ost.rutube.ru/TGuXIkX9db8NySXHgTCWmA/1724988594/2bbfa9ebf9d79ade480d7281fcef1008/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Соловьёв LIVE HD
+https://salam-mskm9-37.rutube.ru/dive/river-3-328.rutube.ru/Cn-NIAhSQ5Ikncb0Zxh47g/stream/genetta-328.m9.rutube.ru/_MECH5gu-weYNiKHkFJAfg/1724988702/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Солнце
+https://salam-2-6.rutube.ru/dive/river-3-321.rutube.ru/Q5K0Gk63Boyjlif_M3aipg/stream/musang-701.brz.rutube.ru/wx40TrlqJP1Nb1rSBCuNtw/1724430997/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ТНТ HD
+https://salam-2-16.rutube.ru/dive/river-3-321.rutube.ru/Tt4jw31nvcbzyiKUmvLPwA/stream/musang-706.brz.rutube.ru/Vc9FoX-dby0OhdHCevHz6Q/1724430593/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ТНТ4 HD
+https://salam-2-2.rutube.ru/dive/river-3-311.rutube.ru/C3_18yIkYghBkp2YV0e4XA/stream/musang-703.brz.rutube.ru/R8auH5-FIFuTwwJNKIiQsw/1724430617/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ТВ3 HD
+https://salam-2-2.rutube.ru/dive/river-5-513.rutube.ru/q82MaO8WNbDJV0Hj01fz2Q/stream/musang-703.brz.rutube.ru/kugTGBz1ql24i-OMBUgVeA/1724430661/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", 2x2 HD
+https://salam-2-16.rutube.ru/dive/river-5-511.rutube.ru/5GS1lkpgn5XxcYxWSt7vDw/stream/musang-706.brz.rutube.ru/rwpd3v4u1xMEB4sUqB9oYg/1724430753/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Ю HD
+https://salam-2-9.rutube.ru/dive/river-5-513.rutube.ru/u_O7RHjf8rizZO7JG505tA/stream/musang-704.brz.rutube.ru/SI81gHHI-TK9NoxSy4dJRw/1724430955/5c9327074e25ca86f3111d4085cbbb65/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Матч ТВ HD
+https://salam-mskm9-10.rutube.ru/dive/river-3-328.rutube.ru/80Fp00IvKbIcmW5Rr_uIjQ/stream/musang-701.brz.rutube.ru/rF7httCO4e_k5eVqzneSoA/1724616571/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", МИР HD
+https://salam-mskm9-10.rutube.ru/dive/river-3-328.rutube.ru/zH2qIlDPnbVdOhXZDVDH2A/stream/genetta-321.m9.rutube.ru/_lNdaQHJNYQqzigzJtEbZw/1724988670/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-id="oxotnik-i-rybolov-int", Охотник и рыболов HD
+https://salam-2-5.rutube.ru/dive/river-3-328.rutube.ru/U86ILMMtm6S2Bnz8A9cviw/stream/genetta-513.ost.rutube.ru/WKCx9WWvXFwxQuZzMKZ8yA/1724430685/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-id="zagorodny-int", Загородный International HD
+https://salam-2-6.rutube.ru/dive/river-3-328.rutube.ru/RlC9mcLjGFFAcSeZ-HnO4g/stream/genetta-518.ost.rutube.ru/2-oSTh9VHXbH4jfrfQxeZQ/1724430708/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ОТР - Общественное Телевидение России 
+https://salam-mskm9-37.rutube.ru/dive/river-5-515.rutube.ru/b2pZqUwVRPHV4it076RGsg/stream/genetta-517.ost.rutube.ru/1ualUjkrQxkv6SYDaY1VmQ/1724988459/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Звезда HD
+https://salam-mskm9-9.rutube.ru/dive/river-3-327.rutube.ru/o8Idn98R2HYLffIdVDAYkw/stream/musang-702.brz.rutube.ru/58NQVkaiDlPWlSaaZUqL4w/1724988566/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
+
+
+
+#EXTINF:-1 group-title="Rutube", 78 канал HD
+https://live-gcore-1.rutube.ru/stream/genetta-520.ost.rutube.ru/rPKPQtVBww-I3anPZYM4QQ/1724912534/bbf23277dbd0dd0e6a623526d4c3f8c9/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", БелРос
+https://salam-2-9.rutube.ru/dive/river-5-513.rutube.ru/MkarwwkfEFVslk0DTrGe4A/stream/genetta-318.m9.rutube.ru/P2PFTYeJ9IEIyN968ZzrYQ/1724430884/46c03b7f1a7255326900f4a60a9b44e0/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Буряад ТВ HD
+https://salam-2-9.rutube.ru/dive/river-3-320.rutube.ru/qbxWXcimgVHUlUVfjF7K0Q/stream/musang-704.brz.rutube.ru/TATt9tfzv7Tb24gVI0O_Hg/1724431018/55fec7f2c11f4decc66568fca39f26b2/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Вместе-РФ HD
+https://live-gcore-1.rutube.ru/stream/genetta-530.ost.rutube.ru/iPlBP2j6eBnO56LdU7-yWA/1724744039/f6a6d5c955180d0d0f80c66d0b6150d3/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Волга HD
+https://salam-2-16.rutube.ru/dive/river-3-311.rutube.ru/bLvdanfzpgdq1xk2hrtyAw/stream/musang-701.brz.rutube.ru/W7SAeGcQHc2tw99QxQU4ag/1724430840/bed2dcda74004e4e9a61966d2848c027/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Истоки Орёл
+https://live-gcore-1.rutube.ru/stream/genetta-504.ost.rutube.ru/Azxvp_oC1rKYdynDRd6BVQ/1724955679/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Краснодар HD
+https://live-gcore-1.rutube.ru/stream/genetta-319.m9.rutube.ru/gWPMl8gmfciTLbNrtJgx6w/1724831729/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Краснодар HD (2)
 https://salam-mskm9-6.rutube.ru/dive/river-3-318.rutube.ru/HFdYtSZPJKDSf9BWpCY0yg/stream/genetta-319.m9.rutube.ru/oYx8tYoPAIClpXjCp2LFtw/1724979452/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
-
-#EXTINF:-1 group-title="RUTUBE (тест)"  tvg-logo="https://pic.rutubelist.ru/video/14/19/14190807c0c48b40361aca93ad0867c7.jpg?size=l", Первый
-https://salam-mskm9-37.rutube.ru/dive/river-3-327.rutube.ru/kBkd9BG1B3akvNrTF6zGHA/stream/musang-705.brz.rutube.ru/k8We968SXJRpraaT_POOaw/1724979733/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-logo="https://pic.rutubelist.ru/video/48/cf/48cf782d6973dce5d23010688db5378b.jpg?size=l", Крым 24 (576p)
+https://salam-mskm9-43.rutube.ru/dive/river-5-520.rutube.ru/hDgY1rwb0gbDklIhitP-uA/stream/genetta-304.m9.rutube.ru/SDSrEUy4z-WXAeKNdAGo5w/1724978793/261339ca4f1396ea0271d07364bd99dd/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Новосибирск ОТС HD
+https://salam-2-17.rutube.ru/dive/river-3-321.rutube.ru/FgtawRFBiEsCGMD1rJPMuQ/stream/genetta-512.ost.rutube.ru/tKOVnWkmRvoMlSTk6AHPoQ/1724430821/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Русский Корабль HD
+https://salam-2-6.rutube.ru/dive/river-3-324.rutube.ru/cWYXDtAeXiHshe4KgrYcsQ/stream/genetta-303.m9.rutube.ru/MrTkhM973OXCWWSCkVG6mA/1724496442/3ebc361db78373495974123cfb994531/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Смайлик ТВ HD
+https://salam-2-9.rutube.ru/dive/river-3-313.rutube.ru/r-8TjSGJcbp1qZ_Jk0Ef-A/stream/genetta-327.m9.rutube.ru/DYx-R1rBguE9jt341wRIwA/1724430978/2f052691c75d72b3ed7f3c33ea956a41/1080p_stream.m3u8
 
 
 
