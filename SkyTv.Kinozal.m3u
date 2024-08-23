@@ -662,13 +662,10 @@ http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="RUTUBE (тест)" tvg-logo="https://pic.rutubelist.ru/video/48/cf/48cf782d6973dce5d23010688db5378b.jpg?size=l", Крым 24 (576p)
 https://salam-mskm9-43.rutube.ru/dive/river-5-520.rutube.ru/hDgY1rwb0gbDklIhitP-uA/stream/genetta-304.m9.rutube.ru/SDSrEUy4z-WXAeKNdAGo5w/1724978793/261339ca4f1396ea0271d07364bd99dd/576p_stream.m3u8
 
-#EXTINF:-1 group-title="RUTUBE (тест)" tvg-logo="url('https://rutube.ru/favicon.ico')", 
-телеканал «Краснодар»
+#EXTINF:-1 group-title="RUTUBE (тест)" tvg-logo="url('https://rutube.ru/favicon.ico')", Телеканал «Краснодар»
 https://salam-mskm9-6.rutube.ru/dive/river-3-318.rutube.ru/HFdYtSZPJKDSf9BWpCY0yg/stream/genetta-319.m9.rutube.ru/oYx8tYoPAIClpXjCp2LFtw/1724979452/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
 
-#EXTINF:-1 group-title="RUTUBE (тест)" 
-tvg-logo="https://pic.rutubelist.ru/video/14/19/14190807c0c48b40361aca93ad0867c7.jpg?size=l", 
-Первый
+#EXTINF:-1 group-title="RUTUBE (тест)"  tvg-logo="https://pic.rutubelist.ru/video/14/19/14190807c0c48b40361aca93ad0867c7.jpg?size=l", Первый
 https://salam-mskm9-37.rutube.ru/dive/river-3-327.rutube.ru/kBkd9BG1B3akvNrTF6zGHA/stream/musang-705.brz.rutube.ru/k8We968SXJRpraaT_POOaw/1724979733/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
 
 
