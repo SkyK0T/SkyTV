@@ -424,3 +424,16 @@ https://river-5-522.rutube.ru/hls-vod/rPtivD6F2B1QKLwCgUvSzw/1725740379/1875/0x5
 https://river-3-328.rutube.ru/hls-vod/l78Y0ajXeBMuwCAQLxqq6Q/1725740760/1848/0x5000cca2841e59d0/174e9ce15c7d4baebec7149609e7ea17.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Турция 4K
 https://river-6-602.rutube.ru/hls-vod/5FLlwqU45kfxL860_8WjTQ/1725740524/1798/0x5000c500e3d50955/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160
+
+#EXTINF:-1 group-title="🔺 Dimonovich TV 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:02.09.2024
+http://194.26.229.213/zastavka/index.m3u8
+#EXTINF:-1 group-title="🔺 Dimonovich TV  🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://mssg.me/neo_tv
+http://194.26.229.213/intro/index.m3u8
+#EXTINF:-1 group-title="🔺 Dimonovich TV  🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="🔺 Dimonovich TV  🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="🔺 Dimonovich TV  🔺" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="🔺 Dimonovich TV  🔺" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
