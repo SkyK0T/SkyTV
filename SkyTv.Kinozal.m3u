@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="SCR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou 𝟸𝟺/𝟽
+#EXTINF:-1 tvg-id="SCR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/bm019WM/image-34.png", Мультсериалы Футурама 𝟸𝟺/𝟽
@@ -17,7 +17,7 @@ https://hls.goodgame.ru/hls/204722.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="http://epg.it999.ru/img/4780.png", Кино Фантастика HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0 tvg-id="Akudji" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png", Кино Интерактивное ТВ ★ from AkuDji
+#EXTINF:-1 tvg-id="Akudji" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png", Кино Интерактивное ТВ ★ from AkuDji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png", Кино FILM TV HD3JIou-TaTaPuH
@@ -29,7 +29,7 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png", Кино 2FILMAX 2 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:0 tvg-id="FMC" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/syWstRm/image-29.png", Кино FantasticMystiC FMC TV (TDM TV) 
+#EXTINF:-1 tvg-id="FMC" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/syWstRm/image-29.png", Кино FantasticMystiC FMC TV (TDM TV) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru", Кино SeleCaoTV
@@ -44,13 +44,13 @@ https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/M8ksMM0/image-6.png", Кино и сериалы 4K
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/206513.m3u8 
-#EXTINF:0 tvg-id="STR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png", Киноужас Кошмар HD
+#EXTINF:-1 tvg-id="STR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png", Киноужас Кошмар HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hlss.goodgame.ru/hls/204709.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru", Киноужас Страх HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/202127.m3u8
-#EXTINF:0 tvg-id="STR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png", Киноужас STR TV
+#EXTINF:-1 tvg-id="STR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png", Киноужас STR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/185110.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png", Мультики и сказки HD @TDM777
@@ -77,7 +77,7 @@ https://hls.goodgame.ru/hls/194731.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg", Музыка Mafi2a TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/147714.m3u8
-#EXTINF:0 group-title="Трансляции GoodGame.ru" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M", Музыка TechnoDanceMusic
+#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M", Музыка TechnoDanceMusic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180509.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru", Радио TechnoDanceRadio
@@ -87,7 +87,7 @@ https://hls.goodgame.ru/hls/191952.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru", Звуки дождя 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/198378.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Шоу Что? Где? Когда? WWW  What? Where? When?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png", Шоу Что? Где? Когда? WWW  What? Where? When?
 http://195.9.195.3:8080/hls/192005.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/fdcvKF9/image-45.png", SPIRAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -158,7 +158,7 @@ https://hls.goodgame.ru/hls/22416.m3u8
 
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png", Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" , Сити Эдем - КиноДетектив
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" , Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png", Сити Эдем - КиноДрама
 https://v2.catcast.tv/content/45269/index.m3u8
@@ -206,33 +206,33 @@ https://v2.catcast.tv/content/39971/index.m3u8
 https://v2.catcast.tv/content/42311/index.m3u8
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈",ԼԱՅՄ GOLD TV
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png", Eurodance 90
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png", Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", 4k_no Кино и сериалы 24/7 VKPlay.live
 https://s.catcast.tv/content/42935/index.m3u8?token=a4a35f3c1e3f120e426e54ac1583ffd2
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png", TV VHS (niko630)
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png", TV VHS (niko630)
 https://s.catcast.tv/hls/brotv-kino-1591.ts
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/08072024/logos/47402-668bbb1ce5fcc.png", Заставка ТВ6 Москва
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/08072024/logos/47402-668bbb1ce5fcc.png", Заставка ТВ6 Москва
 https://v2.catcast.tv/videos/ch47402/080720241200_238627/video.mp4
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", KSTR // Shelter Town Radio
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", KSTR // Shelter Town Radio
 https://catcast.tv/player/40064
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", KSTR // Shelter Town Radio 2
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", KSTR // Shelter Town Radio 2
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", Fenix SSSR
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", Fenix SSSR
 https://v2.catcast.tv/content/40102/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg", ВИДЕОСАЛОН VHS
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg", ВИДЕОСАЛОН VHS
 https://v2.catcast.tv/content/40391/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg", VHS
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg", VHS
 https://v2.catcast.tv/content/44051/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", MTV Russia TEST
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", MTV Russia TEST
 https://v2.catcast.tv/content/45105/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", Ремиксы
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", Ремиксы
 https://v2.catcast.tv/content/41833/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", Disney XD VIP
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", Disney XD VIP
 https://v2.catcast.tv/content/33501/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", WWE Russian
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", WWE Russian
 https://v2.catcast.tv/content/42608/index.m3u8
-#EXTINF:0 group-title="Трансляции Catcast TV 🐈" tvg-logo="", НТВ Крайм сити
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", НТВ Крайм сити
 https://v2.catcast.tv/content/41632/index.m3u8
 
 
