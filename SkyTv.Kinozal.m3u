@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
 #EXTINF:-1 tvg-id="SCR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/61358.m3u8
@@ -174,7 +175,7 @@ https://v2.catcast.tv/content/34246/index.m3u8
 https://v2.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png", Сити Эдем - Meditation Music
 https://v2.catcast.tv/content/47410/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈 "tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" , Сити Эдем - Classic Music
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" , Сити Эдем - Classic Music
 https://v2.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png", Armenius TV
 https://autopilot.catcast.tv/content/40504/index.m3u8
@@ -395,31 +396,31 @@ https://river-5-520.rutube.ru/hls-vod/HSwahyxAgRm4_1nxtNZHZw/1725740494/2195/0x5
 https://river-5-522.rutube.ru/hls-vod/XRJY1z7Tb2nRVoBCxQmGZA/1725740463/2229/0x5000c500e658a29c/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Аляска 4K 60fps
 https://river-3-301.rutube.ru/hls-vod/lgNkqx0TeuYCrzCvQuCnVw/1725740435/1879/0x5000c500e5356ed6/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Бора-Бора в 4К
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Бора-Бора 4К
 https://river-5-515.rutube.ru/hls-vod/425OmFPQH3Wp792rb0D1Hw/1725740695/1887/0x5000c500e53a12cf/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Германия в 4K
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Германия 4K
 https://river-5-511.rutube.ru/hls-vod/ELxgsZx7XJzVpN1EswdFzA/1725740872/1790/0x5000c500d6c05950/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Дубай в 4K
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Дубай 4K
 https://river-5-512.rutube.ru/hls-vod/pRfqMMHIwSO8q6okSwWgHA/1725740847/1774/0x5000c500c49ad01b/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Карибы в 4К
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Карибы 4К
 https://river-3-318.rutube.ru/hls-vod/6XvwwUvTAQcOhvtgN2w0Xw/1725740904/1782/0x5000c500c3291750/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Каттегат в 4К С Музыкой Викингов
 https://river-3-322.rutube.ru/hls-vod/Htn7rpCOvM2yujZVkTPn1A/1725740644/1842/0x5000cca2841edef0/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Мальдивы в 4К
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Мальдивы 4К
 https://river-5-517.rutube.ru/hls-vod/Raj0F_TRQ_fPGvRL7_OtbQ/1725740818/1848/0x5000cca28420b4e4/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Манила в 4K
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Манила 4K
 https://river-3-316.rutube.ru/hls-vod/sRayv0ZK_V-vUjZnczeqsA/1725740558/1826/0x5000c500c432e5a6/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Морокко в 4К
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Морокко 4К
 https://river-5-521.rutube.ru/hls-vod/jWMbNT4eA5YJyyRrffhlyA/1725740788/1768/0x5000c500e34c9a66/2a52b66f92314c188a9781d462cf8b3e.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Намибия в 4К
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Намибия 4К
 https://river-5-516.rutube.ru/hls-vod/Hcu9ZPBcLW0eNeHcHMm5kQ/1725740733/1820/0x5000c500c45b3ee6/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Невероятная Красота 4K
 https://river-3-321.rutube.ru/hls-vod/KS_KBvEY6D6DepYbiDxcQA/1725740592/1770/0x5000c500c58d6607/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Пакистан в 4К
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Пакистан 4К
 https://river-5-512.rutube.ru/hls-vod/wr9pTGUkEZUamJAw6FDCjA/1725740671/1796/0x5000c500c884be1b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160
 #EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Перу 4K 60fps
 https://river-5-522.rutube.ru/hls-vod/rPtivD6F2B1QKLwCgUvSzw/1725740379/1875/0x5000c500e53957cd/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Серенгети в 4К
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Серенгети 4К
 https://river-3-328.rutube.ru/hls-vod/l78Y0ajXeBMuwCAQLxqq6Q/1725740760/1848/0x5000cca2841e59d0/174e9ce15c7d4baebec7149609e7ea17.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Турция в 4K
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Турция 4K
 https://river-6-602.rutube.ru/hls-vod/5FLlwqU45kfxL860_8WjTQ/1725740524/1798/0x5000c500e3d50955/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160
