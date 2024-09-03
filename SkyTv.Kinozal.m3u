@@ -536,11 +536,668 @@ https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-id="" tvg-name="Sunset Movie" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz2VkMnbt4BOHJ7wsbVO-RrguhMzVgnlOjBAn_M8FHNxP.png" group-title="Sunset Public",Sunset Movie
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Movie" tvg-logo="https://sunset-media.ru/assets/logos/movie.png",Sunset Movie
 https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-id="" tvg-name="Sunset Music" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz5kHi4vzPnuHWjUHFuKGvsklHdqd1PeRgH3mpeoj4RHR.png" group-title="Sunset Public",Sunset Music
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Music" tvg-logo="https://sunset-media.ru/assets/logos/music.png",Sunset Music
 https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-id="" tvg-name="Sunset Space" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz12ZvH5jnVmQFUKS5h4YOgfXGOI0xbzfNYAhy3zZ1hwk.png" group-title="Sunset Public",Sunset Space
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Space" tvg-logo="https://sunset-media.ru/assets/logos/space.png",Sunset Space
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-id="" tvg-name="Sunset Kids" tvg-logo="https://stream.sunset-media.ru:443/images/AfE0MpsGM8EECV5bHCwLz8lkQEGkvXUn-kGUYgVn1NAR-PZKfLBsZ0m-Q-ueM3Ij.png" group-title="Sunset Public",Sunset Kids
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Kids" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-logo="https://sunset-media.ru/assets/logos/anime.png",Sunset Anime
+https://stream.sunset-media.ru/Free/Free/5.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-logo="https://sunset-media.ru/Sunsetmusiclive.png",Sunset Music Live
+https://stream.sunset-media.ru/Free/Free/6.m3u8
+
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media",Groovezzo
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
+#EXTINF:-1 taurer-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media",RRTV Europe
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
+#EXTINF:-1 taurer-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media",NINJA
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
+#EXTINF:-1 taurer-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media",World-1
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
+#EXTINF:-1 taurer-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media",Криминал и Полиция
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
+#EXTINF:-1 taurer-id="1131" tvg-id="" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png" group-title="Taurer Media",KidsPlanet
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
+#EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media",KidsPlanet+
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
+#EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png" group-title="Taurer Media",Quality HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
+#EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media", Кулинар HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
+#EXTINF:-1 taurer-id="1339" tvg-id="" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png" group-title="Taurer Media", Авто-Гир
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/28.m3u8
+#EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png" group-title="Taurer Media", TRR Georgia National Film
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/29.m3u8
+
+#EXTINF:-1 taurer-id="1531" tvg-id="" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" group-title="Taurer Media",SCORELIVE 1 HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
+
+
+
+
+#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network",LIVE:ХБ-ШОУ
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/31.m3u8
+#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network",LIVE:Мылодрама
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
+#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network",LIVE:Полицейский с Рублевки
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
+#EXTINF:-1 dsn-id="19311" tvg-id="" tvg-name="LIVE_SVARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSVATY_TEMP.png" group-title="Digital Satellite Network",LIVE:Сваты
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
+#EXTINF:-1 fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png" group-title="15+ Media Group",15+ Music
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/16.m3u8
+#EXTINF:-1 fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png" group-title="15+ Media Group",Кринж ТВ
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/18.m3u8
+#EXTINF:-1 fiftmediagroup-id="9238" tvg-id="" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png" group-title="15+ Media Group",Alpha Cinema
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/8.m3u8
+#EXTINF:-1 fiftmediagroup-id="948" tvg-id="" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png" group-title="15+ Media Group",Alpha Onenite
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/9.m3u8
+#EXTINF:-1 fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png" group-title="15+ Media Group",Alpha Funny
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/10.m3u8
+#EXTINF:-1 fiftmediagroup-id="1246" tvg-id="" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png" group-title="15+ Media Group",Alpha Games
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/11.m3u8
+#EXTINF:-1 fiftmediagroup-id="09" tvg-id="" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png" group-title="15+ Media Group",Alpha Anime
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/12.m3u8
+#EXTINF:-1 fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png" group-title="15+ Media Group",Alpha Sex
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/13.m3u8
+
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="01 TAURERPLUS",01 ZHUKIDEBUG HLS
+http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.m3u8
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="01 TAURERPLUS",01 ZHUKIDEBUG TS
+http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.ts
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="02 TAURERPLUS",02 ZHUKIDEBUG HLS
+http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.m3u8
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="02 TAURERPLUS",02 ZHUKIDEBUG TS
+http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.ts
+
+
+
+
+
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",360°
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Яндекс", НСТ (Беларусь)
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Timeless Dizi Channel HD (Беларусь)
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Кинохит HD (Беларусь)
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Киномикс HD (Беларусь)
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Киносемья HD (Беларусь)
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Киносвидание HD (Беларусь)
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Киносерия HD (Беларусь)
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Киносат (Беларусь)
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Наше новое кино (Беларусь)
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", Hollywood HD (Беларусь)
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс", TV XXI (Беларусь)
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",ТВ 3 Беларусь
+https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",МИР 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Неизвестная россия HD
+http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Tiji
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",BRIDGE TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}" group-title="Спорткомплекс 🏆",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+
+
+
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, Неизвестная Россия (2 источник)
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD (МСК)
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВ (CDN)" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="CloudFlare Inc",1HD
+https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",2x2
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",360 новости
+https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",360°
+https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Animal Planet HD
+https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc"group-title="Музыкальные 🎶",Baby Time
+https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Classic
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Deluxe
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Hits
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Русский хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Da Vinci
+https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Discovery channel HD
+https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Discovery Science HD
+https://livetv.mylifeisgood.net.ru/channels/discoveryscience.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",DTX HD
+https://livetv.mylifeisgood.net.ru/channels/discoverydtx.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Fox HD
+https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Fox Life HD
+https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Gulli Girl
+https://livetv.mylifeisgood.net.ru/channels/gulli.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",HD Life
+https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Investigation Discovery HD
+https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Nickelodeon HD
+https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Paramount Channel
+https://livetv.mylifeisgood.net.ru/channels/paramount_channel.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Paramount Comedy
+https://livetv.mylifeisgood.net.ru/channels/paramount_comedy.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Russian Music Box
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Start Air HD
+https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Start World HD
+https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",TERRA
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",TIJI
+https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Top Secret
+https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Trash
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",TV1000 Action HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",TV1000 Русское Кино HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Viasat Explore HD
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Viasat History HD
+https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Viasat Nature HD
+https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Viju+ Planet HD
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Vip Comedy HD
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Vip Megahit HD
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Vip Premiere HD
+https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Vip Serial HD
+https://livetv.mylifeisgood.net.ru/channels/viju-serial.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Арсенал
+https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Глазами Туриста
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",День победы
+https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Диалоги о Рыбалке
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 group-title="CloudFlare Inc",Европа Плюс ТВ
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Живая природа
+https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Живи Активно HD
+https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Загородный Int
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Звезда
+https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Известия
+https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Карусель
+https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Кинеко
+https://livetv.mylifeisgood.net.ru/channels/kineko.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Кино ТВ HD (+7)
+https://livetv.mylifeisgood.net.ru/channels/kinotvst.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Мир 24 HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Москва 24
+https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Москва Доверие
+https://livetv.mylifeisgood.net.ru/channels/moscvadoverie.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Моя Планета
+https://livetv.mylifeisgood.net.ru/channels/myplanet.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",МузТВ
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Наша сибирь 4K
+https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Наша Сибирь HD
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",НТВ Право
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",НТВ Сериал
+https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",НТВ Стиль
+https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",НТВ Хит
+https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Оружие
+https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",ОТР
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Первый HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Первый Космический HD
+https://livetv.mylifeisgood.net.ru/channels/firstspace.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Приключения HD
+https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Пятница HD
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Пятый канал
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",РЕН ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Россия 1
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Россия 24
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Россия К
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Рыжий
+https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Санкт-Петербург
+https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Сапфир
+https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Смайлик ТВ
+https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",СОЛНЦЕ
+https://livetv.mylifeisgood.net.ru/channels/disney.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",СПАС
+https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",СТС Kids HD
+https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",СТС Love
+https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Суббота
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",ТВЦ
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",ТНТ Music
+https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Феникс+Кино
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",ЧЕ
+https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc",Ю
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+
+
+#EXTINF:-1  group-title="ВГТРК Смотрим" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Melodramy.png?raw=true" tvg-id="no_epg_cinema",Смотрим Мелодрамы 
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим",Смотрим Мелодрамы (2 источник)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png",Смотрим Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим",Смотрим Тайны (2 источник)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/%D0%9F%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B/Smotrim_Kino_i_Serialy.png?raw=true" tvg-id="no_epg_cinema",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим Детям
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="ВГТРК Смотрим",Смотрим Частный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим",Смотрим Радио 8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-08.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="360.ru", 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="360.ru", 360° (2)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="360News.ru", 360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png", Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=Gtoixaohrmg66yFpncszrQ&e=1725327589&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="VmesteRF.ru", Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png", Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Xzvezda" tvg-logo="http://epg.it999.ru/img2/405.png", Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="ВГТРК Смотрим",Вести ФМ
+https://player.smotrim.ru/iframe/stream/live_id/52035
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Moskva24.ru",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Russia1.ru",Россия 1
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Russia24.ru",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RussiaK.ru",Россия-К
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaAsia.ru",РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/63254
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaEurope.ru",РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaEurope.ru",РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/63251
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaCIS.ru",РТР Планета СНГ
+https://player.smotrim.ru/iframe/stream/live_id/63253
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="RTRPlanetaUSA.us",РТР Планета США
+https://player.smotrim.ru/iframe/stream/live_id/63250
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="SanktPeterburg.ru",Санкт Петербург
+https://player.smotrim.ru/iframe/stream/live_id/62037
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="SolovyovLive.ru",Соловьев LiveHD
+https://player.smotrim.ru/iframe/stream/live_id/63338
+
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Volgograd24.ru", Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Самара 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Kavkaz24.ru", Кавказ 24 (Ставрополь)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим"  tvg-logo="https://alaniatv.ru/wp-content/uploads/2019/12/Kavkaz24_logo_RGB-01-e1575553930521.png",Кавказ 24 (Ставрополь) 2
+#EXTINF:-1 group-title="ВГТРК Смотрим", Запад 24 (Калининград)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Bashkortostan24.ru", Башкортостан 24 (Уфа)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-logo="https://i.postimg.cc/zBqwmx5V/image.png",Башкортостан 24 (2 источник)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/3_94bb0c79/chunklist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Урал 24 (Челябинск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="NizhniyNovgorod24.ru", Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="DumaTV.ru", Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут HDС ургутИнформТВ
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="krasnodar", Краснодар HD
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="UgraTV.ru", Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="OTVPrim.ru", ОТВ Приморья
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим", Толк (Алтай Барнаул)
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="BigAsia.ru", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="TNTMusic.ru", ТНТ Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png", Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+#EXTINF:-1 group-title="Caspel",Первый канал HD
+http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Россия 1 HD
+http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Россия 24
+http://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",НТВ HD
+http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",ТНТ HD
+http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Рен ТВ
+http://mfe01.cliptv.az/dash/Ren_SD0204opts.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Investigation Discovery
+http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Viasat History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel" aspect-ratio="16:9",Viasat Nature
+http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Animal Planet HD
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Discovery Channel HD
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",History HD
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Big Planet
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Travel+Adventure
+http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",RTG TV
+http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Дикий
+http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Ностальгия
+http://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Hollywood
+http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",2x2
+http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",СТС
+http://mfe02.cliptv.az/dash/STS_SDshl247h.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",СТС Love
+http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Пятница
+http://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Че
+http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Авто плюс
+http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Домашний
+http://mfe01.cliptv.az/dash/Domashniy_SDdppq23v.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Кухня ТВ
+http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",TLC HD
+http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Комедия
+http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Беларусь 24
+http://mfe02.cliptv.az/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",.Black
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",.Sci-Fi
+http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Amedia 1
+http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Amedia 2
+http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",ТВ3
+http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",TV1000 Русское кино
+http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Кинохит
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Киносемья
+http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Индийское кино
+http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Киносвидание
+http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Мужское кино
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Киномикс
+http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Киносерия
+http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Родное кино
+http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Наше новое кино
+http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Кинокомедия
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Любимое кино
+http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",TV XXI
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Дом Кино Премиум HD
+http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Еврокино
+http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",VIP Comedy HD
+http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",VIP Megahit HD
+http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",VIP Premiere HD
+http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Amedia Premium HD
+http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Кино ТВ HD
+http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Мир сериала
+http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Cinema
+http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Сапфир
+http://mfe02.cliptv.az/dash/Fox_Russia_SDqwqwqw321.ism/playlist.mpd
+
+
+
+#EXTINF:-1 group-title="45.159.74.13:80", Первый канал
+http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="45.159.74.13:80", Россия 1
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="45.159.74.13:80", Россия РТР
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="45.159.74.13:80",НТВ
+http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="45.159.74.13:80", СТС HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="45.159.74.13:80", Домашний
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="45.159.74.13:80", Мир
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="45.159.74.13:80", ATV HD
+http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="31.148.48.15:80", Россия 1
+http://31.148.48.15:80/Rossiya_1/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", НТВ
+http://31.148.48.15:80/NTV/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", Звезда
+http://31.148.48.15:80/Zvezda/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", ТНТ
+http://31.148.48.15:80/TNT/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", ТНТ4
+http://31.148.48.15:80/TNT4/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", Мир 
+http://31.148.48.15:80/Mir/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", Мир 24
+http://31.148.48.15:80/Mir_24/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", 7 TV
+http://31.148.48.15:80/7TV/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", ОТР
+http://31.148.48.15:80/OTR/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", TDK
+http://31.148.48.15:80/TDK/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", Суббота!
+http://31.148.48.15:80/Super/index.m3u8?token=test
+#EXTINF:-1 group-title="31.148.48.15:80", КВН ТВ
+http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
+
+
+#EXTINF:-1 group-title="📺" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg",MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 group-title="📺" tvg-id="StarFamily.ru", Star Family (русский Латвия)
+http://89.254.128.5:22280/star_family_hd/video.m3u8
+#EXTINF:-1 group-title="📺",Plan_B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 group-title="📺",Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+
+#EXTINF:-1 group-title="Инфострой (VPN)",Flix Snip
+http://212.22.76.51:7000/FlixSnip/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Инфострой (VPN)",Hollywood HD
+http://212.22.76.51:7000/Hollywood_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lime Юнионтел",Первый вегетарианский
+https://mhd128.iptv2022.com/p/xxvhqW9UVd47lXODKfpXXQ,1709670028/streaming/firstvegan/324/5/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Lime Юнионтел" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="Lime Юнионтел" tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="Lime Юнионтел" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
