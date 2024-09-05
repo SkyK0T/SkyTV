@@ -27,13 +27,17 @@ https://hls.goodgame.ru/hls/187241.m3u8
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png", Кино FILM TV HD go6PbIu 3JIou-TaTaPuH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/DrTm6Lt/image-26.png", Кино 1FILMAX  𝟸𝟺/𝟽
+https://hls.goodgame.ru/hls/163253.m3u8Фантастика
+#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/DrTm6Lt/image-26.png", Кино 1FILMAX Фантастика 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204708_720.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png", Кино 2FILMAX 2 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png", Кино 2FILMAX Комедия 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204717.m3u8
+
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", Кино 3FILMAX Мелодрамы(с одноклассников)
+https://ok.ru/video/4891374853829
+
 #EXTINF:-1 tvg-id="FMC" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/syWstRm/image-29.png", Кино FantasticMystiC FMC TV (TDM TV) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187741.m3u8
@@ -43,7 +47,7 @@ http://hlss.goodgame.ru/hls/157269.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/146065.m3u8
 
-#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",Кино и сериалы FAN
+#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",Кино FAN TV (Fantastic Animation) Японская анимация
 http://hlss.goodgame.ru/hls/157239.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
@@ -182,12 +186,6 @@ https://hls.goodgame.ru/hls/206355.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1566003_uo4m.jpg",НОСТАЛЬЖИ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199415.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png", Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" , Сити Эдем - КиноДетектив
@@ -270,7 +268,10 @@ https://v2.catcast.tv/content/33501/index.m3u8
 https://v2.catcast.tv/content/42608/index.m3u8
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="", НТВ Крайм сити
 https://v2.catcast.tv/content/41632/index.m3u8
-
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈",Кино Мегахит
+https://v2.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 group-title="Трансляции Catcast TV 🐈",Мультики Vizi Vizi En (Смешарики на анг)
+https://v2.catcast.tv/content/47669/index.m3u8
 
 #EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="https://img.catcast.tv/uploads/14032023/logos/9620-6410392404a6a.png",Малдер Всё тв
 https://media-gateway-cache.nuum.ru/live/5498/index.m3u8
@@ -1201,3 +1202,119 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Lime Юнионтел" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 group-title="Telik.live Общественные",Первый канал
+https://cdn10.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1725495708
+#EXTINF:-1 group-title="Telik.live Общественные",Россия 1
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=E3jVGEeh5_HiEzDW4VyL_w&e=1725513630&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="Telik.live Общественные",Рен ТВ
+https://tvcdnpotok.com/VZafZB08PUKlxcj3al0WkA/543/1725503443/index.m3u8
+#EXTINF:-1 group-title="Telik.live Общественные",Первый Крымский
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8?hls_ctx=gv5u06iv
+#EXTINF:-1 group-title="Telik.live Общественные",Красная линия
+https://tvcdnpotok.com/rline/index.m3u8?wmsAuthSign=96def2649e7fadf8002f2230c9cb4e02-1725513867-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Общественные",НТВ Мир
+https://streaming101.goodstream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Telik.live Общественные",Вместе-РФ
+https://ok.ru/video/596450963
+#EXTINF:-1 group-title="Telik.live Общественные",Продвижение
+https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Telik.live Киноканалы",Иллюзион+
+https://tvcdnpotok.com/K209w-M0hfOwBMlvRunP3Q/130/1725503911/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Иллюзион+
+https://tvcdnpotok.com/illyuzion_pl/index.m3u8?wmsAuthSign=6de36ee171f9602551a527b7dd250c40-1725503911-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Иллюзион+
+https://tvcdnpotok.com/1wMA0jFNxWMTskC6-7r2dQ/130/1725503960/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Иллюзион+
+https://tvcdnpotok.com/illyuzion_pl/index.m3u8?wmsAuthSign=76c41ee73b9682140e3bb4a87f73f92d-1725503960-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",НСТ
+https://tvcdnpotok.com/nst/index.m3u8?wmsAuthSign=8ec7efa153f9d33d85bcc6d63c61fbdd-1725504215-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",НСТ
+https://tvcdnpotok.com/HJVAOq6YunrPlL1e4DA0Kg/127/1725504215/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Комедия
+https://tvcdnpotok.com/K9SkEctJmFo2ahrjtV_9fA/510/1725504573/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Комедия
+https://tvcdnpotok.com/ryskomedi/index.m3u8?wmsAuthSign=e0f2ed8733d35cd8bc1bdfccdc34a4d3-1725504573-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Премиальное HD
+https://tvcdnpotok.com/iD5AKfIXWvqk-iY-fZaXSg/134/1725503099/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Приключения HD
+https://tvcdnpotok.com/rdebu4XCJAbmgeU13bArGw/542/1725503626/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Cinema
+https://tvcdnpotok.com/X1IxwS3Pg1Fig_6nb0Xczg/104/1725503663/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 1
+https://tvcdnpotok.com/703J_QaA4qNj8EyvGIhMUQ/141/1725504664/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 1
+https://tvcdnpotok.com/141/index.m3u8?wmsAuthSign=6e5d41fe7d1020bf10d305431368f2ff-1725504663-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 2
+https://tvcdnpotok.com/X1IxwS3Pg1Fig_6nb0Xczg/104/1725503663/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 2
+https://tvcdnpotok.com/DLtVFRPlmz6kGYZf-wVdHg/142/1725503693/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 2
+https://tvcdnpotok.com/142/index.m3u8?wmsAuthSign=a79f9acdab1cf02c873b43a3141b38a7-1725503693-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 3
+https://tvcdnpotok.com/OE59bzqHtRF2uja9CGrWbg/140/1725504723/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 3
+https://tvcdnpotok.com/140/index.m3u8?wmsAuthSign=b87be71da001600f29c3fe4ff56b825a-1725512811-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 4
+https://tvcdnpotok.com/5wX9J8x_EmeFxaPxW6OQBw/138/1725512841/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 4
+https://tvcdnpotok.com/138/index.m3u8?wmsAuthSign=59dbb9963b908b5883cf26b8a3907ed2-1725512840-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 5
+http://135.181.115.81:8000/play/a00i/18287557.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 6
+http://91.205.199.3/vipserialhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Kinozal 7
+http://135.181.115.81:8000/play/a00h/37750351.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Любимое кино
+https://tvcdnpotok.com/nashe_lub_kino/index.m3u8?wmsAuthSign=eb9fb67191363df9efe8a7f2dfa5dd9b-1725513267-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Любимое кино
+https://tvcdnpotok.com/lxi3tfaMAswoBgMv3jMmdw/534/1725513267/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",Trash TV
+https://ok.ru/video/8101862383215
+#EXTINF:-1 group-title="Telik.live Киноканалы",Победа
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
+#EXTINF:-1 group-title="Telik.live Киноканалы",FilmBox
+https://tvcdnpotok.com/gUDqkPxiJcOO105RJKk6Yg/214/1725514115/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",TV 21
+https://tvcdnpotok.com/lEo19vb30ZeoRbFBQud6yg/133/1725515219/index.m3u8
+#EXTINF:-1 group-title="Telik.live Киноканалы",TV 21
+https://tvcdnpotok.com/tv21/index.m3u8?wmsAuthSign=55bcee0d9ff23da303f44ad10b7a5876-1725515218-171i521i541i581
+#EXTINF:-1 group-title="Telik.live Киноканалы",Телекафе
+http://iptv.mega.net.ru:8888/Telekafe/mono.m3u8
+
+
+#EXTINF:-1 group-title="Telik.live Познавательные",Тайны Галактики
+https://tvcdnpotok.com/ySaA_rYMvuQAhNJq180QUw/205/1725504090/index.m3u8
+#EXTINF:-1 group-title="Telik.live Познавательные",Тайны Галактики
+https://tvcdnpotok.com/galaxy/index.m3u8?wmsAuthSign=86033caff1afe1559274882297eb28f4-1725504090-171i521i541i581
+
+
+#EXTINF:-1 group-title="188.113.190.15", Мир сериала (188)
+http://188.113.190.15/188/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15", 1
+http://188.113.190.15/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15", 2
+http://188.113.190.15/2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15", 3
+http://188.113.190.15/3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15", 4
+http://188.113.190.15/4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15", 5
+http://188.113.190.15/5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="start" tvg-logo="ttps://epgx.site/p/start.png",Старт
+http://188.113.190.15/127/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="filmbox-arthouse" tvg-logo="https://epgx.site/p/filmbox-arthouse.png",Filmbox Arthouse
+http://188.113.190.15/207/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="sony-scifi" tvg-logo="https://epgx.site/p/sony-scifi.png",Sony .Sci-Fi
+http://188.113.190.15/23/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="dorama" tvg-logo="https://epgx.site/p/dorama.png", Дорама
+http://188.113.190.15/233/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="sapfir" tvg-logo="https://epgx.site/p/sapfir.png",Сапфир
+http://188.113.190.15/182/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png",Дом кино Премиум HD
+http://188.113.190.15/91/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="feniks-plus-kino" tvg-logo="https://epgx.site/p/feniks-plus-kino.png",Феникс+Кино
+http://188.113.190.15/24/mono.m3u8
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="nauka-20" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nauka-2-0.jpg",Наука 2.0
+http://188.113.190.15/96/tracks-v1a1/index.m3u8
