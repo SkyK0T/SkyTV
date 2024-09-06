@@ -290,20 +290,24 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema", STR TV HD
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Релакс",Природа WORLD HD
+#EXTINF:-1 group-title="Природа",Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин (только с VPN)
+#EXTINF:-1 group-title="Природа",Живая природа
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Природа" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин (только с VPN)
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="Релакс",Stingray Naturescape
+#EXTINF:-1 group-title="Природа",Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
+#EXTINF:-1 group-title="Природа" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD 1
+#EXTINF:-1 group-title="Природа" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD 1
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="Релакс",Better Life Nature Channel
+#EXTINF:-1 group-title="Природа",Better Life Nature Channel
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="Релакс",10 Bold Sydney
+#EXTINF:-1 group-title="Природа",10 Bold Sydney
 https://i.mjh.nz/10bold-nsw.m3u8
+#EXTINF:-1 group-title="Природа",Home 4K
+http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Rutube", Dream music Расслабляющая музыка и радио. Медитация и йога.
 https://river-3-316.rutube.ru/stream/genetta-320.m9.rutube.ru/rZ5Bxei-hLQt2Jslatxz-g/1724989554/91c0c6fb9911daa11435fb690c726603/1080p_stream_push.m3u8
@@ -1318,3 +1322,56 @@ http://188.113.190.15/91/tracks-v1a1/index.m3u8
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 group-title="188.113.190.15" tvg-id="nauka-20" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nauka-2-0.jpg",Наука 2.0
 http://188.113.190.15/96/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Discovery Channel HD
+https://tv.movielab.pro/147/index.m3u8?token=08e268b07d3aa9efcd5a852621ddaca10fed0713-57056518900bb6261d4dfc1de594cae4-1725649059-1725562659
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Discovery Channel HD 2
+https://tv.movielab.pro/147/tracks-v1a1/mono.m3u8?token=bd53f09f90edff293aa181af5df527bac78c0d2c-911be66df59ab6caea453e652f1406e8-1725660980-1725574580
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Discovery Channel HD 3
+https://tv.movielab.pro/147/tracks-v1a1/mono.m3u8?token=8d421e4aec64f9e5296fa068a0accaba2ef26fb7-e012490e32973581011133ca2149d922-1725661034-1725574634
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Eurosport 1 HD
+https://tv.movielab.pro/145/index.m3u8?token=ce72fea9a58ce07489950e4f0fd13b08b8b06caa-daf8a5909752a0f5f1cf2970b2c6f26d-1725649059-1725562659
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Kinoshka Kids HD
+https://tv.movielab.pro/9993/index.m3u8?token=45b2bae88d04a2d555a296fdb5e9994e2950165f-b80a396e97555cc47d50246d6f2fd2ee-1725660460-1725574060
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Kinoshka Kids HD 2
+https://tv.movielab.pro/9993/tracks-v1a1/mono.m3u8?token=45b2bae88d04a2d555a296fdb5e9994e2950165f-b80a396e97555cc47d50246d6f2fd2ee-1725660460-1725574060
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",NBA TV HD
+https://tv.movielab.pro/9984/tracks-v1a1/mono.m3u8?token=97aed81299caf05e6674809cbfe9e7f8e13e4a13-11ebd91bee6c5318db4552f07479e6a5-1725661034-1725574634
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Nat Geo Wild
+https://tv.movielab.pro/162/index.m3u8?token=4ae9c8445a6655b2d43865b5c69b713f4256ddf7-8bf0474277371ce4767c936a6e3eb94d-1725649059-1725562659
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",National Geographic
+https://tv.movielab.pro/143/index.m3u8?token=2edd508c95f002ff098247f0298497dad7f411fb-588f7c252cf386b87a8e96e1d0a471a1-1725649059-1725562659
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Nickelodeon
+https://tv.movielab.pro/174/tracks-v1a1/mono.m3u8?token=dcf59c64f3169080150d4bd1a1b55c0545c44a00-d7a8ab1a97ec71b1cd194d0ed8ce29ef-1725662326-1725575926
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Nicktoons
+https://tv.movielab.pro/143/tracks-v1a1/mono.m3u8?token=3300d48a111e78401adab9d69a59675d1996d814-b12b4bc4d5070d15632cf8e85d4a0852-1725660460-1725574060
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Setanta Sports 1
+https://tv.movielab.pro/942/index.m3u8?token=5138783ff5c08370bb1d5dc2a6f301494cf6a910-de0528c2ceb8553f0681494a99a6678f-1725649059-1725562659
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Setanta Sports 2
+https://tv.movielab.pro/943/index.m3u8?token=8bc808a41795fe18865803e7a279547aef23ee4d-61466b0058cac6c03124b3a874f59f1b-1725649059-1725562659
+#EXTINF:-1 group-title="Movielab (обновлять каждый  день)",Setanta Sports Казахстан
+https://tv.movielab.pro/5094/index.m3u8?token=330aff21c1be87749f0ac4d62e242e0fc2a54e2a-2995a5aa152e1d94b5886de064e6ee1c-1725649059-1725562659
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Детский мир
+https://tv.movielab.pro/32/tracks-v1a1/mono.m3u8?token=a72df6b3b1ac763039adf5d2be1af02182517313-e100437132d15e034bf8ba9ecdf773ec-1725662326-1725575926
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Кхл
+https://tv.movielab.pro/177/tracks-v1a1/mono.m3u8?token=9568cd38e8a2454440665ea2067444e6ebb08cb4-003f398505a8c5f8dd2d5a21f608a216-1725662326-1725575926
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Удар
+https://tv.movielab.pro/4111/tracks-v1a1/mono.m3u8?token=788ac87da3c188a0449b4dc219927a2a383af595-20931189bac90061a1b81bf01cf65c24-1725662120-1725575720
+#EXTINF:-1 group-title="Movielab (обновлять каждый день)",Футбол
+https://tv.movielab.pro/3920/tracks-v1a1/mono.m3u8?token=9fa911abcb1ece684f1c5144e1b6b372fa4345af-208a1613861435739bfa94ada23cf1a8-1725662120-1725575720
+
+#EXTINF:-1 group-title="itvru.ru",Balapan International
+http://cdn.server.itvru.ru:1502/balapan_int/index.m3u8
+#EXTINF:-1 group-title="itvru.ru",QazaqstanInternational
+http://cdn.server.itvru.ru:1502/qazaqstan_international/index.m3u8
+#EXTINF:-1 group-title="itvru.ru",ТВСфера Мир24
+http://cdn.server.itvru.ru:1502/tvsfera_mir24/index.m3u8
+#EXTINF:-1 group-title="itvru.ru",АСТВ
+http://cdn.server.itvru.ru:1502/asinotv_prog/index.m3u8
+#EXTINF:-1 group-title="itvru.ru",Известия (Оренбург)
+http://cdn.server.itvru.ru:1502/gorod_orenburg/index.m3u8
+
+
+
+
+
