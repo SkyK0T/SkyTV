@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-id="SCR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/61358.m3u8
@@ -1350,7 +1350,7 @@ https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 https://fs2.persik.by/Sluhay_RAP/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay Rock",Sluhay Rock HD
 https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name=" Рэп",Рэп
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Рэп",Рэп
 http://fs2.persik.by/Rap2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Техно
 https://fs2.persik.by/Techno3/index.m3u8
@@ -1366,7 +1366,7 @@ http://fs2.persik.by/Hits4/index.m3u8
 https://fs2.persik.by/Relax3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" POP-ROCK",Pop-Rock
 https://fs2.persik.by/Pop_Rock2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name="Synthwave",Synthwave
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Synthwave",Synthwave
 http://fs2.persik.by/Synthwave/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Fantasy",Fantasy
@@ -1397,7 +1397,7 @@ http://fs2.persik.by/Dokumentalnoe4/index.m3u8
 https://fs2.persik.by/EvropejskoeKino14/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Зарубежное кино
 http://fs2.persik.by/Zarubezhnoe_kino_9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="PersikTV Зомби-апокалипсис",Зомби-апокалипсис HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Зомби-апокалипсис",Зомби-апокалипсис HD
 http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Кино + Subtitles
 http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
@@ -1405,9 +1405,9 @@ http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
 http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Кино по книгам",Кино по книгам
 https://fs2.persik.by/Kino_po_knigam9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино про дружбу
+#EXTINF:-1 group-title="Кинозалы Persik TV", Кино про дружбу
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино Антистресс
+#EXTINF:-1 group-title="Кинозалы Persik TV",Кино Антистресс
 http://fs2.persik.by/Kino_Antistress8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Киномикс",Киномикс 
 https://fs2.persik.by/Kino_Miks10/index.m3u8
@@ -1427,7 +1427,7 @@ http://fs2.persik.by/Molodost7/index.m3u8
 http://fs2.persik.by/Novinki8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Новогодние фильмы
 http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="PersikTV Новое кино",Новое кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Новое кино",Новое кино
 https://fs2.persik.by/NovoeKino8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Новые комедии
 http://fs2.persik.by/Novie_Komedii6/index.m3u8
@@ -1516,67 +1516,67 @@ https://stream.sunset-media.ru/Free/Free/6.m3u8
 
 
 
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/16.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png",15+ Media Group Кринж ТВ
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png",15+ Media Group Кринж ТВ
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/18.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="9238" tvg-id="" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png",15+ Media Group Alpha Cinema
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="9238" tvg-id="" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png",15+ Media Group Alpha Cinema
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/8.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="948" tvg-id="" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png",15+ Media Group Alpha Onenite
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="948" tvg-id="" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png",15+ Media Group Alpha Onenite
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/9.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png", 15+ Media Group Alpha Funny
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png", 15+ Media Group Alpha Funny
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/10.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="1246" tvg-id="" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png",15+ Media Group Alpha Games
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1246" tvg-id="" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png",15+ Media Group Alpha Games
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/11.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="09" tvg-id="" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png",15+ Media Group Alpha Anime
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="09" tvg-id="" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png",15+ Media Group Alpha Anime
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/12.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png",15+ Media Group Alpha Sex
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png",15+ Media Group Alpha Sex
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/13.m3u8
 
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",A-Media WAR-1
+#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",A-Media WAR-1
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/5.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png",A-Media WAR-2
+#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png",A-Media WAR-2
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/10.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KULTURA_TEMP.png",A-Media Kultura
+#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KULTURA_TEMP.png",A-Media Kultura
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/6.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png",A-Media 4KIDS
+#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png",A-Media 4KIDS
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/7.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png",Digital Filmix
+#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png",Digital Filmix
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/8.m3u8
 
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 HLS
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 HLS
 http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 TS
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 TS
 http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.ts
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 HLS
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 HLS
 http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 TS
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 TS
 http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.ts
 
 
 #EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Taurer Russia Groovezzo
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
-#EXTINF:-1 group-title="TaurerMedia"taurer-id="11" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png",Taurer Russia RRTV Europe
+#EXTINF:-1 group-title="Taurer Media"taurer-id="11" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png",Taurer Russia RRTV Europe
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="135"  tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png",Taurer Russia NINJA
+#EXTINF:-1 group-title="Taurer Media" taurer-id="135"  tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png",Taurer Russia NINJA
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
-#EXTINF:-1 group-title="TaurerMedia"taurer-id="5323" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png",Taurer Russia World-1
+#EXTINF:-1 group-title="Taurer Media"taurer-id="5323" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png",Taurer Russia World-1
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="4321" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png",Taurer Russia Криминал и Полиция
+#EXTINF:-1 group-title="Taurer Media" taurer-id="4321" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png",Taurer Russia Криминал и Полиция
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1131" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png",Taurer Russia KidsPlanet
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1131" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png",Taurer Russia KidsPlanet
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="01" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png", Taurer Russia KidsPlanet+
+#EXTINF:-1 group-title="Taurer Media" taurer-id="01" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png", Taurer Russia KidsPlanet+
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="948" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png", Taurer Russia Quality HD
+#EXTINF:-1 group-title="Taurer Media" taurer-id="948" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png", Taurer Russia Quality HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="131" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png", Taurer Russia Кулинар HD
+#EXTINF:-1 group-title="Taurer Media" taurer-id="131" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png", Taurer Russia Кулинар HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1339" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png", Taurer Russia Авто-Гир
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1339" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png", Taurer Russia Авто-Гир
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/28.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="948" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png", Taurer Russia TRR Georgia National Film
+#EXTINF:-1 group-title="Taurer Media" taurer-id="948" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png", Taurer Russia TRR Georgia National Film
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/29.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1531" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" ,Taurer Russia Scorelive 1 HD
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1531" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" ,Taurer Russia Scorelive 1 HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
 
 
@@ -2141,126 +2141,6 @@ https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК Смотрим" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
-#EXTINF:-1 group-title="Caspel",Первый канал HD
-http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Россия 1 HD
-http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Россия 24
-http://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",НТВ HD
-http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",ТНТ HD
-http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Рен ТВ
-http://mfe01.cliptv.az/dash/Ren_SD0204opts.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Investigation Discovery
-http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Viasat History
-http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel" aspect-ratio="16:9",Viasat Nature
-http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Animal Planet HD
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Discovery Channel HD
-http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",History HD
-http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Big Planet
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Travel+Adventure
-http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",RTG TV
-http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Дикий
-http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Ностальгия
-http://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Hollywood
-http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",2x2
-http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",СТС
-http://mfe02.cliptv.az/dash/STS_SDshl247h.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",СТС Love
-http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Пятница
-http://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Че
-http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Авто плюс
-http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Домашний
-http://mfe01.cliptv.az/dash/Domashniy_SDdppq23v.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кухня ТВ
-http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TLC HD
-http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Комедия
-http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Беларусь 24
-http://mfe02.cliptv.az/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",.Black
-http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",.Sci-Fi
-http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Amedia 1
-http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Amedia 2
-http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",ТВ3
-http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TV1000
-http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TV1000 Русское кино
-http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кинохит
-http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кинопремьера HD
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киносемья
-http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Индийское кино
-http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киносвидание
-http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Мужское кино
-http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киномикс
-http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киносерия
-http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Родное кино
-http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Наше новое кино
-http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кинокомедия
-http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Любимое кино
-http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TV XXI
-http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Дом Кино Премиум HD
-http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Еврокино
-http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Serial HD
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Comedy HD
-http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Megahit HD
-http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Premiere HD
-http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Amedia Premium HD
-http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кино ТВ HD
-http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Мир сериала
-http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Cinema
-http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Сапфир
-http://mfe02.cliptv.az/dash/Fox_Russia_SDqwqwqw321.ism/playlist.mpd
 
 
 
@@ -4433,28 +4313,28 @@ http://31.148.48.15:80/STS/index.m3u8?token=test
 http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Суббота!
 http://31.148.48.15:80/Super/index.m3u8?token=test
-#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТЕЛЕКАФЕ
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8?token=test
 #EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Телепутешествия
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТНТ
 http://31.148.48.15:80/TNT/index.m3u8?token=test
-#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТНТ music
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТНТ Music
 http://31.148.48.15:80/TNT_Music/index.m3u8?token=test
 #EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТНТ4
 http://31.148.48.15:80/TNT4/index.m3u8?token=test
 #EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Точка ТВ
 http://31.148.48.15:80/Tochka_TV/index.m3u8?token=test
-#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",УНИКУМ
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Уникум
 http://31.148.48.15:80/Detskiy/index.m3u8?token=test
-#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",УСАДЬБА
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Усадьба
 http://31.148.48.15:80/Usadba/index.m3u8?token=test
 #EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Че
 http://31.148.48.15:80/Che/index.m3u8?token=test
-#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ШАНСОН ТВ
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Шансон ТВ
 http://31.148.48.15:80/Shanson_TV/index.m3u8?token=test
-#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Ю
-
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Ю (запорол)
+http://31.148.48.15:80/U/index.m3u8?token=test
 
 
 
