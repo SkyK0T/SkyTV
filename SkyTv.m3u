@@ -524,6 +524,55 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31670/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV XXX
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19401/index.m3u8
 
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Известные актёры HD
+http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Андрей Миронов HD
+https://fs2.persik.by/Mironov7/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Андрей Мерзликин HD
+http://fs2.persik.by/Merzlikin4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Андрей Панин HD
+http://fs2.persik.by/Panin3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Аня Чиповская HD
+https://fs2.persik.by/Chipovskaja2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Александра Бортич HD
+http://fs2.persik.by/Bortich3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Владимир Машков HD
+http://fs2.persik.by/Mashkov4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Георгий Вицин HD
+http://fs2.persik.by/Vicin_7/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Гоша Куценко HD
+http://fs2.persik.by/Kucenko_3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Данила Козловский
+http://fs2.persik.by/Kozlovskij_4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Евгений Леонов HD
+https://fs2.persik.by/Leonov_6/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Игорь Петренко
+http://fs2.persik.by/Petrenko_3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Константин Хабенский HD
+http://fs2.persik.by/Habenskij3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.iptv.rt.ru/images/cfgd3fjir4ssk120a8u0.jpg",PersikTV Николай Вдовиченков HD
+http://fs2.persik.by/Vdovichenkov3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Максим Матвеев HD
+http://fs2.persik.by/Matveev3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Михаил Пореченков HD
+http://fs2.persik.by/Porechenkov2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Сергей Пускепалис HD
+http://fs2.persik.by/Puskepalis3/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🔺Dimonovich TV🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="🔺Dimonovich TV🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
@@ -861,7 +910,7 @@ http://hls127.homeiptv.org:8880/RTG_TV/video.m3u8
 http://hls127.homeiptv.org:8880/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Cloudflare Homeiptv",Наука
 http://hls127.homeiptv.org:8880/NAUKA/video.m3u8
-#EXTINF:-1 group-title="Cloudflare Homeiptv",Sony .Red
+#EXTINF:-1 group-title="Cloudflare Homeiptv",.Red
 http://hls127.homeiptv.org:8880/Red/video.m3u8
 #EXTINF:-1 group-title="Cloudflare Homeiptv",2X2
 http://hls127.homeiptv.org:8880/2X2/video.m3u8
@@ -1389,7 +1438,7 @@ http://188.113.190.15/5/tracks-v1a1/mono.m3u8
 http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="188.113.190.15" tvg-id="filmbox-arthouse" tvg-logo="https://epgx.site/p/filmbox-arthouse.png",Filmbox Arthouse
 http://188.113.190.15/207/mono.m3u8
-#EXTINF:-1 group-title="188.113.190.15" tvg-id="sony-scifi" tvg-logo="https://epgx.site/p/sony-scifi.png",Sony .Sci-Fi
+#EXTINF:-1 group-title="188.113.190.15" tvg-id="sony-scifi" tvg-logo="https://epgx.site/p/sony-scifi.png",.Sci-Fi
 http://188.113.190.15/23/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="188.113.190.15" tvg-id="dorama" tvg-logo="https://epgx.site/p/dorama.png", Дорама
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
@@ -1941,135 +1990,6 @@ http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 
 
 
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры-Драма
-http://fs2.persik.by/Trillery_Drama3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры-Боевики
-http://fs2.persik.by/Trillery_Boeviki3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Психологические ужасы
-http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Американские комедии
-https://fs2.persik.by/Amerikanskie_Komedii_11/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Маньяки
-http://fs2.persik.by/Manjaki5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Relax HD
-https://fs2.persik.by/Relax3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Вторая Мировая
-http://fs2.persik.by/Vtoraja_Mirovaja_6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Советские комедии
-http://fs2.persik.by/Soviet_Comedy9/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино про дружбу
-http://fs2.persik.by/Pro_druzhbu6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Семейные фильмы
-http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МОЛОДОСТЬ
-http://fs2.persik.by/Molodost6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",БОЕВИКИ
-http://fs2.persik.by/Boeviki_11/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино + Subtitles
-http://fs2.persik.by/Kino_Subtitry_8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Английские субтитры
-http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДРУЖБА
-http://fs2.persik.by/Druzhba7/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Best clips HD
-https://fs2.persik.by/Best_clips/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Concerts HD
-https://fs2.persik.by/Concerts4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ФЕСТИВАЛЬНОЕ КИНО
-http://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ЛЕГКОЕ КИНО
-http://fs2.persik.by/Legkoe_Kino7/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",АНТИСТРЕСС
-http://fs2.persik.by/Kino_Antistress8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новые комедии
-http://fs2.persik.by/Novie_Komedii5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Комедийные сериалы
-http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДАВАЙ ПОЖЕНИМСЯ
-http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",РОМАНТИЧЕСКИЕ
-http://fs2.persik.by/Romanticheskie8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",НОВИНКИ
-http://fs2.persik.by/Novinki8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ЭКРАНИЗАЦИИ
-http://fs2.persik.by/Ekranizacii12/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia5/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино по книгам
-https://fs2.persik.by/Kino_po_knigam8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Кино про дружбу
-https://fs2.persik.by/Pro_druzhbu6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Известные актёры
-http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",КОЗЛОВСКИЙ
-http://fs2.persik.by/Kozlovskij_4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ВИЦИН
-http://fs2.persik.by/Vicin_6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ПЕТРЕНКО
-http://fs2.persik.by/Petrenko_3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МирОНОВ
-https://fs2.persik.by/Mironov6/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Куценко
-http://fs2.persik.by/Kucenko_3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МАШКОВ
-http://fs2.persik.by/Mashkov4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ПУСКЕПАЛИС
-http://fs2.persik.by/Puskepalis3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ХАБЕНСКИЙ
-http://fs2.persik.by/Habenskij3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДЕРЕВЯНКО
-http://fs2.persik.by/Derevyanko4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ПОРЕЧЕНКОВ
-http://fs2.persik.by/Porechenkov2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ВДОВИЧЕНКОВ
-http://fs2.persik.by/Vdovichenkov3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ПАНИН
-http://fs2.persik.by/Panin3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МАТВЕЕВ
-http://fs2.persik.by/Matveev3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",БОРТИЧ
-http://fs2.persik.by/Bortich3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",МЕРЗЛИКИН
-http://fs2.persik.by/Merzlikin4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Детские фильмы
-https://fs2.persik.by/DetskieFilmy4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Детские песни
-https://fs2.persik.by/DetskiePesni4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by COVER HD
-https://fs2.persik.by/Sluhay_COVER2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by EDM HD
-https://fs2.persik.by/Sluhay_EDM/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by LIVE HD
-https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by MOVA HD
-https://fs2.persik.by/Sluhay_MOVA2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by RADIO HD
-https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay.by RAP HD
-https://fs2.persik.by/Sluhay_RAP/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Sluhay Rock HD
-https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",POP-ROCK HD
-https://fs2.persik.by/Pop_Rock2/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ТЕХНО
-https://fs2.persik.by/Techno3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",В Мире Животных
-http://fs2.persik.by/Semejnoe8/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",КОСМОС
-http://fs2.persik.by/Kosmo4/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДОКУМЕНТАЛЬНОЕ КИНО
-http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
-#EXTINF:-1 group-title="Persik" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",ДОКУМЕНТАЛЬНОЕ
-http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 group-title="Stichting Blijf Groep",BIG PLANET HD
 http://88.218.242.237:8000/play/a00k
@@ -2179,7 +2099,7 @@ http://91.205.199.3/amediahithd/index.m3u8
 http://91.205.199.3/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="Меганет",Авто 24
 http://91.205.199.3/avto24/index.m3u8
-#EXTINF:-1 group-title="Меганет",Sony .Black
+#EXTINF:-1 group-title="Меганет",.Black
 http://91.205.199.3/black/index.m3u8
 #EXTINF:-1 group-title="Меганет",Еврокино
 http://91.205.199.3/eurokino/index.m3u8
@@ -2217,9 +2137,9 @@ http://91.205.199.3/nostalgia/index.m3u8
 http://91.205.199.3/o2tv/index.m3u8
 #EXTINF:-1 group-title="Меганет",Победа
 http://91.205.199.3/pobeda/index.m3u8
-#EXTINF:-1 group-title="Меганет",Sony .Red
+#EXTINF:-1 group-title="Меганет",.Red
 http://91.205.199.3/red/index.m3u8
-#EXTINF:-1 group-title="Меганет",Sony .Red HD
+#EXTINF:-1 group-title="Меганет",.Red HD
 http://91.205.199.3/redhd/index.m3u8
 #EXTINF:-1 group-title="Меганет",Шаян
 http://91.205.199.3/shayantv/index.m3u8
@@ -2377,11 +2297,11 @@ http://178.124.179.122:8088/Drive/index.m3u8
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",ТВЦ Plus TV
 http://178.124.179.122:8088/PlusTV/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Sony .Red
+#EXTINF:-1 group-title="Белтелеком",.Red
 http://178.124.179.122:8088/Red/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Sony .Black
+#EXTINF:-1 group-title="Белтелеком",.Black
 http://178.124.179.122:8088/Black/index.m3u8
-#EXTINF:-1 group-title="Белтелеком",Sony .Sci-Fi
+#EXTINF:-1 group-title="Белтелеком",.Sci-Fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="Белтелеком",Ретро
 http://178.124.179.122:8088/Retro/index.m3u8
@@ -3400,9 +3320,9 @@ http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
 http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
 #EXTINF:-1 group-title="Caspel",Беларусь 24
 http://mfe02.cliptv.az/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Sony .Black
+#EXTINF:-1 group-title="Caspel",.Black
 http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Sony .Sci-Fi
+#EXTINF:-1 group-title="Caspel",.Sci-Fi
 http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 #EXTINF:-1 group-title="Caspel",Amedia 1
 http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
@@ -4112,7 +4032,7 @@ http://5.153.180.133:8004/play/a07z
 http://5.153.180.133:8004/play/a082
 #EXTINF:-1 group-title="СКС-Лугань",Epic
 http://5.153.180.133:8005/play/o0052
-#EXTINF:-1 group-title="СКС-Лугань",Sony .Black
+#EXTINF:-1 group-title="СКС-Лугань",.Black
 http://5.153.180.133:8005/play/o00170
 #EXTINF:-1 group-title="СКС-Лугань",Bolt
 http://5.153.180.133:8000/play/a08h
@@ -4589,9 +4509,9 @@ http://185.50.148.2:7707/Pobeda/index.m3u8
 http://185.50.148.2:7709/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd",Flix Snip
 http://185.50.148.2:7703/FlixSnip/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd",Sony .Sci-Fi
+#EXTINF:-1 group-title="Andial Ltd",.Sci-Fi
 http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Andial Ltd",Sony .Black
+#EXTINF:-1 group-title="Andial Ltd",.Black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 group-title="Andial Ltd",Fox
 http://185.50.148.2:7703/Fox/index.m3u8
@@ -4678,7 +4598,7 @@ http://hls.seversk.ru:8080/play/a00m/index.m3u8
 http://hls.seversk.ru:8080/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",Че!
 http://hls.seversk.ru:8080/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",Sony .Black
+#EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",.Black
 http://hls.seversk.ru:8080/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",365 дней ТВ
 http://hls.seversk.ru:8080/play/a00u/index.m3u8
@@ -4690,7 +4610,7 @@ http://hls.seversk.ru:8080/play/a018/index.m3u8
 http://hls.seversk.ru:8080/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",Amedia Hit
 http://hls.seversk.ru:8080/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",Sony .Red
+#EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",.Red
 http://hls.seversk.ru:8080/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Оберон Плюс (seversk/78.140.39.3)",Flix Snip
 http://hls.seversk.ru:8080/play/a01h/index.m3u8
@@ -4875,7 +4795,7 @@ http://iptv.mega.net.ru:8888/Kino_TV/mono.m3u8
 http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком",Победа
 http://iptv.mega.net.ru:8888/Pobeda/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком",Sony .Sci-Fi
+#EXTINF:-1 group-title="Вокзал-Инфоком",.Sci-Fi
 http://iptv.mega.net.ru:8888/Sony_Sci_Fi/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком",TV XXI
 http://iptv.mega.net.ru:8888/XXI/mono.m3u8
@@ -4899,7 +4819,7 @@ http://iptv.mega.net.ru:8888/ACB_TV/mono.m3u8
 http://iptv.mega.net.ru:8888/FilmBOX_Arthouse/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком",Plan B
 http://iptv.mega.net.ru:8888/plan_b_hd/mono.m3u8
-#EXTINF:-1 group-title="Вокзал-Инфоком",Sony .Black
+#EXTINF:-1 group-title="Вокзал-Инфоком",.Black
 http://iptv.mega.net.ru:8888/_black/mono.m3u8
 #EXTINF:-1 group-title="Вокзал-Инфоком",Cinema HD
 http://iptv.mega.net.ru:8888/History_HD/mono.m3u8
@@ -5192,11 +5112,11 @@ http://91.207.114.220:9001/play/a0bi/index.m3u8
 http://91.207.114.220:9001/play/a05n/index.m3u8
 #EXTINF:-1 group-title="ДВ-Ком", Крепкое кино
 http://91.207.114.220:9001/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="ДВ-Ком", Sony .Black
+#EXTINF:-1 group-title="ДВ-Ком", .Black
 http://91.207.114.220:9001/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="ДВ-Ком", Sony .Red
+#EXTINF:-1 group-title="ДВ-Ком", .Red
 http://91.207.114.220:9001/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="ДВ-Ком", Sony .Sci-Fi
+#EXTINF:-1 group-title="ДВ-Ком", .Sci-Fi
 http://91.207.114.220:9001/play/a0ct/index.m3u8
 #EXTINF:-1 group-title="ДВ-Ком", СТС Love
 http://91.207.114.220:9001/play/a0cr/index.m3u8
@@ -6293,9 +6213,9 @@ http://arbiter.bolshoe.tv/?path=abr2/natgeo_hd/71/copy/playlist.m3u8&wmsAuthSign
 http://arbiter.bolshoe.tv/?path=abr4/natgeo/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjQgNzowMDoxMCBQTSZoYXNoX3ZhbHVlPXdFZDBXVDRkdWZKN2hXRWF0cEVSR0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Большое ТВ (токен)",Наша Сибирь HD
 http://arbiter.bolshoe.tv/?path=abr1/nashasibirHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjQgNzowMDoxMCBQTSZoYXNoX3ZhbHVlPXdFZDBXVDRkdWZKN2hXRWF0cEVSR0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Большое ТВ (токен)",Sony .Sci-Fi
+#EXTINF:-1 group-title="Большое ТВ (токен)",.Sci-Fi
 http://arbiter.bolshoe.tv/?path=streaming/axnscifi/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjQgNzowMDoxMCBQTSZoYXNoX3ZhbHVlPXdFZDBXVDRkdWZKN2hXRWF0cEVSR0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Большое ТВ (токен)",Sony .Red
+#EXTINF:-1 group-title="Большое ТВ (токен)",.Red
 http://arbiter.bolshoe.tv/?path=streaming/set/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjQgNzowMDoxMCBQTSZoYXNoX3ZhbHVlPXdFZDBXVDRkdWZKN2hXRWF0cEVSR0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Большое ТВ (токен)",Русский Иллюзион
 http://arbiter.bolshoe.tv/?path=streaming/rusillusion/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjQgNzowMDoxMCBQTSZoYXNoX3ZhbHVlPXdFZDBXVDRkdWZKN2hXRWF0cEVSR0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
@@ -6801,7 +6721,7 @@ https://mhd116.iptv2022.com/p/jwsP8Cp-mjsr33BQkoIi5A,1725699606/streaming/film-w
 https://mhd116.iptv2022.com/p/OxjI-xi4TzLpIqS-9Dr20Q,1725699606/streaming/film-hit/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (токен)", Мужское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd116.iptv2022.com/p/nM4akTfCeBg1LVAbPcjsYA,1725699606/streaming/male-movie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/-iAqJvPgp8IRYyBrWptCbA,1725786005/streaming/male-movie/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (токен)", Киноужас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/KA57ErRgghOtViCQ3L-_aw,1725699606/streaming/kinoujas/324/1/index.m3u8
@@ -6862,13 +6782,13 @@ https://mhd116.iptv2022.com/p/s19GuK1hEo2UoWnLWhjZZA,1725699607/streaming/star_c
 #EXTINF:-1 group-title="Lime (токен)", Bolt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/ris4Y1A9pIGrWrSLg0LnNA,1725699607/streaming/bolt/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (токен)", Sony .Red
+#EXTINF:-1 group-title="Lime (токен)", .Red
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/9_nu4NwcEDwSZmzC7FiUlw,1725699607/streaming/red/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (токен)", Sony .Sci-Fi
+#EXTINF:-1 group-title="Lime (токен)", .Sci-Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/78cqGdRP7K0_9DH4iK53dw,1725699607/streaming/sci-fi/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (токен)", Sony .Black
+#EXTINF:-1 group-title="Lime (токен)", .Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/pmi7lDZqTl0REZNBf-OJGA,1725699607/streaming/black/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (токен)", Novella TV
@@ -8283,11 +8203,11 @@ http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3MzU2MDksImlhdCI6MTcyNTY0OTIwOSwiY2lkIjo2LCJ1aWQiOjgyMTU3NDEzMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.09VrxTPa7HXU5Fi5aiEn_RSfOFrLE4LrThG_wHVbSeo&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,Наука 2.0
 http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3MzU2MDksImlhdCI6MTcyNTY0OTIwOSwiY2lkIjo2LCJ1aWQiOjgyMTU3NDEzMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.09VrxTPa7HXU5Fi5aiEn_RSfOFrLE4LrThG_wHVbSeo&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,Sony .Black
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,.Black
 http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3MzU2MDksImlhdCI6MTcyNTY0OTIwOSwiY2lkIjo2LCJ1aWQiOjgyMTU3NDEzMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.09VrxTPa7HXU5Fi5aiEn_RSfOFrLE4LrThG_wHVbSeo&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,Sony .Red
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,.Red
 http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3MzU2MDksImlhdCI6MTcyNTY0OTIwOSwiY2lkIjo2LCJ1aWQiOjgyMTU3NDEzMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.09VrxTPa7HXU5Fi5aiEn_RSfOFrLE4LrThG_wHVbSeo&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,Sony .Sci-Fi
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,.Sci-Fi
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3MzU2MDksImlhdCI6MTcyNTY0OTIwOSwiY2lkIjo2LCJ1aWQiOjgyMTU3NDEzMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.09VrxTPa7HXU5Fi5aiEn_RSfOFrLE4LrThG_wHVbSeo&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (токен)" ,2x2 (+4)
 http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3MzU2MDksImlhdCI6MTcyNTY0OTIwOSwiY2lkIjo2LCJ1aWQiOjgyMTU3NDEzMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.09VrxTPa7HXU5Fi5aiEn_RSfOFrLE4LrThG_wHVbSeo&offset=10
@@ -8727,7 +8647,7 @@ http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/8kanal/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Квант-Телеком (токен 🇷🇺)",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Квант-Телеком (токен 🇷🇺)",Sony .Red
+#EXTINF:-1 group-title="Квант-Телеком (токен 🇷🇺)",.Red
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Квант-Телеком (токен 🇷🇺)",RT
 http://31.210.208.171:8080/rt/index.m3u8?token=+W2MSER
@@ -9943,11 +9863,11 @@ http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&
 http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",2x2
 http://127.0.0.1:6878/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",Sony .Sci-Fi
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",.Sci-Fi
 http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",Sony .Red HD
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",.Red HD
 http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",Sony .Black
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",.Black
 http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️ AceStream",Fast&Funbox HD
 http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
@@ -11274,9 +11194,9 @@ http://78.62.135.122:8082/2x2/index.m3u8
 http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:-1 group-title="test ⓵",Еврокино
 http://78.62.135.122:8082/evrokino/index.m3u8
-#EXTINF:-1 group-title="test ⓵",Sony .Sci-Fi
+#EXTINF:-1 group-title="test ⓵",.Sci-Fi
 http://78.62.135.122:8082/Scifi/index.m3u8
-#EXTINF:-1 group-title="test ⓵",Sony .Black
+#EXTINF:-1 group-title="test ⓵",.Black
 http://78.62.135.122:8082/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="test ⓵",ТНТ Music
 http://78.62.135.122:8082/tntmusic/index.m3u8
