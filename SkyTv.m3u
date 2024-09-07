@@ -560,6 +560,44 @@ http://fs2.persik.by/Porechenkov2/index.m3u8
 http://fs2.persik.by/Puskepalis3/index.m3u8
 
 
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by COVER",Sluhay.by Cover HD
+https://fs2.persik.by/Sluhay_COVER2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by EDM",Sluhay.by Edm HD
+https://fs2.persik.by/Sluhay_EDM/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by LIVE",Sluhay.by Live HD
+https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by MOVA",Sluhay.by Mova HD
+https://fs2.persik.by/Sluhay_MOVA2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by RADIO",Sluhay.by Radio HD
+https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by RAP",Sluhay.by Rap HD
+https://fs2.persik.by/Sluhay_RAP/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay Rock",Sluhay Rock HD
+https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Техно
+https://fs2.persik.by/Techno3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Best clips",PersikTV Best clips HD
+https://fs2.persik.by/Best_clips/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Concerts",PersikTV Concerts HD
+https://fs2.persik.by/Concerts4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" DJ",PersikTV DJ HD
+https://fs2.persik.by/DJ4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Hits",PersikTV Hits HD
+http://fs2.persik.by/Hits4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Relax",PersikTV Relax HD
+https://fs2.persik.by/Relax3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" POP-ROCK",PersikTV Pop-Rock HD
+https://fs2.persik.by/Pop_Rock2/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" DJ",DJ HD
+https://fs2.persik.by/DJ4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" DJ",DJ
+https://fs2.persik.by/DJ4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",DJ
+https://fs2.persik.by/DJ4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Hits",Hits HD
+http://fs2.persik.by/Hits4/index.m3u8
+
 
 
 
