@@ -524,40 +524,43 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31670/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV XXX
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19401/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Известные актёры HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Известные актёры
 http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Андрей Миронов HD
-https://fs2.persik.by/Mironov7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Андрей Мерзликин HD
-http://fs2.persik.by/Merzlikin4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Андрей Панин HD
-http://fs2.persik.by/Panin3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Аня Чиповская HD
-https://fs2.persik.by/Chipovskaja2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Александра Бортич HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",PersikTV Александра Бортич
 http://fs2.persik.by/Bortich3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Владимир Машков HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/564x/a5/da/15/a5da150e2a2be11e9d91b97bcd26c587.jpg",PersikTV Андрей Миронов
+https://fs2.persik.by/Mironov7/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.uznayvse.ru/main_catalog_image/p/images/catalog/2022/2/andrey-merzlikin-actor_11.jpg",PersikTV Андрей Мерзликин
+http://fs2.persik.by/Merzlikin4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.kino-teatr.ru/movie/kadr/586/pv_475768.jpg",PersikTV Андрей Панин
+http://fs2.persik.by/Panin3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1e/4b/7e/1e4b7ed10e19ffb881d6c0609e28978d.jpg",PersikTV Аня Чиповская
+https://fs2.persik.by/Chipovskaja2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://argumentiru.com/images/preview/arhnews/76e8834cbc70bfd668e51c5ef97e2490.jpg",PersikTV Владимир Машков
 http://fs2.persik.by/Mashkov4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Георгий Вицин HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.mycdn.me/image?id=946024504650&t=50&plc=WEB&tkn=*1-ro1j9z8KnS5TOubzlh4qTGgeo&fn=external_6",PersikTV Георгий Вицин
 http://fs2.persik.by/Vicin_7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Гоша Куценко HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://miks-karting.ru/vdnh-2024/images/headliners/kucenko.png",PersikTV Гоша Куценко
 http://fs2.persik.by/Kucenko_3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Данила Козловский
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/1200x/b4/7c/c0/b47cc01c514334918cda5d60f14dcbe8.jpg",PersikTV Данила Козловский
 http://fs2.persik.by/Kozlovskij_4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Евгений Леонов HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",PersikTV Евгений Леонов
 https://fs2.persik.by/Leonov_6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Игорь Петренко
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",PersikTV Игорь Петренко
 http://fs2.persik.by/Petrenko_3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Константин Хабенский HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.national-movie-awards.ru/images/winners/year2014-018.jpg",PersikTV Константин Хабенский
 http://fs2.persik.by/Habenskij3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.iptv.rt.ru/images/cfgd3fjir4ssk120a8u0.jpg",PersikTV Николай Вдовиченков HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.iptv.rt.ru/images/cfgd3fjir4ssk120a8u0.jpg",PersikTV Николай Вдовиченков
 http://fs2.persik.by/Vdovichenkov3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Максим Матвеев HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.litres.ru/static/authors/100/32/63/44/32634478.jpg",PersikTV Максим Матвеев
 http://fs2.persik.by/Matveev3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Михаил Пореченков HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://r.mtdata.ru/c100x100/u14/photoD792/20034221605-0/original.jpg",PersikTV Михаил Пореченков
 http://fs2.persik.by/Porechenkov2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Сергей Пускепалис HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://img.rosbalt.ru/photobank/c/d/0/0/tjk4QcnP-234.jpg",PersikTV Павел Деревянко
+http://fs2.persik.by/Derevyanko5/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1a/68/a8/1a68a841a6490b03f54fa621fcf9d82d.jpg",PersikTV Сергей Пускепалис
 http://fs2.persik.by/Puskepalis3/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by COVER",Sluhay.by Cover HD
@@ -574,6 +577,8 @@ https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 https://fs2.persik.by/Sluhay_RAP/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay Rock",Sluhay Rock HD
 https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name=" Рэп", Persik TV Рэп
+http://fs2.persik.by/Rap2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Техно
 https://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Best clips",PersikTV Best clips HD
@@ -588,6 +593,8 @@ http://fs2.persik.by/Hits4/index.m3u8
 https://fs2.persik.by/Relax3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" POP-ROCK",PersikTV Pop-Rock HD
 https://fs2.persik.by/Pop_Rock2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name="Synthwave",Persik TV Synthwave HD
+http://fs2.persik.by/Synthwave/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Fantasy",PersikTV Fantasy HD
 https://fs2.persik.by/Fantasy2/index.m3u8
@@ -607,10 +614,6 @@ http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
 http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Детективное кино HD
 https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские фильмы",Детские фильмы
-https://fs2.persik.by/DetskieFilmy4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские Песни",Детские песни
-https://fs2.persik.by/DetskiePesni4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Дружба HD
 http://fs2.persik.by/Druzhba7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" ДОКУМЕНТАЛЬНОЕ КИНО",Документальное кино
@@ -631,12 +634,16 @@ http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
 https://fs2.persik.by/Kino_po_knigam9/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино про дружбу HD
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино-антистресс HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино Антистресс HD
 http://fs2.persik.by/Kino_Antistress8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Киномикс",PersikTV Киномикс HD
 https://fs2.persik.by/Kino_Miks10/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Комедийные сериалы HD
 http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV", Persik TV Космос Kosmo
+http://fs2.persik.by/Kosmo5/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Лёгкое кино
+http://fs2.persik.by/Legkoe_Kino8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Любовь и Детективы",PersikTV Любовь и Детективы HD
 http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Маньяки HD
@@ -681,9 +688,9 @@ http://fs2.persik.by/Soviet_Comedy10/index.m3u8
 http://fs2.persik.by/TopKino_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры США HD
 https://fs2.persik.by/Trillery_USA_11/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры-Боевики HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры Боевики HD
 http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры-Драма HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры Драма HD
 http://fs2.persik.by/Trillery_Drama4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Фестивальное кино",PersikTV Фестивальное кино HD
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
@@ -691,12 +698,17 @@ http://fs2.persik.by/FestivalnoeKino8/index.m3u8
 http://fs2.persik.by/Filmy_katastrofy/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Экранизации", PersikTV Экранизации HD
 http://fs2.persik.by/Ekranizacii12/index.m3u8
+#EXTINF:-1 tvg-name=" MOVIE", Persik TV Movie (eng)
+http://fs2.persik.by/Movie2/index.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-name=" Аниме", Persik TV Аниме
+http://fs2.persik.by/Anime5/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские фильмы",Детские фильмы
+https://fs2.persik.by/DetskieFilmy4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские Песни",Детские песни
+https://fs2.persik.by/DetskiePesni4/index.m3u8
+#EXTINF:-1 tvg-name=" Сказки", Persik TV Сказки
+http://fs2.persik.by/Skazki6/index.m3u8
 
 
 
