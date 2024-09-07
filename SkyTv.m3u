@@ -8,7 +8,6 @@ https://hls.goodgame.ru/hls/199417.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png", Мультсериалы Fox Kids Exclusive HD 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/179445.m3u8
-
 #EXTINF:-1 group-title="Трансляции GoodGame.ru",Fox Kids Ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/205063_master.m3u8
@@ -290,180 +289,7 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema", STR TV HD
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Природа",Природа WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Природа",Живая природа
-http://178.212.71.253:8002/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Природа" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин (только с VPN)
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="Природа",Stingray Naturescape
-https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:-1 group-title="Природа" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="Природа" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD 1
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="Природа",Better Life Nature Channel
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="Природа",10 Bold Sydney
-https://i.mjh.nz/10bold-nsw.m3u8
-#EXTINF:-1 group-title="Природа",Home 4K
-http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Rutube", Dream music Расслабляющая музыка и радио. Медитация и йога.
-https://river-3-316.rutube.ru/stream/genetta-320.m9.rutube.ru/rZ5Bxei-hLQt2Jslatxz-g/1724989554/91c0c6fb9911daa11435fb690c726603/1080p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", Dream music Synthwave Music | Синтвейв музыка радио
-https://river-3-312.rutube.ru/stream/genetta-522.ost.rutube.ru/-GMK6aqfiNhc7N2HtdORLA/1724989603/5a2c2738fe5b8026ea9566d18a5c3ca2/1080p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", Dream music Средневековая расслабляющая музыка. Радио | Medieval tavern music
-https://river-3-317.rutube.ru/stream/genetta-314.m9.rutube.ru/rdi8AqbKa0QZD3V1StTcBA/1724989640/7ab3d6359bf6cec3fa2e8587011c7b85/1080p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", Dream music Chillout lofi music | Чиллаут радио. Музыка
-https://river-3-312.rutube.ru/stream/genetta-515.ost.rutube.ru/hTdhv0krV0JRalW3me2Vlw/1724989673/a87c1386bb1de7b3fcf5707e5d602e1b/1080p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", Радио МУЗКОМ (Radio MUZKOM ) - прямой эфир
-https://river-3-326.rutube.ru/stream/genetta-317.m9.rutube.ru/sFSEJbDFO5xUXjScGbhsAg/1724989321/75adbc49041646ba65eef1cae3beef2e/720p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", 🎼🎧 24/7 Live Radio🎼🎧Best Relax House, Chillout, Study, Running, Gym, Music🎼🎧
-https://river-3-312.rutube.ru/stream/genetta-334.m9.rutube.ru/Ypcm0QdU51lPt3KYww9QJA/1724989381/a00d28b8df82321b03b89baf154b82ca/1080p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", Ритмы для отдыха, расслабления, учёбы, работы или сна ♪
-https://river-3-312.rutube.ru/stream/genetta-321.m9.rutube.ru/NqXZ6gpkf4lrRoQi8_YC7A/1724989448/6761b0cc1bcac4ad0e86101b8f9df968/720p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", lofi hip hop radio - beats to sleep/chill to
-https://river-3-316.rutube.ru/stream/genetta-326.m9.rutube.ru/A3aVOkZ-eyL9lskLVb2MeA/1724989471/4f6be9b0f7adb95b285638c116cf5e5b/720p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", Tyumen Techno Radio
-https://river-3-317.rutube.ru/stream/genetta-328.m9.rutube.ru/rzDtRterLLDDlIm1ToiHrw/1724989521/499aafd89fa8fc309516f97c7ba468ee/1080p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", 24/7 SynthRetroWave Radio - электронная музыка и атмосфера прошлого
-https://river-3-312.rutube.ru/stream/genetta-328.m9.rutube.ru/AAHVP4Em1os_jmX1MRa2FA/1724989700/aa5af955cb7698d9a43e3c5573cc853c/1080p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", ALBEDO - HEAVENLY MUSICAL 💖 Radio прямой эфир 🔴
-https://river-3-312.rutube.ru/stream/genetta-511.ost.rutube.ru/U5DKgge7wHdu1h6YBOzeGA/1724989742/2f4971759ee955f4b15e9d4091cd5787/720p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", ALBEDO подкаст
-https://podster.fm/podcasts/wert/e/360818/albedo-heavenly-musical-podcast-28-collection
-#EXTINF:-1 group-title="Rutube", Музыка Rutube TV (1080p)
-https://salam-mskm9-6.rutube.ru/dive/river-3-327.rutube.ru/mECawQAAejSuMuqN8xZkqg/stream/genetta-317.m9.rutube.ru/pomMbiytdjz5zYUCnTuVhw/1725069801/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Музыка Rutube TV (1080p) 2
-https://river-5-513.rutube.ru/stream/genetta-317.m9.rutube.ru/mECawQAAejSuMuqN8xZkqg/1725069801/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Музыка Rutube TV (720p)
-https://salam-mskm9-6.rutube.ru/dive/river-3-327.rutube.ru/mECawQAAejSuMuqN8xZkqg/stream/genetta-317.m9.rutube.ru/pomMbiytdjz5zYUCnTuVhw/1725069801/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Музыка МУЗ-ТВ HD
-https://salam-mskm9-36.rutube.ru/dive/river-5-516.rutube.ru/vjKfUrPtohSUnr5PiZhQ0w/stream/musang-704.brz.rutube.ru/rKFArPwO-lVI4bHObX26YQ/1724987972/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Музыка ТНТ Music HD
-https://live-gcore-1.rutube.ru/stream/genetta-330.m9.rutube.ru/gy0ubn_exOGXmPCrnTcuSA/1724912642/f5ba23a0149f409c18168231844e0a3b/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Музыка VIVA Russia HD
-https://salam-2-9.rutube.ru/dive/river-3-326.rutube.ru/hKMsuTSG23VkP19Hjd7PAA/stream/genetta-501.ost.rutube.ru/GshaaJcrScIKMAMZHAkb_Q/1724955764/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Музыка Chill Out Music Mix Live
-https://river-3-312.rutube.ru/stream/genetta-322.m9.rutube.ru/0VPvpjMFmyr731-J3o4A_Q/1724989199/7956f50082b4999500adb90dbfa84b69/720p_stream_push.m3u8
-#EXTINF:-1 group-title="Rutube", DISCOVERY CHANNEL : КРУГЛОСУТОЧНЫЙ ПРЯМОЙ ЭФИР | Discovery channel 24/7 LIVE STREAMING
-https://salam-mskm9-36.rutube.ru/dive/river-3-322.rutube.ru/uwBUp4G540yuBbu9KgU0_g/stream/genetta-328.m9.rutube.ru/A0SYzcxS0mpXsJV0pQegWA/1725062553/f61701b91f0f15e49611bc2c85494d4b/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", NAT GEO
-https://salam-mskm9-43.rutube.ru/dive/river-5-511.rutube.ru/gbyL2TyZqvm5sAuivgUlog/stream/genetta-325.m9.rutube.ru/1XoK5_5vTo5BuJkn5CbWag/1725068871/9f96e00ce0f4256c6ad608aaf580bf88/720p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", 2x2 HD
-https://salam-2-16.rutube.ru/dive/river-5-511.rutube.ru/5GS1lkpgn5XxcYxWSt7vDw/stream/musang-706.brz.rutube.ru/rwpd3v4u1xMEB4sUqB9oYg/1724430753/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Первый канал HD
-https://live-gcore-1.rutube.ru/stream/musang-701.brz.rutube.ru/DtPowlW_UlUJ9gJY9ASZxA/1724430497/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", НТВ HD
-https://live-gcore-1.rutube.ru/stream/genetta-327.m9.rutube.ru/41zz7n_Q_2WwFoLGWDCLOg/1724430534/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Пятница HD
-https://salam-2-16.rutube.ru/dive/river-5-511.rutube.ru/UUsRPq1SvukzYsdoshkAhA/stream/musang-701.brz.rutube.ru/JbxySA0wj9gmM2bQyadoUQ/1724869593/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Суббота HD
-https://salam-mskm9-6.rutube.ru/dive/river-5-515.rutube.ru/To3rdClMqYAwgCkPy-ZI1A/stream/musang-704.brz.rutube.ru/Hm_gAYSot8mpnokFH5AhuQ/1725068774/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Спас HD
-https://salam-mskm9-10.rutube.ru/dive/river-5-519.rutube.ru/_ElCUrMxUMDQNtk-iTzhkg/stream/genetta-528.ost.rutube.ru/TGuXIkX9db8NySXHgTCWmA/1724988594/2bbfa9ebf9d79ade480d7281fcef1008/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Соловьёв LIVE HD
-https://salam-mskm9-37.rutube.ru/dive/river-3-328.rutube.ru/Cn-NIAhSQ5Ikncb0Zxh47g/stream/genetta-328.m9.rutube.ru/_MECH5gu-weYNiKHkFJAfg/1724988702/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Солнце
-https://salam-2-6.rutube.ru/dive/river-3-321.rutube.ru/Q5K0Gk63Boyjlif_M3aipg/stream/musang-701.brz.rutube.ru/wx40TrlqJP1Nb1rSBCuNtw/1724430997/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", ТНТ HD
-https://salam-2-16.rutube.ru/dive/river-3-321.rutube.ru/Tt4jw31nvcbzyiKUmvLPwA/stream/musang-706.brz.rutube.ru/Vc9FoX-dby0OhdHCevHz6Q/1724430593/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", ТНТ4 HD
-https://salam-2-2.rutube.ru/dive/river-3-311.rutube.ru/C3_18yIkYghBkp2YV0e4XA/stream/musang-703.brz.rutube.ru/R8auH5-FIFuTwwJNKIiQsw/1724430617/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", ТВ3 HD
-https://salam-2-2.rutube.ru/dive/river-5-513.rutube.ru/q82MaO8WNbDJV0Hj01fz2Q/stream/musang-703.brz.rutube.ru/kugTGBz1ql24i-OMBUgVeA/1724430661/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Ю HD
-https://salam-2-9.rutube.ru/dive/river-5-513.rutube.ru/u_O7RHjf8rizZO7JG505tA/stream/musang-704.brz.rutube.ru/SI81gHHI-TK9NoxSy4dJRw/1724430955/5c9327074e25ca86f3111d4085cbbb65/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Матч ТВ HD
-https://salam-mskm9-10.rutube.ru/dive/river-3-328.rutube.ru/80Fp00IvKbIcmW5Rr_uIjQ/stream/musang-701.brz.rutube.ru/rF7httCO4e_k5eVqzneSoA/1724616571/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", МИР HD
-https://salam-mskm9-10.rutube.ru/dive/river-3-328.rutube.ru/zH2qIlDPnbVdOhXZDVDH2A/stream/genetta-321.m9.rutube.ru/_lNdaQHJNYQqzigzJtEbZw/1724988670/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube" tvg-id="oxotnik-i-rybolov-int", Охотник и рыболов HD
-https://salam-2-5.rutube.ru/dive/river-3-328.rutube.ru/U86ILMMtm6S2Bnz8A9cviw/stream/genetta-513.ost.rutube.ru/WKCx9WWvXFwxQuZzMKZ8yA/1724430685/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube" tvg-id="zagorodny-int", Загородный International HD
-https://salam-2-6.rutube.ru/dive/river-3-328.rutube.ru/RlC9mcLjGFFAcSeZ-HnO4g/stream/genetta-518.ost.rutube.ru/2-oSTh9VHXbH4jfrfQxeZQ/1724430708/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", ОТР - Общественное Телевидение России 
-https://salam-mskm9-37.rutube.ru/dive/river-5-515.rutube.ru/b2pZqUwVRPHV4it076RGsg/stream/genetta-517.ost.rutube.ru/1ualUjkrQxkv6SYDaY1VmQ/1724988459/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Звезда HD
-https://salam-mskm9-9.rutube.ru/dive/river-3-327.rutube.ru/o8Idn98R2HYLffIdVDAYkw/stream/musang-702.brz.rutube.ru/58NQVkaiDlPWlSaaZUqL4w/1724988566/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", 78 канал HD
-https://live-gcore-1.rutube.ru/stream/genetta-520.ost.rutube.ru/rPKPQtVBww-I3anPZYM4QQ/1724912534/bbf23277dbd0dd0e6a623526d4c3f8c9/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", БелРос
-https://salam-2-9.rutube.ru/dive/river-5-513.rutube.ru/MkarwwkfEFVslk0DTrGe4A/stream/genetta-318.m9.rutube.ru/P2PFTYeJ9IEIyN968ZzrYQ/1724430884/46c03b7f1a7255326900f4a60a9b44e0/576p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Буряад ТВ HD
-https://salam-2-9.rutube.ru/dive/river-3-320.rutube.ru/qbxWXcimgVHUlUVfjF7K0Q/stream/musang-704.brz.rutube.ru/TATt9tfzv7Tb24gVI0O_Hg/1724431018/55fec7f2c11f4decc66568fca39f26b2/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Вместе-РФ HD
-https://live-gcore-1.rutube.ru/stream/genetta-530.ost.rutube.ru/iPlBP2j6eBnO56LdU7-yWA/1724744039/f6a6d5c955180d0d0f80c66d0b6150d3/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Волга HD
-https://salam-2-16.rutube.ru/dive/river-3-311.rutube.ru/bLvdanfzpgdq1xk2hrtyAw/stream/musang-701.brz.rutube.ru/W7SAeGcQHc2tw99QxQU4ag/1724430840/bed2dcda74004e4e9a61966d2848c027/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Истоки Орёл
-https://live-gcore-1.rutube.ru/stream/genetta-504.ost.rutube.ru/Azxvp_oC1rKYdynDRd6BVQ/1724955679/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Краснодар HD
-https://live-gcore-1.rutube.ru/stream/genetta-319.m9.rutube.ru/gWPMl8gmfciTLbNrtJgx6w/1724831729/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Краснодар HD (2)
-https://salam-mskm9-6.rutube.ru/dive/river-3-318.rutube.ru/HFdYtSZPJKDSf9BWpCY0yg/stream/genetta-319.m9.rutube.ru/oYx8tYoPAIClpXjCp2LFtw/1724979452/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube" tvg-logo="https://pic.rutubelist.ru/video/48/cf/48cf782d6973dce5d23010688db5378b.jpg?size=l", Крым 24 (576p)
-https://salam-mskm9-43.rutube.ru/dive/river-5-520.rutube.ru/hDgY1rwb0gbDklIhitP-uA/stream/genetta-304.m9.rutube.ru/SDSrEUy4z-WXAeKNdAGo5w/1724978793/261339ca4f1396ea0271d07364bd99dd/576p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Новосибирск ОТС HD
-https://salam-2-17.rutube.ru/dive/river-3-321.rutube.ru/FgtawRFBiEsCGMD1rJPMuQ/stream/genetta-512.ost.rutube.ru/tKOVnWkmRvoMlSTk6AHPoQ/1724430821/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Русский Корабль HD
-https://river-5-513.rutube.ru/stream/genetta-534.ost.rutube.ru/u3bmo6Jv9yOpej0ptWT_uA/1725069521/3ebc361db78373495974123cfb994531/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Русский Корабль HD 2
-https://salam-mskm9-10.rutube.ru/dive/river-3-324.rutube.ru/u3bmo6Jv9yOpej0ptWT_uA/stream/genetta-534.ost.rutube.ru/2Zmdp8E007_CWw1t-yeW8A/1725069521/3ebc361db78373495974123cfb994531/1080p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Русский Корабль (720p)
-https://salam-mskm9-10.rutube.ru/dive/river-3-324.rutube.ru/u3bmo6Jv9yOpej0ptWT_uA/stream/genetta-534.ost.rutube.ru/2Zmdp8E007_CWw1t-yeW8A/1725069521/3ebc361db78373495974123cfb994531/720p_stream.m3u8
-#EXTINF:-1 group-title="Rutube", Смайлик ТВ HD
-https://salam-mskm9-5.rutube.ru/dive/river-3-313.rutube.ru/9RZv7E57eDnXKbMPKjjsVw/stream/genetta-304.m9.rutube.ru/vLTrgfSqJBSjMet56B2LHg/1725068917/2f052691c75d72b3ed7f3c33ea956a41/1080p_stream.m3u8
-
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K 60fps
-https://river-5-519.rutube.ru/hls-vod/fzJ-CdLBKE_D1rpA0OzMQg/1725740290/1786/0x5000c500c8a5aa7f/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K 60fps COLORFUL WORLD - TRUE CINEMATIC
-https://river-5-522.rutube.ru/hls-vod/3PG_Gj9R928v_3fzkbqQ2A/1725740317/2167/0x5000c500e7502247/5b568af64882481c850fa2e1fe591cdd.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K 60fps Удивительные животные
-https://river-3-329.rutube.ru/hls-vod/VcT7G4yZbY-_7NDDARoMCg/1725740354/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K ULTRA HD
-https://river-3-320.rutube.ru/hls-vod/TAunOeYb92ZAIveAnqz8jw/1725740197/1796/0x5000c5007443177b/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
-https://river-3-312.rutube.ru/hls-vod/v-g1rSj4bL_he_G4jb4fsQ/1725740244/2193/0x5000c500e74f9e90/44fa52380d5648fe8b8c49571feba70e.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Demo 4K 60fps
-https://river-5-521.rutube.ru/hls-vod/FUC-B1gPV2KZX0qFB8HcNg/1725740407/1764/0x5000c500e34b76b7/e2871e209eb74d2ca924c256233583d7.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Mind Blowing 4K
-https://river-5-513.rutube.ru/hls-vod/A90Nv2tTasWPHrmhMIZdTQ/1725740618/1766/0x5000c500e34c00f5/f677cdd74de344c7ad26a748f42e912f.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",PARADISE ON EARTH Best Travel
-https://river-5-520.rutube.ru/hls-vod/HSwahyxAgRm4_1nxtNZHZw/1725740494/2195/0x5000c5007444b888/476aba05d6d94a1f8d799a4879737540.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",THE MOST BEAUTIFUL 4K 60fps
-https://river-5-522.rutube.ru/hls-vod/XRJY1z7Tb2nRVoBCxQmGZA/1725740463/2229/0x5000c500e658a29c/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Аляска 4K 60fps
-https://river-3-301.rutube.ru/hls-vod/lgNkqx0TeuYCrzCvQuCnVw/1725740435/1879/0x5000c500e5356ed6/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Бора-Бора 4К
-https://river-5-515.rutube.ru/hls-vod/425OmFPQH3Wp792rb0D1Hw/1725740695/1887/0x5000c500e53a12cf/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Германия 4K
-https://river-5-511.rutube.ru/hls-vod/ELxgsZx7XJzVpN1EswdFzA/1725740872/1790/0x5000c500d6c05950/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Дубай 4K
-https://river-5-512.rutube.ru/hls-vod/pRfqMMHIwSO8q6okSwWgHA/1725740847/1774/0x5000c500c49ad01b/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Карибы 4К
-https://river-3-318.rutube.ru/hls-vod/6XvwwUvTAQcOhvtgN2w0Xw/1725740904/1782/0x5000c500c3291750/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Каттегат в 4К С Музыкой Викингов
-https://river-3-322.rutube.ru/hls-vod/Htn7rpCOvM2yujZVkTPn1A/1725740644/1842/0x5000cca2841edef0/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Мальдивы 4К
-https://river-5-517.rutube.ru/hls-vod/Raj0F_TRQ_fPGvRL7_OtbQ/1725740818/1848/0x5000cca28420b4e4/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Манила 4K
-https://river-3-316.rutube.ru/hls-vod/sRayv0ZK_V-vUjZnczeqsA/1725740558/1826/0x5000c500c432e5a6/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Морокко 4К
-https://river-5-521.rutube.ru/hls-vod/jWMbNT4eA5YJyyRrffhlyA/1725740788/1768/0x5000c500e34c9a66/2a52b66f92314c188a9781d462cf8b3e.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Намибия 4К
-https://river-5-516.rutube.ru/hls-vod/Hcu9ZPBcLW0eNeHcHMm5kQ/1725740733/1820/0x5000c500c45b3ee6/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Невероятная Красота 4K
-https://river-3-321.rutube.ru/hls-vod/KS_KBvEY6D6DepYbiDxcQA/1725740592/1770/0x5000c500c58d6607/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Пакистан 4К
-https://river-5-512.rutube.ru/hls-vod/wr9pTGUkEZUamJAw6FDCjA/1725740671/1796/0x5000c500c884be1b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Перу 4K 60fps
-https://river-5-522.rutube.ru/hls-vod/rPtivD6F2B1QKLwCgUvSzw/1725740379/1875/0x5000c500e53957cd/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Серенгети 4К
-https://river-3-328.rutube.ru/hls-vod/l78Y0ajXeBMuwCAQLxqq6Q/1725740760/1848/0x5000cca2841e59d0/174e9ce15c7d4baebec7149609e7ea17.mp4.m3u8?i=3840x2160
-#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Турция 4K
-https://river-6-602.rutube.ru/hls-vod/5FLlwqU45kfxL860_8WjTQ/1725740524/1798/0x5000c500e3d50955/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160
 
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cobracomedy" tvg-name="COBRA COMEDY HD", COBRA COMEDY HD 
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20212/index.m3u8
@@ -524,41 +350,41 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31670/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV XXX
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19401/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Известные актёры
+#EXTINF:-1 group-title="Кинозалы Persik TV",Известные актёры
 http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",PersikTV Александра Бортич
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",Александра Бортич
 http://fs2.persik.by/Bortich3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/564x/a5/da/15/a5da150e2a2be11e9d91b97bcd26c587.jpg",PersikTV Андрей Миронов
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/564x/a5/da/15/a5da150e2a2be11e9d91b97bcd26c587.jpg",Андрей Миронов
 https://fs2.persik.by/Mironov7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.uznayvse.ru/main_catalog_image/p/images/catalog/2022/2/andrey-merzlikin-actor_11.jpg",PersikTV Андрей Мерзликин
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.uznayvse.ru/main_catalog_image/p/images/catalog/2022/2/andrey-merzlikin-actor_11.jpg",Андрей Мерзликин
 http://fs2.persik.by/Merzlikin4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.kino-teatr.ru/movie/kadr/586/pv_475768.jpg",PersikTV Андрей Панин
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.kino-teatr.ru/movie/kadr/586/pv_475768.jpg", Андрей Панин
 http://fs2.persik.by/Panin3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1e/4b/7e/1e4b7ed10e19ffb881d6c0609e28978d.jpg",PersikTV Аня Чиповская
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1e/4b/7e/1e4b7ed10e19ffb881d6c0609e28978d.jpg",Аня Чиповская
 https://fs2.persik.by/Chipovskaja2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://argumentiru.com/images/preview/arhnews/76e8834cbc70bfd668e51c5ef97e2490.jpg",PersikTV Владимир Машков
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://argumentiru.com/images/preview/arhnews/76e8834cbc70bfd668e51c5ef97e2490.jpg",Владимир Машков
 http://fs2.persik.by/Mashkov4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.mycdn.me/image?id=946024504650&t=50&plc=WEB&tkn=*1-ro1j9z8KnS5TOubzlh4qTGgeo&fn=external_6",PersikTV Георгий Вицин
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.mycdn.me/image?id=946024504650&t=50&plc=WEB&tkn=*1-ro1j9z8KnS5TOubzlh4qTGgeo&fn=external_6",Георгий Вицин
 http://fs2.persik.by/Vicin_7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://miks-karting.ru/vdnh-2024/images/headliners/kucenko.png",PersikTV Гоша Куценко
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://miks-karting.ru/vdnh-2024/images/headliners/kucenko.png",Гоша Куценко
 http://fs2.persik.by/Kucenko_3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/1200x/b4/7c/c0/b47cc01c514334918cda5d60f14dcbe8.jpg",PersikTV Данила Козловский
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/1200x/b4/7c/c0/b47cc01c514334918cda5d60f14dcbe8.jpg",Данила Козловский
 http://fs2.persik.by/Kozlovskij_4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",PersikTV Евгений Леонов
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",Евгений Леонов
 https://fs2.persik.by/Leonov_6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",PersikTV Игорь Петренко
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",Игорь Петренко
 http://fs2.persik.by/Petrenko_3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.national-movie-awards.ru/images/winners/year2014-018.jpg",PersikTV Константин Хабенский
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.national-movie-awards.ru/images/winners/year2014-018.jpg",Константин Хабенский
 http://fs2.persik.by/Habenskij3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.iptv.rt.ru/images/cfgd3fjir4ssk120a8u0.jpg",PersikTV Николай Вдовиченков
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.iptv.rt.ru/images/cfgd3fjir4ssk120a8u0.jpg",Николай Вдовиченков
 http://fs2.persik.by/Vdovichenkov3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.litres.ru/static/authors/100/32/63/44/32634478.jpg",PersikTV Максим Матвеев
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.litres.ru/static/authors/100/32/63/44/32634478.jpg",Максим Матвеев
 http://fs2.persik.by/Matveev3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://r.mtdata.ru/c100x100/u14/photoD792/20034221605-0/original.jpg",PersikTV Михаил Пореченков
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://r.mtdata.ru/c100x100/u14/photoD792/20034221605-0/original.jpg",Михаил Пореченков
 http://fs2.persik.by/Porechenkov2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://img.rosbalt.ru/photobank/c/d/0/0/tjk4QcnP-234.jpg",PersikTV Павел Деревянко
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://img.rosbalt.ru/photobank/c/d/0/0/tjk4QcnP-234.jpg",Павел Деревянко
 http://fs2.persik.by/Derevyanko5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1a/68/a8/1a68a841a6490b03f54fa621fcf9d82d.jpg",PersikTV Сергей Пускепалис
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1a/68/a8/1a68a841a6490b03f54fa621fcf9d82d.jpg",Сергей Пускепалис
 http://fs2.persik.by/Puskepalis3/index.m3u8
 
 
@@ -577,158 +403,154 @@ https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 https://fs2.persik.by/Sluhay_RAP/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay Rock",Sluhay Rock HD
 https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name=" Рэп", Persik TV Рэп
+#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name=" Рэп",Рэп
 http://fs2.persik.by/Rap2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Техно
+#EXTINF:-1 group-title="Кинозалы Persik TV",Техно
 https://fs2.persik.by/Techno3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Best clips",PersikTV Best clips HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Best clips",Best clips
 https://fs2.persik.by/Best_clips/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Concerts",PersikTV Concerts HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Concerts",Concerts
 https://fs2.persik.by/Concerts4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" DJ",PersikTV DJ HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" DJ",DJ
 https://fs2.persik.by/DJ4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Hits",PersikTV Hits HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Hits",Hits
 http://fs2.persik.by/Hits4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Relax",PersikTV Relax HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Relax",Relax
 https://fs2.persik.by/Relax3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" POP-ROCK",PersikTV Pop-Rock HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" POP-ROCK",Pop-Rock
 https://fs2.persik.by/Pop_Rock2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name="Synthwave",Persik TV Synthwave HD
+#EXTINF:-1 group-title="Кинозалы Persik TV", tvg-name="Synthwave",Synthwave
 http://fs2.persik.by/Synthwave/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Fantasy",PersikTV Fantasy HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Fantasy",Fantasy
 https://fs2.persik.by/Fantasy2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Американские комедии",PersikTV Американские комедии HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Американские комедии",Американские комедии
 https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Английские субтитры HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Английские субтитры
 http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Боевики HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Боевики
 http://fs2.persik.by/Boeviki_12/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" В кругу семьи",PersikTV В кругу семьи HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" В кругу семьи",В кругу семьи
 http://fs2.persik.by/V_krugu_semii2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Вдохновение", PersikTV Вдохновение HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Вдохновение",Вдохновение
 https://fs2.persik.by/Vdohnovenie_12/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Вторая мировая HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Вторая мировая
 http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Давай поженимся HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Давай поженимся
 http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Детективное кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Детективное кино
 https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Дружба HD
+#EXTINF:-1 group-title="Кинозалы Persik TV", Дружба
 http://fs2.persik.by/Druzhba7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" ДОКУМЕНТАЛЬНОЕ КИНО",Документальное кино
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" ДОКУМЕНТАЛЬНОЕ",Документальное
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Европейское кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Европейское кино
 https://fs2.persik.by/EvropejskoeKino14/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Зарубежное кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Зарубежное кино
 http://fs2.persik.by/Zarubezhnoe_kino_9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="PersikTV Зомби-апокалипсис",PersikTV Зомби-апокалипсис HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="PersikTV Зомби-апокалипсис",Зомби-апокалипсис HD
 http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино + Subtitles HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Кино + Subtitles
 http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино выходного дня HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Кино выходного дня
 http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Кино по книгам",PersikTV Кино по книгам HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Кино по книгам",Кино по книгам
 https://fs2.persik.by/Kino_po_knigam9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино про дружбу HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино про дружбу
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино Антистресс HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Кино Антистресс
 http://fs2.persik.by/Kino_Antistress8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Киномикс",PersikTV Киномикс HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Киномикс",Киномикс 
 https://fs2.persik.by/Kino_Miks10/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Комедийные сериалы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Комедийные сериалы
 http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", Persik TV Космос Kosmo
+#EXTINF:-1 group-title="Кинозалы Persik TV", Космос Kosmo
 http://fs2.persik.by/Kosmo5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Лёгкое кино
+#EXTINF:-1 group-title="Кинозалы Persik TV", Лёгкое кино
 http://fs2.persik.by/Legkoe_Kino8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Любовь и Детективы",PersikTV Любовь и Детективы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Любовь и Детективы",Любовь и детективы
 http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Маньяки HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Маньяки
 http://fs2.persik.by/Manjaki6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Молодость HD
+#EXTINF:-1 group-title="Кинозалы Persik TV", Молодость
 http://fs2.persik.by/Molodost7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Новинки HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Новинки
 http://fs2.persik.by/Novinki8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Новогодние фильмы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Новогодние фильмы
 http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="PersikTV Новое кино",PersikTV Новое кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="PersikTV Новое кино",Новое кино
 https://fs2.persik.by/NovoeKino8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Новые комедии HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Новые комедии
 http://fs2.persik.by/Novie_Komedii6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Остросюжетные сериалы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Остросюжетные сериалы
 http://fs2.persik.by/OstrosuzhetnieSerialy6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Отечественное кино",PersikTV Отечественное кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Отечественное кино",Отечественное кино
 https://fs2.persik.by/Otechestvennoe2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Популярное кино",PersikTV Популярное кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Популярное кино",Популярное кино
 https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Про родителей",PersikTV Про родителей HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Про родителей",Про родителей
 http://fs2.persik.by/Pro_roditeley8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Психологические ужасы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Психологические ужасы
 http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Путешествие во времени",PersikTV Путешествие во времени HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Путешествие во времени",Путешествие во времени
 http://fs2.persik.by/Puteshestvie_vo_vremeni9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Рекомендуем HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Рекомендуем
 https://fs2.persik.by/Rekomenduem7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Рождественские фильмы",PersikTV Рождественские фильмы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Рождественские фильмы",Рождественские фильмы
 http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Романтические фильмы",PersikTV Романтические фильмы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Романтические фильмы", Романтические фильмы
 http://fs2.persik.by/Romanticheskie8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Русское кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Русское кино
 https://fs2.persik.by/RusKino3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Семейное",PersikTV Семейное HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Семейное",Семейное
 http://fs2.persik.by/Semejnoe9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Семейные фильмы",PersikTV Семейные фильмы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Семейные фильмы",Семейные фильмы
 http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Советские комедии HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Советские комедии
 http://fs2.persik.by/Soviet_Comedy10/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Топ кино",PersikTV Топ кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Топ кино",Топ кино
 http://fs2.persik.by/TopKino_12/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры США HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры США
 https://fs2.persik.by/Trillery_USA_11/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры Боевики HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры Боевики
 http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Триллеры Драма HD
+#EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры Драма
 http://fs2.persik.by/Trillery_Drama4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Фестивальное кино",PersikTV Фестивальное кино HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Фестивальное кино",Фестивальное кино
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Фильмы катастрофы",PersikTV Фильмы катастрофы HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Фильмы катастрофы",Фильмы катастрофы
 http://fs2.persik.by/Filmy_katastrofy/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Экранизации", PersikTV Экранизации HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Экранизации",Экранизации HD
 http://fs2.persik.by/Ekranizacii12/index.m3u8
 #EXTINF:-1 tvg-name=" MOVIE", Persik TV Movie (eng)
 http://fs2.persik.by/Movie2/index.m3u8
 
-#EXTINF:-1 tvg-name=" Аниме", Persik TV Аниме
+#EXTINF:-1 tvg-name=" Аниме",Аниме
 http://fs2.persik.by/Anime5/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские фильмы",Детские фильмы
 https://fs2.persik.by/DetskieFilmy4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские Песни",Детские песни
 https://fs2.persik.by/DetskiePesni4/index.m3u8
-#EXTINF:-1 tvg-name=" Сказки", Persik TV Сказки
+#EXTINF:-1 tvg-name=" Сказки",Сказки
 http://fs2.persik.by/Skazki6/index.m3u8
 
 
-
-
-
-
-#EXTINF:-1 group-title="🔺Dimonovich TV🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+#EXTINF:-1 group-title="Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="🔺Dimonovich TV🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
+#EXTINF:-1 group-title="Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="🔺Dimonovich TV🔺" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+#EXTINF:-1 group-title="Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="🔺Dimonovich TV🔺" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+#EXTINF:-1 group-title="Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv", Movify.tv Series
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" , Movify.tv Series
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" group-title="Movify.tv",Movify.tv History
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" ,Movify.tv History
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" group-title="Movify.tv",Movify Кино
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" ,Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
@@ -747,6 +569,90 @@ https://stream.sunset-media.ru/Free/Free/6.m3u8
 
 
 
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/16.m3u8
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png",15+ Media Group Кринж ТВ
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/18.m3u8
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="9238" tvg-id="" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png",15+ Media Group Alpha Cinema
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/8.m3u8
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="948" tvg-id="" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png",15+ Media Group Alpha Onenite
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/9.m3u8
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png", 15+ Media Group Alpha Funny
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/10.m3u8
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="1246" tvg-id="" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png",15+ Media Group Alpha Games
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/11.m3u8
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="09" tvg-id="" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png",15+ Media Group Alpha Anime
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/12.m3u8
+#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png",15+ Media Group Alpha Sex
+http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/13.m3u8
+
+#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",A-Media WAR-1
+http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/5.m3u8
+#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png",A-Media WAR-2
+http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/10.m3u8
+#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KULTURA_TEMP.png",A-Media Kultura
+http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/6.m3u8
+#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png",A-Media 4KIDS
+http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/7.m3u8
+#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png",Digital Filmix
+http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/8.m3u8
+
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 HLS
+http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 TS
+http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.ts
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 HLS
+http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 TS
+http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.ts
+
+
+#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Taurer Russia Groovezzo
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
+#EXTINF:-1 group-title="TaurerMedia"taurer-id="11" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png",Taurer Russia RRTV Europe
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="135"  tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png",Taurer Russia NINJA
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
+#EXTINF:-1 group-title="TaurerMedia"taurer-id="5323" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png",Taurer Russia World-1
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="4321" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png",Taurer Russia Криминал и Полиция
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="1131" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png",Taurer Russia KidsPlanet
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="01" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png", Taurer Russia KidsPlanet+
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="948" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png", Taurer Russia Quality HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="131" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png", Taurer Russia Кулинар HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="1339" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png", Taurer Russia Авто-Гир
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/28.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="948" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png", Taurer Russia TRR Georgia National Film
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/29.m3u8
+#EXTINF:-1 group-title="TaurerMedia" taurer-id="1531" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" ,Taurer Russia Scorelive 1 HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
+
+
+#EXTINF:-1 group-title="Природа",Природа WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Природа",Живая природа
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Природа",Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+#EXTINF:-1 group-title="Природа" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="Природа" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD 1
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="Природа",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 group-title="Природа",10 Bold Sydney
+https://i.mjh.nz/10bold-nsw.m3u8
+#EXTINF:-1 group-title="Природа",Home 4K
+http://hls3.ttv2.space:80/home_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Природа" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 group-title="Природа",Nature time
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_1.m3u8
 
 #EXTINF:-1 group-title="Яндекс" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",360 Новости
 https://strm.yandex.ru/kal/360news/360news0.m3u8
@@ -1078,7 +984,7 @@ http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
 http://hls127.homeiptv.org:8880/Clarity4K_Western/video.m3u8
 #EXTINF:-1 group-title="Cloudflare Homeiptv",Fashion TV HD
 http://hls127.homeiptv.org:8880/Fashion_HD/video.m3u8
-#EXTINF:-1 group-title="Cloudflare" tvg-id="filmua-drama",FilmUA Drama HD     
+#EXTINF:-1 group-title="Cloudflare Homeiptv" tvg-id="filmua-drama",FilmUA Drama HD     
 http://hls127.homeiptv.org:8880/FilmUADramaHD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare Homeiptv",Gags Network
 http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
@@ -3268,92 +3174,7 @@ https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
-https://stream.ads.ottera.tv/cl/231009cki5o24nsepl2jh7b2eg/1920x1080_5359200_5_f.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="RELAX",Nature time
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_1.m3u8
-#EXTINF:-1 group-title="RELAX",Stingray Naturescape
-https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://tgtv.ua/images/tgtv_logo.png",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
-http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg",Пейзаж
-http://iptv.prosto.tv:7000/ch343/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png",Space Stream
-http://iptv.prosto.tv:7000/ch314/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png",Про Факт
-http://iptv.prosto.tv:7000/ch315/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png",Зоо
-http://iptv.prosto.tv:7000/ch319/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg",Свет вокруг 
-http://iptv.prosto.tv:7000/ch351/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg",Терраса
-http://iptv.prosto.tv:7000/ch336/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg",Горная долина
-http://iptv.prosto.tv:7000/ch302/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg",Просто Украина
-http://iptv.prosto.tv:7000/ch303/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
-http://iptv.prosto.tv:7000/ch304/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg",Подводный Мир
-http://iptv.prosto.tv:7000/ch305/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg",Avia Stream
-http://iptv.prosto.tv:7000/ch306/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg",Катастрофы 
-http://iptv.prosto.tv:7000/ch312/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png",ЭКО система
-http://iptv.prosto.tv:7000/ch316/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png",Stream City
-http://iptv.prosto.tv:7000/ch321/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png",Аквариум 
-http://iptv.prosto.tv:7000/ch325/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg",Комната релакс
-http://iptv.prosto.tv:7000/ch328/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg",Зима
-http://iptv.prosto.tv:7000/ch327/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg",Ночь
-http://iptv.prosto.tv:7000/ch349/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg",Водопад
-http://iptv.prosto.tv:7000/ch329/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg",Лес
-http://iptv.prosto.tv:7000/ch330/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg",Огонь
-http://iptv.prosto.tv:7000/ch331/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
-http://iptv.prosto.tv:7000/ch332/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg",Тропики
-http://iptv.prosto.tv:7000/ch335/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg",Река
-http://iptv.prosto.tv:7000/ch338/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg",Джунгли
-http://iptv.prosto.tv:7000/ch339/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg",Горы
-http://iptv.prosto.tv:7000/ch340/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg",Озеро 
-http://iptv.prosto.tv:7000/ch341/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
-http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg",Бассейн
-http://iptv.prosto.tv:7000/ch345/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg",Флора
-http://iptv.prosto.tv:7000/ch346/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg",Сад
-http://iptv.prosto.tv:7000/ch347/video.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg",Железная дорога
-http://iptv.prosto.tv:7000/ch348/video.m3u8
-#EXTINF:-1 group-title="RELAX",Парк
-http://iptv.prosto.tv:7000/ch350/video.m3u8
+
 
 
 #EXTINF:-1 group-title="Stingray🎶 Музыка" ,Qello Concerts by Stingray
@@ -3404,128 +3225,288 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 
-#EXTINF:-1 group-title="Caspel",Первый канал HD
-http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Россия 1 HD
-http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Россия 24
-http://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",НТВ HD
-http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",ТНТ HD
-http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Рен ТВ
-http://mfe01.cliptv.az/dash/Ren_SD0204opts.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Investigation Discovery
-http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Viasat History
-http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel" aspect-ratio="16:9",Viasat Nature
-http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Animal Planet HD
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Discovery Channel HD
-http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",History HD
-http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Big Planet
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Travel+Adventure
-http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",RTG TV
-http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Дикий
-http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Ностальгия
-http://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Hollywood
-http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",2x2
-http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",СТС
-http://mfe02.cliptv.az/dash/STS_SDshl247h.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",СТС Love
-http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Пятница
-http://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Че
-http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Авто плюс
-http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Домашний
-http://mfe01.cliptv.az/dash/Domashniy_SDdppq23v.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кухня ТВ
-http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TLC HD
-http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Комедия
-http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Беларусь 24
-http://mfe02.cliptv.az/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",.Black
-http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",.Sci-Fi
-http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Amedia 1
-http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Amedia 2
-http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",ТВ3
-http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TV1000
-http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TV1000 Русское кино
-http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кинохит
-http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кинопремьера HD
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киносемья
-http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Индийское кино
-http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киносвидание
-http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Мужское кино
-http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киномикс
-http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Киносерия
-http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Родное кино
-http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Наше новое кино
-http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кинокомедия
-http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Любимое кино
-http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",TV XXI
-http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Дом Кино Премиум HD
-http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Еврокино
-http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Serial HD
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Comedy HD
-http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Megahit HD
-http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",VIP Premiere HD
-http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Amedia Premium HD
-http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Кино ТВ HD
-http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Мир сериала
-http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Cinema
-http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Сапфир
-http://mfe02.cliptv.az/dash/Fox_Russia_SDqwqwqw321.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",.Black
+https://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",.Sci-Fi
+https://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",2x2
+https://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Amedia 1
+https://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Amedia 2
+https://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Amedia Premium HD
+https://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Animal Planet HD
+https://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Big Planet
+https://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Cinema
+https://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Discovery Channel HD
+https://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",History HD
+https://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Hollywood
+https://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Investigation Discovery
+https://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Investigation Discovery
+https://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",RTG TV
+https://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",TLC HD
+https://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Travel+Adventure
+https://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",TV XXI
+https://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",TV1000
+https://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",TV1000 Русское кино
+https://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Viasat History
+https://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой" aspect-ratio="16:9",Viasat Nature
+https://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",VIP Comedy HD
+https://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",VIP Megahit HD
+https://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",VIP Premiere HD
+https://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",VIP Serial HD
+https://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Авто плюс
+https://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Беларусь 24
+https://mfe02.cliptv.az/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Дикий
+https://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Дом Кино Премиум HD
+https://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Домашний
+https://mfe01.cliptv.az/dash/Domashniy_SDdppq23v.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Еврокино
+https://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Индийское кино
+https://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Кино ТВ HD
+https://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Кинокомедия
+https://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Киномикс
+https://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Кинопремьера HD
+https://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Киносвидание
+https://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Киносемья
+https://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Киносерия
+https://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Кинохит
+https://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Комедия
+https://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Кухня ТВ
+https://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Любимое кино
+https://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Мир сериала
+https://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Мужское кино
+https://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Наше новое кино
+https://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Ностальгия
+https://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",НТВ HD
+https://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Первый канал HD
+https://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Пятница
+https://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Рен ТВ
+https://mfe01.cliptv.az/dash/Ren_SD0204opts.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Родное кино
+https://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Россия 1 HD
+https://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Россия 24
+https://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Сапфир
+https://mfe02.cliptv.az/dash/Fox_Russia_SDqwqwqw321.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",СТС
+https://mfe02.cliptv.az/dash/STS_SDshl247h.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",СТС Love
+https://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",ТВ3
+https://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",ТНТ HD
+https://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel (Cliptv.az с задержкой",Че
+https://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
 
-
+EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",2x2
+http://31.148.48.15:80/2x2/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",7 TV
+http://31.148.48.15:80/7TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Amedia 1
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Amedia 2 HD
+http://31.148.48.15:80/A2/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Amedia Premium HD
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Ani
+http://31.148.48.15:80/Ani/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Animal Planet HD
+http://31.148.48.15:80/Animal_Planet_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Bridge TV
+http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",HD Life
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",HOLLYWOOD HD
+http://31.148.48.15:80/MGM_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",KHL Prime
+http://31.148.48.15:80/KHL_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Nickelodeon
+http://31.148.48.15:80/Nickelodeon/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",RT
+http://31.148.48.15:80/RT_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",RTG TV
+http://31.148.48.15:80/RTG/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",RU.TV
+http://31.148.48.15:80/RU_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",TDK
+http://31.148.48.15:80/TDK/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Travel+Adventure HD
+http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Авто Плюс
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",БелРос
+http://31.148.48.15:80/BelRos/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",БОКС ТВ
+http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ВРЕМЯ
+http://31.148.48.15:80/Vremya/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Доктор
+http://31.148.48.15:80/Doktor/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ДОМ КИНО
+http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Дом Кино Премиум HD
+http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Еврокино
+http://31.148.48.15:80/Evrokino/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ЖИВАЯ ПЛАНЕТА
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ЖИВИ
+http://31.148.48.15:80/Zhivi/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Звезда
+http://31.148.48.15:80/Zvezda/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ЗДОРОВОЕ ТВ
+http://31.148.48.15:80/Zdorovoe_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Зоо ТВ
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ИСТОРИЯ
+http://31.148.48.15:80/Istoriya/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",КВН ТВ
+http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Кино ТВ
+http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",КИНО ТВ HD
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Кухня ТВ
+http://31.148.48.15:80/Kuhnya_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",КХЛ ТВ
+http://31.148.48.15:80/KHL_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Мама
+http://31.148.48.15:80/Mama/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч ТВ HD
+http://31.148.48.15:80/Match_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч! Арена HD
+http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч! Боец
+http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч! Игра
+http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч! СТРАНА
+http://31.148.48.15:80/Match_Nash_Sport/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч! ФУТБОЛ 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч! ФУТБОЛ 2 HD
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Матч! ФУТБОЛ 3 HD
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",МИР
+http://31.148.48.15:80/Mir/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",МИР 24
+http://31.148.48.15:80/Mir_24/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Моя Планета
+http://31.148.48.15:80/Moya_Planeta/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Музыка Первого
+http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Мульт
+http://31.148.48.15:80/Mult/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Мультиландия
+http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",НАУКА 2.0 HD
+http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",НОСТАЛЬГИЯ
+http://31.148.48.15:80/Nostalgiya/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",НТВ
+http://31.148.48.15:80/NTV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ОТР
+http://31.148.48.15:80/OTR/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ПОЕХАЛИ!
+http://31.148.48.15:80/Poehali/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Пятница
+http://31.148.48.15:80/Pyatnica/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",РБК
+http://31.148.48.15:80/RBK/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Родное кино
+http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Россия 1
+http://31.148.48.15:80/Rossiya_1/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Россия 24
+http://31.148.48.15:80/Rossiya_24/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",РУССКИЙ БЕСТСЕЛЛЕР
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Сарафан
+http://31.148.48.15:80/Sarafan/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Союз
+http://31.148.48.15:80/Soyuz/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",СПАС
+http://31.148.48.15:80/Spas/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",СТС
+http://31.148.48.15:80/STS/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Суббота!
+http://31.148.48.15:80/Super/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТЕЛЕКАФЕ
+http://31.148.48.15:80/Telekafe/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Телепутешествия
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТНТ
+http://31.148.48.15:80/TNT/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТНТ music
+http://31.148.48.15:80/TNT_Music/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ТНТ4
+http://31.148.48.15:80/TNT4/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Точка ТВ
+http://31.148.48.15:80/Tochka_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",УНИКУМ
+http://31.148.48.15:80/Detskiy/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",УСАДЬБА
+http://31.148.48.15:80/Usadba/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Че
+http://31.148.48.15:80/Che/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",ШАНСОН ТВ
+http://31.148.48.15:80/Shanson_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Caspel (Cliptv.az 31.148.48.15:80 с задержкой)",Ю
 
 
 
@@ -11025,68 +11006,7 @@ http://65.21.85.175:8000/play/a031/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o8/bloomberg/playlist.m3u8
 
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/16.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png",15+ Media Group Кринж ТВ
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/18.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="9238" tvg-id="" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png",15+ Media Group Alpha Cinema
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/8.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="948" tvg-id="" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png",15+ Media Group Alpha Onenite
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/9.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png", 15+ Media Group Alpha Funny
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/10.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="1246" tvg-id="" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png",15+ Media Group Alpha Games
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/11.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="09" tvg-id="" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png",15+ Media Group Alpha Anime
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/12.m3u8
-#EXTINF:-1 group-title="TaurerMedia" fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png",15+ Media Group Alpha Sex
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/13.m3u8
 
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",A-Media WAR-1
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/5.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png",A-Media WAR-2
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/10.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KULTURA_TEMP.png",A-Media Kultura
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/6.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png",A-Media 4KIDS
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/7.m3u8
-#EXTINF:-1 group-title="TaurerMedia" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png",Digital Filmix
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/8.m3u8
-
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 HLS
-http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 TS
-http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.ts
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 HLS
-http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 TS
-http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.ts
-
-
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Taurer Russia Groovezzo
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
-#EXTINF:-1 group-title="TaurerMedia"taurer-id="11" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png",Taurer Russia RRTV Europe
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="135"  tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png",Taurer Russia NINJA
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
-#EXTINF:-1 group-title="TaurerMedia"taurer-id="5323" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png",Taurer Russia World-1
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="4321" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png",Taurer Russia Криминал и Полиция
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1131" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png",Taurer Russia KidsPlanet
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="01" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png", Taurer Russia KidsPlanet+
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="948" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png", Taurer Russia Quality HD
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="131" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png", Taurer Russia Кулинар HD
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1339" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png", Taurer Russia Авто-Гир
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/28.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="948" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png", Taurer Russia TRR Georgia National Film
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/29.m3u8
-#EXTINF:-1 group-title="TaurerMedia" taurer-id="1531" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" ,Taurer Russia Scorelive 1 HD
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
 
 
 #EXTINF:-1 group-title="TaurerMedia" dsn-id="3715" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network",Taurer Russia LIVE:ХБ-ШОУ
@@ -11097,6 +11017,167 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
 #EXTINF:-1 group-title="TaurerMedia" dsn-id="19311" tvg-name="LIVE_SVARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSVATY_TEMP.png" group-title="Digital Satellite Network",Taurer Russia LIVE:Сваты
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Rutube", Dream music Расслабляющая музыка и радио. Медитация и йога.
+https://river-3-316.rutube.ru/stream/genetta-320.m9.rutube.ru/rZ5Bxei-hLQt2Jslatxz-g/1724989554/91c0c6fb9911daa11435fb690c726603/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Dream music Synthwave Music | Синтвейв музыка радио
+https://river-3-312.rutube.ru/stream/genetta-522.ost.rutube.ru/-GMK6aqfiNhc7N2HtdORLA/1724989603/5a2c2738fe5b8026ea9566d18a5c3ca2/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Dream music Средневековая расслабляющая музыка. Радио | Medieval tavern music
+https://river-3-317.rutube.ru/stream/genetta-314.m9.rutube.ru/rdi8AqbKa0QZD3V1StTcBA/1724989640/7ab3d6359bf6cec3fa2e8587011c7b85/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Dream music Chillout lofi music | Чиллаут радио. Музыка
+https://river-3-312.rutube.ru/stream/genetta-515.ost.rutube.ru/hTdhv0krV0JRalW3me2Vlw/1724989673/a87c1386bb1de7b3fcf5707e5d602e1b/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Радио МУЗКОМ (Radio MUZKOM ) - прямой эфир
+https://river-3-326.rutube.ru/stream/genetta-317.m9.rutube.ru/sFSEJbDFO5xUXjScGbhsAg/1724989321/75adbc49041646ba65eef1cae3beef2e/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", 🎼🎧 24/7 Live Radio🎼🎧Best Relax House, Chillout, Study, Running, Gym, Music🎼🎧
+https://river-3-312.rutube.ru/stream/genetta-334.m9.rutube.ru/Ypcm0QdU51lPt3KYww9QJA/1724989381/a00d28b8df82321b03b89baf154b82ca/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Ритмы для отдыха, расслабления, учёбы, работы или сна ♪
+https://river-3-312.rutube.ru/stream/genetta-321.m9.rutube.ru/NqXZ6gpkf4lrRoQi8_YC7A/1724989448/6761b0cc1bcac4ad0e86101b8f9df968/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", lofi hip hop radio - beats to sleep/chill to
+https://river-3-316.rutube.ru/stream/genetta-326.m9.rutube.ru/A3aVOkZ-eyL9lskLVb2MeA/1724989471/4f6be9b0f7adb95b285638c116cf5e5b/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", Tyumen Techno Radio
+https://river-3-317.rutube.ru/stream/genetta-328.m9.rutube.ru/rzDtRterLLDDlIm1ToiHrw/1724989521/499aafd89fa8fc309516f97c7ba468ee/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", 24/7 SynthRetroWave Radio - электронная музыка и атмосфера прошлого
+https://river-3-312.rutube.ru/stream/genetta-328.m9.rutube.ru/AAHVP4Em1os_jmX1MRa2FA/1724989700/aa5af955cb7698d9a43e3c5573cc853c/1080p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", ALBEDO - HEAVENLY MUSICAL 💖 Radio прямой эфир 🔴
+https://river-3-312.rutube.ru/stream/genetta-511.ost.rutube.ru/U5DKgge7wHdu1h6YBOzeGA/1724989742/2f4971759ee955f4b15e9d4091cd5787/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", ALBEDO подкаст
+https://podster.fm/podcasts/wert/e/360818/albedo-heavenly-musical-podcast-28-collection
+#EXTINF:-1 group-title="Rutube", Музыка Rutube TV (1080p)
+https://salam-mskm9-6.rutube.ru/dive/river-3-327.rutube.ru/mECawQAAejSuMuqN8xZkqg/stream/genetta-317.m9.rutube.ru/pomMbiytdjz5zYUCnTuVhw/1725069801/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка Rutube TV (1080p) 2
+https://river-5-513.rutube.ru/stream/genetta-317.m9.rutube.ru/mECawQAAejSuMuqN8xZkqg/1725069801/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка Rutube TV (720p)
+https://salam-mskm9-6.rutube.ru/dive/river-3-327.rutube.ru/mECawQAAejSuMuqN8xZkqg/stream/genetta-317.m9.rutube.ru/pomMbiytdjz5zYUCnTuVhw/1725069801/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка МУЗ-ТВ HD
+https://salam-mskm9-36.rutube.ru/dive/river-5-516.rutube.ru/vjKfUrPtohSUnr5PiZhQ0w/stream/musang-704.brz.rutube.ru/rKFArPwO-lVI4bHObX26YQ/1724987972/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка ТНТ Music HD
+https://live-gcore-1.rutube.ru/stream/genetta-330.m9.rutube.ru/gy0ubn_exOGXmPCrnTcuSA/1724912642/f5ba23a0149f409c18168231844e0a3b/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка VIVA Russia HD
+https://salam-2-9.rutube.ru/dive/river-3-326.rutube.ru/hKMsuTSG23VkP19Hjd7PAA/stream/genetta-501.ost.rutube.ru/GshaaJcrScIKMAMZHAkb_Q/1724955764/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Музыка Chill Out Music Mix Live
+https://river-3-312.rutube.ru/stream/genetta-322.m9.rutube.ru/0VPvpjMFmyr731-J3o4A_Q/1724989199/7956f50082b4999500adb90dbfa84b69/720p_stream_push.m3u8
+#EXTINF:-1 group-title="Rutube", DISCOVERY CHANNEL : КРУГЛОСУТОЧНЫЙ ПРЯМОЙ ЭФИР | Discovery channel 24/7 LIVE STREAMING
+https://salam-mskm9-36.rutube.ru/dive/river-3-322.rutube.ru/uwBUp4G540yuBbu9KgU0_g/stream/genetta-328.m9.rutube.ru/A0SYzcxS0mpXsJV0pQegWA/1725062553/f61701b91f0f15e49611bc2c85494d4b/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", NAT GEO
+https://salam-mskm9-43.rutube.ru/dive/river-5-511.rutube.ru/gbyL2TyZqvm5sAuivgUlog/stream/genetta-325.m9.rutube.ru/1XoK5_5vTo5BuJkn5CbWag/1725068871/9f96e00ce0f4256c6ad608aaf580bf88/720p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", 2x2 HD
+https://salam-2-16.rutube.ru/dive/river-5-511.rutube.ru/5GS1lkpgn5XxcYxWSt7vDw/stream/musang-706.brz.rutube.ru/rwpd3v4u1xMEB4sUqB9oYg/1724430753/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Первый канал HD
+https://live-gcore-1.rutube.ru/stream/musang-701.brz.rutube.ru/DtPowlW_UlUJ9gJY9ASZxA/1724430497/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", НТВ HD
+https://live-gcore-1.rutube.ru/stream/genetta-327.m9.rutube.ru/41zz7n_Q_2WwFoLGWDCLOg/1724430534/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Пятница HD
+https://salam-2-16.rutube.ru/dive/river-5-511.rutube.ru/UUsRPq1SvukzYsdoshkAhA/stream/musang-701.brz.rutube.ru/JbxySA0wj9gmM2bQyadoUQ/1724869593/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Суббота HD
+https://salam-mskm9-6.rutube.ru/dive/river-5-515.rutube.ru/To3rdClMqYAwgCkPy-ZI1A/stream/musang-704.brz.rutube.ru/Hm_gAYSot8mpnokFH5AhuQ/1725068774/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Спас HD
+https://salam-mskm9-10.rutube.ru/dive/river-5-519.rutube.ru/_ElCUrMxUMDQNtk-iTzhkg/stream/genetta-528.ost.rutube.ru/TGuXIkX9db8NySXHgTCWmA/1724988594/2bbfa9ebf9d79ade480d7281fcef1008/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Соловьёв LIVE HD
+https://salam-mskm9-37.rutube.ru/dive/river-3-328.rutube.ru/Cn-NIAhSQ5Ikncb0Zxh47g/stream/genetta-328.m9.rutube.ru/_MECH5gu-weYNiKHkFJAfg/1724988702/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Солнце
+https://salam-2-6.rutube.ru/dive/river-3-321.rutube.ru/Q5K0Gk63Boyjlif_M3aipg/stream/musang-701.brz.rutube.ru/wx40TrlqJP1Nb1rSBCuNtw/1724430997/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ТНТ HD
+https://salam-2-16.rutube.ru/dive/river-3-321.rutube.ru/Tt4jw31nvcbzyiKUmvLPwA/stream/musang-706.brz.rutube.ru/Vc9FoX-dby0OhdHCevHz6Q/1724430593/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ТНТ4 HD
+https://salam-2-2.rutube.ru/dive/river-3-311.rutube.ru/C3_18yIkYghBkp2YV0e4XA/stream/musang-703.brz.rutube.ru/R8auH5-FIFuTwwJNKIiQsw/1724430617/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ТВ3 HD
+https://salam-2-2.rutube.ru/dive/river-5-513.rutube.ru/q82MaO8WNbDJV0Hj01fz2Q/stream/musang-703.brz.rutube.ru/kugTGBz1ql24i-OMBUgVeA/1724430661/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Ю HD
+https://salam-2-9.rutube.ru/dive/river-5-513.rutube.ru/u_O7RHjf8rizZO7JG505tA/stream/musang-704.brz.rutube.ru/SI81gHHI-TK9NoxSy4dJRw/1724430955/5c9327074e25ca86f3111d4085cbbb65/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Матч ТВ HD
+https://salam-mskm9-10.rutube.ru/dive/river-3-328.rutube.ru/80Fp00IvKbIcmW5Rr_uIjQ/stream/musang-701.brz.rutube.ru/rF7httCO4e_k5eVqzneSoA/1724616571/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", МИР HD
+https://salam-mskm9-10.rutube.ru/dive/river-3-328.rutube.ru/zH2qIlDPnbVdOhXZDVDH2A/stream/genetta-321.m9.rutube.ru/_lNdaQHJNYQqzigzJtEbZw/1724988670/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-id="oxotnik-i-rybolov-int", Охотник и рыболов HD
+https://salam-2-5.rutube.ru/dive/river-3-328.rutube.ru/U86ILMMtm6S2Bnz8A9cviw/stream/genetta-513.ost.rutube.ru/WKCx9WWvXFwxQuZzMKZ8yA/1724430685/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-id="zagorodny-int", Загородный International HD
+https://salam-2-6.rutube.ru/dive/river-3-328.rutube.ru/RlC9mcLjGFFAcSeZ-HnO4g/stream/genetta-518.ost.rutube.ru/2-oSTh9VHXbH4jfrfQxeZQ/1724430708/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", ОТР - Общественное Телевидение России 
+https://salam-mskm9-37.rutube.ru/dive/river-5-515.rutube.ru/b2pZqUwVRPHV4it076RGsg/stream/genetta-517.ost.rutube.ru/1ualUjkrQxkv6SYDaY1VmQ/1724988459/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Звезда HD
+https://salam-mskm9-9.rutube.ru/dive/river-3-327.rutube.ru/o8Idn98R2HYLffIdVDAYkw/stream/musang-702.brz.rutube.ru/58NQVkaiDlPWlSaaZUqL4w/1724988566/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", 78 канал HD
+https://live-gcore-1.rutube.ru/stream/genetta-520.ost.rutube.ru/rPKPQtVBww-I3anPZYM4QQ/1724912534/bbf23277dbd0dd0e6a623526d4c3f8c9/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", БелРос
+https://salam-2-9.rutube.ru/dive/river-5-513.rutube.ru/MkarwwkfEFVslk0DTrGe4A/stream/genetta-318.m9.rutube.ru/P2PFTYeJ9IEIyN968ZzrYQ/1724430884/46c03b7f1a7255326900f4a60a9b44e0/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Буряад ТВ HD
+https://salam-2-9.rutube.ru/dive/river-3-320.rutube.ru/qbxWXcimgVHUlUVfjF7K0Q/stream/musang-704.brz.rutube.ru/TATt9tfzv7Tb24gVI0O_Hg/1724431018/55fec7f2c11f4decc66568fca39f26b2/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Вместе-РФ HD
+https://live-gcore-1.rutube.ru/stream/genetta-530.ost.rutube.ru/iPlBP2j6eBnO56LdU7-yWA/1724744039/f6a6d5c955180d0d0f80c66d0b6150d3/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Волга HD
+https://salam-2-16.rutube.ru/dive/river-3-311.rutube.ru/bLvdanfzpgdq1xk2hrtyAw/stream/musang-701.brz.rutube.ru/W7SAeGcQHc2tw99QxQU4ag/1724430840/bed2dcda74004e4e9a61966d2848c027/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Истоки Орёл
+https://live-gcore-1.rutube.ru/stream/genetta-504.ost.rutube.ru/Azxvp_oC1rKYdynDRd6BVQ/1724955679/503a8ac5ca6d738f05a147764f70215b/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Краснодар HD
+https://live-gcore-1.rutube.ru/stream/genetta-319.m9.rutube.ru/gWPMl8gmfciTLbNrtJgx6w/1724831729/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Краснодар HD (2)
+https://salam-mskm9-6.rutube.ru/dive/river-3-318.rutube.ru/HFdYtSZPJKDSf9BWpCY0yg/stream/genetta-319.m9.rutube.ru/oYx8tYoPAIClpXjCp2LFtw/1724979452/9c57693e7e184e3b02cdb2bbb4b89637/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube" tvg-logo="https://pic.rutubelist.ru/video/48/cf/48cf782d6973dce5d23010688db5378b.jpg?size=l", Крым 24 (576p)
+https://salam-mskm9-43.rutube.ru/dive/river-5-520.rutube.ru/hDgY1rwb0gbDklIhitP-uA/stream/genetta-304.m9.rutube.ru/SDSrEUy4z-WXAeKNdAGo5w/1724978793/261339ca4f1396ea0271d07364bd99dd/576p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Новосибирск ОТС HD
+https://salam-2-17.rutube.ru/dive/river-3-321.rutube.ru/FgtawRFBiEsCGMD1rJPMuQ/stream/genetta-512.ost.rutube.ru/tKOVnWkmRvoMlSTk6AHPoQ/1724430821/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Русский Корабль HD
+https://river-5-513.rutube.ru/stream/genetta-534.ost.rutube.ru/u3bmo6Jv9yOpej0ptWT_uA/1725069521/3ebc361db78373495974123cfb994531/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Русский Корабль HD 2
+https://salam-mskm9-10.rutube.ru/dive/river-3-324.rutube.ru/u3bmo6Jv9yOpej0ptWT_uA/stream/genetta-534.ost.rutube.ru/2Zmdp8E007_CWw1t-yeW8A/1725069521/3ebc361db78373495974123cfb994531/1080p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Русский Корабль (720p)
+https://salam-mskm9-10.rutube.ru/dive/river-3-324.rutube.ru/u3bmo6Jv9yOpej0ptWT_uA/stream/genetta-534.ost.rutube.ru/2Zmdp8E007_CWw1t-yeW8A/1725069521/3ebc361db78373495974123cfb994531/720p_stream.m3u8
+#EXTINF:-1 group-title="Rutube", Смайлик ТВ HD
+https://salam-mskm9-5.rutube.ru/dive/river-3-313.rutube.ru/9RZv7E57eDnXKbMPKjjsVw/stream/genetta-304.m9.rutube.ru/vLTrgfSqJBSjMet56B2LHg/1725068917/2f052691c75d72b3ed7f3c33ea956a41/1080p_stream.m3u8
+
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K 60fps
+https://river-5-519.rutube.ru/hls-vod/fzJ-CdLBKE_D1rpA0OzMQg/1725740290/1786/0x5000c500c8a5aa7f/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K 60fps COLORFUL WORLD - TRUE CINEMATIC
+https://river-5-522.rutube.ru/hls-vod/3PG_Gj9R928v_3fzkbqQ2A/1725740317/2167/0x5000c500e7502247/5b568af64882481c850fa2e1fe591cdd.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K 60fps Удивительные животные
+https://river-3-329.rutube.ru/hls-vod/VcT7G4yZbY-_7NDDARoMCg/1725740354/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",4K ULTRA HD
+https://river-3-320.rutube.ru/hls-vod/TAunOeYb92ZAIveAnqz8jw/1725740197/1796/0x5000c5007443177b/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
+https://river-3-312.rutube.ru/hls-vod/v-g1rSj4bL_he_G4jb4fsQ/1725740244/2193/0x5000c500e74f9e90/44fa52380d5648fe8b8c49571feba70e.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Demo 4K 60fps
+https://river-5-521.rutube.ru/hls-vod/FUC-B1gPV2KZX0qFB8HcNg/1725740407/1764/0x5000c500e34b76b7/e2871e209eb74d2ca924c256233583d7.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Mind Blowing 4K
+https://river-5-513.rutube.ru/hls-vod/A90Nv2tTasWPHrmhMIZdTQ/1725740618/1766/0x5000c500e34c00f5/f677cdd74de344c7ad26a748f42e912f.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",PARADISE ON EARTH Best Travel
+https://river-5-520.rutube.ru/hls-vod/HSwahyxAgRm4_1nxtNZHZw/1725740494/2195/0x5000c5007444b888/476aba05d6d94a1f8d799a4879737540.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",THE MOST BEAUTIFUL 4K 60fps
+https://river-5-522.rutube.ru/hls-vod/XRJY1z7Tb2nRVoBCxQmGZA/1725740463/2229/0x5000c500e658a29c/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Аляска 4K 60fps
+https://river-3-301.rutube.ru/hls-vod/lgNkqx0TeuYCrzCvQuCnVw/1725740435/1879/0x5000c500e5356ed6/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Бора-Бора 4К
+https://river-5-515.rutube.ru/hls-vod/425OmFPQH3Wp792rb0D1Hw/1725740695/1887/0x5000c500e53a12cf/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Германия 4K
+https://river-5-511.rutube.ru/hls-vod/ELxgsZx7XJzVpN1EswdFzA/1725740872/1790/0x5000c500d6c05950/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Дубай 4K
+https://river-5-512.rutube.ru/hls-vod/pRfqMMHIwSO8q6okSwWgHA/1725740847/1774/0x5000c500c49ad01b/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Карибы 4К
+https://river-3-318.rutube.ru/hls-vod/6XvwwUvTAQcOhvtgN2w0Xw/1725740904/1782/0x5000c500c3291750/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Каттегат в 4К С Музыкой Викингов
+https://river-3-322.rutube.ru/hls-vod/Htn7rpCOvM2yujZVkTPn1A/1725740644/1842/0x5000cca2841edef0/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Мальдивы 4К
+https://river-5-517.rutube.ru/hls-vod/Raj0F_TRQ_fPGvRL7_OtbQ/1725740818/1848/0x5000cca28420b4e4/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Манила 4K
+https://river-3-316.rutube.ru/hls-vod/sRayv0ZK_V-vUjZnczeqsA/1725740558/1826/0x5000c500c432e5a6/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Морокко 4К
+https://river-5-521.rutube.ru/hls-vod/jWMbNT4eA5YJyyRrffhlyA/1725740788/1768/0x5000c500e34c9a66/2a52b66f92314c188a9781d462cf8b3e.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Намибия 4К
+https://river-5-516.rutube.ru/hls-vod/Hcu9ZPBcLW0eNeHcHMm5kQ/1725740733/1820/0x5000c500c45b3ee6/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Невероятная Красота 4K
+https://river-3-321.rutube.ru/hls-vod/KS_KBvEY6D6DepYbiDxcQA/1725740592/1770/0x5000c500c58d6607/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Пакистан 4К
+https://river-5-512.rutube.ru/hls-vod/wr9pTGUkEZUamJAw6FDCjA/1725740671/1796/0x5000c500c884be1b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Перу 4K 60fps
+https://river-5-522.rutube.ru/hls-vod/rPtivD6F2B1QKLwCgUvSzw/1725740379/1875/0x5000c500e53957cd/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Серенгети 4К
+https://river-3-328.rutube.ru/hls-vod/l78Y0ajXeBMuwCAQLxqq6Q/1725740760/1848/0x5000cca2841e59d0/174e9ce15c7d4baebec7149609e7ea17.mp4.m3u8?i=3840x2160
+#EXTINF:-1 group-title="Rutube 4K" tvg-logo="https://i.postimg.cc/L6t51FTy/1.jpg",Турция 4K
+https://river-6-602.rutube.ru/hls-vod/5FLlwqU45kfxL860_8WjTQ/1725740524/1798/0x5000c500e3d50955/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160
+
+
 
 
 
