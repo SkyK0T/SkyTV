@@ -1369,35 +1369,35 @@ https://fs2.persik.by/Pop_Rock2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Synthwave",Synthwave
 http://fs2.persik.by/Synthwave/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Fantasy",Fantasy
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Fantasy" tvg-logo="http://persik.tv/images/channels/logos/11060.png", Фэнтези HD Fantasy
 https://fs2.persik.by/Fantasy2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Американские комедии",Американские комедии
 https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Английские субтитры
 http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",PersikTV Боевики
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10685.png",Боевик
 http://fs2.persik.by/Boeviki_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" В кругу семьи",В кругу семьи
 http://fs2.persik.by/V_krugu_semii2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Вдохновение",Вдохновение
+#EXTINF:-1 group-title="Кинозалы Persik TV "tvg-logo="http://persik.tv/images/channels/logos/10753.png" tvg-name=" Вдохновение",Вдохновение HD
 https://fs2.persik.by/Vdohnovenie_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Вторая мировая
 http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Давай поженимся
 http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Детективное кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективное кино HD
 https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", Дружба
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10756.png", Дружба HD
 http://fs2.persik.by/Druzhba7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" ДОКУМЕНТАЛЬНОЕ КИНО",Документальное кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" ДОКУМЕНТАЛЬНОЕ КИНО "tvg-logo="http://persik.tv/images/channels/logos/11028.png",Документальное кино HD
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" ДОКУМЕНТАЛЬНОЕ",Документальное
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" ДОКУМЕНТАЛЬНОЕ "tvg-logo="http://persik.tv/images/channels/logos/10739.png",Документальное HD
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Европейское кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10749.png",Европейское кино HD
 https://fs2.persik.by/EvropejskoeKino14/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Зарубежное кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11129.png",Зарубежное кино
 http://fs2.persik.by/Zarubezhnoe_kino_9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Зомби-апокалипсис",Зомби-апокалипсис HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Зомби-апокалипсис",Зомби апокалипсис
 http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Кино + Subtitles
 http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
@@ -1415,15 +1415,15 @@ https://fs2.persik.by/Kino_Miks10/index.m3u8
 http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV", Космос Kosmo
 http://fs2.persik.by/Kosmo5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", Лёгкое кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11135.png", Лёгкое кино
 http://fs2.persik.by/Legkoe_Kino8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Любовь и Детективы",Любовь и детективы
 http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Маньяки
 http://fs2.persik.by/Manjaki6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV", Молодость
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10755.png", Молодость
 http://fs2.persik.by/Molodost7/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Новинки
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11027.png",Новинки
 http://fs2.persik.by/Novinki8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Новогодние фильмы
 http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
@@ -1431,11 +1431,11 @@ http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
 https://fs2.persik.by/NovoeKino8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Новые комедии
 http://fs2.persik.by/Novie_Komedii6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Остросюжетные сериалы
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10752.png",Остросюжетные сериалы HD
 http://fs2.persik.by/OstrosuzhetnieSerialy6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Отечественное кино",Отечественное кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Отечественное кино" tvg-logo="http://persik.tv/images/channels/logos/11147.png",Отечественное кино
 https://fs2.persik.by/Otechestvennoe2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Популярное кино",Популярное кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Популярное кино" tvg-logo="http://persik.tv/images/channels/logos/11024.png",Популярное кино HD
 https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Про родителей",Про родителей
 http://fs2.persik.by/Pro_roditeley8/index.m3u8
@@ -1455,9 +1455,9 @@ https://fs2.persik.by/RusKino3/index.m3u8
 http://fs2.persik.by/Semejnoe9/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Семейные фильмы",Семейные фильмы
 http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Советские комедии
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
 http://fs2.persik.by/Soviet_Comedy10/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Топ кино",Топ кино
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Топ кино" tvg-logo="http://persik.tv/images/channels/logos/11018.png",Топ кино HD
 http://fs2.persik.by/TopKino_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры США
 https://fs2.persik.by/Trillery_USA_11/index.m3u8
@@ -1469,18 +1469,18 @@ http://fs2.persik.by/Trillery_Drama4/index.m3u8
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Фильмы катастрофы",Фильмы катастрофы
 http://fs2.persik.by/Filmy_katastrofy/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Экранизации",Экранизации HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Экранизации" tvg-logo="http://persik.tv/images/channels/logos/10754.png",Экранизации HD
 http://fs2.persik.by/Ekranizacii12/index.m3u8
 #EXTINF:-1 tvg-name=" MOVIE", Persik TV Movie (eng)
 http://fs2.persik.by/Movie2/index.m3u8
-
-#EXTINF:-1 tvg-name=" Аниме",Аниме
+https://persik.by/media/channels/logos/11245.png
+#EXTINF:-1 tvg-name=" Аниме" tvg-logo="http://persik.tv/images/channels/logos/11128.png",Аниме
 http://fs2.persik.by/Anime5/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские фильмы",Детские фильмы
 https://fs2.persik.by/DetskieFilmy4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские Песни",Детские песни
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Детские Песни" tvg-logo="https://persik.by/media/channels/logos/10680.png",Детские песни
 https://fs2.persik.by/DetskiePesni4/index.m3u8
-#EXTINF:-1 tvg-name=" Сказки",Сказки
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" Сказки" tvg-logo="http://persik.tv/images/channels/logos/10745.png",Сказки HD
 http://fs2.persik.by/Skazki6/index.m3u8
 
 
