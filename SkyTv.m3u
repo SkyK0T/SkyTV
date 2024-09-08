@@ -1379,7 +1379,7 @@ http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
 http://fs2.persik.by/Boeviki_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name=" В кругу семьи",В кругу семьи
 http://fs2.persik.by/V_krugu_semii2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV"  tvg-name=" Вдохновение" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Вдохновение" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD
 https://fs2.persik.by/Vdohnovenie_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Вторая мировая
 http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
