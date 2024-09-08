@@ -1493,12 +1493,34 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" , Movify.tv Series
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png", Movify.tv Сериал
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png" ,Movify.tv History
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="no_epg_cinema"tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv История
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg" ,Movify Кино
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg",Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Movify.tv", Мультимания
+https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="Multimania.lv", Мультимания (Latvia) (576p)
+https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
+
+
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="Gribuvisuzinat.lv",Хочу всё знать (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="MuzikasVideoKanals.lv",Mūzikas Video Kanāls (720p)
+https://stream.onlive-media.com/live/streams/mvk.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="Pingviins.lv",Pingvīns (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+#EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="Pingviin.ee",Pingviin (576p)
+https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+
+
+
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Movie" tvg-logo="https://sunset-media.ru/assets/logos/movie.png",Sunset Movie
