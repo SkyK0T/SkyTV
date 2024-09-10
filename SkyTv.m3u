@@ -14,13 +14,12 @@ https://hls.goodgame.ru/hls/199417.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.postimg.cc/Pqjssphr/Fox-Kids-Exclusive.png",Мультсериалы Fox Kids Exclusive HD 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/179445.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru",Fox Kids Ex
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/manifest/205063_master.m3u8
+
 
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",Сериалы TV Series 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/186021.m3u8
+
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Кинофантастика Фантом
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204722.m3u8
@@ -32,7 +31,10 @@ https://hls.goodgame.ru/hls/187241.m3u8
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png",Кино FILM TV HD go6PbIu 3JIou-TaTaPuH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/163253.m3u8Фантастика
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://smotret.tv/images/fks-films.webp",Кино FKS Films Fox Kids Ex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/manifest/205063_master.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/DrTm6Lt/image-26.png",Кино 1FILMAX Фантастика 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204708_720.m3u8
