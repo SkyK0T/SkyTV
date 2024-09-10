@@ -45,6 +45,12 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru",Кино 3FILMAX Мелодрамы(с одноклассников)
 https://ok.ru/video/4891374853829
 
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Кино Всё ТВ Malder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/manifest/153640_master.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Кино Восход ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/manifest/202997_master.m3u8
 #EXTINF:-1 tvg-id="FMC" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/syWstRm/image-29.png",Кино FantasticMystiC FMC TV (TDM TV) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187741.m3u8
@@ -53,7 +59,15 @@ http://hlss.goodgame.ru/hls/157269.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/gVd9SkD/image-8.png",Кино Sever-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/146065.m3u8
-
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Alpha Cinema (кино)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205072.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Alpha Funny (юмор)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/206963.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Alpha Onenite (шоу)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205116.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",Кино FAN TV (Fantastic Animation) Японская анимация
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
@@ -172,21 +186,7 @@ https://hls.goodgame.ru/hls/206510.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/22416.m3u8
 
-#EXTINF:-1 group-title="Трансляции GoodGame.ru",alpha Cinema 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://hls.goodgame.ru/hls/205072.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru",alpha Funny 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://hls.goodgame.ru/hls/206963.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru",alpha Onenite (Рик и Морти)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://hls.goodgame.ru/hls/205116.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru",Malder Vse TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/manifest/153640_master.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru",Кино Восход ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/manifest/202997_master.m3u8
+
 #EXTINF:-1 group-title="Трансляции GoodGame.ru",Первый автомобильный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206355.m3u8
