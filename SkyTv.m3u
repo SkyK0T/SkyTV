@@ -896,13 +896,15 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17067/index.m3u8
 #EXTINF:0 tvg-rec="0",Eye Cyber HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20220/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Eye Drive HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20219/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Eye Family HD
 #EXTGRP:Лучок Кинозалы
-
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20216/index.m3u8
+
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6209" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6209.png",Eye Frozen HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17066/index.m3u8
 
@@ -1494,13 +1496,22 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Kung Fu
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31668/index.m3u8
+
+#EXTINF:-1 group-title="Лучок Кинозалы", Prokop TV Hip Hop
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31672/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Prokop TV Music
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18148/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Prokop TV Netflix
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV New Films HD
+#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="ProkopTVrockconcert" tvg-name="Prokop TV HARD&HEAVY CONCERTS HD", Prokop TV Rock
+http://qw9kh8gz.rostelekom.xyz/iptv/H7B4LWE4GTKBN9/18088/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0" tvg-id="Newfilms" tvg-name="Prokop TV NEW FILMS HD",Prokop TV New Films HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31667/index.m3u8
 
@@ -5076,12 +5087,18 @@ http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9015/index.m3u8
 #EXTINF:0 tvg-rec="7",NickToons
 #EXTGRP:Лучок Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/849/index.m3u8
+
+#EXTINF:-1 group-title="Лучок Детям", Prokop TV Kids HD (eng)
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18141/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Prokop TV Масяня
 #EXTGRP:Лучок Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31670/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Мульт HD UA
 #EXTGRP:Лучок Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31671/index.m3u8
+
+
 #EXTINF:0 tvg-rec="7",Tiji TV
 #EXTGRP:Лучок Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/108/index.m3u8
