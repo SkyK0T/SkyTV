@@ -1461,21 +1461,20 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11098/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11094/index.m3u8
 #EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="4720" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4720.png",Premium HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11095/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6733" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6733.png",PROKOP CINEMA FHD
+
+
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6733" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6733.png",Prokop TV Cinema FHD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19313/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6408" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6408.png",Prokop TV CINEMA HD
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6408" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6408.png",Prokop TV Cinema HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6734" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6734.png",Prokop TV cinemaQHD
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6734" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6734.png",Prokop TV CinemaQHD 60 fps
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6735" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6735.png",Prokop TV cinemaV
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6735" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6735.png",Prokop TV CinemaV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19316/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Prokop TV Cinema 4K
 #EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31666/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Cinema 60 fps
-#EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Cinema Best
 #EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
