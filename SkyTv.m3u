@@ -186,14 +186,48 @@ https://hls.goodgame.ru/hls/206510.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/22416.m3u8
 
-
 #EXTINF:-1 group-title="Трансляции GoodGame.ru",Первый автомобильный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206355.m3u8
-
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1566003_uo4m.jpg",НОСТАЛЬЖИ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199415.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", FLX gamepax
+http://hls.goodgame.ru/hls/1612353.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", FLX2 FoxFun
+http://hls.goodgame.ru/hls/1612402.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", StreamCat KSHMR
+http://hls.goodgame.ru/hls/1612359.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", КиноПродукты 24/7 ZubrilomFilm
+http://hls.goodgame.ru/hls/1638158.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", фарго CMehanikus
+http://hls.goodgame.ru/hls/58613.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", 🔴 NOSTALGIA! EmeraldGPtheOne
+http://hls.goodgame.ru/hls/1566003.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", КиноКонтент📺🍿 24/7 K1n0man1a
+http://hls.goodgame.ru/hls/1639851.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", Кинофраншизы и сериалы ZubrilomSerials
+http://hls.goodgame.ru/hls/1640714.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1650513_Zzxp.jpg",, 📌Кино, Мультфильмы, Сериалы 24/7 video-prokat
+http://hls.goodgame.ru/hls/1650513.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", ЭфирА NET HD kapatel78
+http://hls.goodgame.ru/hls/1390931.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", Восход ТВ Dragon17
+http://hls.goodgame.ru/hls/1596320.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", ДэмсФантастика HD demsfilm
+http://hls.goodgame.ru/hls/1643575.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", Мультики и сказки multikiskazki
+http://hls.goodgame.ru/hls/1559128 .m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru"tvg-logo="https://goodgame.ru/files/avatars/av_1286248_KSyd.jpg",
+Здесь творится Магия! DiZagree Диана Буковская
+http://hls.goodgame.ru/hls/1286248.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru", POGREBOK_TV
+http://hls.goodgame.ru/hls/357813.m3u8
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",dddjimmymicro
+http://hls.goodgame.ru/hls/422071.m3u8
+
+
+
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" , Сити Эдем - КиноДетектив
@@ -298,6 +332,19 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema",STR TV HD
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Movie" tvg-logo="https://sunset-media.ru/assets/logos/movie.png",Sunset Movie
+https://stream.sunset-media.ru:443/Free/Free/1.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Music" tvg-logo="https://sunset-media.ru/assets/logos/music.png",Sunset Music
+https://stream.sunset-media.ru:443/Free/Free/2.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Space" tvg-logo="https://sunset-media.ru/assets/logos/space.png",Sunset Space
+https://stream.sunset-media.ru:443/Free/Free/3.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Kids" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
+https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-logo="https://sunset-media.ru/assets/logos/anime.png",Sunset Anime
+https://stream.sunset-media.ru/Free/Free/5.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-logo="https://sunset-media.ru/Sunsetmusiclive.png",Sunset Music Live
+https://stream.sunset-media.ru/Free/Free/6.m3u8
+
 #EXTINF:-1 group-title="Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
@@ -327,20 +374,17 @@ https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Movify.tv" tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg",Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 
+#EXTINF:0 tvg-logo="https://cdn4.cdn-telegram.org/file/K9cOXYz1jwI7rhVB1DePna43EOcB6Vgz1_J7mTDlK4SswuJTPY7-y-bAR10FPr-Z8ywTuUXP6TqrOoeReaImS1jxX7mmGkLSLHvsf888Hy-Ck4U54BgukB0MbIVEdt_OHr0bqys4_9nfSDJQ-nfnFEY27K-T_6MFsGcIJkQvN35LO48bEgxOqJooTrERmEg_GkzC9kjY32Q2dy1jhC1ONQJpoWQbOy-pVlqqNRzI9AUtaAWAxq9enCgSKD55uycd81DcB_t9dB2jJnnU4NGYhEljAd5dmpwRoXHmBMDF8Cwf-b80i2ptfMO42UTXkw7j8YRleN9Wn6a2yFJlleO_Ww.jpg
+" KinoZall 1
+#EXTGRP:Кинозалы Great_Guerilla
+https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CsAG58nfEwONSHuDAchQQxUlVpyV8Daw25h3VV4D76X4o4OvppJmloFXeR_T2Pi6YqqUjhXeeef6T6ZXur1dzgMNeIGw4lcxkDKHANZqlpQMiDg9NetGHAcql72knruKDB8dSsSFd6JDvA4UioaJv91aX6eslZtalh0JsZD1lJLSUMofY3maauWX10Yw9xURuivayrhmR6a7wbzZslrk-75Lvfi2vC1msaObTueiGcfT5-w7i6jtX_jQqZmhb8dtQW3n_xMpxUv8Hy67HgaymYXoTbTPcWgQTk7agWVCrUlWT9Zazi_zCwXMx1IcEs1NhWGHoWN7TFVCatkWm-Q1FG6M6cYBhrUkOqLpY-YEAxbkvUnTBD6s1M2yTDGmWIvqZZXQslSQnXaL47gPxGaWwf24nrC47IEoXEfdxIocUawTBxe7PWh2VytBHoU8F8XHVndzHpSbRfDuN6crSKZTsWbyZxElwXWCatkqPNFzrPhH9vOTne30d9_suFNioVR2rvMsXOzL0cVw0qzPTxmx_4Yhfd4rtI8bzdyIlEziz8-21ZKzZXQZUirFIOwP-aqJFRBGLEdvkII43wum_fIlDQ9J6qhkggq16w2JZyDyj3XzJRFFmMpMiLewneYa3T5D-kItI8FYiZ4H-GeXKszDQR83P1C-uOjeJb16kv67NYAbiZl1WxBt-yabv0v0SuMZydWoDdL2XYhys6ReOWwzMC8HfTW5dFeTHUhfRBaVm8-5Z8Rodxj9h_vshc1hFBaAB1rhRAreEKrqQxHIVw7wIPHSzkHMvVgw-HG99oCb8v-CrlcQmX_s7EfewRtFYkh_gSa627vCe0M68Trco2RjEJhva2AnHb51adXxmmsteqBnOmNJV9It36dKrATxYflBX8D4Aq2d5-CidcEOC8_1IklPMw_x4OV41_Ix3PGcSDehZTdafmaParUCpDnGdcS1sJ648UnprAakwu2I7nEGvB62nsaKUgucQMFgJoIZCWzx5T4ftHfZnFaxCjm822RQd1UfO99mYfkizMGBckF1PVbmzHCsw62yG1Acxc7HMpZqj5A41hZsBe08JcE658C6LuiNFDLa78AtRLVMn0qTAEPE4xoM3Mk9wMoAw0EUUuDzIAEqCWV1LXdlc3QtMjCtCg.m3u8
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Movie" tvg-logo="https://sunset-media.ru/assets/logos/movie.png",Sunset Movie
-https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Music" tvg-logo="https://sunset-media.ru/assets/logos/music.png",Sunset Music
-https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Space" tvg-logo="https://sunset-media.ru/assets/logos/space.png",Sunset Space
-https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-name="Sunset Kids" tvg-logo="https://sunset-media.ru/assets/logos/kids.png" ,Sunset Kids
-https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-logo="https://sunset-media.ru/assets/logos/anime.png",Sunset Anime
-https://stream.sunset-media.ru/Free/Free/5.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset Media" tvg-logo="https://sunset-media.ru/Sunsetmusiclive.png",Sunset Music Live
-https://stream.sunset-media.ru/Free/Free/6.m3u8
+#EXTINF:0 tvg-logo="https://cdn4.cdn-telegram.org/file/K9cOXYz1jwI7rhVB1DePna43EOcB6Vgz1_J7mTDlK4SswuJTPY7-y-bAR10FPr-Z8ywTuUXP6TqrOoeReaImS1jxX7mmGkLSLHvsf888Hy-Ck4U54BgukB0MbIVEdt_OHr0bqys4_9nfSDJQ-nfnFEY27K-T_6MFsGcIJkQvN35LO48bEgxOqJooTrERmEg_GkzC9kjY32Q2dy1jhC1ONQJpoWQbOy-pVlqqNRzI9AUtaAWAxq9enCgSKD55uycd81DcB_t9dB2jJnnU4NGYhEljAd5dmpwRoXHmBMDF8Cwf-b80i2ptfMO42UTXkw7j8YRleN9Wn6a2yFJlleO_Ww.jpg
+" KinoZall 2
+#EXTGRP:Кинозалы Great_Guerilla
+https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CsIGqhd7_SChPGrLnhtr2I1scNw3vG9tX8AzxV2N06aFBHTd_4erKel5jSaMMpJMQcSgzy9d7DevVnBuIWHtsmahz2sp7b8j7hYVustVKvXB5HH4yHzdqLABDTXpQZ64Y-QZbwU31SN1ziTr1Rec_BHI7hAvC_gqrVTEli2_wiSYPMIkiRRxNkzYJhyrPCY4PgGxZVp3TO0Cgkvikw57Hs97kq7b2Kp-ek47DJFtL_JiaiUh7GjEjT7kDKVtqojDmKaTTfH1K8or1VK2eTQk5uhIr2KmVy91l30urBU55BtGeRZdkIsaoEhGXcccXA7K7gWOnUpjPUgQA9BVbvcTmKbkn9VFfb9_3yN4KbBYOTH43mCHS4UsVt-g_E0PrCgxFcR_O-aOf6H6htjIYzknCk-BTJrNjo1Fnwk5gZ-Ticzbnw5jY6QYxNnv6ADXcgZhe6z7wxi1mk7JYoKw_5N_IMRsPvQFaqMzq9DMbvRCEBtsS6qv4Gqsade5T6qQYcjnAGGO7RlYv9GdefoIHxGAlVgV7DvLiHNHtDzRQfYGt6quNFgANl5DX9ZSYEWWRrrzOg0_LZwlB1-P9ifEZJQgf3N73XepH1ybLskB25FRYBtELl8YHMz34yhbcRhtbqjXbCKK7eYQyrhCZrN_8unmxToPtLntMfD0D7F6QOWLmzUtcb19cFhxDoDhJFDtneX5K6Iq-MX_RuA7OIG8jZMUcjVNvhqtqIQiCUtw5YZEZo2dPADQn4sBYPVONvUzLnHuXS3hpEgUu-xyQKHMSH4GZ-Eof4kHwti9cQ0aAH5GjUwPpgDUT31HS2h3oaECtT9vT0Qa2-jBOk9nZ0UUO8OegD82CxgzUxO-waAkJaswjHl1ASdqE6MM_8HepKLmS8h_y7aPRCxzCiJb8ogiEvUE8eIBJao3-sCtdDffBwqqttlMTpJttS-kpekEBTAe8fQyXJyovoZQxFcRmhMXgRGHkIh1kmkkwIUcngMnF4s36_LwfcUlM-0yuPUcH1roG-67V55s4Asvg3wAxrI_9kEFaUsQr5RwBu3nBw20wPtfzMK2NYZZxmhor21-GqykNtP01PfsNRQWKTsHVTVUibatT704-_4LGgwAGD9sybuAwWsKfmEgASoJZXUtd2VzdC0yMK0K.m3u8
+
+
 
 #EXTINF:-1 group-title="Кинозалы Persik TV",Известные актёры
 http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
