@@ -825,19 +825,20 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18139/index.m3u8
 #EXTINF:0 tvg-rec="0",Citrus Live HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19436/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Comedy HD
+
+#EXTINF:0 tvg-rec="0" tvg-id="cobracomedy" tvg-name="COBRA COMEDY HD",Cobra Comedy HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20212/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Detektiv HD
+#EXTINF:0 tvg-rec="0" tvg-id="cobradetektiv" tvg-name="COBRA DETEKTIV HD",Cobra Detektiv HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20213/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Drama HD
+#EXTINF:0 tvg-rec="0" tvg-id="Cobradrama" tvg-name="COBRA DRAMA HD",Cobra Drama HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31673/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Melodrama HD
+#EXTINF:0 tvg-rec="0" tvg-id="cobramelodrama" tvg-name="COBRA MELODRAMA HD",Cobra Melodrama HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20214/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Triller HD
+#EXTINF:0 tvg-rec="0" tvg-id="cobratriller" tvg-name="COBRA THRILLER HD",Cobra Triller HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20215/index.m3u8
 
@@ -5683,71 +5684,6 @@ http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6288/index.m3u8
 #EXTINF:0 tvg-rec="0",Ню Арт HD (18+)
 #EXTGRP:Лучок Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31716/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cobracomedy" tvg-name="COBRA COMEDY HD", COBRA COMEDY HD 
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20212/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cobradetektiv" tvg-name="COBRA DETEKTIV HD", COBRA DETEKTIV HD	
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20213/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="Cobradrama" tvg-name="COBRA DRAMA HD", COBRA DRAMA HD	
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31673/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cobramelodrama" tvg-name="COBRA MELODRAMA HD", COBRA MELODRAMA HD	
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20214/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cobratriller" tvg-name="COBRA THRILLER HD", COBRA THRILLER HD	
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20215/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="Newfilms" tvg-name="Prokop TV NEW FILMS HD", Prokop TV Кино New Films HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31667/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cinema4k" tvg-name="Prokop TV CINEMA 4K", Prokop TV Кино Cinema 4K
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31666/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcinemaqhd" tvg-name="Prokop TV CINEMA 60 FPS", Prokop TV Кино Cinema 60 FPS
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvbest" tvg-name="Prokop TV CINEMA BEST HD", Prokop TV Кино Cinema Best HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcomedy" tvg-name="Prokop TV COMEDY HD", Prokop TV Кино Comedy HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19401/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcriminalhd" tvg-name="Prokop TV CRIMINAL HD", Prokop TV Кино Criminal HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18440/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="Prokop_Detektiv" tvg-name="Prokop TV DETEKTIV HD", Prokop TV Кино Detektiv HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20213/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="HD prokoptvfantazy" tvg-name="Prokop TV FANTAZY HD", Prokop TV Кино Fantazy HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18144/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvhistory" tvg-name="Prokop TV HISTORY HD", Prokop TV Кино History HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18142/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvhorror" tvg-name="Prokop TV HORROR HD", Prokop TV Кино Horror HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="kungfu" tvg-name="Prokop TV KUNG FU", Prokop TV Кино Kung Fu
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31668/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvnetflixserial" tvg-name="Prokop TV NETFLIX HD", Prokop TV Кино Netflix HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvserialhd" tvg-name="Prokop TV SERIAL HD", Prokop TV Кино Serial HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19271/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvdocuhd" tvg-name="Prokop TV DOCU HD", Prokop TV Познавательные Docu HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19314/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcinemav" tvg-name="Prokop TV ВТОРАЯ МИРОВАЯ", Prokop TV Вторая мировая
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19316/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV Music
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18148/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV Hip Hop
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31672/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="ProkopTVrockconcert" tvg-name="Prokop TV HARD&HEAVY CONCERTS HD", Prokop TV Rock
-http://qw9kh8gz.rostelekom.xyz/iptv/H7B4LWE4GTKBN9/18088/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="NewYear" tvg-name="Prokop TV НОВОГОДНИЙ", Prokop TV Кулинар
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16091/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvshow" tvg-name="Prokop TV SHOW HD", Prokop TV Show HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31669/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvskazkiussr" tvg-name="Prokop TV СКАЗКИ СССР", Prokop TV Сказки СССР
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19317/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV Kids HD (eng)
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18141/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV Масяня
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31670/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV XXX
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19401/index.m3u8
 
 
 
