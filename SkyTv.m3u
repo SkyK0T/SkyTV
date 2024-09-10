@@ -3,27 +3,27 @@
 #EXTINF:-1 group-title="Клипы" tvg-logo="https://avatars.mds.yandex.net/i?id=160029f366a93c0eb51a2d88814364c73f0b7f6b-10695517-images-thumbs&n=13",Benny Benassi - Love Is Gonna Save Us (Monamour Remix)
 https://river-3-323.rutube.ru/hls-vod/7yje8AbWMTZ1aZdUPeOELw/1726573649/2393/0x5000c500f2b54bc7/2607f03f449c4e6ba124f18a77bf52b4.mp4.m3u8?i=1920x1080_3344
 
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="Newfilms" tvg-name="Prokop TV NEW FILMS HD", Prokop TV Кино New Films HD
+#EXTINF:-1 group-title="Клипы" tvg-id="Newfilms" tvg-name="Prokop TV NEW FILMS HD", Prokop TV Кино New Films HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31667/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="cinema4k" tvg-name="Prokop TV CINEMA 4K", Prokop TV Кино Cinema 4K
+#EXTINF:-1 group-title="Клипы" tvg-id="cinema4k" tvg-name="Prokop TV CINEMA 4K", Prokop TV Кино Cinema 4K
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31666/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvcinemaqhd" tvg-name="Prokop TV CINEMA 60 FPS", Prokop TV Кино Cinema 60 FPS
+#EXTINF:-1 group-title="Клипы" tvg-id="prokoptvcinemaqhd" tvg-name="Prokop TV CINEMA 60 FPS", Prokop TV Кино Cinema 60 FPS
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvbest" tvg-name="Prokop TV CINEMA BEST HD", Prokop TV Кино Cinema Best HD
+#EXTINF:-1 group-title="Клипы" tvg-id="prokoptvbest" tvg-name="Prokop TV CINEMA BEST HD", Prokop TV Кино Cinema Best HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvcriminalhd" tvg-name="Prokop TV CRIMINAL HD", Prokop TV Кино Criminal HD
+#EXTINF:-1 group-title="Клипы" tvg-id="prokoptvcriminalhd" tvg-name="Prokop TV CRIMINAL HD", Prokop TV Кино Criminal HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18440/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="Prokop_Detektiv" tvg-name="Prokop TV DETEKTIV HD", Prokop TV Кино Detektiv HD
+#EXTINF:-1 group-title="Клипы" tvg-id="Prokop_Detektiv" tvg-name="Prokop TV DETEKTIV HD", Prokop TV Кино Detektiv HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20213/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvhistory" tvg-name="Prokop TV HISTORY HD", Prokop TV Кино History HD
+#EXTINF:-1 group-title="Клипы" tvg-id="prokoptvhistory" tvg-name="Prokop TV HISTORY HD", Prokop TV Кино History HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18142/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvhorror" tvg-name="Prokop TV HORROR HD", Prokop TV Кино Horror HD
+#EXTINF:-1 group-title="Клипы" tvg-id="prokoptvhorror" tvg-name="Prokop TV HORROR HD", Prokop TV Кино Horror HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="kungfu" tvg-name="Prokop TV KUNG FU", Prokop TV Кино Kung Fu
+#EXTINF:-1 group-title="Клипы" tvg-id="kungfu" tvg-name="Prokop TV KUNG FU", Prokop TV Кино Kung Fu
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31668/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvnetflixserial" tvg-name="Prokop TV NETFLIX HD", Prokop TV Кино Netflix HD
+#EXTINF:-1 group-title="Клипы" tvg-id="prokoptvnetflixserial" tvg-name="Prokop TV NETFLIX HD", Prokop TV Кино Netflix HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvserialhd" tvg-name="Prokop TV SERIAL HD", Prokop TV Кино Serial HD
+#EXTINF:-1 group-title="Клипы" tvg-id="prokoptvserialhd" tvg-name="Prokop TV SERIAL HD", Prokop TV Кино Serial HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19271/index.m3u8
 
 
