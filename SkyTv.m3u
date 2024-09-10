@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+
+#EXTINF:-1 group-title="Клипы" tvg-logo="https://avatars.mds.yandex.net/i?id=160029f366a93c0eb51a2d88814364c73f0b7f6b-10695517-images-thumbs&n=13",Benny Benassi - Love Is Gonna Save Us (Monamour Remix)
+https://river-3-323.rutube.ru/hls-vod/7yje8AbWMTZ1aZdUPeOELw/1726573649/2393/0x5000c500f2b54bc7/2607f03f449c4e6ba124f18a77bf52b4.mp4.m3u8?i=1920x1080_3344
+
 #EXTINF:-1 tvg-id="SCR TV" group-title="Трансляции GoodGame.ru" tvg-logo="https://i.ibb.co/yPTnWvQ/image-30.png", Мультсериалы SCR TV HD NateRou 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/61358.m3u8
@@ -437,7 +441,7 @@ http://fs2.persik.by/Trillery_Drama4/index.m3u8
 https://fs2.persik.by/Trillery_USA_11/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10740.png",Фестивальное кино
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV "tvg-logo="https://persik.by/media/channels/logos/11264.png",Фильмы катастрофы
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11264.png",Фильмы катастрофы
 http://fs2.persik.by/Filmy_katastrofy/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10754.png",Экранизации HD
 http://fs2.persik.by/Ekranizacii12/index.m3u8
@@ -453,8 +457,7 @@ https://fs2.persik.by/Sluhay_COVER2/index.m3u8
 https://fs2.persik.by/Sluhay_EDM/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by LIVE" tvg-logo="https://persik.by/media/channels/logos/10975.png",Sluhay.by Live
 https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by MOVA" tvg-logo="https://persik.by/media/channels/logos/11083.png",Sluhay.by Mova
-https://fs2.persik.by/Sluhay_MOVA2/index.m3u8
+
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by RADIO" tvg-logo="https://persik.by/media/channels/logos/11170.png",Sluhay.by Radio
 https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by RAP" tvg-logo="https://persik.by/media/channels/logos/10974.png",Sluhay.by Rap
@@ -496,7 +499,6 @@ https://fs2.persik.by/DetskieFilmy4/index.m3u8
 https://fs2.persik.by/DetskiePesni4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10745.png",Сказки HD
 http://fs2.persik.by/Skazki6/index.m3u8
-
 
 
 
@@ -1461,11 +1463,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11094/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11095/index.m3u8
 #EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6733" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6733.png",PROKOP CINEMA FHD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19313/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6408" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6408.png",PROKOP TV CINEMA HD
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6408" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6408.png",Prokop TV CINEMA HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6734" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6734.png",PROKOP TV cinemaQHD
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6734" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6734.png",Prokop TV cinemaQHD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6735" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6735.png",PROKOP TV cinemaV
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6735" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6735.png",Prokop TV cinemaV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19316/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Prokop TV Cinema 4K
@@ -1504,9 +1506,9 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
 #EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31667/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6837" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6837.png",PROKOP TV Premier HD
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6837" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6837.png",Prokop TV Premier HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19399/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6601" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6601.png",PROKOP TV SERIAL FHD
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6601" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6601.png",Prokop TV SERIAL FHD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
 #EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6600" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6600.png",Prokop TV Serial
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19271/index.m3u8
@@ -1953,60 +1955,60 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15000/index.m3u8
 #EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="4722" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4722.png",Victory HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11097/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6138" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6138.png",YOSSO TV 4K
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6138" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6138.png",Yosso TV 4K
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16153/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5586" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5586.png",YOSSO TV Adrenaline
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5586" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5586.png",Yosso TV Adrenaline
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15105/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5984" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5984.png",YOSSO TV Adventure
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5984" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5984.png",Yosso TV Adventure
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15510/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5446" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5446.png",YOSSO TV Best
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5446" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5446.png",Yosso TV Best
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14236/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Yosso TV Best 60 FPS
 #EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20165/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6136" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6136.png",YOSSO TV C-Comedy
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6136" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6136.png",Yosso TV C-Comedy
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16151/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6392" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6392.png",YOSSO TV C-History
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6392" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6392.png",Yosso TV C-History
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18139/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6137" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6137.png",YOSSO TV C-Inquest
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6137" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6137.png",Yosso TV C-Inquest
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16152/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6007" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6007.png",YOSSO TV C-Marvel
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="6007" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6007.png",Yosso TV C-Marvel
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16051/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Yosso TV Disney
 #EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20164/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5358" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5358.png",YOSSO TV Grand
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5358" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5358.png",Yosso TV Grand
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14171/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5362" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5362.png",YOSSO TV NEW Кино
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5362" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5362.png",Yosso TV NEW Кино
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14177/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Netflix
 #EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20163/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5983" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5983.png",YOSSO TV Oblivion
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5983" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5983.png",Yosso TV Oblivion
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15509/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5631" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5631.png",YOSSO TV Thriller
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5631" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5631.png",Yosso TV Thriller
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15168/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5359" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5359.png",YOSSO TV VHS
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5359" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5359.png",Yosso TV VHS
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14172/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5444" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5444.png",YOSSO TV Забавное
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5444" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5444.png",Yosso TV Забавное
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14234/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5445" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5445.png",YOSSO TV Ковбойское
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5445" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5445.png",Yosso TV Ковбойское
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14235/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
 #EXTGRP:Кинозалы iEdem.tv (токен zZeleZz)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19434/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5360" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5360.png",YOSSO TV Русские фильмы
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5360" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5360.png",Yosso TV Русские фильмы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14174/index.m3u8
 #EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5361" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5361.png",Yosso TV Советские Фильмы 4K
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14175/index.m3u8
-#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5434" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5434.png",YOSSO TV Трагичное
+#EXTINF:-1 group-title="Кинозалы iEdem.tv (токен zZeleZz)" tvg-id="5434" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5434.png",Yosso TV Трагичное
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14219/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Z!Action HD
@@ -2888,1226 +2890,1226 @@ http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9107/index.m3u8
 
 
 #EXTINF:0 tvg-rec="0",Арис 24 HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20134/index.m3u8
 #EXTINF:0 tvg-rec="3",Архыз 24
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1049/index.m3u8
 #EXTINF:0 tvg-rec="0",Баршкортостан 24 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20133/index.m3u8
 #EXTINF:0 tvg-rec="7",Башкирское спутниковое телевидение
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/832/index.m3u8
 #EXTINF:0 tvg-rec="0",БелМуз ТВ
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19373/index.m3u8
 #EXTINF:0 tvg-rec="0",Брянская Губерния FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20132/index.m3u8
 #EXTINF:0 tvg-rec="3",БСТ HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2115/index.m3u8
 #EXTINF:0 tvg-rec="0",Вместе-РФ FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20139/index.m3u8
 #EXTINF:0 tvg-rec="3",Волга
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2113/index.m3u8
 #EXTINF:0 tvg-rec="0",Волга 24 HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19353/index.m3u8
 #EXTINF:0 tvg-rec="0",Волга ТВ FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19354/index.m3u8
 #EXTINF:0 tvg-rec="0",Восток 24 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20131/index.m3u8
 #EXTINF:0 tvg-rec="0",Город ТВ Шадринск FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19350/index.m3u8
 #EXTINF:0 tvg-rec="0",Городской Телеканал-Ярославль
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19349/index.m3u8
 #EXTINF:0 tvg-rec="7",Грозный
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/855/index.m3u8
 #EXTINF:0 tvg-rec="0",Губерния Самара
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19347/index.m3u8
 #EXTINF:0 tvg-rec="0",Губерния Хабаровск
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19348/index.m3u8
 #EXTINF:0 tvg-rec="0",Евразия (Орск)
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19236/index.m3u8
 #EXTINF:0 tvg-rec="0",К16 Саров
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19346/index.m3u8
 #EXTINF:0 tvg-rec="0",Камчатка 1 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19345/index.m3u8
 #EXTINF:0 tvg-rec="3",КРЫМ 24
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2143/index.m3u8
 #EXTINF:0 tvg-rec="0",Кузбасс 1 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20128/index.m3u8
 #EXTINF:0 tvg-rec="3",Липецк Time
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2435/index.m3u8
 #EXTINF:0 tvg-rec="0",Луч Пуровск HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19257/index.m3u8
 #EXTINF:0 tvg-rec="0",Между NET ТВ HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19344/index.m3u8
 #EXTINF:0 tvg-rec="0",Миллет HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19258/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир Белогорья HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20126/index.m3u8
 #EXTINF:0 tvg-rec="7",Москва Доверие
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/869/index.m3u8
 #EXTINF:0 tvg-rec="0",НВК Саха FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20125/index.m3u8
 #EXTINF:0 tvg-rec="0",Нижний Новгород 24 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20124/index.m3u8
 #EXTINF:0 tvg-rec="0",Ники ТВ HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20123/index.m3u8
 #EXTINF:0 tvg-rec="0",ННТВ Нижний Новгород
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19343/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ Беларусь
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19371/index.m3u8
 #EXTINF:0 tvg-rec="3",НТК Калмыкия
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2066/index.m3u8
 #EXTINF:0 tvg-rec="0",НТС FHD Иркутск
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19342/index.m3u8
 #EXTINF:0 tvg-rec="0",Обком ТВ
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19340/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТВ Екатеринбург
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19261/index.m3u8
 #EXTINF:0 tvg-rec="0",Панорама ТВ FHD Тверь
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19339/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый Крымский
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2139/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый Псковский
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19220/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый республиканский HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19240/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый Тульский
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19242/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый Тульский FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19362/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый Ярославский FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20137/index.m3u8
 #EXTINF:0 tvg-rec="0",Прима ТВ FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19361/index.m3u8
 #EXTINF:0 tvg-rec="0",Раменское ТВ HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19360/index.m3u8
 #EXTINF:0 tvg-rec="0",РГВК Дагестан FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20136/index.m3u8
 #EXTINF:0 tvg-rec="0",Родной канал HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19239/index.m3u8
 #EXTINF:0 tvg-rec="0",РТР Планета Северная Америка
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19368/index.m3u8
 #EXTINF:0 tvg-rec="0",Самара 24 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20120/index.m3u8
 #EXTINF:0 tvg-rec="3",Самара 24 HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2183/index.m3u8
 #EXTINF:0 tvg-rec="0",Самара ГИС FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19357/index.m3u8
 #EXTINF:0 tvg-rec="7",Санкт-Петербург
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/715/index.m3u8
 #EXTINF:0 tvg-rec="0",Саратов 24 HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20119/index.m3u8
 #EXTINF:0 tvg-rec="0",Саров 24 HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19393/index.m3u8
 #EXTINF:0 tvg-rec="0",Сварожичи HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19080/index.m3u8
 #EXTINF:0 tvg-rec="0",Своё ТВ FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20118/index.m3u8
 #EXTINF:0 tvg-rec="0",СГДФ 24 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19359/index.m3u8
 #EXTINF:0 tvg-rec="0",Север ТВ FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20116/index.m3u8
 #EXTINF:0 tvg-rec="0",Сочи 24 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20115/index.m3u8
 #EXTINF:0 tvg-rec="3",Сочи 24 HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9040/index.m3u8
 #EXTINF:0 tvg-rec="3",Сочи HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2433/index.m3u8
 #EXTINF:0 tvg-rec="0",Сургут 1 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19391/index.m3u8
 #EXTINF:0 tvg-rec="0",Сургут 24
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19238/index.m3u8
 #EXTINF:0 tvg-rec="0",Сургут 86 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19390/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ 7 Абакан
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19389/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВК FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19388/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВЦ HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19222/index.m3u8
 #EXTINF:0 tvg-rec="0",Теледом ТВ HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19383/index.m3u8
 #EXTINF:0 tvg-rec="0",ТЕО ТВ HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19382/index.m3u8
 #EXTINF:0 tvg-rec="0",Тивиком ТВ FHD Улан Удэ
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19381/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНВ-Планета
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/515/index.m3u8
 #EXTINF:0 tvg-rec="3",ТОЛК
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2140/index.m3u8
 #EXTINF:0 tvg-rec="0",ТРК Евразия Орск HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19385/index.m3u8
 #EXTINF:0 tvg-rec="0",ТРК555 Алушта HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19386/index.m3u8
 #EXTINF:0 tvg-rec="0",Туапсе 24 FHD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19380/index.m3u8
 #EXTINF:0 tvg-rec="0",Тюменское время
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19237/index.m3u8
 #EXTINF:0 tvg-rec="0",Щёлковское ТВ
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19379/index.m3u8
 #EXTINF:0 tvg-rec="0",Эхо 24 ТВ Новоуральск
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19375/index.m3u8
 #EXTINF:0 tvg-rec="0",Югра
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19256/index.m3u8
 #EXTINF:0 tvg-rec="3",Югра Тревел HD
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5038/index.m3u8
 #EXTINF:0 tvg-rec="7",Юрган
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2036/index.m3u8
 #EXTINF:0 tvg-rec="0",Якутия 24
-#EXTGRP:Edem.tv Региональные
+#EXTGRP:iEdem.tv Региональные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20015/index.m3u8
 
 
 #EXTINF:0 tvg-rec="0",BBC 1 HD
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19176/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC 2 HD
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19177/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC Alba HD
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19179/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC First HD
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19181/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC Parliament
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19182/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC Scotland
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19183/index.m3u8
 #EXTINF:0 tvg-rec="7",CGTN
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/830/index.m3u8
 #EXTINF:0 tvg-rec="7",CGTN русский
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/831/index.m3u8
 #EXTINF:0 tvg-rec="7",Euronews Россия
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/828/index.m3u8
 #EXTINF:0 tvg-rec="7",NHK World TV
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/729/index.m3u8
 #EXTINF:0 tvg-rec="7",Известия
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2008/index.m3u8
 #EXTINF:0 tvg-rec="0",Инфоканал
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/435/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир 24
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/712/index.m3u8
 #EXTINF:0 tvg-rec="3",Мир 24 HD
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2107/index.m3u8
 #EXTINF:0 tvg-rec="7",Москва 24
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/523/index.m3u8
 #EXTINF:0 tvg-rec="7",РБК
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/106/index.m3u8
 #EXTINF:0 tvg-rec="3",РБК FHD
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2404/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 24
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/507/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия 24 +2
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6013/index.m3u8
 #EXTINF:0 tvg-rec="3",Центральное телевидение
-#EXTGRP:Edem.tv Новости
+#EXTGRP:iEdem.tv Новости
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2064/index.m3u8
 
 #EXTINF:0 tvg-rec="3",1HD Music Television orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9001/index.m3u8
 #EXTINF:0 tvg-rec="3",AIVA TV HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2156/index.m3u8
 #EXTINF:0 tvg-rec="3",AIVA TV HD orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9085/index.m3u8
 #EXTINF:0 tvg-rec="0",Box Hits HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19175/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Metall HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31651/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Music 4K
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19282/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Relax 4K
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19283/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX RU.RAP HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20171/index.m3u8
 #EXTINF:0 tvg-rec="7",Bridge Deluxe HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/236/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge Deluxe HD orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9012/index.m3u8
 #EXTINF:0 tvg-rec="7",Bridge Hits
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/711/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Hits HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19227/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Rock HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19225/index.m3u8
 #EXTINF:0 tvg-rec="7",Bridge TV
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/122/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge TV Фрэш HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9053/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge Русский Хит
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/120/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Русский Хит HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19226/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Русский Хит orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9176/index.m3u8
 #EXTINF:0 tvg-rec="0",CHD-TV RU Rock HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19394/index.m3u8
 #EXTINF:0 tvg-rec="7",Club MTV
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/558/index.m3u8
 #EXTINF:0 tvg-rec="3",Clubbing TV HD RU
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2395/index.m3u8
 #EXTINF:0 tvg-rec="7",Europa Plus TV
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/115/index.m3u8
 #EXTINF:0 tvg-rec="0",Europa Plus TV HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20029/index.m3u8
 #EXTINF:0 tvg-rec="0",Gakku Media
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19164/index.m3u8
 #EXTINF:0 tvg-rec="3",iConcerts HD orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9056/index.m3u8
 #EXTINF:0 tvg-rec="0",Kiss TV UK
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19193/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Concert FHD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20049/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Шансон HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20142/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Мюзикл 4K
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31662/index.m3u8
 #EXTINF:0 tvg-rec="7",MCM Top Russia
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/836/index.m3u8
 #EXTINF:0 tvg-rec="3",MCM Top Russia orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9175/index.m3u8
 #EXTINF:0 tvg-rec="7",Mezzo
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/707/index.m3u8
 #EXTINF:0 tvg-rec="7",Mezzo Live HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/208/index.m3u8
 #EXTINF:0 tvg-rec="3",Mezzo Live HD orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9014/index.m3u8
 #EXTINF:0 tvg-rec="3",Mezzo orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9170/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Relax HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/13030/index.m3u8
 #EXTINF:0 tvg-rec="7",MTV
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/142/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV 00s
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31559/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV 80s
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31558/index.m3u8
 #EXTINF:0 tvg-rec="3",MTV 90s
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1038/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV 90s UK
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31560/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV Base UK
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19198/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV Classic USA
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19148/index.m3u8
 #EXTINF:0 tvg-rec="3",MTV HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2130/index.m3u8
 #EXTINF:0 tvg-rec="7",MTV Hits
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/153/index.m3u8
 #EXTINF:0 tvg-rec="7",MTV Live HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/221/index.m3u8
 #EXTINF:0 tvg-rec="3",MTV Live HD orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9009/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV Music UK HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19192/index.m3u8
 #EXTINF:0 tvg-rec="7",Music Box Russia
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2048/index.m3u8
 #EXTINF:0 tvg-rec="0",Music Box Russia HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19255/index.m3u8
 #EXTINF:0 tvg-rec="3",Music Box Russia orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9168/index.m3u8
 #EXTINF:0 tvg-rec="0",NM Television HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20161/index.m3u8
 #EXTINF:0 tvg-rec="0",Now 70s HD UK
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19195/index.m3u8
 #EXTINF:0 tvg-rec="0",NOW 70s UK
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19194/index.m3u8
 #EXTINF:0 tvg-rec="0",Now 80s HD UK
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19196/index.m3u8
 #EXTINF:0 tvg-rec="0",Now 90s HD UK
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19197/index.m3u8
 #EXTINF:0 tvg-rec="0",NRJ HITS HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19199/index.m3u8
 #EXTINF:0 tvg-rec="0",Plan B HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19249/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Hip Hop
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31672/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Peters Pop Show
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19270/index.m3u8
 #EXTINF:0 tvg-rec="7",RU TV
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/838/index.m3u8
 #EXTINF:0 tvg-rec="0",RU TV HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19247/index.m3u8
 #EXTINF:0 tvg-rec="3",SONG TV RUSSIA 
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6394/index.m3u8
 #EXTINF:0 tvg-rec="0",VB Eurodance Hits 90s
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20000/index.m3u8
 #EXTINF:0 tvg-rec="0",VB Greatest Hits
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31622/index.m3u8
 #EXTINF:0 tvg-rec="0",VB MTV Old Россия HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20174/index.m3u8
 #EXTINF:0 tvg-rec="0",VB Yo! MTV HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31623/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Dj Set
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31639/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Магнитофон
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31645/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Michael Jackson
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31554/index.m3u8
 #EXTINF:0 tvg-rec="3",Vostok TV
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1054/index.m3u8
 #EXTINF:0 tvg-rec="0",YES-MTV 00s
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19167/index.m3u8
 #EXTINF:0 tvg-rec="0",Ё Самара HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20162/index.m3u8
 #EXTINF:0 tvg-rec="3",Жар Птица
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2142/index.m3u8
 #EXTINF:0 tvg-rec="3",Жар Птица orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9165/index.m3u8
 #EXTINF:0 tvg-rec="7",Жара
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/105/index.m3u8
 #EXTINF:0 tvg-rec="3",Жара HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2129/index.m3u8
 #EXTINF:0 tvg-rec="0",Индия HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19250/index.m3u8
 #EXTINF:0 tvg-rec="3",Курай HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2144/index.m3u8
 #EXTINF:0 tvg-rec="3",Курай TV
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2061/index.m3u8
 #EXTINF:0 tvg-rec="7",Ля-минор ТВ
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2043/index.m3u8
 #EXTINF:0 tvg-rec="0",Муз ТВ +4
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6036/index.m3u8
 #EXTINF:0 tvg-rec="7",МУЗ-ТВ
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/116/index.m3u8
 #EXTINF:0 tvg-rec="0",МУЗ-ТВ HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19228/index.m3u8
 #EXTINF:0 tvg-rec="3",МУЗ-ТВ orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9169/index.m3u8
 #EXTINF:0 tvg-rec="3",МузСоюз
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2137/index.m3u8
 #EXTINF:0 tvg-rec="3",МузСоюз orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9171/index.m3u8
 #EXTINF:0 tvg-rec="7",Музыка Первого
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/155/index.m3u8
 #EXTINF:0 tvg-rec="3",Музыка Первого orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9166/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2068/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2141/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ Music
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/710/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ Music HD
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19223/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ Music orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9178/index.m3u8
 #EXTINF:0 tvg-rec="7",Шансон ТВ
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/859/index.m3u8
 #EXTINF:0 tvg-rec="3",Шансон ТВ orig
-#EXTGRP:Edem.tv Музыка
+#EXTGRP:iEdem.tv Музыка
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9173/index.m3u8
 
 
 #EXTINF:0 tvg-rec="3",365 дней ТВ
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2040/index.m3u8
 #EXTINF:0 tvg-rec="7",Animal Planet
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/137/index.m3u8
 #EXTINF:0 tvg-rec="7",Animal Planet HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/218/index.m3u8
 #EXTINF:0 tvg-rec="0",Big Planet HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20036/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX AutoTrend HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31654/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Docu HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20153/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Gurman HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31653/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX History 4K
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31546/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Kosmo 4K
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31548/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Travel Premiere HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31652/index.m3u8
 #EXTINF:0 tvg-rec="3",Curiosity Stream HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9072/index.m3u8
 #EXTINF:0 tvg-rec="7",Da Vinci
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/537/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/140/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/227/index.m3u8
 #EXTINF:0 tvg-rec="3",Discovery Channel HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9011/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Science
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/136/index.m3u8
 #EXTINF:0 tvg-rec="3",DocuBox HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/968/index.m3u8
 #EXTINF:0 tvg-rec="7",E TV
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/736/index.m3u8
 #EXTINF:0 tvg-rec="3",English Club TV HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/993/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion One
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1010/index.m3u8
 #EXTINF:0 tvg-rec="3",Food Network FHD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2419/index.m3u8
 #EXTINF:0 tvg-rec="7",FoodTime
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/918/index.m3u8
 #EXTINF:0 tvg-rec="3",FoodTime FHD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2418/index.m3u8
 #EXTINF:0 tvg-rec="7",Galaxy
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2010/index.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5045/index.m3u8
 #EXTINF:0 tvg-rec="3",H2
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1052/index.m3u8
 #EXTINF:0 tvg-rec="7",H2 HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2033/index.m3u8
 #EXTINF:0 tvg-rec="3",H2 HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9013/index.m3u8
 #EXTINF:0 tvg-rec="0",HDL HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19251/index.m3u8
 #EXTINF:0 tvg-rec="7",History HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/231/index.m3u8
 #EXTINF:0 tvg-rec="7",History HD CEE
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/837/index.m3u8
 #EXTINF:0 tvg-rec="3",History HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9023/index.m3u8
 #EXTINF:0 tvg-rec="3",Home 4K
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/4002/index.m3u8
 #EXTINF:0 tvg-rec="3",Insight UHD 4K
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5000/index.m3u8
 #EXTINF:0 tvg-rec="3",Investigation Discovery
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2085/index.m3u8
 #EXTINF:0 tvg-rec="3",Investigation Discovery HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2102/index.m3u8
 #EXTINF:0 tvg-rec="3",Investigation Discovery HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9054/index.m3u8
 #EXTINF:0 tvg-rec="3",Kabbala TV
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1053/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Docu HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20143/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Наука FHD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19305/index.m3u8
 #EXTINF:0 tvg-rec="3",Love Nature 4K
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5001/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Experiment HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19412/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Translation HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18196/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Макромир HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18194/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Мегамир HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18195/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Микромир HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18193/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Открытия HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19415/index.m3u8
 #EXTINF:0 tvg-rec="0",Museum TV HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20032/index.m3u8
 #EXTINF:0 tvg-rec="7",Nat Geo Wild
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/133/index.m3u8
 #EXTINF:0 tvg-rec="3",Nat Geo Wild FHD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2415/index.m3u8
 #EXTINF:0 tvg-rec="3",Nat Geo Wild HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2067/index.m3u8
 #EXTINF:0 tvg-rec="3",National Geographic
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2336/index.m3u8
 #EXTINF:0 tvg-rec="7",Ocean TV
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/703/index.m3u8
 #EXTINF:0 tvg-rec="7",Outdoor Channel
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/119/index.m3u8
 #EXTINF:0 tvg-rec="7",RTG HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/210/index.m3u8
 #EXTINF:0 tvg-rec="3",RTG HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9021/index.m3u8
 #EXTINF:0 tvg-rec="7",RTG TV
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/841/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY HIGH DOC HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18172/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY HIGH NATURE FHD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19309/index.m3u8
 #EXTINF:0 tvg-rec="7",TERRA
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/230/index.m3u8
 #EXTINF:0 tvg-rec="3",TERRA HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2416/index.m3u8
 #EXTINF:0 tvg-rec="7",TLC HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/232/index.m3u8
 #EXTINF:0 tvg-rec="3",TLC HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9024/index.m3u8
 #EXTINF:0 tvg-rec="3",Travel Channel EN
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1070/index.m3u8
 #EXTINF:0 tvg-rec="7",Travel Channel HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/233/index.m3u8
 #EXTINF:0 tvg-rec="3",Travel Channel HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9025/index.m3u8
 #EXTINF:0 tvg-rec="7",Travel+Adventure
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/850/index.m3u8
 #EXTINF:0 tvg-rec="3",Travel+Adventure HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9019/index.m3u8
 #EXTINF:0 tvg-rec="0",TravelXP CEE 4K
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20031/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju Explore
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/163/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju Explore HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9075/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju History
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/162/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju History HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/203/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju History HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9060/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju Nature
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/161/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju+ Planet HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9027/index.m3u8
 #EXTINF:0 tvg-rec="3",World Fashion Channel
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1068/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31620/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Food
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31616/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Nature
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31618/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Science
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31617/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Travel
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31619/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Biography HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31697/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!History HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31695/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Military HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31696/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Science HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31705/index.m3u8
 #EXTINF:0 tvg-rec="7",Авто 24
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/538/index.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24 HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20033/index.m3u8
 #EXTINF:0 tvg-rec="7",Авто Плюс
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/151/index.m3u8
 #EXTINF:0 tvg-rec="7",Бобёр
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/725/index.m3u8
 #EXTINF:0 tvg-rec="7",Большая Азия HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2009/index.m3u8
 #EXTINF:0 tvg-rec="3",В мире животных HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2089/index.m3u8
 #EXTINF:0 tvg-rec="3",В мире животных HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9048/index.m3u8
 #EXTINF:0 tvg-rec="7",Вопросы и ответы
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2026/index.m3u8
 #EXTINF:0 tvg-rec="7",Время
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/552/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами Туриста HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2104/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами Туриста HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9061/index.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2394/index.m3u8
 #EXTINF:0 tvg-rec="7",Дикая охота HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2004/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикая охота HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9081/index.m3u8
 #EXTINF:0 tvg-rec="7",Дикая рыбалка HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2005/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикая рыбалка HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9082/index.m3u8
 #EXTINF:0 tvg-rec="7",Дикий
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/847/index.m3u8
 #EXTINF:0 tvg-rec="7",Доктор
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/512/index.m3u8
 #EXTINF:0 tvg-rec="0",Доктор HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20013/index.m3u8
 #EXTINF:0 tvg-rec="7",Домашние Животные
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/158/index.m3u8
 #EXTINF:0 tvg-rec="7",ЕГЭ ТВ
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2020/index.m3u8
 #EXTINF:0 tvg-rec="3",Еда
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6009/index.m3u8
 #EXTINF:0 tvg-rec="3",Живая Планета
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2101/index.m3u8
 #EXTINF:0 tvg-rec="3",Живая природа HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2074/index.m3u8
 #EXTINF:0 tvg-rec="3",Живая природа HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9039/index.m3u8
 #EXTINF:0 tvg-rec="0",ЖИВИ! HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19252/index.m3u8
 #EXTINF:0 tvg-rec="7",Загородная Жизнь
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/852/index.m3u8
 #EXTINF:0 tvg-rec="3",Загородный int HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2124/index.m3u8
 #EXTINF:0 tvg-rec="3",Зоо ТВ
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2100/index.m3u8
 #EXTINF:0 tvg-rec="7",Зоопарк
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/731/index.m3u8
 #EXTINF:0 tvg-rec="7",История
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/111/index.m3u8
 #EXTINF:0 tvg-rec="3",Калейдоскоп ТВ
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5037/index.m3u8
 #EXTINF:0 tvg-rec="3",Конгресс ТВ HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2176/index.m3u8
 #EXTINF:0 tvg-rec="3",Кто Куда
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2112/index.m3u8
 #EXTINF:0 tvg-rec="7",Мама
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/704/index.m3u8
 #EXTINF:0 tvg-rec="7",Моя Планета
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/117/index.m3u8
 #EXTINF:0 tvg-rec="3",Моя Планета HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2090/index.m3u8
 #EXTINF:0 tvg-rec="3",Моя Планета HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9050/index.m3u8
 #EXTINF:0 tvg-rec="7",Моя Стихия
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/742/index.m3u8
 #EXTINF:0 tvg-rec="7",Мужской
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2047/index.m3u8
 #EXTINF:0 tvg-rec="0",Мужской HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20035/index.m3u8
 #EXTINF:0 tvg-rec="3",Мы
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6001/index.m3u8
 #EXTINF:0 tvg-rec="3",Надежда
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2153/index.m3u8
 #EXTINF:0 tvg-rec="3",Нано ТВ
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2081/index.m3u8
 #EXTINF:0 tvg-rec="3",Нано ТВ HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2135/index.m3u8
 #EXTINF:0 tvg-rec="3",Настоящее время HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9179/index.m3u8
 #EXTINF:0 tvg-rec="3",Наука HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2155/index.m3u8
 #EXTINF:0 tvg-rec="3",Наука HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9084/index.m3u8
 #EXTINF:0 tvg-rec="3",Наша Сибирь 4K
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/4003/index.m3u8
 #EXTINF:0 tvg-rec="3",Наша тема
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2118/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Право
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/743/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Стиль
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/745/index.m3u8
 #EXTINF:0 tvg-rec="3",Оружие
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2087/index.m3u8
 #EXTINF:0 tvg-rec="7",Охота и рыбалка
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2019/index.m3u8
 #EXTINF:0 tvg-rec="7",Охотник и Рыболов HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/917/index.m3u8
 #EXTINF:0 tvg-rec="3",Охотник и Рыболов HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9043/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый Вегетарианский
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/833/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый космический HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/908/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый космический HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9049/index.m3u8
 #EXTINF:0 tvg-rec="3",Пёс и Ко
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2123/index.m3u8
 #EXTINF:0 tvg-rec="7",Поехали!
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/135/index.m3u8
 #EXTINF:0 tvg-rec="7",Приключения HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/920/index.m3u8
 #EXTINF:0 tvg-rec="3",Приключения HD orig
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9007/index.m3u8
 #EXTINF:0 tvg-rec="3",РЖД ТВ
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9118/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-Культура HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20016/index.m3u8
 #EXTINF:0 tvg-rec="7",Русский Север FHD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/846/index.m3u8
 #EXTINF:0 tvg-rec="0",Рыболов HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19254/index.m3u8
 #EXTINF:0 tvg-rec="0",Санкт-Петербург
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6144/index.m3u8
 #EXTINF:0 tvg-rec="7",Совершенно секретно
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/121/index.m3u8
 #EXTINF:0 tvg-rec="3",Т24
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5047/index.m3u8
 #EXTINF:0 tvg-rec="3",Тайна
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2059/index.m3u8
 #EXTINF:0 tvg-rec="7",Телекафе
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/865/index.m3u8
 #EXTINF:0 tvg-rec="3",Телепутешествия
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2051/index.m3u8
 #EXTINF:0 tvg-rec="7",Точка отрыва
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/159/index.m3u8
 #EXTINF:0 tvg-rec="0",Точка Отрыва HD
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20034/index.m3u8
 #EXTINF:0 tvg-rec="3",Трофей
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9076/index.m3u8
 #EXTINF:0 tvg-rec="7",Усадьба
-#EXTGRP:Edem.tv Познавательные
+#EXTGRP:iEdem.tv Познавательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/532/index.m3u8
 
 
 #EXTINF:0 tvg-rec="0",BOX Lo-Fi HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31545/index.m3u8
 #EXTINF:0 tvg-rec="0",Dosug TV ER
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20088/index.m3u8
 #EXTINF:0 tvg-rec="0",Dosug TV Test
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20087/index.m3u8
 #EXTINF:0 tvg-rec="7",DTX HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2006/index.m3u8
 #EXTINF:0 tvg-rec="3",Epic HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2054/index.m3u8
 #EXTINF:0 tvg-rec="7",Fashion One HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2044/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion TV FHD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2411/index.m3u8
 #EXTINF:0 tvg-rec="7",Fashion TV HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2045/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion TV UHD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/4005/index.m3u8
 #EXTINF:0 tvg-rec="0",FashionBox HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20038/index.m3u8
 #EXTINF:0 tvg-rec="7",HDL
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/226/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Humor HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20052/index.m3u8
 #EXTINF:0 tvg-rec="0",Lietuva 4K
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31464/index.m3u8
 #EXTINF:0 tvg-rec="3",Luxury
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5032/index.m3u8
 #EXTINF:0 tvg-rec="3",Luxury
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2072/index.m3u8
 #EXTINF:0 tvg-rec="3",Luxury HD orig
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9038/index.m3u8
 #EXTINF:0 tvg-rec="3",MyZen TV 4K
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5002/index.m3u8
 #EXTINF:0 tvg-rec="0",MyZen TV HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20011/index.m3u8
 #EXTINF:0 tvg-rec="0",Quadro 4К
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19262/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Way
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20044/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY HIGH STANDUP HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19311/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Баня
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18200/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Каламбур
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31557/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Кухня
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18199/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Маски Шоу
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31556/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Однажды в России
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19286/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Орел и решка
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31476/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Уральские пельмени
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18198/index.m3u8
 #EXTINF:0 tvg-rec="3",Zooпарк HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9097/index.m3u8
 #EXTINF:0 tvg-rec="3",Анекдот ТВ
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5034/index.m3u8
 #EXTINF:0 tvg-rec="0",Аппетитный HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9067/index.m3u8
 #EXTINF:0 tvg-rec="3",Арсенал HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5044/index.m3u8
 #EXTINF:0 tvg-rec="7",Девятая Волна
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/868/index.m3u8
 #EXTINF:0 tvg-rec="0",Драйв HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9068/index.m3u8
 #EXTINF:0 tvg-rec="0",Ключ HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20041/index.m3u8
 #EXTINF:0 tvg-rec="7",Лапки Live HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2028/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ Стиль HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20037/index.m3u8
 #EXTINF:0 tvg-rec="7",Продвижение
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/851/index.m3u8
 #EXTINF:0 tvg-rec="3",Солнце
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/872/index.m3u8
 #EXTINF:0 tvg-rec="3",СТС HD orig
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9000/index.m3u8
 #EXTINF:0 tvg-rec="3",Театр
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2431/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ +2
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6020/index.m3u8
 #EXTINF:0 tvg-rec="0",Усадьба HD
-#EXTGRP:Edem.tv Развлекательные
+#EXTGRP:iEdem.tv Развлекательные
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9071/index.m3u8
 
 
@@ -4116,1573 +4118,1573 @@ http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9071/index.m3u8
 
 
 #EXTINF:0 tvg-rec="0",A SPOR HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19069/index.m3u8
 #EXTINF:0 tvg-rec="0",A21 Network Live 24 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20160/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Esport RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31597/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Fight RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31598/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 1 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31599/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 2 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31600/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Premium 3 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31601/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31602/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1x2 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31611/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 3 Premium RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31604/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 3 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31603/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 4 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31605/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 5 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31606/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 6 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31607/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 7 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31608/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 8 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31609/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 9 RS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31610/index.m3u8
 #EXTINF:0 tvg-rec="0",Auto Motor Sport HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19025/index.m3u8
 #EXTINF:0 tvg-rec="0",Bally Sports Great Lakes
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19149/index.m3u8
 #EXTINF:0 tvg-rec="0",Bally SPORTS MIDWEST
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19153/index.m3u8
 #EXTINF:0 tvg-rec="0",BALLY SPORTS NORTH
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19152/index.m3u8
 #EXTINF:0 tvg-rec="0",BALLY SPORTS SOUTHEAST CAROLINAS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19151/index.m3u8
 #EXTINF:0 tvg-rec="0",BALLY SPORTS SUN
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19150/index.m3u8
 #EXTINF:0 tvg-rec="0",Barça TV
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19165/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Haber HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19064/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 1 FullHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19062/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19065/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 2 FullHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19063/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19066/index.m3u8
 #EXTINF:0 tvg-rec="0",BENFICA 4K TV UHD PT
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19160/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Be On Edge HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19424/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Be On Edge Live 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19422/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Be On Edge Live 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19423/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31650/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20166/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20167/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 3 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20168/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 4 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20169/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 5 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20170/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 6 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31648/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SportCast Live 7 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31649/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SR Sport 2 Live 4K HDR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31551/index.m3u8
 #EXTINF:0 tvg-rec="0",Box SR Sport 4K HDR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31455/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SR Sport Live 4K HDR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31550/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal 11 PT
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31592/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 1 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31578/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 2 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31579/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 3 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31581/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 4 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31582/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 5 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31583/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 6 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31584/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 7 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31585/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 8 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31586/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport 9 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31587/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport Highlights GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31588/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 1 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31572/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 2 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31573/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 3 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31574/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 5 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31575/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 6 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31576/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 7 GR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31577/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31469/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 10
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31484/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 11
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31485/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 12
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31486/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 13
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31487/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 14
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31488/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 15
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31489/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 16
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31490/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 17
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31491/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 18
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31492/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 19
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31493/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31470/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 20
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31494/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 21
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31495/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 22
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31496/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 23
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31497/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 24
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31498/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 25
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31499/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 26
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31502/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 3
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31471/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 4
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31477/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 5
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31478/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 6
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31479/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 7
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31480/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 8
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31481/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 9
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31482/index.m3u8
 #EXTINF:0 tvg-rec="3",E TV HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5035/index.m3u8
 #EXTINF:0 tvg-rec="0",Eleven 4K
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20068/index.m3u8
 #EXTINF:0 tvg-rec="0",ELEVEN SPORTS 1 UHD PT
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19158/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 1 HD NL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19201/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD NL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19202/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD USA
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19155/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 3 HD NL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19203/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 4 HD NL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19204/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN DEPORTES HD ES
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19166/index.m3u8
 #EXTINF:0 tvg-rec="0",Espn News HD USA
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19154/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN USA
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19156/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/141/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 FHD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9026/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/228/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5075/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/234/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5076/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 4K UHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31475/index.m3u8
 #EXTINF:0 tvg-rec="7",Extreme Sports
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/144/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme Sports HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20028/index.m3u8
 #EXTINF:0 tvg-rec="3",Extreme Sports orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9160/index.m3u8
 #EXTINF:0 tvg-rec="0",EXXEN SPOR 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19077/index.m3u8
 #EXTINF:0 tvg-rec="3",FAST&FUN BOX HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1018/index.m3u8
 #EXTINF:0 tvg-rec="0",FightBox HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20027/index.m3u8
 #EXTINF:0 tvg-rec="7",Fint Ga 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20091/index.m3u8
 #EXTINF:0 tvg-rec="7",Fint Ga 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20092/index.m3u8
 #EXTINF:0 tvg-rec="0",Fint Ga 3
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20093/index.m3u8
 #EXTINF:0 tvg-rec="0",Fint Ga 4
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31682/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX NEWS CHANNEL FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19147/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS ARIZONA HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19139/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS FLORIDA HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19140/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS HOUSTON HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19141/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS OKLAHOMA HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19146/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS PRIME TICKET HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19142/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports South
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19138/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS SOUTHWEST PLUS HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19143/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS SPORTSTIME OHIO HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19144/index.m3u8
 #EXTINF:0 tvg-rec="0",FOX SPORTS SUN HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19145/index.m3u8
 #EXTINF:0 tvg-rec="3",Fuel TV HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2396/index.m3u8
 #EXTINF:0 tvg-rec="3",Insport HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9094/index.m3u8
 #EXTINF:0 tvg-rec="7",KHL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/519/index.m3u8
 #EXTINF:0 tvg-rec="7",KHL HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/215/index.m3u8
 #EXTINF:0 tvg-rec="3",KHL Prime FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2403/index.m3u8
 #EXTINF:0 tvg-rec="0",KHL Prime HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19396/index.m3u8
 #EXTINF:0 tvg-rec="3",KHL Prime HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9003/index.m3u8
 #EXTINF:0 tvg-rec="0",LFC TV UK
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31596/index.m3u8
 #EXTINF:0 tvg-rec="0",M4 Sport HU
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31593/index.m3u8
 #EXTINF:0 tvg-rec="0",Match 4 HU
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31594/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Gong
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31503/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Футбол 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31483/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Футбол 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31505/index.m3u8
 #EXTINF:0 tvg-rec="0",Megogo Футбол 3 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31504/index.m3u8
 #EXTINF:0 tvg-rec="0",MMA TIME HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31710/index.m3u8
 #EXTINF:0 tvg-rec="7",MMA-TV.com
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/843/index.m3u8
 #EXTINF:0 tvg-rec="0",MMA-TV.com HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19243/index.m3u8
 #EXTINF:0 tvg-rec="0",Nova Sport 3 CZ
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31570/index.m3u8
 #EXTINF:0 tvg-rec="0",Nova Sport 4 CZ
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31571/index.m3u8
 #EXTINF:0 tvg-rec="7",Pimple TV 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20094/index.m3u8
 #EXTINF:0 tvg-rec="1",Pimple TV 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20095/index.m3u8
 #EXTINF:0 tvg-rec="0",Pimple TV 3
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20096/index.m3u8
 #EXTINF:0 tvg-rec="3",Pimple TV 4
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20097/index.m3u8
 #EXTINF:0 tvg-rec="0",Pimple TV 5
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20098/index.m3u8
 #EXTINF:0 tvg-rec="0",Pimple TV 6
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31681/index.m3u8
 #EXTINF:0 tvg-rec="0",Q Sport HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20061/index.m3u8
 #EXTINF:0 tvg-rec="0",Q Sport League HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20062/index.m3u8
 #EXTINF:0 tvg-rec="0",RMC SPORT 4
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19200/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2077/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9042/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme UHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5003/index.m3u8
 #EXTINF:0 tvg-rec="0",S SPORT + PLUS 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19070/index.m3u8
 #EXTINF:0 tvg-rec="0",S SPORT + PLUS 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19071/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Eurasia HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/271/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Eurasia Plus HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/270/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Moldova HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20074/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2399/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31754/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1 Baltic FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20081/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports 1 Baltic HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5069/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1 Qazaqstan HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20065/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31755/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31756/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+ HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31757/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Ukraine HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/272/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Ukraine Plus HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5068/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SPORT 24
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19127/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SPORT ARENA
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19128/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SPORT CALCIO
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19129/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SPORT FOOTBALL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19131/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SPORT GOLF
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19132/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SPORT MOTOGP
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19133/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SPORT NBA
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19134/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports F1 UHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31465/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Main Event UHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31466/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY SUPER TENNIS
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19136/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky UHD Sports 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31467/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky UHD Sports 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31468/index.m3u8
 #EXTINF:0 tvg-rec="0",SPOR SMART 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19073/index.m3u8
 #EXTINF:0 tvg-rec="0",Sporsmart 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20059/index.m3u8
 #EXTINF:0 tvg-rec="0",Sporsmart HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20060/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31568/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31569/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport 3 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31445/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Digital HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19026/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Extra RO
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31595/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Live DK
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31589/index.m3u8
 #EXTINF:0 tvg-rec="0",SPORT TV 1 4K UHD PT
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19161/index.m3u8
 #EXTINF:0 tvg-rec="0",SPORT TV+ DK
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31590/index.m3u8
 #EXTINF:0 tvg-rec="0",START World HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19248/index.m3u8
 #EXTINF:0 tvg-rec="3",Super Tennis HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6079/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperSport Rugby ZA
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31591/index.m3u8
 #EXTINF:0 tvg-rec="0",TiViBUSPOR 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19074/index.m3u8
 #EXTINF:0 tvg-rec="0",TiViBUSPOR 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19075/index.m3u8
 #EXTINF:0 tvg-rec="0",TiViBUSPOR 3 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19076/index.m3u8
 #EXTINF:0 tvg-rec="0",TNT SPORTS 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19051/index.m3u8
 #EXTINF:0 tvg-rec="0",TNT SPORTS 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19052/index.m3u8
 #EXTINF:0 tvg-rec="0",TNT SPORTS 3 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19053/index.m3u8
 #EXTINF:0 tvg-rec="0",TNT SPORTS 4 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19054/index.m3u8
 #EXTINF:0 tvg-rec="0",TNT SPORTS 6 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19055/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 1 AL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31563/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 2 AL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31564/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 3 AL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31565/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 4 AL
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31566/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT SPOR
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19072/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT SPOR 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19068/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT SPOR HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19067/index.m3u8
 #EXTINF:0 tvg-rec="0",UFC Fight Pass
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/18169/index.m3u8
 #EXTINF:0 tvg-rec="0",UPL TV HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31446/index.m3u8
 #EXTINF:0 tvg-rec="0",VF test 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31461/index.m3u8
 #EXTINF:0 tvg-rec="0",VF test 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31462/index.m3u8
 #EXTINF:0 tvg-rec="0",Viaplay Sports 1 UK
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31561/index.m3u8
 #EXTINF:0 tvg-rec="0",Viaplay Sports 2 UK
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31562/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5078/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Sport Ultra HD DK
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19163/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Sport
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/160/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Sport HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2007/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5065/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20099/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 10
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20100/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 11
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20101/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 12
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20102/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 13
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31674/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20103/index.m3u8
 #EXTINF:0 tvg-rec="3",ViP Sport 3
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20104/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 4
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20105/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 5
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20106/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 6
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20107/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 7
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20108/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 8
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20109/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 9
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20110/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31675/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31676/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 3
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31677/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 4
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31678/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 5
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31679/index.m3u8
 #EXTINF:0 tvg-rec="0",Vital Sport 6
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31680/index.m3u8
 #EXTINF:0 tvg-rec="3",XSPORT HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/996/index.m3u8
 #EXTINF:0 tvg-rec="3",Xsport HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5077/index.m3u8
 #EXTINF:0 tvg-rec="7",Бокс ТВ
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/870/index.m3u8
 #EXTINF:0 tvg-rec="0",Бокс ТВ HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19245/index.m3u8
 #EXTINF:0 tvg-rec="3",Данцер ТВ Телегазета
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/4004/index.m3u8
 #EXTINF:0 tvg-rec="7",Драйв
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2021/index.m3u8
 #EXTINF:0 tvg-rec="3",Драйв orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9163/index.m3u8
 #EXTINF:0 tvg-rec="7",ЖИВИ!
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/738/index.m3u8
 #EXTINF:0 tvg-rec="3",ЖИВИ! orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9164/index.m3u8
 #EXTINF:0 tvg-rec="3",Конный Мир HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9055/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6012/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +4
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6023/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +8
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6052/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/535/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2413/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/212/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/528/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/207/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Боец
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/150/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Боец HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19221/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/529/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Игра FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2406/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/225/index.m3u8
 #EXTINF:0 tvg-rec="3",МАТЧ! Игра HD 50 orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9032/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Игра HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9034/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Планета
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/123/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Премьер
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/531/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Премьер FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2414/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Премьер HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/220/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Страна
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/107/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Страна HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19219/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/124/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2407/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/222/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5072/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/530/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2420/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/211/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/290/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/522/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2408/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/206/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5071/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир Баскетбола HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20004/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Футбол HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20138/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2154/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9083/index.m3u8
 #EXTINF:0 tvg-rec="7",Удар
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2000/index.m3u8
 #EXTINF:0 tvg-rec="0",Удар HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19246/index.m3u8
 #EXTINF:0 tvg-rec="3",Удар HD orig
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5067/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5050/index.m3u8
 #EXTINF:0 tvg-rec="0",Футбол HD
-#EXTGRP:Edem.tv Спорт
+#EXTGRP:iEdem.tv Спорт
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19244/index.m3u8
 
 #EXTINF:0 tvg-rec="7",Ani
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/129/index.m3u8
 #EXTINF:0 tvg-rec="3",Ani orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9187/index.m3u8
 #EXTINF:0 tvg-rec="0",Baby Time
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20030/index.m3u8
 #EXTINF:0 tvg-rec="3",Baby TV
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2084/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Little HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19425/index.m3u8
 #EXTINF:0 tvg-rec="0",Cartoon Classics
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2075/index.m3u8
 #EXTINF:0 tvg-rec="7",Cartoon Network
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/143/index.m3u8
 #EXTINF:0 tvg-rec="7",Cartoonito
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/723/index.m3u8
 #EXTINF:0 tvg-rec="3",Cartoonito orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9189/index.m3u8
 #EXTINF:0 tvg-rec="3",Da Vinci Kids UA
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1034/index.m3u8
 #EXTINF:0 tvg-rec="3",Da Vinci orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1033/index.m3u8
 #EXTINF:0 tvg-rec="3",Duck TV
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1031/index.m3u8
 #EXTINF:0 tvg-rec="7",Gulli
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/109/index.m3u8
 #EXTINF:0 tvg-rec="3",Gulli orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9181/index.m3u8
 #EXTINF:0 tvg-rec="7",Jim Jam
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/138/index.m3u8
 #EXTINF:0 tvg-rec="3",Jim Jam orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9185/index.m3u8
 #EXTINF:0 tvg-rec="0",Kids TV HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20008/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Kids FHD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20047/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Мультики FHD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20048/index.m3u8
 #EXTINF:0 tvg-rec="0",MYTV Kids
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19409/index.m3u8
 #EXTINF:0 tvg-rec="7",Nick Jr
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/114/index.m3u8
 #EXTINF:0 tvg-rec="3",Nick Jr orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9182/index.m3u8
 #EXTINF:0 tvg-rec="7",Nickelodeon
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/541/index.m3u8
 #EXTINF:0 tvg-rec="7",Nickelodeon HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/223/index.m3u8
 #EXTINF:0 tvg-rec="3",Nickelodeon HD orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9015/index.m3u8
 #EXTINF:0 tvg-rec="7",NickToons
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/849/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Масяня
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31670/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Мульт HD UA
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31671/index.m3u8
 #EXTINF:0 tvg-rec="7",Tiji TV
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/108/index.m3u8
 #EXTINF:0 tvg-rec="3",Tiji Tv orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9180/index.m3u8
 #EXTINF:0 tvg-rec="0",VB Контент Моего Детства
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20001/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Kids
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31646/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19433/index.m3u8
 #EXTINF:0 tvg-rec="0",Аниме HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20179/index.m3u8
 #EXTINF:0 tvg-rec="7",В гостях у сказки
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/737/index.m3u8
 #EXTINF:0 tvg-rec="0",В гостях у сказки HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20005/index.m3u8
 #EXTINF:0 tvg-rec="7",Детский мир
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/543/index.m3u8
 #EXTINF:0 tvg-rec="3",Детский мир HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9192/index.m3u8
 #EXTINF:0 tvg-rec="3",Детский мир orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9184/index.m3u8
 #EXTINF:0 tvg-rec="3",Капитан Фантастика
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2098/index.m3u8
 #EXTINF:0 tvg-rec="3",Капитан Фантастика orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9196/index.m3u8
 #EXTINF:0 tvg-rec="7",Карусель
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/156/index.m3u8
 #EXTINF:0 tvg-rec="3",Карусель (+3)
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/740/index.m3u8
 #EXTINF:0 tvg-rec="0",Карусель HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20012/index.m3u8
 #EXTINF:0 tvg-rec="3",Карусель orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9186/index.m3u8
 #EXTINF:0 tvg-rec="0",КиноМульт
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20009/index.m3u8
 #EXTINF:0 tvg-rec="7",Мульт
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/909/index.m3u8
 #EXTINF:0 tvg-rec="7",Мульт HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/921/index.m3u8
 #EXTINF:0 tvg-rec="3",Мульт HD orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9037/index.m3u8
 #EXTINF:0 tvg-rec="3",Мульт orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9188/index.m3u8
 #EXTINF:0 tvg-rec="3",Мультиландия
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5055/index.m3u8
 #EXTINF:0 tvg-rec="3",Мультиландия orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9200/index.m3u8
 #EXTINF:0 tvg-rec="7",Мультимузыка
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/749/index.m3u8
 #EXTINF:0 tvg-rec="7",О!
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/727/index.m3u8
 #EXTINF:0 tvg-rec="3",О! orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9190/index.m3u8
 #EXTINF:0 tvg-rec="7",Радость моя
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/853/index.m3u8
 #EXTINF:0 tvg-rec="3",Радость моя orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9194/index.m3u8
 #EXTINF:0 tvg-rec="3",Рыжий
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2052/index.m3u8
 #EXTINF:0 tvg-rec="3",Рыжий orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9195/index.m3u8
 #EXTINF:0 tvg-rec="3",Смайлик ТВ
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2157/index.m3u8
 #EXTINF:0 tvg-rec="3",Смайлик ТВ orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9199/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Kids HD
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2001/index.m3u8
 #EXTINF:0 tvg-rec="3",СТС Kids HD orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9063/index.m3u8
 #EXTINF:0 tvg-rec="3",СуперГерои
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1041/index.m3u8
 #EXTINF:0 tvg-rec="3",Тамыр
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2109/index.m3u8
 #EXTINF:0 tvg-rec="3",Тамыр orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9198/index.m3u8
 #EXTINF:0 tvg-rec="0",Том и Джерри (Russian)
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31721/index.m3u8
 #EXTINF:0 tvg-rec="3",Тооку
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9172/index.m3u8
 #EXTINF:0 tvg-rec="7",Уникум
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/730/index.m3u8
 #EXTINF:0 tvg-rec="3",Уникум HD orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9077/index.m3u8
 #EXTINF:0 tvg-rec="3",Уникум orig
-#EXTGRP:Edem.tv Детям
+#EXTGRP:iEdem.tv Детям
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9191/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Digital Media (JWL)
-#EXTGRP:Edem.tv Телемагазины
+#EXTGRP:iEdem.tv Телемагазины
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5008/index.m3u8
 #EXTINF:0 tvg-rec="7",Leomax 24
-#EXTGRP:Edem.tv Телемагазины
+#EXTGRP:iEdem.tv Телемагазины
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/861/index.m3u8
 #EXTINF:0 tvg-rec="7",Shop & Show
-#EXTGRP:Edem.tv Телемагазины
+#EXTGRP:iEdem.tv Телемагазины
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/827/index.m3u8
 #EXTINF:0 tvg-rec="7",Shopping Live
-#EXTGRP:Edem.tv Телемагазины
+#EXTGRP:iEdem.tv Телемагазины
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/860/index.m3u8
 #EXTINF:0 tvg-rec="0",Women`s Magazine HD
-#EXTGRP:Edem.tv Телемагазины
+#EXTGRP:iEdem.tv Телемагазины
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20010/index.m3u8
 
 #EXTINF:0 tvg-rec="0",A3 Bikini
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6165/index.m3u8
 #EXTINF:0 tvg-rec="0",Adult Time
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6166/index.m3u8
 #EXTINF:0 tvg-rec="0",Adult TV (18+)
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31707/index.m3u8
 #EXTINF:0 tvg-rec="0",Anal Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6167/index.m3u8
 #EXTINF:0 tvg-rec="0",Analized HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6168/index.m3u8
 #EXTINF:0 tvg-rec="0",Babes HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6171/index.m3u8
 #EXTINF:0 tvg-rec="0",Babes TV HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6172/index.m3u8
 #EXTINF:0 tvg-rec="0",Balkan Erotic
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6270/index.m3u8
 #EXTINF:0 tvg-rec="0",Bang Bros HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6173/index.m3u8
 #EXTINF:0 tvg-rec="0",Bang!
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6174/index.m3u8
 #EXTINF:0 tvg-rec="3",Barely legal
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/871/index.m3u8
 #EXTINF:0 tvg-rec="0",Big Ass Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6175/index.m3u8
 #EXTINF:0 tvg-rec="0",Big Dick Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6176/index.m3u8
 #EXTINF:0 tvg-rec="0",Big Tits Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6177/index.m3u8
 #EXTINF:0 tvg-rec="0",Blacked HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6178/index.m3u8
 #EXTINF:0 tvg-rec="0",Blonde Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6179/index.m3u8
 #EXTINF:0 tvg-rec="0",Blowjob Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6180/index.m3u8
 #EXTINF:0 tvg-rec="0",Blue Hustler
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/1064/index.m3u8
 #EXTINF:0 tvg-rec="0",Brazzers eXXtra
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6181/index.m3u8
 #EXTINF:0 tvg-rec="0",Brazzers HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6182/index.m3u8
 #EXTINF:0 tvg-rec="3",Brazzers TV Europe
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/910/index.m3u8
 #EXTINF:0 tvg-rec="0",Brunette Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6183/index.m3u8
 #EXTINF:0 tvg-rec="0",Cherry Pimps
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6185/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan ExExEx
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20089/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan ExExEx TWO
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/20090/index.m3u8
 #EXTINF:0 tvg-rec="0",Club 17
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6186/index.m3u8
 #EXTINF:0 tvg-rec="0",Compilation Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6187/index.m3u8
 #EXTINF:0 tvg-rec="0",Cuckold Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6188/index.m3u8
 #EXTINF:0 tvg-rec="0",Cum Louder
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6189/index.m3u8
 #EXTINF:0 tvg-rec="0",Cum4k
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6190/index.m3u8
 #EXTINF:0 tvg-rec="0",Daughter Swap
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6191/index.m3u8
 #EXTINF:0 tvg-rec="0",Day with a Pornstar
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6192/index.m3u8
 #EXTINF:0 tvg-rec="0",DDF Busty
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6193/index.m3u8
 #EXTINF:0 tvg-rec="0",DDF Network
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6194/index.m3u8
 #EXTINF:0 tvg-rec="0",Digital Desire HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6195/index.m3u8
 #EXTINF:0 tvg-rec="0",Digital Playground HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6196/index.m3u8
 #EXTINF:0 tvg-rec="0",Dorcel Club
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6197/index.m3u8
 #EXTINF:0 tvg-rec="0",Dorcel HD orig
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9064/index.m3u8
 #EXTINF:0 tvg-rec="3",Dorcel TV HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/245/index.m3u8
 #EXTINF:0 tvg-rec="0",Dusk
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6198/index.m3u8
 #EXTINF:0 tvg-rec="0",Erotic
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6289/index.m3u8
 #EXTINF:0 tvg-rec="0",Erotic 2
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6290/index.m3u8
 #EXTINF:0 tvg-rec="0",Erotic 3
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6291/index.m3u8
 #EXTINF:0 tvg-rec="0",Erotic 4
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6292/index.m3u8
 #EXTINF:0 tvg-rec="0",Erotic 6
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6293/index.m3u8
 #EXTINF:0 tvg-rec="0",Erotic 7
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6294/index.m3u8
 #EXTINF:0 tvg-rec="0",Erotic 8
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6295/index.m3u8
 #EXTINF:0 tvg-rec="0",Erox HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6296/index.m3u8
 #EXTINF:0 tvg-rec="3",Eroxxx HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5015/index.m3u8
 #EXTINF:0 tvg-rec="0",Evil Angel HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6199/index.m3u8
 #EXTINF:0 tvg-rec="0",Evolved Fights
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6200/index.m3u8
 #EXTINF:0 tvg-rec="3",Extasy 4K
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5014/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6273/index.m3u8
 #EXTINF:0 tvg-rec="3",Exxxotica HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2397/index.m3u8
 #EXTINF:0 tvg-rec="0",Fake Taxi HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6202/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV 2
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6203/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV 3
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6204/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV 4
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6205/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV Anal
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6206/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV BBW
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6207/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV Compilation
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6208/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV Lesbian
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6209/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV Parody
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6210/index.m3u8
 #EXTINF:0 tvg-rec="0",Fap TV Teens
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6211/index.m3u8
 #EXTINF:0 tvg-rec="0",Fast Boyz
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6274/index.m3u8
 #EXTINF:0 tvg-rec="0",FemJoy
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6212/index.m3u8
 #EXTINF:0 tvg-rec="0",Fetish Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6213/index.m3u8
 #EXTINF:0 tvg-rec="0",Gangbang Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6214/index.m3u8
 #EXTINF:0 tvg-rec="0",Gay Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6215/index.m3u8
 #EXTINF:0 tvg-rec="0",Got MYLF
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6216/index.m3u8
 #EXTINF:0 tvg-rec="0",Hands on Hardcore
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6217/index.m3u8
 #EXTINF:0 tvg-rec="0",Hard X
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6218/index.m3u8
 #EXTINF:0 tvg-rec="0",Hardcore Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6219/index.m3u8
 #EXTINF:0 tvg-rec="0",Hitzefrei HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6220/index.m3u8
 #EXTINF:0 tvg-rec="0",Holed
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6221/index.m3u8
 #EXTINF:0 tvg-rec="0",HOT
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6275/index.m3u8
 #EXTINF:0 tvg-rec="0",Hot and Mean
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6222/index.m3u8
 #EXTINF:0 tvg-rec="0",Hot Guys Fuck
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6223/index.m3u8
 #EXTINF:0 tvg-rec="0",Hot Pleasure
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6277/index.m3u8
 #EXTINF:0 tvg-rec="0",HOT XXL HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6276/index.m3u8
 #EXTINF:0 tvg-rec="0",Hustler HD Europe
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/244/index.m3u8
 #EXTINF:0 tvg-rec="0",Hustler HD orig
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9065/index.m3u8
 #EXTINF:0 tvg-rec="0",Interracial Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6224/index.m3u8
 #EXTINF:0 tvg-rec="0",Japan HDV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6225/index.m3u8
 #EXTINF:0 tvg-rec="0",Latina Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6226/index.m3u8
 #EXTINF:0 tvg-rec="0",Leo TV HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6272/index.m3u8
 #EXTINF:0 tvg-rec="0",Lesbea
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6227/index.m3u8
 #EXTINF:0 tvg-rec="0",Lesbian Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6228/index.m3u8
 #EXTINF:0 tvg-rec="0",Lethal Hardcore
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6229/index.m3u8
 #EXTINF:0 tvg-rec="0",Little Asians HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6230/index.m3u8
 #EXTINF:0 tvg-rec="0",Live Cams Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6231/index.m3u8
 #EXTINF:0 tvg-rec="0",Lust Cinema
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6232/index.m3u8
 #EXTINF:0 tvg-rec="0",MetArt HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6233/index.m3u8
 #EXTINF:0 tvg-rec="0",MILF Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6234/index.m3u8
 #EXTINF:0 tvg-rec="0",Monsters of Cock
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6235/index.m3u8
 #EXTINF:0 tvg-rec="0",MYLF TV HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6236/index.m3u8
 #EXTINF:0 tvg-rec="0",Naughty America
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6237/index.m3u8
 #EXTINF:0 tvg-rec="0",Nubiles TV HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6238/index.m3u8
 #EXTINF:0 tvg-rec="3",O-la-la
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2161/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Gold HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5011/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Passion
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5010/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Reality TV FHD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5013/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Reality TV HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5012/index.m3u8
 #EXTINF:0 tvg-rec="0",Pink Erotic 3
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6240/index.m3u8
 #EXTINF:0 tvg-rec="0",Pink Erotic 4
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6241/index.m3u8
 #EXTINF:0 tvg-rec="3",Playboy
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/527/index.m3u8
 #EXTINF:0 tvg-rec="0",Playboy LA
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6280/index.m3u8
 #EXTINF:0 tvg-rec="0",Playboy Plus
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6242/index.m3u8
 #EXTINF:0 tvg-rec="0",PlayBoyz TV HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31709/index.m3u8
 #EXTINF:0 tvg-rec="0",Pornstar Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6243/index.m3u8
 #EXTINF:0 tvg-rec="0",POV Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6244/index.m3u8
 #EXTINF:0 tvg-rec="0",Private HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6245/index.m3u8
 #EXTINF:0 tvg-rec="3",Private TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/243/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV XXX
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19401/index.m3u8
 #EXTINF:0 tvg-rec="0",Public Agent
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6246/index.m3u8
 #EXTINF:0 tvg-rec="0",Reality Kings HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6247/index.m3u8
 #EXTINF:0 tvg-rec="0",Red Lips
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6271/index.m3u8
 #EXTINF:0 tvg-rec="0",Red XXX
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6281/index.m3u8
 #EXTINF:0 tvg-rec="3",Redlight HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/242/index.m3u8
 #EXTINF:0 tvg-rec="0",Redlight HD orig
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/9066/index.m3u8
 #EXTINF:0 tvg-rec="0",RK Prime
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6248/index.m3u8
 #EXTINF:0 tvg-rec="0",RK TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6249/index.m3u8
 #EXTINF:0 tvg-rec="0",Rough Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6250/index.m3u8
 #EXTINF:0 tvg-rec="0",Russian Adult TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6251/index.m3u8
 #EXTINF:0 tvg-rec="0",Sex With Muslims
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6252/index.m3u8
 #EXTINF:0 tvg-rec="0",SexArt
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6253/index.m3u8
 #EXTINF:0 tvg-rec="0",Sexy Hot
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6282/index.m3u8
 #EXTINF:0 tvg-rec="0",SINematica
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6255/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY HIGH SEX VR
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/19406/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperOne HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6298/index.m3u8
 #EXTINF:0 tvg-rec="0",Teen Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6256/index.m3u8
 #EXTINF:0 tvg-rec="0",Threesome Red TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6257/index.m3u8
 #EXTINF:0 tvg-rec="0",Tiny4K
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6258/index.m3u8
 #EXTINF:0 tvg-rec="0",Trans Angels
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6259/index.m3u8
 #EXTINF:0 tvg-rec="0",True Amateurs
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6260/index.m3u8
 #EXTINF:0 tvg-rec="0",Tushy HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6261/index.m3u8
 #EXTINF:0 tvg-rec="0",TushyRAW
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6262/index.m3u8
 #EXTINF:0 tvg-rec="0",Venus
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6284/index.m3u8
 #EXTINF:0 tvg-rec="0",Visit-X TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6263/index.m3u8
 #EXTINF:0 tvg-rec="1",Vivid Red HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/2162/index.m3u8
 #EXTINF:0 tvg-rec="0",Vivid TV Europe
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6264/index.m3u8
 #EXTINF:0 tvg-rec="0",Vixen HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6265/index.m3u8
 #EXTINF:0 tvg-rec="0",We Live Together
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6266/index.m3u8
 #EXTINF:0 tvg-rec="0",White Boxxx
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6267/index.m3u8
 #EXTINF:0 tvg-rec="0",Wicked
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6268/index.m3u8
 #EXTINF:0 tvg-rec="0",X-MO
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6285/index.m3u8
 #EXTINF:0 tvg-rec="0",Xpanded TV
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6269/index.m3u8
 #EXTINF:0 tvg-rec="3",XXL
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/5009/index.m3u8
 #EXTINF:0 tvg-rec="0",XY Max HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6286/index.m3u8
 #EXTINF:0 tvg-rec="0",XY Mix HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6287/index.m3u8
 #EXTINF:0 tvg-rec="0",XY Plus HD
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/6288/index.m3u8
 #EXTINF:0 tvg-rec="0",Ню Арт HD (18+)
-#EXTGRP:Edem.tv Взрослые
+#EXTGRP:iEdem.tv Взрослые
 http://lrdpi3zo.alfalt.fun/iptv/7WHF43ZQADH4W8LFN298UM8V/31716/index.m3u8
 
 
@@ -5701,47 +5703,47 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31673/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20214/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cobratriller" tvg-name="COBRA THRILLER HD", COBRA THRILLER HD	
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20215/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="Newfilms" tvg-name="PROKOP TV NEW FILMS HD", Prokop TV Кино New Films HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="Newfilms" tvg-name="Prokop TV NEW FILMS HD", Prokop TV Кино New Films HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31667/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cinema4k" tvg-name="PROKOP TV CINEMA 4K", Prokop TV Кино Cinema 4K
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="cinema4k" tvg-name="Prokop TV CINEMA 4K", Prokop TV Кино Cinema 4K
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31666/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcinemaqhd" tvg-name="PROKOP TV CINEMA 60 FPS", Prokop TV Кино Cinema 60 FPS
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcinemaqhd" tvg-name="Prokop TV CINEMA 60 FPS", Prokop TV Кино Cinema 60 FPS
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvbest" tvg-name="PROKOP TV CINEMA BEST HD", Prokop TV Кино Cinema Best HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvbest" tvg-name="Prokop TV CINEMA BEST HD", Prokop TV Кино Cinema Best HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcomedy" tvg-name="PROKOP TV COMEDY HD", Prokop TV Кино Comedy HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcomedy" tvg-name="Prokop TV COMEDY HD", Prokop TV Кино Comedy HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19401/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcriminalhd" tvg-name="PROKOP TV CRIMINAL HD", Prokop TV Кино Criminal HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcriminalhd" tvg-name="Prokop TV CRIMINAL HD", Prokop TV Кино Criminal HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18440/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="Prokop_Detektiv" tvg-name="PROKOP TV DETEKTIV HD", Prokop TV Кино Detektiv HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="Prokop_Detektiv" tvg-name="Prokop TV DETEKTIV HD", Prokop TV Кино Detektiv HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20213/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="HD prokoptvfantazy" tvg-name="PROKOP TV FANTAZY HD", Prokop TV Кино Fantazy HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="HD prokoptvfantazy" tvg-name="Prokop TV FANTAZY HD", Prokop TV Кино Fantazy HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18144/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvhistory" tvg-name="PROKOP TV HISTORY HD", Prokop TV Кино History HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvhistory" tvg-name="Prokop TV HISTORY HD", Prokop TV Кино History HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18142/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvhorror" tvg-name="PROKOP TV HORROR HD", Prokop TV Кино Horror HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvhorror" tvg-name="Prokop TV HORROR HD", Prokop TV Кино Horror HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="kungfu" tvg-name="PROKOP TV KUNG FU", Prokop TV Кино Kung Fu
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="kungfu" tvg-name="Prokop TV KUNG FU", Prokop TV Кино Kung Fu
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31668/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvnetflixserial" tvg-name="PROKOP TV NETFLIX HD", Prokop TV Кино Netflix HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvnetflixserial" tvg-name="Prokop TV NETFLIX HD", Prokop TV Кино Netflix HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvserialhd" tvg-name="PROKOP TV SERIAL HD", Prokop TV Кино Serial HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvserialhd" tvg-name="Prokop TV SERIAL HD", Prokop TV Кино Serial HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19271/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvdocuhd" tvg-name="PROKOP TV DOCU HD", Prokop TV Познавательные Docu HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvdocuhd" tvg-name="Prokop TV DOCU HD", Prokop TV Познавательные Docu HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19314/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcinemav" tvg-name="PROKOP TV ВТОРАЯ МИРОВАЯ", Prokop TV Вторая мировая
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvcinemav" tvg-name="Prokop TV ВТОРАЯ МИРОВАЯ", Prokop TV Вторая мировая
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19316/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV Music
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18148/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV Hip Hop
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31672/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="ProkopTVrockconcert" tvg-name="PROKOP TV HARD&HEAVY CONCERTS HD", Prokop TV Rock
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="ProkopTVrockconcert" tvg-name="Prokop TV HARD&HEAVY CONCERTS HD", Prokop TV Rock
 http://qw9kh8gz.rostelekom.xyz/iptv/H7B4LWE4GTKBN9/18088/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="NewYear" tvg-name="PROKOP TV НОВОГОДНИЙ", Prokop TV Кулинар
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="NewYear" tvg-name="Prokop TV НОВОГОДНИЙ", Prokop TV Кулинар
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16091/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvshow" tvg-name="PROKOP TV SHOW HD", Prokop TV Show HD
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvshow" tvg-name="Prokop TV SHOW HD", Prokop TV Show HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31669/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvskazkiussr" tvg-name="PROKOP TV СКАЗКИ СССР", Prokop TV Сказки СССР
+#EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)" tvg-id="prokoptvskazkiussr" tvg-name="Prokop TV СКАЗКИ СССР", Prokop TV Сказки СССР
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19317/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Prokop TV (zZeleZz провайдер iEdem.tv)", Prokop TV Kids HD (eng)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18141/index.m3u8
