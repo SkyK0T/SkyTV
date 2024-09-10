@@ -530,6 +530,7 @@ http://fs2.persik.by/Skazki6/index.m3u8
 #EXTINF:0 tvg-rec="7",.black
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/708/index.m3u8
+
 #EXTINF:0 tvg-rec="0",.black HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20019/index.m3u8
@@ -836,8 +837,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15100/index.m3u8
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31628/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4688" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4688.png",CineMan Ужасы
+#EXTINF:0 tvg-rec="7" tvg-id="4688" tvg-logo="http://epg.it999.ru/img/4688.png",CineMan Ужасы
+#EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11010/index.m3u8
+
 
 #EXTINF:0 tvg-rec="0",CineMan Фитнес
 #EXTGRP:Лучок Кинозалы
@@ -2528,6 +2531,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9004/index.m3u8
 #EXTINF:0 tvg-rec="7",360
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/825/index.m3u8
+
 #EXTINF:0 tvg-rec="3",360 HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2065/index.m3u8
