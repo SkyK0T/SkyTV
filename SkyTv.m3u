@@ -434,8 +434,10 @@ http://fs2.persik.by/RusKino3/index.m3u8
 https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11269.png",Английские субтитры
 http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10685.png",Боевик
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10685.png",Боевики
 http://fs2.persik.by/Boeviki_12/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD
+http://fs2.persik.by/Boevik_3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",В кругу семьи
 http://fs2.persik.by/V_krugu_semii2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD
@@ -514,6 +516,8 @@ https://fs2.persik.by/Rekomenduem7/index.m3u8
 http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11136.png",Романтические фильмы
 http://fs2.persik.by/Romanticheskie8/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10487.png",Роскосмос HD roskosmos-hd
+http://fs2.persik.by/Roskosmos/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10236.png",Русское кино
 https://fs2.persik.by/RusKino3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11025.png",Семейное
@@ -524,6 +528,8 @@ http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
 http://fs2.persik.by/Soviet_Comedy10/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11018.png",Топ кино HD
 http://fs2.persik.by/TopKino_12/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11046.png",Триллер HD triller-hd
+http://fs2.persik.by/Triller9/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры Боевики
 http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры Драма
@@ -10830,7 +10836,7 @@ http://185.112.140.28:80/Kinopremera/index.m3u8
 http://185.112.140.28:80/Kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым",Kиносвидание
 http://185.112.140.28:80/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Трител-Крым",киномикс HD
+#EXTINF:-1 group-title="Трител-Крым",Киномикс HD
 http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым",Кинохит HD
 http://185.112.140.28:80/Kinohit/index.m3u8
