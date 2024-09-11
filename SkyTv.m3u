@@ -192,36 +192,36 @@ https://hls.goodgame.ru/hls/206355.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1566003_uo4m.jpg",НОСТАЛЬЖИ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199415.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", FLX gamepax
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",FLX gamepax
 http://hls.goodgame.ru/hls/1612353.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", FLX2 FoxFun
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",FLX2 FoxFun
 http://hls.goodgame.ru/hls/1612402.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", StreamCat KSHMR
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",StreamCat KSHMR
 http://hls.goodgame.ru/hls/1612359.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", КиноПродукты 24/7 ZubrilomFilm
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",КиноПродукты 24/7 ZubrilomFilm
 http://hls.goodgame.ru/hls/1638158.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", фарго CMehanikus
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",фарго CMehanikus
 http://hls.goodgame.ru/hls/58613.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", 🔴 NOSTALGIA! EmeraldGPtheOne
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",🔴 NOSTALGIA! EmeraldGPtheOne
 http://hls.goodgame.ru/hls/1566003.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", КиноКонтент📺🍿 24/7 K1n0man1a
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",КиноКонтент📺🍿 24/7 K1n0man1a
 http://hls.goodgame.ru/hls/1639851.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", Кинофраншизы и сериалы ZubrilomSerials
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Кинофраншизы и сериалы ZubrilomSerials
 http://hls.goodgame.ru/hls/1640714.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1650513_Zzxp.jpg",, 📌Кино, Мультфильмы, Сериалы 24/7 video-prokat
 http://hls.goodgame.ru/hls/1650513.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", ЭфирА NET HD kapatel78
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",ЭфирА NET HD kapatel78
 http://hls.goodgame.ru/hls/1390931.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", Восход ТВ Dragon17
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Восход ТВ Dragon17
 http://hls.goodgame.ru/hls/1596320.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", ДэмсФантастика HD demsfilm
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",ДэмсФантастика HD demsfilm
 http://hls.goodgame.ru/hls/1643575.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", Мультики и сказки multikiskazki
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",Мультики и сказки multikiskazki
 http://hls.goodgame.ru/hls/1559128 .m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru"tvg-logo="https://goodgame.ru/files/avatars/av_1286248_KSyd.jpg",
 Здесь творится Магия! DiZagree Диана Буковская
 http://hls.goodgame.ru/hls/1286248.m3u8
-#EXTINF:-1 group-title="Трансляции GoodGame.ru", POGREBOK_TV
+#EXTINF:-1 group-title="Трансляции GoodGame.ru",POGREBOK_TV
 http://hls.goodgame.ru/hls/357813.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru",dddjimmymicro
 http://hls.goodgame.ru/hls/422071.m3u8
@@ -389,22 +389,36 @@ https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CsIGqhd7_SChPGrLnhtr2I1scNw
 http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",Александра Бортич
 http://fs2.persik.by/Bortich3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/564x/a5/da/15/a5da150e2a2be11e9d91b97bcd26c587.jpg",Андрей Миронов
-https://fs2.persik.by/Mironov7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://images.uznayvse.ru/main_catalog_image/p/images/catalog/2022/2/andrey-merzlikin-actor_11.jpg",Андрей Мерзликин
 http://fs2.persik.by/Merzlikin4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.kino-teatr.ru/movie/kadr/586/pv_475768.jpg", Андрей Панин
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/564x/a5/da/15/a5da150e2a2be11e9d91b97bcd26c587.jpg",Андрей Миронов
+https://fs2.persik.by/Mironov7/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://www.kino-teatr.ru/movie/kadr/586/pv_475768.jpg",Андрей Панин
 http://fs2.persik.by/Panin3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1e/4b/7e/1e4b7ed10e19ffb881d6c0609e28978d.jpg",Аня Чиповская
 https://fs2.persik.by/Chipovskaja2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://argumentiru.com/images/preview/arhnews/76e8834cbc70bfd668e51c5ef97e2490.jpg",Владимир Машков
 http://fs2.persik.by/Mashkov4/index.m3u8
+
+  !(-_-)!
+#EXTINF:-1 group-title="Кинозалы Persik TV",Владимир Высоцкий !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3lEBT80neoeyaZ3Ex7_F01A/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV",Владимир Яглыч  !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3i1Q-tlpKOdN0a6pKQ2Ydvk/ts
+
+
+
+
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.mycdn.me/image?id=946024504650&t=50&plc=WEB&tkn=*1-ro1j9z8KnS5TOubzlh4qTGgeo&fn=external_6",Георгий Вицин
 http://fs2.persik.by/Vicin_7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://miks-karting.ru/vdnh-2024/images/headliners/kucenko.png",Гоша Куценко
 http://fs2.persik.by/Kucenko_3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/1200x/b4/7c/c0/b47cc01c514334918cda5d60f14dcbe8.jpg",Данила Козловский
 http://fs2.persik.by/Kozlovskij_4/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Persik TV",Жан-Клод Ван Дамм !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3jJoSEAWPX7s9vqfERM5Az0/ts
+
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",Евгений Леонов
 https://fs2.persik.by/Leonov_6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",Игорь Петренко
@@ -419,41 +433,56 @@ http://fs2.persik.by/Matveev3/index.m3u8
 http://fs2.persik.by/Porechenkov2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://img.rosbalt.ru/photobank/c/d/0/0/tjk4QcnP-234.jpg",Павел Деревянко
 http://fs2.persik.by/Derevyanko5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://tenor.com/bC5U1.gif",Сергей Безруков
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/1966007/952205454/S600xU_2x",Сергей Безруков
 http://fs2.persik.by/Bezrukov3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.pinimg.com/236x/1a/68/a8/1a68a841a6490b03f54fa621fcf9d82d.jpg",Сергей Пускепалис
 http://fs2.persik.by/Puskepalis3/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11060.png",Fantasy Фэнтези HD
 https://fs2.persik.by/Fantasy2/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11137.png",RusKino HD 11137
 http://fs2.persik.by/RusKino3/index.m3u8
-
+#EXTINF:-1 group-title="Кинозалы Persik TV",Horror Movies HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3sw2ylD0yaJQRwJEA6vHRYg/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11236.png",Американские комедии
 https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11269.png",Английские субтитры
-http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10685.png",Боевики
+http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8 HD
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10685.png",Боевики HD filmy-boeviki-hd
 http://fs2.persik.by/Boeviki_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD
 http://fs2.persik.by/Boevik_3/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",В кругу семьи
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11041.png",Биография  !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3tRoBq-5INzsemFOoBRKNbA/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10684.png",Биография HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3rU9iq3mcGtIiKd_5M6R6pc/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD Кинобоевик  !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3uHTK-g50EiMdRCEALdAWjs/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",В кругу семьи
 http://fs2.persik.by/V_krugu_semii2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD
 https://fs2.persik.by/Vdohnovenie_12/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11273.png",Военные сериалы !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3mgl6RHu1Z6qR8I9qHdkDsQ/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11167.png",Военные фильмы  !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3gYIVO-20sBMRluiuVYx9_Q/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11272.png",Вторая мировая
 http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11227.png",Давай поженимся
 http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10687.png",Детектив HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3tN8u7XT2Tj0c933nTFCJ08/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективное кино HD
 https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективные сериалы !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3taAMGPD1RHUjHBkrTY8ZK0/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10756.png",Дружба HD
 http://fs2.persik.by/Druzhba7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11028.png",Документальное кино HD
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10739.png",Документальное HD
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11063.png",Золотая коллекция СССР !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3n_Lrt3cHw3F2mSWVUuSUYE/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10749.png",Европейское кино HD
 https://fs2.persik.by/EvropejskoeKino14/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11129.png",Зарубежное кино
@@ -464,7 +493,7 @@ http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
 http://fs2.persik.by/Kino_Antistress8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11266.png",Кино выходного дня
 http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/608.png",Киномикс 
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/608.png",Кино Микс HD
 https://fs2.persik.by/Kino_Miks10/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11216.png",Кино по книгам
 https://fs2.persik.by/Kino_po_knigam9/index.m3u8
@@ -478,25 +507,55 @@ http://fs2.persik.by/Kino_pro_supergeroev/index.m3u8
 http://fs2.persik.by/Kino_pro_shpionov/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11269.png",Кино с субтитрами
 http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11274.png",Комедийные сериалы
+
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/10716.png",КиноТОП HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3nVli7Nqg5ml3WUZ6vgz1wc/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/10691.png",Комедия HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3menMZKm_08zRWZuX8gsH2M/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/11230.png",Комедии 2 (-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3kWxeZJoVITIL0saSnqn9rA/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/11237.png",Комедийные боевики !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3puSjPxQhdUslRPI8DJpxAU/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11274.png",Комедийные сериалы 
 http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/11168.png",Комедийные фильмы HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3j-fEZRGnGynNCgeFG2Uz6c/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/11022.png",Криминальные драмы !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3nzP8eDudsIf7GtmukB0Mq4/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10509.png",Kosmo
 http://fs2.persik.by/Kosmo5/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11135.png",Лёгкое кино
 http://fs2.persik.by/Legkoe_Kino8/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/11048.png",Лучшие драмы HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3uKNMnqBkIqmHfd7SZ2jAGM/ts
+t#EXTINF:-1 group-title="Кинозалы Persik TV"vg-logo="https://persik.by/media/channels/logos/11145.png",Лучшие сериалы HD! (-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3gBY5QeS_P6HQ1yltwlh2PU/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV"tvg-logo="https://persik.by/media/channels/logos/10751.png",Любовь HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3ut9bU59hkiaYgsQ0BEoUKM/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11279.png",Любовь и детективы
 http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11270.png",Маньяки
 http://fs2.persik.by/Manjaki6/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10755.png", Молодость
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11177.png",Мини-сериалы
+http://fs2.persik.by/Mini_serialy/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10755.png",Молодость
 http://fs2.persik.by/Molodost7/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10747.png",Музыкальные фильмы HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3rJDcTFNdIrsJ-lpyGmf95I/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11012.png",На реальных событиях !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3ozxaVW0vnn4p4dSC0dM4uo/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11030.png",Наши сериалы HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3le_ywbZatIQRECZOWWnFog/ts
+
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11027.png",Новинки
 http://fs2.persik.by/Novinki8/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11146.png",Новинки кино HD
+http://fs2.persik.by/Novinki_Kino2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11158.png",Новогодние фильмы
 http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10738.png",Новое кино
 https://fs2.persik.by/NovoeKino8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Новые комедии
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новые комедии
 http://fs2.persik.by/Novie_Komedii6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10752.png",Остросюжетные сериалы HD
 http://fs2.persik.by/OstrosuzhetnieSerialy6/index.m3u8
@@ -506,7 +565,7 @@ https://fs2.persik.by/Otechestvennoe2/index.m3u8
 https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11346.png",Про родителей
 http://fs2.persik.by/Pro_roditeley8/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Психологические ужасы
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Психологические ужасы
 http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11278.png",Путешествие во времени
 http://fs2.persik.by/Puteshestvie_vo_vremeni9/index.m3u8
@@ -516,36 +575,62 @@ https://fs2.persik.by/Rekomenduem7/index.m3u8
 http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11136.png",Романтические фильмы
 http://fs2.persik.by/Romanticheskie8/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11029.png",Романтик комедии !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3ptHywZZ4DUIniYYN9mqnc0/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10487.png",Роскосмос HD roskosmos-hd
 http://fs2.persik.by/Roskosmos/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10236.png",Русское кино
 https://fs2.persik.by/RusKino3/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11038.png",Русские комедии
+http://fs2.persik.by/Russkie_Komedii/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10710.png",Семья HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3h24ufasEoxxQPkW1WkqCXE/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11025.png",Семейное
 http://fs2.persik.by/Semejnoe9/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11131.png",Семейные фильмы
 http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
 http://fs2.persik.by/Soviet_Comedy10/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10983.png",Советские новогодние фильмы  !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3n4I4pY6vaG1csP3I68sbBE/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11031.png",Советские сериалы !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3j5xpIar212xemNHfEEPEP4/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11139.png",Твоё кино HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3o-UrkYZI7mGlyMAStP3m6E/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11018.png",Топ кино HD
 http://fs2.persik.by/TopKino_12/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11046.png",Триллер HD triller-hd
 http://fs2.persik.by/Triller9/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры Боевики
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10713.png",Триллеры HD
+http://fs2.persik.by/Triller9/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры Боевики
 http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV",Триллеры Драма
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры Драма
 http://fs2.persik.by/Trillery_Drama4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11215.png",Триллеры США
 https://fs2.persik.by/Trillery_USA_11/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10714.png",Ужасы HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3v1MTUy9mTVkaKN7kdpZ5SI/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10715.png",Фантастика HD
+http://fs2.persik.by/Fantastika/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10740.png",Фестивальное кино
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11264.png",Фильмы катастрофы
 http://fs2.persik.by/Filmy_katastrofy/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11169.png",Фильмы Боевики HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3sjyvKqQB71c31mMWxC5nWg/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11133.png",Фильмы про отдых !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3j1AGFgX-RHHcAzMJTjeFZc/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11059.png",Фильмы про спорт HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3heb4Kwa_BqwGBYfZYJfSN8/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/1013.png",Фильмы ужасов HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3uEFrnFNJmABFgPQKeLmgCE/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10754.png",Экранизации HD
 http://fs2.persik.by/Ekranizacii12/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11132.png",Экшн-фильмы !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3hwFS1eoGNQTPcKur8lPEeE/ts
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo=" https://persik.by/media/channels/logos/11245.png",Movie (Eng)
 http://fs2.persik.by/Movie2/index.m3u8
-
-
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10970.png",Sluhay.by
 http://fs2.persik.by/Sluhay2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by COVER" tvg-logo="https://persik.by/media/channels/logos/11102.png",Sluhay.by Cover
@@ -554,7 +639,6 @@ https://fs2.persik.by/Sluhay_COVER2/index.m3u8
 https://fs2.persik.by/Sluhay_EDM/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by LIVE" tvg-logo="https://persik.by/media/channels/logos/10975.png",Sluhay.by Live
 https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by RADIO" tvg-logo="https://persik.by/media/channels/logos/11170.png",Sluhay.by Radio
 https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-name="Sluhay.by RAP" tvg-logo="https://persik.by/media/channels/logos/10974.png",Sluhay.by Rap
@@ -568,11 +652,16 @@ https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
 http://fs2.persik.by/Pop4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11245.png",Рэп
 http://fs2.persik.by/Rap2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11243.png",Русский рок !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3juT3o6epKw8H9pW8yZBz-k/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11246.png",Рок концерты !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3tWVDAcMXlfpVvEJA9oR_b8/ts
+
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11247.png",Техно
 https://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11248.png",Best clips
 https://fs2.persik.by/Best_clips/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11251.png" ,Concerts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11251.png",Concerts
 https://fs2.persik.by/Concerts4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11252.png",Dance!
 http://fs2.persik.by/Dance3/index.m3u8
@@ -582,20 +671,33 @@ https://fs2.persik.by/DJ4/index.m3u8
 http://fs2.persik.by/Hits4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11223.png",Relax
 https://fs2.persik.by/Relax3/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11250.png",Pop-Rock
 https://fs2.persik.by/Pop_Rock2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11254.png",Synthwave
 http://fs2.persik.by/Synthwave/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11128.png",Аниме
 http://fs2.persik.by/Anime5/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11130.png", Детские фильмы
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11130.png",Детские фильмы
 https://fs2.persik.by/DetskieFilmy4/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10680.png",Детские песни
 https://fs2.persik.by/DetskiePesni4/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/11064.png",Детские мультики detskie-multiki
+http://fs2.persik.by/DetskieMultiki5/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10746.png",Детские мультфильмы HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3hlFCGosSCjxwlH9a0vjM78/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV",Детский HD !(-_-)!
+http://chiburator.monster:8000/play/XXYS9f66SXUT4HF-SErE3mRoecKtP6e2DwNFG-ZBjT4/ts
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11033.png",Мульт сериал HD mult-serial-hd
+http://fs2.persik.by/Mult_Serial/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/11032.png",Мультики HD
+http://fs2.persik.by/Multiki5/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10748.png",Мультсериалы HD multserialy-hd // Mult_serial
+http://fs2.persik.by/Multserialy2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="http://persik.tv/images/channels/logos/10745.png",Сказки HD
 http://fs2.persik.by/Skazki6/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Persik TV" tvg-logo="https://persik.by/media/channels/logos/10490.png",Сундучок историй HD sunduchok-istorij-hd
+http://fs2.persik.by/Sunduchok4/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
@@ -11745,6 +11847,217 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
 https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RU: Эхо TV (Рязань)" tvg-logo="" group-title="۩ Rusia ۩",RU: Эхо TV (Рязань)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198937
+#EXTINF:-1 tvg-id="" tvg-name="RU: Хузур ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Хузур ТВ
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284096
+#EXTINF:-1 tvg-id="" tvg-name="RU: Учалы ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Учалы ТВ
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284095
+#EXTINF:-1 tvg-id="" tvg-name="RU: Український реп" tvg-logo="" group-title="۩ Rusia ۩",RU: Український реп
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/300628
+#EXTINF:-1 tvg-id="" tvg-name="RU: Три Ангела" tvg-logo="" group-title="۩ Rusia ۩",RU: Три Ангела
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/301836
+#EXTINF:-1 tvg-id="" tvg-name="RU: Телплюс ТВ (Астрахань)" tvg-logo="" group-title="۩ Rusia ۩",RU: Телплюс ТВ (Астрахань)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284092
+#EXTINF:-1 tvg-id="" tvg-name="RU: Тамыр" tvg-logo="" group-title="۩ Rusia ۩",RU: Тамыр
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284088
+#EXTINF:-1 tvg-id="" tvg-name="RU: ТКР (Рязань)" tvg-logo="" group-title="۩ Rusia ۩",RU: ТКР (Рязань)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/294813
+#EXTINF:-1 tvg-id="" tvg-name="RU: ТВК 24" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВК 24
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284100
+#EXTINF:-1 tvg-id="" tvg-name="RU: ТВ3" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВ3
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/304606
+#EXTINF:-1 tvg-id="" tvg-name="RU: Страшное" tvg-logo="" group-title="۩ Rusia ۩",RU: Страшное
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/166585
+#EXTINF:-1 tvg-id="" tvg-name="RU: Селенга ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Селенга ТВ
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284102
+#EXTINF:-1 tvg-id="" tvg-name="RU: Север (Нарьян-Мар)" tvg-logo="" group-title="۩ Rusia ۩",RU: Север (Нарьян-Мар)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198925
+#EXTINF:-1 tvg-id="" tvg-name="RU: Самара ГИС" tvg-logo="" group-title="۩ Rusia ۩",RU: Самара ГИС
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284107
+#EXTINF:-1 tvg-id="" tvg-name="RU: Салям" tvg-logo="" group-title="۩ Rusia ۩",RU: Салям
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284106
+#EXTINF:-1 tvg-id="" tvg-name="RU: СТС" tvg-logo="" group-title="۩ Rusia ۩",RU: СТС
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/304605
+#EXTINF:-1 tvg-id="" tvg-name="RU: С86 (86 Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С86 (86 Сургут)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/300457
+#EXTINF:-1 tvg-id="" tvg-name="RU: С1 (Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С1 (Сургут)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198924
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ростов-папа" tvg-logo="" group-title="۩ Rusia ۩",RU: Ростов-папа
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284110
+#EXTINF:-1 tvg-id="" tvg-name="RU: Небеса ТВ7" tvg-logo="" group-title="۩ Rusia ۩",RU: Небеса ТВ7
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198917
+#EXTINF:-1 tvg-id="" tvg-name="RU: НТМ (Народное телевидение Мордовии)" tvg-logo="" group-title="۩ Rusia ۩",RU: НТМ (Народное телевидение Мордовии)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284132
+#EXTINF:-1 tvg-id="" tvg-name="RU: Мир Белогорья" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир Белогорья
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/297690
+#EXTINF:-1 tvg-id="" tvg-name="RU: Мир +4" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир +4
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284169
+#EXTINF:-1 tvg-id="" tvg-name="RU: Мир" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/19039
+#EXTINF:-1 tvg-id="" tvg-name="RU: Матур ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Матур ТВ
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284193
+#EXTINF:-1 tvg-id="" tvg-name="RU: МТВ (Волгоград)" tvg-logo="" group-title="۩ Rusia ۩",RU: МТВ (Волгоград)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198914
+#EXTINF:-1 tvg-id="" tvg-name="RU: ЛДПР ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: ЛДПР ТВ
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198909
+#EXTINF:-1 tvg-id="" tvg-name="RU: Кинозал боевик" tvg-logo="" group-title="۩ Rusia ۩",RU: Кинозал боевик
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/271238
+#EXTINF:-1 tvg-id="" tvg-name="RU: Кино 1 International" tvg-logo="" group-title="۩ Rusia ۩",RU: Кино 1 International
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/300979
+#EXTINF:-1 tvg-id="" tvg-name="RU: Каббала ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Каббала ТВ
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198905
+#EXTINF:-1 tvg-id="" tvg-name="RU: К16 (Саров)" tvg-logo="" group-title="۩ Rusia ۩",RU: К16 (Саров)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284196
+#EXTINF:-1 tvg-id="" tvg-name="RU: Енисей" tvg-logo="" group-title="۩ Rusia ۩",RU: Енисей
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/300118
+#EXTINF:-1 tvg-id="" tvg-name="RU: Евразия (Орск)" tvg-logo="" group-title="۩ Rusia ۩",RU: Евразия (Орск)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198902
+#EXTINF:-1 tvg-id="" tvg-name="RU: Губерния (Самара)" tvg-logo="" group-title="۩ Rusia ۩",RU: Губерния (Самара)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284199
+#EXTINF:-1 tvg-id="" tvg-name="RU: Городской телеканал (Ярославль)" tvg-logo="" group-title="۩ Rusia ۩",RU: Городской телеканал (Ярославль)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284200
+#EXTINF:-1 tvg-id="" tvg-name="RU: Белгород 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Белгород 24
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284204
+#EXTINF:-1 tvg-id="" tvg-name="RU: Астрахань.Ru Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Астрахань.Ru Sport
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/304028
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zvezda Plus (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zvezda Plus (Звезда)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/295315
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zoo TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Zoo TV
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/283081
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhivaya Priroda (Живая Природа)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhivaya Priroda (Живая Природа)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/304391
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zhar Ptitsa (Жар Птица)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhar Ptitsa (Жар Птица)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198903
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zdorovoe TV (Здоровое)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zdorovoe TV (Здоровое)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/55793
+#EXTINF:-1 tvg-id="" tvg-name="RU: Zagorodny (Загородный)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zagorodny (Загородный)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/304384
+#EXTINF:-1 tvg-id="" tvg-name="RU: Yurgan (Юрган)" tvg-logo="" group-title="۩ Rusia ۩",RU: Yurgan (Юрган)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284205
+#EXTINF:-1 tvg-id="" tvg-name="RU: World Fashion Channel Russia" tvg-logo="" group-title="۩ Rusia ۩",RU: World Fashion Channel Russia
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/165963
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vremya" tvg-logo="" group-title="۩ Rusia ۩",RU: Vremya
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/225217
+#EXTINF:-1 tvg-id="" tvg-name="RU: Volgograd 24 (Волгоград 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Volgograd 24 (Волгоград 24)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/300358
+#EXTINF:-1 tvg-id="" tvg-name="RU: Volga" tvg-logo="" group-title="۩ Rusia ۩",RU: Volga
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299500
+#EXTINF:-1 tvg-id="" tvg-name="RU: VIVA TV" tvg-logo="" group-title="۩ Rusia ۩",RU: VIVA TV
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284086
+#EXTINF:-1 tvg-id="" tvg-name="RU: VIP MEGAHIT" tvg-logo="" group-title="۩ Rusia ۩",RU: VIP MEGAHIT
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/80168
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Sport
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/12811
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Serial" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Serial
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298881
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Premiere" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Premiere
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298880
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Planet" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Planet
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298874
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Nature
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298876
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Megahit" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Megahit
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298882
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Explore
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298877
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Comedy" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Comedy
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298875
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299024
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Action" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Action
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/42064
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298879
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Nature
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/300121
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju History" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju History
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298878
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Explore
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299910
+#EXTINF:-1 tvg-id="" tvg-name="RU: Viasat History" tvg-logo="" group-title="۩ Rusia ۩",RU: Viasat History
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/45736
+#EXTINF:-1 tvg-id="" tvg-name="RU: VHS-KA" tvg-logo="" group-title="۩ Rusia ۩",RU: VHS-KA
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/304368
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vetta 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Vetta 24
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198899
+#EXTINF:-1 tvg-id="" tvg-name="RU: Vera 24 TV (Вера 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Vera 24 TV (Вера 24)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/60539
+#EXTINF:-1 tvg-id="" tvg-name="RU: Usadba (Усадьба)" tvg-logo="" group-title="۩ Rusia ۩",RU: Usadba (Усадьба)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/43985
+#EXTINF:-1 tvg-id="" tvg-name="RU: Univer" tvg-logo="" group-title="۩ Rusia ۩",RU: Univer
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/198891
+#EXTINF:-1 tvg-id="" tvg-name="RU: Unikum (Уникум)" tvg-logo="" group-title="۩ Rusia ۩",RU: Unikum (Уникум)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/298016
+#EXTINF:-1 tvg-id="" tvg-name="RU: Ultra HD Cinema" tvg-logo="" group-title="۩ Rusia ۩",RU: Ultra HD Cinema
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/166573
+#EXTINF:-1 tvg-id="" tvg-name="RU: U TV (Ю ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: U TV (Ю ТВ)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/80175
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV41" tvg-logo="" group-title="۩ Rusia ۩",RU: TV41
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299836
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Grozny (GTRK Groznyj)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Grozny (GTRK Groznyj)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299442
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Centr (ТВЦ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Centr (ТВЦ)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/80238
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV Brics" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Brics
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/42065
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 21" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 21
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/19123
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 1000 Comedy" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 1000 Comedy
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/281329
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 1000
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/12787
+#EXTINF:-1 tvg-id="" tvg-name="RU: TV 3 (ТВ3)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 3 (ТВ3)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/295461
+#EXTINF:-1 tvg-id="" tvg-name="RU: TRK 555" tvg-logo="" group-title="۩ Rusia ۩",RU: TRK 555
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/284155
+#EXTINF:-1 tvg-id="" tvg-name="RU: Tri Angela" tvg-logo="" group-title="۩ Rusia ۩",RU: Tri Angela
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/19108
+#EXTINF:-1 tvg-id="" tvg-name="RU: Travel Channel" tvg-logo="" group-title="۩ Rusia ۩",RU: Travel Channel
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/42060
+#EXTINF:-1 tvg-id="" tvg-name="RU: Trash" tvg-logo="" group-title="۩ Rusia ۩",RU: Trash
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/304367
+#EXTINF:-1 tvg-id="" tvg-name="RU: Top Secret (Совершенно секретно)" tvg-logo="" group-title="۩ Rusia ۩",RU: Top Secret (Совершенно секретно)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299982
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Tatarstan (ТНВ Татарстан)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Tatarstan (ТНВ Татарстан)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/271246
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Planeta (ТНВ Планета)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Planeta (ТНВ Планета)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/148375
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT Music (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT Music (ТНТ)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/23297
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT 4 (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT 4 (ТНТ)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/55825
+#EXTINF:-1 tvg-id="" tvg-name="RU: TNT (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT (ТНТ)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/12757
+#EXTINF:-1 tvg-id="" tvg-name="RU: TLC" tvg-logo="" group-title="۩ Rusia ۩",RU: TLC
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/42059
+#EXTINF:-1 tvg-id="" tvg-name="RU: Tiji" tvg-logo="" group-title="۩ Rusia ۩",RU: Tiji
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/80268
+#EXTINF:-1 tvg-id="" tvg-name="RU: The Reporter" tvg-logo="" group-title="۩ Rusia ۩",RU: The Reporter
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299852
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal О!" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal О!
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/166623
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Zvezda (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Zvezda (Звезда)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/36566
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Spas (Спас ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Spas (Спас ТВ)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/165978
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Futbol (Футбол)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Futbol (Футбол)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/148388
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Doktor (Доктор)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Doktor (Доктор)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/148373
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 360° (360` Подмосковье)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 360° (360` Подмосковье)
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/300132
+#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 2x2" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 2x2
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/60462
+#EXTINF:-1 tvg-id="" tvg-name="RU: Teledom" tvg-logo="" group-title="۩ Rusia ۩",RU: Teledom
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/303993
+
+
+
+
 
 
 
