@@ -31,7 +31,6 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19271/index.m3u8
 #EXTINF:0 tvg-rec="7",.black
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/708/index.m3u8
-
 #EXTINF:0 tvg-rec="0",.black HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20019/index.m3u8
@@ -104,9 +103,9 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14161/index.m3u8
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9022/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4662.png",Backus TV Dark HD
+#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4662.png",Backus TV Dark HD (пока не доступен)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10061/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4770.png",Backus TV Original HD
+#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4770.png",Backus TV Original HD (пока не доступен)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11049/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4748" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4748.png",BCU Action HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11027/index.m3u8
@@ -157,7 +156,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16083/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11040/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4761" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4761.png",BCU Romantic OLD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18052/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4767" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4767.png",BCU RUSERIAL HD
+#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4767" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4767.png",BCU Ruserial HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11046/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4762" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4762.png",BCU Russian HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11041/index.m3u8
@@ -168,6 +167,8 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31658/index.m3u8
 
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4765" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4765.png",BCU Stars HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11044/index.m3u8
+#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5513" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5513.png",BCU Stars HD 2
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15024/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6175" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6175.png",BCU Survival HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17019/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6164" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6164.png",BCU Survival OLD
@@ -188,8 +189,6 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11017/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11047/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4747" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4747.png",BCU СССР HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11026/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5513" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5513.png",BCUMEDIA OLD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15024/index.m3u8
 
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4771" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4771.png",BEST Films HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11050/index.m3u8
