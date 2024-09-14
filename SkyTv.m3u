@@ -1040,8 +1040,13 @@ https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",ushba-m10
 https://fl1001.bozztv.com/ushba-m10/tracks-v1a1/mono.m3u8
 
+
+
 #EXTINF:-1 group-title="📺 Usba TV",ushba-booty-nsfw
-https://fl1001.bozztv.com/ushba-booty-nsfw
+https://fl1001.bozztv.com/ushba-booty-nsfw/index.m3u8
+#EXTINF:-1 group-title="📺 Usba TV",Попки (ushba-booty-nsfw)
+https://glb.bozztv.com/glb/ushba-booty-nsfw/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="📺 Usba TV",znartv
 https://fl1001.bozztv.com/znartv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV",zeriliretv
