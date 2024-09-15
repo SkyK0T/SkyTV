@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 
-#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",Обновление от:15.09.24
-#EXTGRP:🦊Обнова🦊 
-https://vkvd51.mycdn.me/?expires=1726618108072&srcIp=185.177.112.26&pr=40&srcAg=CHROME&ms=45.136.22.141&type=1&sig=_U5dMUPw0Lg&ct=6&urls=185.226.53.168&clientType=13&appId=512000384397&id=7190080457454
+#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обнова от:15.09.24🦊 
+#EXTGRP:🦊Обнова от:15.09.24🦊 
+https://rutube.ru/shorts/212c95751e4cd5061463298a9649a8e6/?r=wd
 
 
 
@@ -15,7 +15,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/708/index.m3u8
 #EXTINF:0 tvg-rec="0",.black HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20019/index.m3u8
-#EXTINF:0 tvg-rec="3",.black (оригинал)
+#EXTINF:0 tvg-rec="3",.black
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9140/index.m3u8
 #EXTINF:0 tvg-rec="7",.red
@@ -24,7 +24,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/559/index.m3u8
 #EXTINF:0 tvg-rec="3",.red HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2062/index.m3u8
-#EXTINF:0 tvg-rec="3",.red HD (оригинал)
+#EXTINF:0 tvg-rec="3",.red HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9035/index.m3u8
 #EXTINF:0 tvg-rec="7",.sci-fi
@@ -33,22 +33,22 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/110/index.m3u8
 #EXTINF:0 tvg-rec="0",.sci-fi HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20020/index.m3u8
-#EXTINF:0 tvg-rec="3",.sci-fi (оригинал)
+#EXTINF:0 tvg-rec="3",.sci-fi
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9125/index.m3u8
 #EXTINF:0 tvg-rec="7",2x2
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/702/index.m3u8
-#EXTINF:0 tvg-rec="3",2x2 (оригинал)
+#EXTINF:0 tvg-rec="3",2x2
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9139/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia 1
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/554/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1 HD (оригинал)
+#EXTINF:0 tvg-rec="3",Amedia 1 HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9069/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1 (оригинал)
+#EXTINF:0 tvg-rec="3",Amedia 1
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9137/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia 2
@@ -57,7 +57,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/510/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia 2 HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2046/index.m3u8
-#EXTINF:0 tvg-rec="0",Amedia 2 (оригинал)
+#EXTINF:0 tvg-rec="0",Amedia 2
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9129/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia Hit
@@ -66,7 +66,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/556/index.m3u8
 #EXTINF:0 tvg-rec="3",Amedia Hit HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6010/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Hit HD (оригинал)
+#EXTINF:0 tvg-rec="3",Amedia Hit HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9070/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia Premium
@@ -80,13 +80,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/229/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5357" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5357.png",Akudji FilmBox HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14161/index.m3u8
 
-#EXTINF:0 tvg-rec="3",Amedia Premium HD (оригинал)
+#EXTINF:0 tvg-rec="3",Amedia Premium HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9022/index.m3u8
 
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4662.png",Backus TV Dark HD (пока не доступен)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10061/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4770.png",Backus TV (оригинал)inal HD (пока не доступен)
+#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4770.png",Backus TVinal HD (пока не доступен)
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11049/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4748" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4748.png",BCU Action HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11027/index.m3u8
@@ -436,13 +436,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20210/index.m3u8
 #EXTINF:0 tvg-rec="7",FAN
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/734/index.m3u8
-#EXTINF:0 tvg-rec="3",FAN (оригинал)
+#EXTINF:0 tvg-rec="3",FAN
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9145/index.m3u8
 #EXTINF:0 tvg-rec="3",FilmBox ArtHouse
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1071/index.m3u8
-#EXTINF:0 tvg-rec="3",FilmBox ArtHouse (оригинал)
+#EXTINF:0 tvg-rec="3",FilmBox ArtHouse
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9150/index.m3u8
 #EXTINF:0 tvg-rec="0",FilmZone HD LV
@@ -491,7 +491,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19293/index.m3u8
 #EXTINF:0 tvg-rec="0",FX HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19216/index.m3u8
-#EXTINF:0 tvg-rec="3",FX HD (оригинал)
+#EXTINF:0 tvg-rec="3",FX HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9018/index.m3u8
 #EXTINF:0 tvg-rec="7",Hollywood
@@ -500,7 +500,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/557/index.m3u8
 #EXTINF:0 tvg-rec="7",Hollywood HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/209/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood HD (оригинал)
+#EXTINF:0 tvg-rec="3",Hollywood HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9017/index.m3u8
 #EXTINF:0 tvg-rec="0",HORROR HD (тест)
@@ -1100,7 +1100,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14246/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17025/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6738" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6738.png",SKY HIGH NATURE FHD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19309/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6725" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6725.png",SKY HIGH (оригинал) HD
+#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6725" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6725.png",SKY HIGH HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19310/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6054" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6054.png",SKY HIGH RUSSIAN HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16060/index.m3u8
@@ -1154,13 +1154,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31447/index.m3u8
 #EXTINF:0 tvg-rec="0",TV 1000 World Kino HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31448/index.m3u8
-#EXTINF:0 tvg-rec="0",TV 1000 World Kino HD (оригинал)
+#EXTINF:0 tvg-rec="0",TV 1000 World Kino HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31449/index.m3u8
 #EXTINF:0 tvg-rec="7",TV XXI
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/525/index.m3u8
-#EXTINF:0 tvg-rec="3",TV XXI (оригинал)
+#EXTINF:0 tvg-rec="3",TV XXI
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9130/index.m3u8
 
@@ -1258,10 +1258,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/132/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju TV1000 Action
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/131/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9057/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju TV1000 HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9058/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
@@ -1270,25 +1270,25 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2002/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju TV1000 Русское
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/101/index.m3u8
-#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD (оригинал)
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9059/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Comedy HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/200/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Comedy HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju+ Comedy HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5080/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Megahit HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/201/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Megahit HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju+ Megahit HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5081/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Premiere HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/202/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Premiere HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju+ Premiere HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5079/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju+ Serial HD
@@ -1593,7 +1593,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31711/index.m3u8
 #EXTINF:0 tvg-rec="3",Блокбастер HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2436/index.m3u8
-#EXTINF:0 tvg-rec="3",Блокбастер HD (оригинал)
+#EXTINF:0 tvg-rec="3",Блокбастер HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9087/index.m3u8
 #EXTINF:0 tvg-rec="0",Боевики HD
@@ -1616,13 +1616,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5054/index.m3u8
 #EXTINF:0 tvg-rec="7",Дом Кино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/154/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино (оригинал)
+#EXTINF:0 tvg-rec="3",Дом Кино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9136/index.m3u8
 #EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/911/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD (оригинал)
+#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5082/index.m3u8
 #EXTINF:0 tvg-rec="3",Дорама
@@ -1637,10 +1637,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/914/index.m3u8
 #EXTINF:0 tvg-rec="7",Еврокино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/549/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино HD (оригинал)
+#EXTINF:0 tvg-rec="3",Еврокино HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9078/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино (оригинал)
+#EXTINF:0 tvg-rec="3",Еврокино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9134/index.m3u8
 
@@ -1674,7 +1674,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2576/index.m3u8
 #EXTINF:0 tvg-rec="7",Иллюзион+
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2038/index.m3u8
-#EXTINF:0 tvg-rec="3",Иллюзион+ HD (оригинал)
+#EXTINF:0 tvg-rec="3",Иллюзион+ HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9079/index.m3u8
 #EXTINF:0 tvg-rec="3",Индия
@@ -1693,7 +1693,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11104/index.m3u8
 #EXTINF:0 tvg-rec="3",Камеди HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2441/index.m3u8
-#EXTINF:0 tvg-rec="3",Камеди HD (оригинал)
+#EXTINF:0 tvg-rec="3",Камеди HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9091/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинеко
@@ -1711,7 +1711,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/732/index.m3u8
 #EXTINF:0 tvg-rec="3",Кино ТВ HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2097/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино ТВ HD (оригинал)
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9051/index.m3u8
 #EXTINF:0 tvg-rec="0",КИНОДРОМ HD
@@ -1771,16 +1771,16 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11064/index.m3u8
 #EXTINF:0 tvg-rec="3",Киноман
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2121/index.m3u8
-#EXTINF:0 tvg-rec="3",Киноман (оригинал)
+#EXTINF:0 tvg-rec="3",Киноман
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9154/index.m3u8
-#EXTINF:0 tvg-rec="3",Киномикс (оригинал)
+#EXTINF:0 tvg-rec="3",Киномикс
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9126/index.m3u8
 #EXTINF:0 tvg-rec="3",Кинопоказ HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2439/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинопоказ HD (оригинал)
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9092/index.m3u8
 #EXTINF:0 tvg-rec="0",Киносерия HD
@@ -1789,7 +1789,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19229/index.m3u8
 #EXTINF:0 tvg-rec="3",Киноужас HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2056/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинохит (оригинал)
+#EXTINF:0 tvg-rec="3",Кинохит
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9128/index.m3u8
 #EXTINF:0 tvg-rec="0",Коломбо
@@ -1798,7 +1798,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31713/index.m3u8
 #EXTINF:0 tvg-rec="7",Комедийное HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/912/index.m3u8
-#EXTINF:0 tvg-rec="3",Комедийное HD (оригинал)
+#EXTINF:0 tvg-rec="3",Комедийное HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9005/index.m3u8
 #EXTINF:0 tvg-rec="7",Лавстори HD
@@ -1810,44 +1810,44 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/722/index.m3u8
 #EXTINF:0 tvg-rec="0",Любимое Кино HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20014/index.m3u8
-#EXTINF:0 tvg-rec="3",Любимое Кино (оригинал)
+#EXTINF:0 tvg-rec="3",Любимое Кино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9143/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир Сериала
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/856/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Сериала (оригинал)
+#EXTINF:0 tvg-rec="3",Мир Сериала
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9151/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6392/index.m3u8
-#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция (оригинал)
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9156/index.m3u8
 #EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2434/index.m3u8
-#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD (оригинал)
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9086/index.m3u8
 #EXTINF:0 tvg-rec="7",Наше HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/915/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше HD (оригинал)
+#EXTINF:0 tvg-rec="3",Наше HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9046/index.m3u8
 #EXTINF:0 tvg-rec="3",Наше любимое HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2106/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше любимое HD (оригинал)
+#EXTINF:0 tvg-rec="3",Наше любимое HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9062/index.m3u8
 #EXTINF:0 tvg-rec="3",Наше Мужское HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2440/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше Мужское HD (оригинал)
+#EXTINF:0 tvg-rec="3",Наше Мужское HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9088/index.m3u8
 #EXTINF:0 tvg-rec="0",Наше Новое Кино HD
@@ -1856,19 +1856,19 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19231/index.m3u8
 #EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/726/index.m3u8
-#EXTINF:0 tvg-rec="3",НСТ (оригинал)
+#EXTINF:0 tvg-rec="3",НСТ
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9148/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Сериал
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/744/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Сериал (оригинал)
+#EXTINF:0 tvg-rec="3",НТВ Сериал
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9147/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Хит
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/741/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Хит (оригинал)
+#EXTINF:0 tvg-rec="3",НТВ Хит
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9146/index.m3u8
 #EXTINF:0 tvg-rec="0",О!Кино
@@ -1883,7 +1883,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31718/index.m3u8
 #EXTINF:0 tvg-rec="7",Остросюжетное HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/904/index.m3u8
-#EXTINF:0 tvg-rec="3",Остросюжетное HD (оригинал)
+#EXTINF:0 tvg-rec="3",Остросюжетное HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9044/index.m3u8
 #EXTINF:0 tvg-rec="7",Победа
@@ -1902,7 +1902,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16009/index.m3u8
 #EXTINF:0 tvg-rec="3",Про Любовь HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2430/index.m3u8
-#EXTINF:0 tvg-rec="3",Про Любовь HD (оригинал)
+#EXTINF:0 tvg-rec="3",Про Любовь HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9089/index.m3u8
 #EXTINF:0 tvg-rec="0",Репка HD
@@ -1911,10 +1911,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31719/index.m3u8
 #EXTINF:0 tvg-rec="7",Ретро
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2018/index.m3u8
-#EXTINF:0 tvg-rec="3",Ретро (оригинал)
+#EXTINF:0 tvg-rec="3",Ретро
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9152/index.m3u8
-#EXTINF:0 tvg-rec="3",Родное Кино (оригинал)
+#EXTINF:0 tvg-rec="3",Родное Кино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9127/index.m3u8
 #EXTINF:0 tvg-rec="3",Романтичное HD
@@ -1927,19 +1927,19 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11096/index.m3u8
 #EXTINF:0 tvg-rec="7",Русская Комедия
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/733/index.m3u8
-#EXTINF:0 tvg-rec="3",Русская Комедия (оригинал)
+#EXTINF:0 tvg-rec="3",Русская Комедия
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9144/index.m3u8
 #EXTINF:0 tvg-rec="7",Русский бестселлер
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/905/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский бестселлер (оригинал)
+#EXTINF:0 tvg-rec="3",Русский бестселлер
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9141/index.m3u8
 #EXTINF:0 tvg-rec="7",Русский детектив
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/907/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский детектив (оригинал)
+#EXTINF:0 tvg-rec="3",Русский детектив
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9142/index.m3u8
 #EXTINF:0 tvg-rec="7",Русский Иллюзион
@@ -1948,10 +1948,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/547/index.m3u8
 #EXTINF:0 tvg-rec="3",Русский Иллюзион HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2114/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский Иллюзион HD (оригинал)
+#EXTINF:0 tvg-rec="3",Русский Иллюзион HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9080/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский Иллюзион (оригинал)
+#EXTINF:0 tvg-rec="3",Русский Иллюзион
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9133/index.m3u8
 #EXTINF:0 tvg-rec="7",Русский роман
@@ -1960,7 +1960,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/906/index.m3u8
 #EXTINF:0 tvg-rec="3",Русский роман HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2076/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман HD (оригинал)
+#EXTINF:0 tvg-rec="3",Русский роман HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9041/index.m3u8
 #EXTINF:0 tvg-rec="7",Сапфир
@@ -1996,16 +1996,16 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31722/index.m3u8
 #EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2039/index.m3u8
-#EXTINF:0 tvg-rec="3",Феникс плюс Кино (оригинал)
+#EXTINF:0 tvg-rec="3",Феникс плюс Кино
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9153/index.m3u8
 #EXTINF:0 tvg-rec="3",Хит HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2438/index.m3u8
-#EXTINF:0 tvg-rec="3",Хит HD (оригинал)
+#EXTINF:0 tvg-rec="3",Хит HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9090/index.m3u8
-#EXTINF:0 tvg-rec="3",Шокирующее HD (оригинал)
+#EXTINF:0 tvg-rec="3",Шокирующее HD
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9004/index.m3u8
 
@@ -2017,7 +2017,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/825/index.m3u8
 #EXTINF:0 tvg-rec="3",360 HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2065/index.m3u8
-#EXTINF:0 tvg-rec="3",360 HD (оригинал)
+#EXTINF:0 tvg-rec="3",360 HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9036/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +4
@@ -2038,13 +2038,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5049/index.m3u8
 #EXTINF:0 tvg-rec="3",GNC
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/955/index.m3u8
-#EXTINF:0 tvg-rec="3",RT Documentary HD (оригинал)
+#EXTINF:0 tvg-rec="3",RT Documentary HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9031/index.m3u8
 #EXTINF:0 tvg-rec="3",RTVi
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2086/index.m3u8
-#EXTINF:0 tvg-rec="3",RTVi (оригинал)
+#EXTINF:0 tvg-rec="3",RTVi
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9102/index.m3u8
 #EXTINF:0 tvg-rec="3",БСТ
@@ -2053,7 +2053,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2108/index.m3u8
 #EXTINF:0 tvg-rec="3",Вместе-РФ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2073/index.m3u8
-#EXTINF:0 tvg-rec="3",Вместе-РФ (оригинал)
+#EXTINF:0 tvg-rec="3",Вместе-РФ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9124/index.m3u8
 #EXTINF:0 tvg-rec="7",Дождь
@@ -2062,7 +2062,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2030/index.m3u8
 #EXTINF:0 tvg-rec="0",Дождь HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20083/index.m3u8
-#EXTINF:0 tvg-rec="3",Дождь (оригинал)
+#EXTINF:0 tvg-rec="3",Дождь
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9122/index.m3u8
 #EXTINF:0 tvg-rec="7",Домашний
@@ -2077,7 +2077,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6030/index.m3u8
 #EXTINF:0 tvg-rec="0",Домашний +7
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6044/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашний (оригинал)
+#EXTINF:0 tvg-rec="3",Домашний
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9104/index.m3u8
 #EXTINF:0 tvg-rec="3",Загородный
@@ -2095,7 +2095,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6033/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда +7
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6047/index.m3u8
-#EXTINF:0 tvg-rec="3",Звезда (оригинал)
+#EXTINF:0 tvg-rec="3",Звезда
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9098/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда Плюс HD
@@ -2104,7 +2104,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19230/index.m3u8
 #EXTINF:0 tvg-rec="7",Здоровое ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2022/index.m3u8
-#EXTINF:0 tvg-rec="3",Здоровое ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",Здоровое ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9113/index.m3u8
 #EXTINF:0 tvg-rec="7",КВН ТВ
@@ -2113,7 +2113,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/546/index.m3u8
 #EXTINF:0 tvg-rec="3",Красная линия
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2147/index.m3u8
-#EXTINF:0 tvg-rec="3",Красная линия (оригинал)
+#EXTINF:0 tvg-rec="3",Красная линия
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9119/index.m3u8
 #EXTINF:0 tvg-rec="7",Кто есть кто
@@ -2122,7 +2122,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2042/index.m3u8
 #EXTINF:0 tvg-rec="3",ЛДПР ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2110/index.m3u8
-#EXTINF:0 tvg-rec="3",ЛДПР ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9120/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир
@@ -2143,7 +2143,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/986/index.m3u8
 #EXTINF:0 tvg-rec="7",Ностальгия
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/102/index.m3u8
-#EXTINF:0 tvg-rec="3",Ностальгия (оригинал)
+#EXTINF:0 tvg-rec="3",Ностальгия
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9106/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ
@@ -2164,13 +2164,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6053/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/213/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ HD (оригинал)
+#EXTINF:0 tvg-rec="3",НТВ HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9028/index.m3u8
 #EXTINF:0 tvg-rec="3",Открытый мир
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2078/index.m3u8
-#EXTINF:0 tvg-rec="3",Открытый мир (оригинал)
+#EXTINF:0 tvg-rec="3",Открытый мир
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9117/index.m3u8
 #EXTINF:0 tvg-rec="7",ОТР
@@ -2185,7 +2185,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6026/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20018/index.m3u8
-#EXTINF:0 tvg-rec="3",ОТР (оригинал)
+#EXTINF:0 tvg-rec="3",ОТР
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9100/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
@@ -2212,7 +2212,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/204/index.m3u8
 #EXTINF:0 tvg-rec="7",Психология 21
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2025/index.m3u8
-#EXTINF:0 tvg-rec="3",Психология 21 (оригинал)
+#EXTINF:0 tvg-rec="3",Психология 21
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9114/index.m3u8
 #EXTINF:0 tvg-rec="0",Пятница +2
@@ -2236,7 +2236,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/112/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый Канал (+2)
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/746/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый канал (оригинал)
+#EXTINF:0 tvg-rec="3",Пятый канал
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9096/index.m3u8
 #EXTINF:0 tvg-rec="3",Ратник
@@ -2257,7 +2257,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6042/index.m3u8
 #EXTINF:0 tvg-rec="7",Рен ТВ HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2024/index.m3u8
-#EXTINF:0 tvg-rec="3",Рен ТВ HD (оригинал)
+#EXTINF:0 tvg-rec="3",Рен ТВ HD
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9002/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
@@ -2287,19 +2287,19 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/505/index.m3u8
 #EXTINF:0 tvg-rec="7",Сарафан
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/748/index.m3u8
-#EXTINF:0 tvg-rec="3",Сарафан (оригинал)
+#EXTINF:0 tvg-rec="3",Сарафан
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9109/index.m3u8
 #EXTINF:0 tvg-rec="7",Союз
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2016/index.m3u8
-#EXTINF:0 tvg-rec="3",Союз (оригинал)
+#EXTINF:0 tvg-rec="3",Союз
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9112/index.m3u8
 #EXTINF:0 tvg-rec="3",СПАС
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/983/index.m3u8
-#EXTINF:0 tvg-rec="3",СПАС (оригинал)
+#EXTINF:0 tvg-rec="3",СПАС
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9111/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС
@@ -2317,13 +2317,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6043/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Love
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/103/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Love (оригинал)
+#EXTINF:0 tvg-rec="3",СТС Love
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9099/index.m3u8
 #EXTINF:0 tvg-rec="7",Суббота
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/826/index.m3u8
-#EXTINF:0 tvg-rec="3",Суббота (оригинал)
+#EXTINF:0 tvg-rec="3",Суббота
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9103/index.m3u8
 #EXTINF:0 tvg-rec="3",ТБН
@@ -2359,7 +2359,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6041/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВЦ +8
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6056/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВЦ (оригинал)
+#EXTINF:0 tvg-rec="3",ТВЦ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9095/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
@@ -2386,7 +2386,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/104/index.m3u8
 #EXTINF:0 tvg-rec="3",Точка ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2053/index.m3u8
-#EXTINF:0 tvg-rec="3",Точка ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",Точка ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9110/index.m3u8
 #EXTINF:0 tvg-rec="3",Три ангела
@@ -2395,25 +2395,25 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2116/index.m3u8
 #EXTINF:0 tvg-rec="7",Успех
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2041/index.m3u8
-#EXTINF:0 tvg-rec="3",Успех (оригинал)
+#EXTINF:0 tvg-rec="3",Успех
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9115/index.m3u8
 #EXTINF:0 tvg-rec="3",Хузур ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2150/index.m3u8
-#EXTINF:0 tvg-rec="3",Хузур ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",Хузур ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9121/index.m3u8
 #EXTINF:0 tvg-rec="7",Че
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/513/index.m3u8
-#EXTINF:0 tvg-rec="3",Че (оригинал)
+#EXTINF:0 tvg-rec="3",Че
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9101/index.m3u8
 #EXTINF:0 tvg-rec="7",Ю ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/534/index.m3u8
-#EXTINF:0 tvg-rec="3",Ю ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",Ю ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9107/index.m3u8
 
@@ -2730,13 +2730,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6013/index.m3u8
 #EXTGRP:Лучок Новости
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2064/index.m3u8
 
-#EXTINF:0 tvg-rec="3",1HD Music Television (оригинал)
+#EXTINF:0 tvg-rec="3",1HD Music Television
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9001/index.m3u8
 #EXTINF:0 tvg-rec="3",AIVA TV HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2156/index.m3u8
-#EXTINF:0 tvg-rec="3",AIVA TV HD (оригинал)
+#EXTINF:0 tvg-rec="3",AIVA TV HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9085/index.m3u8
 #EXTINF:0 tvg-rec="0",Box Hits HD
@@ -2757,7 +2757,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20171/index.m3u8
 #EXTINF:0 tvg-rec="7",Bridge Deluxe HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/236/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge Deluxe HD (оригинал)
+#EXTINF:0 tvg-rec="3",Bridge Deluxe HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9012/index.m3u8
 #EXTINF:0 tvg-rec="7",Bridge Hits
@@ -2781,7 +2781,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/120/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Русский Хит HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19226/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge Русский Хит (оригинал)
+#EXTINF:0 tvg-rec="0",Bridge Русский Хит
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9176/index.m3u8
 #EXTINF:0 tvg-rec="0",CHD-TV RU Rock HD
@@ -2802,7 +2802,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20029/index.m3u8
 #EXTINF:0 tvg-rec="0",Gakku Media
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19164/index.m3u8
-#EXTINF:0 tvg-rec="3",iConcerts HD (оригинал)
+#EXTINF:0 tvg-rec="3",iConcerts HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9056/index.m3u8
 #EXTINF:0 tvg-rec="0",Kiss TV UK
@@ -2820,7 +2820,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31662/index.m3u8
 #EXTINF:0 tvg-rec="7",MCM Top Russia
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/836/index.m3u8
-#EXTINF:0 tvg-rec="3",MCM Top Russia (оригинал)
+#EXTINF:0 tvg-rec="3",MCM Top Russia
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9175/index.m3u8
 #EXTINF:0 tvg-rec="7",Mezzo
@@ -2829,10 +2829,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/707/index.m3u8
 #EXTINF:0 tvg-rec="7",Mezzo Live HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/208/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo Live HD (оригинал)
+#EXTINF:0 tvg-rec="3",Mezzo Live HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9014/index.m3u8
-#EXTINF:0 tvg-rec="3",Mezzo (оригинал)
+#EXTINF:0 tvg-rec="3",Mezzo
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9170/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Relax HD
@@ -2868,7 +2868,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/153/index.m3u8
 #EXTINF:0 tvg-rec="7",MTV Live HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/221/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV Live HD (оригинал)
+#EXTINF:0 tvg-rec="3",MTV Live HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9009/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV Music UK HD
@@ -2880,7 +2880,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2048/index.m3u8
 #EXTINF:0 tvg-rec="0",Music Box Russia HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19255/index.m3u8
-#EXTINF:0 tvg-rec="3",Music Box Russia (оригинал)
+#EXTINF:0 tvg-rec="3",Music Box Russia
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9168/index.m3u8
 #EXTINF:0 tvg-rec="0",NM Television HD
@@ -2952,7 +2952,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20162/index.m3u8
 #EXTINF:0 tvg-rec="3",Жар Птица
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2142/index.m3u8
-#EXTINF:0 tvg-rec="3",Жар Птица (оригинал)
+#EXTINF:0 tvg-rec="3",Жар Птица
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9165/index.m3u8
 #EXTINF:0 tvg-rec="7",Жара
@@ -2982,19 +2982,19 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/116/index.m3u8
 #EXTINF:0 tvg-rec="0",МУЗ-ТВ HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19228/index.m3u8
-#EXTINF:0 tvg-rec="3",МУЗ-ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",МУЗ-ТВ
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9169/index.m3u8
 #EXTINF:0 tvg-rec="3",МузСоюз
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2137/index.m3u8
-#EXTINF:0 tvg-rec="3",МузСоюз (оригинал)
+#EXTINF:0 tvg-rec="3",МузСоюз
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9171/index.m3u8
 #EXTINF:0 tvg-rec="7",Музыка Первого
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/155/index.m3u8
-#EXTINF:0 tvg-rec="3",Музыка Первого (оригинал)
+#EXTINF:0 tvg-rec="3",Музыка Первого
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9166/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв
@@ -3009,13 +3009,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/710/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ Music HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19223/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ Music (оригинал)
+#EXTINF:0 tvg-rec="3",ТНТ Music
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9178/index.m3u8
 #EXTINF:0 tvg-rec="7",Шансон ТВ
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/859/index.m3u8
-#EXTINF:0 tvg-rec="3",Шансон ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",Шансон ТВ
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9173/index.m3u8
 
@@ -3050,7 +3050,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31548/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Travel Premiere HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31652/index.m3u8
-#EXTINF:0 tvg-rec="3",Curiosity Stream HD (оригинал)
+#EXTINF:0 tvg-rec="3",Curiosity Stream HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9072/index.m3u8
 #EXTINF:0 tvg-rec="7",Da Vinci
@@ -3062,7 +3062,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/140/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/227/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel HD (оригинал)
+#EXTINF:0 tvg-rec="3",Discovery Channel HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9011/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Science
@@ -3101,7 +3101,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1052/index.m3u8
 #EXTINF:0 tvg-rec="7",H2 HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2033/index.m3u8
-#EXTINF:0 tvg-rec="3",H2 HD (оригинал)
+#EXTINF:0 tvg-rec="3",H2 HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9013/index.m3u8
 #EXTINF:0 tvg-rec="0",HDL HD
@@ -3113,7 +3113,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/231/index.m3u8
 #EXTINF:0 tvg-rec="7",History HD CEE
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/837/index.m3u8
-#EXTINF:0 tvg-rec="3",History HD (оригинал)
+#EXTINF:0 tvg-rec="3",History HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9023/index.m3u8
 #EXTINF:0 tvg-rec="3",Home 4K
@@ -3128,7 +3128,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2085/index.m3u8
 #EXTINF:0 tvg-rec="3",Investigation Discovery HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2102/index.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery HD (оригинал)
+#EXTINF:0 tvg-rec="3",Investigation Discovery HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9054/index.m3u8
 #EXTINF:0 tvg-rec="3",Kabbala TV
@@ -3185,7 +3185,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/119/index.m3u8
 #EXTINF:0 tvg-rec="7",RTG HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/210/index.m3u8
-#EXTINF:0 tvg-rec="3",RTG HD (оригинал)
+#EXTINF:0 tvg-rec="3",RTG HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9021/index.m3u8
 #EXTINF:0 tvg-rec="7",RTG TV
@@ -3206,7 +3206,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2416/index.m3u8
 #EXTINF:0 tvg-rec="7",TLC HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/232/index.m3u8
-#EXTINF:0 tvg-rec="3",TLC HD (оригинал)
+#EXTINF:0 tvg-rec="3",TLC HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9024/index.m3u8
 #EXTINF:0 tvg-rec="3",Travel Channel EN
@@ -3215,13 +3215,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1070/index.m3u8
 #EXTINF:0 tvg-rec="7",Travel Channel HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/233/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel Channel HD (оригинал)
+#EXTINF:0 tvg-rec="3",Travel Channel HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9025/index.m3u8
 #EXTINF:0 tvg-rec="7",Travel+Adventure
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/850/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel+Adventure HD (оригинал)
+#EXTINF:0 tvg-rec="3",Travel+Adventure HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9019/index.m3u8
 #EXTINF:0 tvg-rec="0",TravelXP CEE 4K
@@ -3230,7 +3230,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20031/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju Explore
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/163/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju Explore HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju Explore HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9075/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju History
@@ -3239,7 +3239,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/162/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju History HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/203/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju History HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju History HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9060/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju Nature
@@ -3296,7 +3296,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2009/index.m3u8
 #EXTINF:0 tvg-rec="3",В мире животных HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2089/index.m3u8
-#EXTINF:0 tvg-rec="3",В мире животных HD (оригинал)
+#EXTINF:0 tvg-rec="3",В мире животных HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9048/index.m3u8
 #EXTINF:0 tvg-rec="7",Вопросы и ответы
@@ -3308,7 +3308,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/552/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами Туриста HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2104/index.m3u8
-#EXTINF:0 tvg-rec="3",Глазами Туриста HD (оригинал)
+#EXTINF:0 tvg-rec="3",Глазами Туриста HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9061/index.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
@@ -3317,13 +3317,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2394/index.m3u8
 #EXTINF:0 tvg-rec="7",Дикая охота HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2004/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая охота HD (оригинал)
+#EXTINF:0 tvg-rec="3",Дикая охота HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9081/index.m3u8
 #EXTINF:0 tvg-rec="7",Дикая рыбалка HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2005/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая рыбалка HD (оригинал)
+#EXTINF:0 tvg-rec="3",Дикая рыбалка HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9082/index.m3u8
 #EXTINF:0 tvg-rec="7",Дикий
@@ -3350,7 +3350,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2101/index.m3u8
 #EXTINF:0 tvg-rec="3",Живая природа HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2074/index.m3u8
-#EXTINF:0 tvg-rec="3",Живая природа HD (оригинал)
+#EXTINF:0 tvg-rec="3",Живая природа HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9039/index.m3u8
 #EXTINF:0 tvg-rec="0",ЖИВИ! HD
@@ -3389,7 +3389,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/117/index.m3u8
 #EXTINF:0 tvg-rec="3",Моя Планета HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2090/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Планета HD (оригинал)
+#EXTINF:0 tvg-rec="3",Моя Планета HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9050/index.m3u8
 #EXTINF:0 tvg-rec="7",Моя Стихия
@@ -3419,7 +3419,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9179/index.m3u8
 #EXTINF:0 tvg-rec="3",Наука HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2155/index.m3u8
-#EXTINF:0 tvg-rec="3",Наука HD (оригинал)
+#EXTINF:0 tvg-rec="3",Наука HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9084/index.m3u8
 #EXTINF:0 tvg-rec="3",Наша Сибирь 4K
@@ -3443,7 +3443,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2019/index.m3u8
 #EXTINF:0 tvg-rec="7",Охотник и Рыболов HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/917/index.m3u8
-#EXTINF:0 tvg-rec="3",Охотник и Рыболов HD (оригинал)
+#EXTINF:0 tvg-rec="3",Охотник и Рыболов HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9043/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый Вегетарианский
@@ -3452,7 +3452,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/833/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый космический HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/908/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый космический HD (оригинал)
+#EXTINF:0 tvg-rec="3",Первый космический HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9049/index.m3u8
 #EXTINF:0 tvg-rec="3",Пёс и Ко
@@ -3464,7 +3464,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/135/index.m3u8
 #EXTINF:0 tvg-rec="7",Приключения HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/920/index.m3u8
-#EXTINF:0 tvg-rec="3",Приключения HD (оригинал)
+#EXTINF:0 tvg-rec="3",Приключения HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9007/index.m3u8
 #EXTINF:0 tvg-rec="3",РЖД ТВ
@@ -3556,7 +3556,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5032/index.m3u8
 #EXTINF:0 tvg-rec="3",Luxury
 #EXTGRP:Лучок Развлекательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2072/index.m3u8
-#EXTINF:0 tvg-rec="3",Luxury HD (оригинал)
+#EXTINF:0 tvg-rec="3",Luxury HD
 #EXTGRP:Лучок Развлекательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9038/index.m3u8
 #EXTINF:0 tvg-rec="3",MyZen TV 4K
@@ -3628,7 +3628,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/851/index.m3u8
 #EXTINF:0 tvg-rec="3",Солнце
 #EXTGRP:Лучок Развлекательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/872/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС HD (оригинал)
+#EXTINF:0 tvg-rec="3",СТС HD
 #EXTGRP:Лучок Развлекательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9000/index.m3u8
 #EXTINF:0 tvg-rec="3",Театр
@@ -3943,19 +3943,19 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19156/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/141/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1 FHD (оригинал)
+#EXTINF:0 tvg-rec="3",Eurosport 1 FHD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9026/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/228/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1 HD (оригинал)
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5075/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 2 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/234/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 HD (оригинал)
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5076/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 4K UHD
@@ -3967,7 +3967,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/144/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme Sports HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20028/index.m3u8
-#EXTINF:0 tvg-rec="3",Extreme Sports (оригинал)
+#EXTINF:0 tvg-rec="3",Extreme Sports
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9160/index.m3u8
 #EXTINF:0 tvg-rec="0",EXXEN SPOR 1
@@ -4039,7 +4039,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2403/index.m3u8
 #EXTINF:0 tvg-rec="0",KHL Prime HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19396/index.m3u8
-#EXTINF:0 tvg-rec="3",KHL Prime HD (оригинал)
+#EXTINF:0 tvg-rec="3",KHL Prime HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9003/index.m3u8
 #EXTINF:0 tvg-rec="0",LFC TV UK
@@ -4108,7 +4108,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19200/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2077/index.m3u8
-#EXTINF:0 tvg-rec="3",Russian Extreme HD (оригинал)
+#EXTINF:0 tvg-rec="3",Russian Extreme HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9042/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme UHD
@@ -4300,7 +4300,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31561/index.m3u8
 #EXTINF:0 tvg-rec="0",Viaplay Sports 2 UK
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31562/index.m3u8
-#EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK (оригинал)
+#EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5078/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Sport Ultra HD DK
@@ -4312,7 +4312,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/160/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Sport HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2007/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Sport HD (оригинал)
+#EXTINF:0 tvg-rec="3",Viju+ Sport HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5065/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 1
@@ -4375,7 +4375,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31680/index.m3u8
 #EXTINF:0 tvg-rec="3",XSPORT HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/996/index.m3u8
-#EXTINF:0 tvg-rec="3",Xsport HD (оригинал)
+#EXTINF:0 tvg-rec="3",Xsport HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5077/index.m3u8
 #EXTINF:0 tvg-rec="7",Бокс ТВ
@@ -4390,16 +4390,16 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/4004/index.m3u8
 #EXTINF:0 tvg-rec="7",Драйв
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2021/index.m3u8
-#EXTINF:0 tvg-rec="3",Драйв (оригинал)
+#EXTINF:0 tvg-rec="3",Драйв
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9163/index.m3u8
 #EXTINF:0 tvg-rec="7",ЖИВИ!
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/738/index.m3u8
-#EXTINF:0 tvg-rec="3",ЖИВИ! (оригинал)
+#EXTINF:0 tvg-rec="3",ЖИВИ!
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9164/index.m3u8
-#EXTINF:0 tvg-rec="3",Конный Мир HD (оригинал)
+#EXTINF:0 tvg-rec="3",Конный Мир HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9055/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +2
@@ -4441,10 +4441,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2406/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/225/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ! Игра HD 50 (оригинал)
+#EXTINF:0 tvg-rec="3",МАТЧ! Игра HD 50
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9032/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра HD (оригинал)
+#EXTINF:0 tvg-rec="3",Матч! Игра HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9034/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Планета
@@ -4474,7 +4474,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2407/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/222/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 (оригинал)
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5072/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2
@@ -4486,7 +4486,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2420/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/211/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD (оригинал)
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/290/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3
@@ -4498,7 +4498,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2408/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/206/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 (оригинал)
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5071/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир Баскетбола HD
@@ -4510,7 +4510,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20138/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2154/index.m3u8
-#EXTINF:0 tvg-rec="3",Старт HD (оригинал)
+#EXTINF:0 tvg-rec="3",Старт HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9083/index.m3u8
 #EXTINF:0 tvg-rec="7",Удар
@@ -4519,7 +4519,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2000/index.m3u8
 #EXTINF:0 tvg-rec="0",Удар HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19246/index.m3u8
-#EXTINF:0 tvg-rec="3",Удар HD (оригинал)
+#EXTINF:0 tvg-rec="3",Удар HD
 #EXTGRP:Лучок Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5067/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол
@@ -4532,7 +4532,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19244/index.m3u8
 #EXTINF:0 tvg-rec="7",Ani
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/129/index.m3u8
-#EXTINF:0 tvg-rec="3",Ani (оригинал)
+#EXTINF:0 tvg-rec="3",Ani
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9187/index.m3u8
 #EXTINF:0 tvg-rec="0",Baby Time
@@ -4553,13 +4553,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/143/index.m3u8
 #EXTINF:0 tvg-rec="7",Cartoonito
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/723/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoonito (оригинал)
+#EXTINF:0 tvg-rec="3",Cartoonito
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9189/index.m3u8
 #EXTINF:0 tvg-rec="3",Da Vinci Kids UA
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1034/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci (оригинал)
+#EXTINF:0 tvg-rec="3",Da Vinci
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1033/index.m3u8
 #EXTINF:0 tvg-rec="3",Duck TV
@@ -4568,13 +4568,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1031/index.m3u8
 #EXTINF:0 tvg-rec="7",Gulli
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/109/index.m3u8
-#EXTINF:0 tvg-rec="3",Gulli (оригинал)
+#EXTINF:0 tvg-rec="3",Gulli
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9181/index.m3u8
 #EXTINF:0 tvg-rec="7",Jim Jam
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/138/index.m3u8
-#EXTINF:0 tvg-rec="3",Jim Jam (оригинал)
+#EXTINF:0 tvg-rec="3",Jim Jam
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9185/index.m3u8
 #EXTINF:0 tvg-rec="0",Kids TV HD
@@ -4592,7 +4592,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19409/index.m3u8
 #EXTINF:0 tvg-rec="7",Nick Jr
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/114/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr (оригинал)
+#EXTINF:0 tvg-rec="3",Nick Jr
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9182/index.m3u8
 #EXTINF:0 tvg-rec="7",Nickelodeon
@@ -4601,7 +4601,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/541/index.m3u8
 #EXTINF:0 tvg-rec="7",Nickelodeon HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/223/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon HD (оригинал)
+#EXTINF:0 tvg-rec="3",Nickelodeon HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9015/index.m3u8
 #EXTINF:0 tvg-rec="7",NickToons
@@ -4619,7 +4619,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31670/index.m3u8
 #EXTINF:0 tvg-rec="7",Tiji TV
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/108/index.m3u8
-#EXTINF:0 tvg-rec="3",Tiji Tv (оригинал)
+#EXTINF:0 tvg-rec="3",Tiji Tv
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9180/index.m3u8
 #EXTINF:0 tvg-rec="0",VB Контент Моего Детства
@@ -4646,13 +4646,13 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/543/index.m3u8
 #EXTINF:0 tvg-rec="3",Детский мир HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9192/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский мир (оригинал)
+#EXTINF:0 tvg-rec="3",Детский мир
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9184/index.m3u8
 #EXTINF:0 tvg-rec="3",Капитан Фантастика
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2098/index.m3u8
-#EXTINF:0 tvg-rec="3",Капитан Фантастика (оригинал)
+#EXTINF:0 tvg-rec="3",Капитан Фантастика
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9196/index.m3u8
 #EXTINF:0 tvg-rec="7",Карусель
@@ -4664,7 +4664,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/740/index.m3u8
 #EXTINF:0 tvg-rec="0",Карусель HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20012/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель (оригинал)
+#EXTINF:0 tvg-rec="3",Карусель
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9186/index.m3u8
 #EXTINF:0 tvg-rec="0",КиноМульт
@@ -4676,16 +4676,16 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/909/index.m3u8
 #EXTINF:0 tvg-rec="7",Мульт HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/921/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт HD (оригинал)
+#EXTINF:0 tvg-rec="3",Мульт HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9037/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт (оригинал)
+#EXTINF:0 tvg-rec="3",Мульт
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9188/index.m3u8
 #EXTINF:0 tvg-rec="3",Мультиландия
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5055/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультиландия (оригинал)
+#EXTINF:0 tvg-rec="3",Мультиландия
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9200/index.m3u8
 #EXTINF:0 tvg-rec="7",Мультимузыка
@@ -4694,31 +4694,31 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/749/index.m3u8
 #EXTINF:0 tvg-rec="7",О!
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/727/index.m3u8
-#EXTINF:0 tvg-rec="3",О! (оригинал)
+#EXTINF:0 tvg-rec="3",О!
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9190/index.m3u8
 #EXTINF:0 tvg-rec="7",Радость моя
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/853/index.m3u8
-#EXTINF:0 tvg-rec="3",Радость моя (оригинал)
+#EXTINF:0 tvg-rec="3",Радость моя
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9194/index.m3u8
 #EXTINF:0 tvg-rec="3",Рыжий
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2052/index.m3u8
-#EXTINF:0 tvg-rec="3",Рыжий (оригинал)
+#EXTINF:0 tvg-rec="3",Рыжий
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9195/index.m3u8
 #EXTINF:0 tvg-rec="3",Смайлик ТВ
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2157/index.m3u8
-#EXTINF:0 tvg-rec="3",Смайлик ТВ (оригинал)
+#EXTINF:0 tvg-rec="3",Смайлик ТВ
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9199/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Kids HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2001/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Kids HD (оригинал)
+#EXTINF:0 tvg-rec="3",СТС Kids HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9063/index.m3u8
 #EXTINF:0 tvg-rec="3",СуперГерои
@@ -4727,7 +4727,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1041/index.m3u8
 #EXTINF:0 tvg-rec="3",Тамыр
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2109/index.m3u8
-#EXTINF:0 tvg-rec="3",Тамыр (оригинал)
+#EXTINF:0 tvg-rec="3",Тамыр
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9198/index.m3u8
 #EXTINF:0 tvg-rec="0",Том и Джерри (Russian)
@@ -4739,10 +4739,10 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9172/index.m3u8
 #EXTINF:0 tvg-rec="7",Уникум
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/730/index.m3u8
-#EXTINF:0 tvg-rec="3",Уникум HD (оригинал)
+#EXTINF:0 tvg-rec="3",Уникум HD
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9077/index.m3u8
-#EXTINF:0 tvg-rec="3",Уникум (оригинал)
+#EXTINF:0 tvg-rec="3",Уникум
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9191/index.m3u8
 
@@ -4873,7 +4873,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6196/index.m3u8
 #EXTINF:0 tvg-rec="0",Dorcel Club
 #EXTGRP:Лучок Взрослые
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6197/index.m3u8
-#EXTINF:0 tvg-rec="0",Dorcel HD (оригинал)
+#EXTINF:0 tvg-rec="0",Dorcel HD
 #EXTGRP:Лучок Взрослые
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9064/index.m3u8
 #EXTINF:0 tvg-rec="3",Dorcel TV HD
@@ -5005,7 +5005,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6276/index.m3u8
 #EXTINF:0 tvg-rec="0",Hustler HD Europe
 #EXTGRP:Лучок Взрослые
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/244/index.m3u8
-#EXTINF:0 tvg-rec="0",Hustler HD (оригинал)
+#EXTINF:0 tvg-rec="0",Hustler HD
 #EXTGRP:Лучок Взрослые
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9065/index.m3u8
 #EXTINF:0 tvg-rec="0",Interracial Red TV
@@ -5119,7 +5119,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6281/index.m3u8
 #EXTINF:0 tvg-rec="3",Redlight HD
 #EXTGRP:Лучок Взрослые
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/242/index.m3u8
-#EXTINF:0 tvg-rec="0",Redlight HD (оригинал)
+#EXTINF:0 tvg-rec="0",Redlight HD
 #EXTGRP:Лучок Взрослые
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9066/index.m3u8
 #EXTINF:0 tvg-rec="0",RK Prime
