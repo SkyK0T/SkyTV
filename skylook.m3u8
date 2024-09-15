@@ -1,37 +1,9 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 
-
-
-
-#EXTINF:0 ,Обновление от:15.09.24
-#EXTGRP:🦊Обнова🦊 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif"
-https://github.com/SkyK0T/SkyTV/raw/main/CatofDuty.mp4
-
-
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="Newfilms" tvg-name="Prokop TV NEW FILMS HD", Prokop TV Кино New Films HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31667/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="cinema4k" tvg-name="Prokop TV CINEMA 4K", Prokop TV Кино Cinema 4K
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31666/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvcinemaqhd" tvg-name="Prokop TV CINEMA 60 FPS", Prokop TV Кино Cinema 60 FPS
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvbest" tvg-name="Prokop TV CINEMA BEST HD", Prokop TV Кино Cinema Best HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvcriminalhd" tvg-name="Prokop TV CRIMINAL HD", Prokop TV Кино Criminal HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18440/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="Prokop_Detektiv" tvg-name="Prokop TV DETEKTIV HD", Prokop TV Кино Detektiv HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20213/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvhistory" tvg-name="Prokop TV HISTORY HD", Prokop TV Кино History HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18142/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvhorror" tvg-name="Prokop TV HORROR HD", Prokop TV Кино Horror HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="kungfu" tvg-name="Prokop TV KUNG FU", Prokop TV Кино Kung Fu
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31668/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvnetflixserial" tvg-name="Prokop TV NETFLIX HD", Prokop TV Кино Netflix HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
-#EXTINF:-1 group-title="Кинозалы тест" tvg-id="prokoptvserialhd" tvg-name="Prokop TV SERIAL HD", Prokop TV Кино Serial HD
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19271/index.m3u8
-
+#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",Обновление от:15.09.24
+#EXTGRP:🦊Обнова🦊 
+https://vkvd51.mycdn.me/?expires=1726618108072&srcIp=185.177.112.26&pr=40&srcAg=CHROME&ms=45.136.22.141&type=1&sig=_U5dMUPw0Lg&ct=6&urls=185.226.53.168&clientType=13&appId=512000384397&id=7190080457454
 
 
 
@@ -1034,7 +1006,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18142/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6406" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6406.png",Prokop TV Horror
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Prokop TV Kung Fu
+#EXTINF:0 tvg-rec="0" tvg-id="kungfu" tvg-name="Prokop TV KUNG FU",Prokop TV Kung Fu
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31668/index.m3u8
 
@@ -1048,8 +1020,9 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18148/index.m3u8
 #EXTINF:0 tvg-rec="0",Prokop TV Netflix
 #EXTGRP:Лучок Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
+
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="ProkopTVrockconcert" tvg-name="Prokop TV HARD&HEAVY CONCERTS HD", Prokop TV Rock
-http://qw9kh8gz.rostelekom.xyz/iptv/H7B4LWE4GTKBN9/18088/index.m3u8
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18088/index.m3u8
 
 
 #EXTINF:0 tvg-rec="0" tvg-id="Newfilms" tvg-name="Prokop TV NEW FILMS HD",Prokop TV New Films HD
