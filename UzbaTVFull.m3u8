@@ -1,296 +1,299 @@
+#EXTM3U8
+#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Актуальное состояние телеканалов 17.09.24🦊 
+https://river-3-311.rutube.ru/hls-vod/VGoScQZdoEfPX0fRV-h5lA/1727141172/2397/0x5000c500f2b549ef/fac09ca254834b1dbc3bc2696a610002.mp4.m3u8?i=408x720_1650
+
 #EXTINF:-1 group-title="Usba TV",Музыка блюз
 https://fl1001.bozztv.com/ushba0/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-publicmovies
+#EXTINF:-1 group-title="Usba TV",Ushba Publicmovies
 https://fl1001.bozztv.com/ushba-publicmovies/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-tulix
+#EXTINF:-1 group-title="Usba TV",Ushba Tulix
 https://fl1001.bozztv.com/ushba-tulix/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Ushba 1
 https://fl1001.bozztv.com/ushba1/index.m3u8
-
 #EXTINF:-1 group-title="Usba TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDcbtik_VqFMn91BwDsfZK9oWiitDknSz9P7w=s800-mo-c-c0xffffffff-rj-k-no",Planet Doc
 https://fl1001.bozztv.com/ushba2/index.m3u8
 #EXTINF:-1 group-title="Usba TV"tvg-logo="https://cdn-irec.r-99.com/sites/default/files/product-images/2428951/90bP5OX1EquWqYV62tshhw.jpg",Лекторий Dостоевский https://dostoverno.ru
 https://fl1001.bozztv.com/ushba3/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Star Media
 https://fl1001.bozztv.com/ushba4/index.m3u8
-#EXTINF:-1 group-title="Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Украина
+#EXTINF:-1 group-title="Usba TV",2+2 (сериалы на русском) хохлы
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba6
+#EXTINF:-1 group-title="Usba TV",Ushba6
 https://fl1001.bozztv.com/ushba6/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Детская хореография
+#EXTINF:-1 group-title="Usba TV",Хореография дети
 https://fl1001.bozztv.com/ushba7/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Ералаш
 https://fl1001.bozztv.com/ushba8/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba9
+#EXTINF:-1 group-title="Usba TV",Музыка Ushba9
 https://fl1001.bozztv.com/ushba9/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Ералаш 2
 https://fl1001.bozztv.com/ushba10/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Приколы 1
+#EXTINF:-1 group-title="Usba TV",Юмор животные
 https://fl1001.bozztv.com/ushba11/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Украина (*сериалы на русском)
+#EXTINF:-1 group-title="Usba TV",Украина (сериалы на русском)
 https://fl1001.bozztv.com/ushba12/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Детские танцы
+#EXTINF:-1 group-title="Usba TV",Хореография дети 2
 https://fl1001.bozztv.com/ushba13/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Хореография шоу-балет DIVA
+#EXTINF:-1 group-title="Usba TV",Хореография шоу-балет
 https://fl1001.bozztv.com/ushba14/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Танцы 2
+#EXTINF:-1 group-title="Usba TV",Хореография дети 3
 https://fl1001.bozztv.com/ushba15/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Военный
+#EXTINF:-1 group-title="Usba TV",Военный Ushba16
 https://fl1001.bozztv.com/ushba16/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Танцы 1
+#EXTINF:-1 group-title="Usba TV",Хореография дети 4
 https://fl1001.bozztv.com/ushba17/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba18
+#EXTINF:-1 group-title="Usba TV",Ushba18
 https://fl1001.bozztv.com/ushba18/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Fashion Channel
+#EXTINF:-1 group-title="Usba TV",Мода Fashion Channel
 https://fl1001.bozztv.com/ushba19/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Приколы 2
+#EXTINF:-1 group-title="Usba TV",Юмор животные 2
 https://fl1001.bozztv.com/ushba20/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba21
+#EXTINF:-1 group-title="Usba TV",Мода 1
 https://fl1001.bozztv.com/ushba21/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba22
+#EXTINF:-1 group-title="Usba TV",Ushba22
 https://fl1001.bozztv.com/ushba22/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba23
+#EXTINF:-1 group-title="Usba TV",Ushba23
 https://fl1001.bozztv.com/ushba23/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 3
+#EXTINF:-1 group-title="Usba TV",Кино (советское)
 https://fl1001.bozztv.com/ushba24/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba25
+#EXTINF:-1 group-title="Usba TV",Ushba25
 https://fl1001.bozztv.com/ushba25/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 4
+#EXTINF:-1 group-title="Usba TV",КиноОтрывки выстрелы девушек
 https://fl1001.bozztv.com/ushba26/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba27
+#EXTINF:-1 group-title="Usba TV",Discovery Channel Россия
 https://fl1001.bozztv.com/ushba27/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Документалка 1 
+#EXTINF:-1 group-title="Usba TV",Discovery Channel Россия 2
 https://fl1001.bozztv.com/ushba28/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Документалка 2
+#EXTINF:-1 group-title="Usba TV",Гордость России
 https://fl1001.bozztv.com/ushba29/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba30
+#EXTINF:-1 group-title="Usba TV",DAIV (обоссаная хохлопропаганда)
 https://fl1001.bozztv.com/ushba30/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Gameplay
 https://fl1001.bozztv.com/ushba31/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba32
+#EXTINF:-1 group-title="Usba TV",Кино боевики
 https://fl1001.bozztv.com/ushba32/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba33
+#EXTINF:-1 group-title="Usba TV",Радио 1
 https://fl1001.bozztv.com/ushba33/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba34
+#EXTINF:-1 group-title="Usba TV",Кино USA
 https://fl1001.bozztv.com/ushba34/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba35
+#EXTINF:-1 group-title="Usba TV",Кино USA 1
 https://fl1001.bozztv.com/ushba35/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba36
+#EXTINF:-1 group-title="Usba TV",Кино USA 2
 https://fl1001.bozztv.com/ushba36/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba37
+#EXTINF:-1 group-title="Usba TV",Ushba37
 https://fl1001.bozztv.com/ushba37/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Документалка 3
+#EXTINF:-1 group-title="Usba TV",Документальное террористы
 https://fl1001.bozztv.com/ushba38/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba39
+#EXTINF:-1 group-title="Usba TV",Кино USA 3
 https://fl1001.bozztv.com/ushba39/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba40
+#EXTINF:-1 group-title="Usba TV",Кино USA 4
 https://fl1001.bozztv.com/ushba40/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba41
+#EXTINF:-1 group-title="Usba TV",Радио 2 наркомания какая-то
 https://fl1001.bozztv.com/ushba41/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba42
+#EXTINF:-1 group-title="Usba TV",Танцы корейские девочки
 https://fl1001.bozztv.com/ushba42/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba43
+#EXTINF:-1 group-title="Usba TV",Танцы корейские девочки 2
 https://fl1001.bozztv.com/ushba43/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Gameplay трейлеры
+#EXTINF:-1 group-title="Usba TV",Видеоигры USA
 https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Мистер Бин
+#EXTINF:-1 group-title="Usba TV",Мистер Бин в оригинале
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Спорт
+#EXTINF:-1 group-title="Usba TV",Спорт Spoops Женская атлетика USA
 https://fl1001.bozztv.com/ushba46/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba47
+#EXTINF:-1 group-title="Usba TV",Съёмка
 https://fl1001.bozztv.com/ushba47/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba48
+#EXTINF:-1 group-title="Usba TV",7SR
 https://fl1001.bozztv.com/ushba48/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba49
+#EXTINF:-1 group-title="Usba TV",Авто USA Ushba49
 https://fl1001.bozztv.com/ushba49/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba50
+#EXTINF:-1 group-title="Usba TV",Макияж USA Ushba50
 https://fl1001.bozztv.com/ushba50/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba51
+#EXTINF:-1 group-title="Usba TV",Записи судов язык непонятный
 https://fl1001.bozztv.com/ushba51/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba52
+#EXTINF:-1 group-title="Usba TV",Запись с пк чья то
 https://fl1001.bozztv.com/ushba52/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba53
+#EXTINF:-1 group-title="Usba TV",Ushba53 (недоступен)
 https://fl1001.bozztv.com/ushba53/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba54
+#EXTINF:-1 group-title="Usba TV",Ushba54
 https://fl1001.bozztv.com/ushba54/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Овертайм
+#EXTINF:-1 group-title="Usba TV",Хореография девушки Анименкс
 https://fl1001.bozztv.com/ushba55/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Танцы 3
+#EXTINF:-1 group-title="Usba TV",Ushba56
 https://fl1001.bozztv.com/ushba56/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Музыка 7
+#EXTINF:-1 group-title="Usba TV",Музыка
 https://fl1001.bozztv.com/ushba57/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba58-Romanian
+#EXTINF:-1 group-title="Usba TV",Ushba58-Romanian
 https://fl1001.bozztv.com/ushba58-Romanian/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba59
+#EXTINF:-1 group-title="Usba TV",Xореография подростки
 https://fl1001.bozztv.com/ushba59/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba60
+#EXTINF:-1 group-title="Usba TV",Хобби вроде корея
 https://fl1001.bozztv.com/ushba60/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Тик Ток
+#EXTINF:-1 group-title="Usba TV",Девочки Тик Ток
 https://fl1001.bozztv.com/ushba61/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Шоу Бенни Хилла
+#EXTINF:-1 group-title="Usba TV",Шоу Бенни Хилла (оригинальная озвучка)
 https://fl1001.bozztv.com/ushba62/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Музыка 5
+#EXTINF:-1 group-title="Usba TV",Музыка 2
 https://fl1001.bozztv.com/ushba63/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 36
+#EXTINF:-1 group-title="Usba TV",Кино 
 https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 37
+#EXTINF:-1 group-title="Usba TV",Кино Lifetime Movies
 https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba66
+#EXTINF:-1 group-title="Usba TV",Музыка Mr. Dj Monj (🇷🇺)
 https://fl1001.bozztv.com/ushba66/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba67
+#EXTINF:-1 group-title="Usba TV",Мода рус
 https://fl1001.bozztv.com/ushba67/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba68
+#EXTINF:-1 group-title="Usba TV",Газеты и журналы 91
 https://fl1001.bozztv.com/ushba68/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba69
+#EXTINF:-1 group-title="Usba TV",Гимнастика
 https://fl1001.bozztv.com/ushba69/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba70
+#EXTINF:-1 group-title="Usba TV",Movie Recaps USA
 https://fl1001.bozztv.com/ushba70/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba71
+#EXTINF:-1 group-title="Usba TV",Movie Recaps USA 2
 https://fl1001.bozztv.com/ushba71/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba72
+#EXTINF:-1 group-title="Usba TV",Мода рус 2
 https://fl1001.bozztv.com/ushba72/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba73
+#EXTINF:-1 group-title="Usba TV",Хореография дети Корея
 https://fl1001.bozztv.com/ushba73/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba74
+#EXTINF:-1 group-title="Usba TV",Обучение пк
 https://fl1001.bozztv.com/ushba74/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba75
+#EXTINF:-1 group-title="Usba TV",Музыка 3
 https://fl1001.bozztv.com/ushba75/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba76
+#EXTINF:-1 group-title="Usba TV",Классическая музыка
 https://fl1001.bozztv.com/ushba76/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba77
+#EXTINF:-1 group-title="Usba TV",Сериалы Epic Media 
 https://fl1001.bozztv.com/ushba77/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba78
+#EXTINF:-1 group-title="Usba TV",Мультики Маша и Медведь на английском
 https://fl1001.bozztv.com/ushba78/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba79
+#EXTINF:-1 group-title="Usba TV",Мультики Маша и Медведь
 https://fl1001.bozztv.com/ushba79/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba80
+#EXTINF:-1 group-title="Usba TV",Мультфильмы советские
 https://fl1001.bozztv.com/ushba80/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba81
+#EXTINF:-1 group-title="Usba TV",Анекдоты
 https://fl1001.bozztv.com/ushba81/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba82
+#EXTINF:-1 group-title="Usba TV",Сериалы
 https://fl1001.bozztv.com/ushba82/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba83
+#EXTINF:-1 group-title="Usba TV",Девочки Тик Ток 2
 https://fl1001.bozztv.com/ushba83/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba84
+#EXTINF:-1 group-title="Usba TV",Comedy club
 https://fl1001.bozztv.com/ushba84/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba85
+#EXTINF:-1 group-title="Usba TV",Девочки Тик Ток 3
 https://fl1001.bozztv.com/ushba85/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba86
+#EXTINF:-1 group-title="Usba TV",Девочки Тик Ток 4
 https://fl1001.bozztv.com/ushba86/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba87
+#EXTINF:-1 group-title="Usba TV",Девочки Тик Ток 5
 https://fl1001.bozztv.com/ushba87/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba88
+#EXTINF:-1 group-title="Usba TV",Девочки Тик Ток 6
 https://fl1001.bozztv.com/ushba88/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba89
+#EXTINF:-1 group-title="Usba TV",Девочки Тик Ток 7
 https://fl1001.bozztv.com/ushba89/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba90
+#EXTINF:-1 group-title="Usba TV",Обоссаные хохлы пиздёж в соцсетях
 https://fl1001.bozztv.com/ushba90/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba91
+#EXTINF:-1 group-title="Usba TV",Юмор транспорт
 https://fl1001.bozztv.com/ushba91/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba92
+#EXTINF:-1 group-title="Usba TV",Съёмка 2
 https://fl1001.bozztv.com/ushba92/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba93
+#EXTINF:-1 group-title="Usba TV",Мода fashiontv
 https://fl1001.bozztv.com/ushba93/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba94
+#EXTINF:-1 group-title="Usba TV",Спорт Женская атлетика USA
 https://fl1001.bozztv.com/ushba94/index.m3u8
 
 
-#EXTINF:-1 group-title="Usba TV",ushba-films-a
+#EXTINF:-1 group-title="Usba TV",Кинозал Комедии (мб и мульт)
 https://fl1001.bozztv.com/ushba-films-a/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 5
+#EXTINF:-1 group-title="Usba TV",Кинозал Вестерн (не точно)
 https://fl1001.bozztv.com/ushba-films-b/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 6
+#EXTINF:-1 group-title="Usba TV",Кинозал Детектив
 https://fl1001.bozztv.com/ushba-films-c/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 7
+#EXTINF:-1 group-title="Usba TV",Кинозал плохой перевод
 https://fl1001.bozztv.com/ushba-films-d/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 8
+#EXTINF:-1 group-title="Usba TV",Кинозал Русское драмы вроде
 https://fl1001.bozztv.com/ushba-films-e/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 9
+#EXTINF:-1 group-title="Usba TV",Кинозал плохой перевод 2
 https://fl1001.bozztv.com/ushba-films-f/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 10
+#EXTINF:-1 group-title="Usba TV",Кинозал Приключения
 https://fl1001.bozztv.com/ushba-films-g/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 11
+#EXTINF:-1 group-title="Usba TV",Кино комедии Мульт
 https://fl1001.bozztv.com/ushba-films-h/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 12
+#EXTINF:-1 group-title="Usba TV",Кинозал плохой перевод 3
 https://fl1001.bozztv.com/ushba-films-i/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 13
+#EXTINF:-1 group-title="Usba TV",Кинозал драмы
 https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-films-k
+#EXTINF:-1 group-title="Usba TV",Кинокомедии плохой перевод 4
 https://fl1001.bozztv.com/ushba-films-k/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-films-l
+#EXTINF:-1 group-title="Usba TV",Кинозал плохой перевод 5
 https://fl1001.bozztv.com/ushba-films-l/index.m3u8
-
-#EXTINF:-1 group-title="Usba TV",Кинозалы 14
+#EXTINF:-1 group-title="Usba TV",Кинозал 
 https://fl1001.bozztv.com/ushba-films-m/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 15
+#EXTINF:-1 group-title="Usba TV",Кинозал (🇷🇺)
 https://fl1001.bozztv.com/ushba-films-p/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 16
+#EXTINF:-1 group-title="Usba TV",Кинозал The Company TNT miniseries
 https://fl1001.bozztv.com/ushba-films-t/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 17
+#EXTINF:-1 group-title="Usba TV",Кинозал original
 https://fl1001.bozztv.com/ushba-films-yz/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 18
+#EXTINF:-1 group-title="Usba TV",Кинозал 2
 https://fl1001.bozztv.com/ushba-films-n/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 19
+#EXTINF:-1 group-title="Usba TV",Кинозал 3
 https://fl1001.bozztv.com/ushba-films-qr/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 20
+#EXTINF:-1 group-title="Usba TV",Кинозал Индийское
 https://fl1001.bozztv.com/ushba-films-uv/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 21
+#EXTINF:-1 group-title="Usba TV",Кинозал (🇷🇺) 2
 https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 22
+#EXTINF:-1 group-title="Usba TV",Кинозал 4
 https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 23
+#EXTINF:-1 group-title="Usba TV",Кинозал 18+
 https://fl1001.bozztv.com/ushba-films-w/index.m3u8
 
-#EXTINF:-1 group-title="Usba TV",Кинозалы 24
+#EXTINF:-1 group-title="Usba TV "tvg-logo="https://sun9-62.userapi.com/impg/5kekOrPqMoxAwL9Bc6iyPnd-bO48aOUHO5nIEA/7dgTTTQ0zgQ.jpg?size=604x270&quality=96&sign=c69bf1d4139c82782f733c3e11cc6f8b&type=album",Ностальгия (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-0/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 25
+
+#EXTINF:-1 group-title="Usba TV",Кинозал Культура (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-a/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 26
+#EXTINF:-1 group-title="Usba TV",Кинозал советские военные (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 27
+#EXTINF:-1 group-title="Usba TV",Кинозал советские культура(🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-c/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 28
+#EXTINF:-1 group-title="Usba TV",Кинозал Культура 2 (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-d/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 29
+#EXTINF:-1 group-title="Usba TV",Дом Кино (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-e/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 30
+#EXTINF:-1 group-title="Usba TV",Кинозал СССР военные (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-g/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 31
+#EXTINF:-1 group-title="Usba TV",Кинозал СССР (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-i/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 32
+#EXTINF:-1 group-title="Usba TV",Кинозал СССР криминал (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 33
+#EXTINF:-1 group-title="Usba TV",Кинозал советские (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-p/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 34
+#EXTINF:-1 group-title="Usba TV",Кинозал СССР 2 (🇷🇺)
 https://fl1001.bozztv.com/ushba-rfilrms-v/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Кинозалы 35
+#EXTINF:-1 group-title="Usba TV",Кинозал СССР 3
 https://fl1001.bozztv.com/ushba-rfilrms-z/index.m3u8
 
-#EXTINF:-1 group-title="Usba TV",Музыка 1
+#EXTINF:-1 group-title="Usba TV",Музыка студия
 https://fl1001.bozztv.com/ushba-t1/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Музыка 2
+#EXTINF:-1 group-title="Usba TV",Музыка клипы
 https://fl1001.bozztv.com/ushba-t2/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Музыка 3
+#EXTINF:-1 group-title="Usba TV",Музыка концерт
 https://fl1001.bozztv.com/ushba-t3/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Музыка 4
+#EXTINF:-1 group-title="Usba TV",Музыка клипы 2
 https://fl1001.bozztv.com/ushba-t4/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-t5
+#EXTINF:-1 group-title="Usba TV",Радио Dance Mix
 https://fl1001.bozztv.com/ushba-t5/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-t6
+#EXTINF:-1 group-title="Usba TV",Мультсериалы Багз Банни (оригинал)
 https://fl1001.bozztv.com/ushba-t6/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-t7
+#EXTINF:-1 group-title="Usba TV",Кино USA Ushba-t7
 https://fl1001.bozztv.com/ushba-t7/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-t8
+#EXTINF:-1 group-title="Usba TV",Мода подиум
 https://fl1001.bozztv.com/ushba-t8/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-t9
+#EXTINF:-1 group-title="Usba TV",Movie Ushba-t9
 https://fl1001.bozztv.com/ushba-t9/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-t10
+#EXTINF:-1 group-title="Usba TV",Village Cooking Channel
 https://fl1001.bozztv.com/ushba-t10/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-64
+#EXTINF:-1 group-title="Usba TV",Ushba-64
 https://fl1001.bozztv.com/ushba-64/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Музыка 5
+#EXTINF:-1 group-title="Usba TV",Музыка Mr. Dj Monj (🇷🇺)
 https://fl1001.bozztv.com/ushba-monj/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Музыка 6
+#EXTINF:-1 group-title="Usba TV",Музыка клипы 3
 https://fl1001.bozztv.com/ushba-mafia/index.m3u8
 #EXTINF:-1 group-title="Usba TV",ushba-RogerWaters
 https://fl1001.bozztv.com/ushba-RogerWaters/index.m3u8
@@ -306,39 +309,39 @@ https://fl1001.bozztv.comushba-a4/index.m3u8
 #EXTINF:-1 group-title="Usba TV",ushba-a5
 https://fl1001.bozztv.comushba-a5/index.m3u8
 
-#EXTINF:-1 group-title="Usba TV",Retrovision
+#EXTINF:-1 group-title="Usba TV",Retrovision советские(🇷🇺)
 https://fl1001.bozztv.com/ushba-rvision/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Motor
+#EXTINF:-1 group-title="Usba TV",Retrovision Motor советские(🇷🇺)
 https://fl1001.bozztv.com/ushba-rvisionmotor/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Кинопанорама
+#EXTINF:-1 group-title="Usba TV",Retrovision Кинопанорама СССР(🇷🇺)
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Movies
+#EXTINF:-1 group-title="Usba TV",Retrovision Кино криминал(🇷🇺)
 https://fl1001.bozztv.com/ushba-rvisionmovies/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Classic
+#EXTINF:-1 group-title="Usba TV",Retrovision Classic советские(🇷🇺)
 https://fl1001.bozztv.com/ushba-rvisionclassic/index.m3u8
 #EXTINF:-1 group-title="Usba TV",ushba-flocke
 https://fl1001.bozztv.com/ushba-flocke/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Мода 6
+#EXTINF:-1 group-title="Usba TV",Девочки нейросети
 https://fl1001.bozztv.com/ushba-m1/index.m3u8
 #EXTINF:-1 group-title="Usba TV",ushba-m2
 https://fl1001.bozztv.com/ushba-m2/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-m3
+#EXTINF:-1 group-title="Usba TV",Девочки купальники
 https://fl1001.bozztv.com/ushba-m3/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Попки Kpop Play TV
+#EXTINF:-1 group-title="Usba TV",Девочки Попки Kpop Play TV
 https://fl1001.bozztv.com/ushba-m4/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-m5
+#EXTINF:-1 group-title="Usba TV",Мода подиум
 https://fl1001.bozztv.com/ushba-m5/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Мода 2
+#EXTINF:-1 group-title="Usba TV",Мода подиум Jasmine
 https://fl1001.bozztv.com/ushba-m6/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Мода 3
+#EXTINF:-1 group-title="Usba TV",Девочки клипы
 https://fl1001.bozztv.com/ushba-m7/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Мода 4
+#EXTINF:-1 group-title="Usba TV",Девочки фото
 https://fl1001.bozztv.com/ushba-m8/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Мода 5
+#EXTINF:-1 group-title="Usba TV",Мода подиум в теле
 https://fl1001.bozztv.com/ushba-m9/index.m3u8
-#EXTINF:-1 group-title="Usba TV",ushba-m10
+#EXTINF:-1 group-title="Usba TV",Ushba-m10
 https://fl1001.bozztv.com/ushba-m10/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Попки (ushba-booty-nsfw)
+#EXTINF:-1 group-title="Usba TV",Девочки Попки (ushba-booty-nsfw)
 https://fl1001.bozztv.com/ushba-booty-nsfw/index.m3u8
 
 #EXTINF:-1 group-title="Usba TV",Znartv Кулинария
@@ -365,7 +368,7 @@ https://fl1001.bozztv.com/glb/ssh101/vvctv04/index.m3u8
 https://fl1001.bozztv.com/glb/ssh101/vozmisionera/index.m3u8
 #EXTINF:-1 group-title="Usba TV",voietv
 https://fl1001.bozztv.com/glb/ssh101/voietv/index.m3u8
-#EXTINF:-1 group-title="Usba TV",vivarussia
+#EXTINF:-1 group-title="Usba TV",Музыка VivaRussia(🇷🇺)
 https://fl1001.bozztv.com/glb/ssh101/vivarussia/index.m3u8
 #EXTINF:-1 group-title="Usba TV",visionamerica
 https://fl1001.bozztv.com/glb/ssh101/visionamerica/index.m3u8
