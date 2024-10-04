@@ -547,25 +547,27 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11083/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11091/index.m3u8
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4718" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4718.png",KBC Шпионское
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11093/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6003" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6003.png",Kino watch тв Свежаки HD
+
+#EXTINF:-1 group-title="Лучок Кинозалы Kino watch тв " tvg-id="6003" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6003.png",Kino watch тв Свежаки HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18197/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6613" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6613.png",Kino watch тв Ужастик HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kino watch тв " tvg-id="6613" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6613.png",Kino watch тв Ужастик HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19273/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6004" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6004.png",Kino watch тв Уже Видел HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kino watch тв " tvg-id="6004" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6004.png",Kino watch тв Уже Видел HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16046/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6331" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6331.png",Kinoshka Action HD
+
+#EXTINF:-1 group-title="Лучок Кинозалы Kinoshka" tvg-id="6331" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6331.png",Kinoshka Action HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18118/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6245" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6245.png",Kinoshka Comedy HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kinoshka" tvg-id="6245" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6245.png",Kinoshka Comedy HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18057/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6400" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6400.png",Kinoshka Drama HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kinoshka" tvg-id="6400" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6400.png",Kinoshka Drama HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18150/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6247" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6247.png",Kinoshka Mystic HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kinoshka" tvg-id="6247" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6247.png",Kinoshka Mystic HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18059/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6330" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6330.png",Kinoshka Premiere HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kinoshka" tvg-id="6330" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6330.png",Kinoshka Premiere HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18117/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6246" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6246.png",Kinoshka Russian HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kinoshka" tvg-id="6246" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6246.png",Kinoshka Russian HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18058/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6243" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6243.png",Kinoshka Triller HD
+#EXTINF:-1 group-title="Лучок Кинозалы Kinoshka" tvg-id="6243" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6243.png",Kinoshka Triller HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18055/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KION Хит HD
@@ -573,189 +575,313 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18055/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20211/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KLI Action FHD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20051/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Club FHD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19319/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6397" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6397.png",KLI CCCP HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6397" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6397.png",KLI CCCP HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18175/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6106" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6106.png",KLI Cinema HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6106" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6106.png",KLI Cinema HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16078/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6107" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6107.png",KLI Comedy HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6107" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6107.png",KLI Comedy HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16080/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Drama FHD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20053/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6398" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6398.png",KLI Family HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6398" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6398.png",KLI Family HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18176/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6236" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6236.png",KLI Fantastic HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6236" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6236.png",KLI Fantastic HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18050/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KLI Fantasy FHD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20054/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Franchise HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31634/index.m3u8
 
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6233" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6233.png",KLI History HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18047/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Horror FHD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20050/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Marvel HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31632/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Millennium HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31631/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Netflix HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20177/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6234" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6234.png",KLI Premium HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6234" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6234.png",KLI Premium HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18048/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KLI Relax HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31636/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6399" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6399.png",KLI Retro HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6399" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6399.png",KLI Retro HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18177/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6235" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6235.png",KLI Russian HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6235" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6235.png",KLI Russian HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18049/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6396" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6396.png",KLI Thriller HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6396" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6396.png",KLI Thriller HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18174/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6395" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6395.png",KLI VHS HD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6395" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6395.png",KLI VHS HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18173/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6830" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6830.png",KLI Киносерия FHD
+#EXTINF:-1 group-title="Лучок Кинозалы KLI" tvg-id="6830" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6830.png",KLI Киносерия FHD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19400/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KLI Новинки HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31633/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI СССР HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18175/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5516" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5516.png",Liberty DC
+
+#EXTINF:-1 ,Liberty Anime HD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17029/index.m3u8
+
+#EXTINF:-1 ,Liberty BBC
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15108/index.m3u8
+
+#EXTINF:-1 ,Liberty Bebimult HD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17027/index.m3u8
+
+#EXTINF:-1 tvg-id="5516" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5516.png",Liberty DC
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15087/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6205" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6205.png",Liberty Kinoeng  UHD
+
+#EXTINF:-1 ,Liberty Disney FHD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15093/index.m3u8
+
+#EXTINF:-1 tvg-id="6205" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6205.png",Liberty Kinoeng  UHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17060/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5519" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5519.png",Liberty Marvel 4K
+
+#EXTINF:-1 tvg-id="5519" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5519.png",Liberty Marvel 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15090/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6855" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6855.png",Liberty Netflix 4K
+
+#EXTINF:-1 ,Liberty Multukr 4K
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18044/index.m3u8
+
+#EXTINF:-1 tvg-id="6855" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6855.png",Liberty Netflix 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19402/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6056" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6056.png",Liberty SouthPark
+
+#EXTINF:-1 ,Liberty Pixar FHD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15092/index.m3u8
+
+#EXTINF:-1 tvg-id="6056" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6056.png",Liberty SouthPark
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16053/index.m3u8
+
+#EXTINF:-1 ,Liberty The Simpsons
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15111/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Liberty XX Век 4K
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20173/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Liberty Аванпост 4K
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31664/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5522" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5522.png",Liberty Боевики FHD
+#EXTINF:-1 ,Liberty АвтоГир 4K
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15109/index.m3u8
+
+#EXTINF:-1 tvg-id="5522" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5522.png",Liberty Боевики FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15096/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Liberty Дрим Воркс 4K
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31661/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6179" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6179.png",Liberty Занавес  HD
+
+#EXTINF:-1 tvg-id="6179" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6179.png",Liberty Занавес  HD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17028/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Liberty Индия 4K
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18160/index.m3u8
 
-
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5589" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5589.png",Liberty Кино Микс 4K
+#EXTINF:-1 tvg-id="5589" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5589.png",Liberty Кино Микс 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15110/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5520" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5520.png",Liberty Короткометражное FHD
+
+#EXTINF:-1 ,Liberty Комедии FHD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16054/index.m3u8
+
+#EXTINF:-1 tvg-id="5520" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5520.png",Liberty Короткометражное FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15091/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Liberty Криминал 4K
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31663/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6341" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6341.png",Liberty Куб 4K
+#EXTINF:-1 tvg-id="6341" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6341.png",Liberty Куб 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18161/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6731" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6731.png",Liberty Легенда 4K
+
+#EXTINF:-1 tvg-id="6731" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6731.png",Liberty Легенда 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19308/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5521" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5521.png",Liberty Мелодрамы FHD
+
+#EXTINF:-1 tvg-id="5521" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5521.png",Liberty Мелодрамы FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15095/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6729" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6729.png",Liberty МиМ FHD
+
+#EXTINF:-1 ,Liberty Микс Music FHD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16070/index.m3u8
+
+#EXTINF:-1 tvg-id="6729" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6729.png",Liberty МиМ FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19306/index.m3u8
 
+#EXTINF:-1 ,Liberty Мульт 4K
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18051/index.m3u8
 
+#EXTINF:-1 ,Liberty Мульт Eng 4K
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17061/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6739" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6739.png",Liberty Наука 4K
+#EXTINF:-1 ,Liberty Мультфильмы FHD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15094/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Мюзикл 4K
+#EXTGRP:Лучок Кинозалы Liberty
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31662/index.m3u8
+
+#EXTINF:-1 tvg-id="6739" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6739.png",Liberty Наука 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19305/index.m3u8
 
+#EXTINF:-1 ,Liberty Планета 360 FHD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17026/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Liberty Планктон FHD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20140/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6231" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6231.png",Liberty РусФильм 4K
+#EXTINF:-1 tvg-id="6231" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6231.png",Liberty РусФильм 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18046/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5633" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5633.png",Liberty Сваты
+
+#EXTINF:-1 tvg-id="5633" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5633.png",Liberty Сваты
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15164/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6394" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6394.png",Liberty Семейный 4K
+
+#EXTINF:-1 tvg-id="6394" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6394.png",Liberty Семейный 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18178/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6058" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6058.png",Liberty Сериалы FHD
+
+#EXTINF:-1 tvg-id="6058" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6058.png",Liberty Сериалы FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16055/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Liberty Сериалы 4K
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31665/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6728" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6728.png",Liberty Сказки FHD
+#EXTINF:-1 tvg-id="6728" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6728.png",Liberty Сказки FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19304/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6730" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6730.png",Liberty Союз 4K
+
+#EXTINF:-1 tvg-id="6730" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6730.png",Liberty Союз 4K
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19307/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5518" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5518.png",Liberty Триллеры FHD
+
+#EXTINF:-1 tvg-id="5518" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5518.png",Liberty Триллеры FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15089/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6727" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6727.png",Liberty Турк фильм 4К
+
+#EXTINF:-1 tvg-id="6727" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6727.png",Liberty Турк фильм 4К
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19303/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5517" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5517.png",Liberty Ужасы FHD
+
+#EXTINF:-1 tvg-id="5517" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5517.png",Liberty Ужасы FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15088/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6856" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6856.png",Liberty Фан FHD
+
+#EXTINF:-1 tvg-id="6856" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6856.png",Liberty Фан FHD
+#EXTGRP:Лучок Кинозалы Liberty
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19403/index.m3u8
+
+#EXTINF:-1 ,Liberty Шоу FHD
+#EXTGRP:Лучок Кинозалы Liberty
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17030/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="4772" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4772.png",Lost HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11053/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6253" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6253.png",Magic Action HD
+
+#EXTINF:-1 tvg-id="6253" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6253.png",Magic Action HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18066/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Magic Adventure HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20141/index.m3u8
 
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6250" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6250.png",Magic Comedy HD
+#EXTINF:-1 tvg-id="6250" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6250.png",Magic Comedy HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18063/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6337" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6337.png",Magic Family HD
+
+#EXTINF:-1 tvg-id="6337" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6337.png",Magic Family HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18170/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6254" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6254.png",Magic Galaxy HD
+
+#EXTINF:-1 tvg-id="6254" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6254.png",Magic Galaxy HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18067/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6255" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6255.png",Magic Horror HD
+
+#EXTINF:-1 tvg-id="6255" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6255.png",Magic Horror HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18068/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6248" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6248.png",Magic Karate HD
+
+#EXTINF:-1 tvg-id="6248" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6248.png",Magic Karate HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18061/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6338" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6338.png",Magic Love HD
+
+#EXTINF:-1 tvg-id="6338" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6338.png",Magic Love HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18171/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Magic Russian HD
-#EXTGRP:Лучок Кинозалы
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31630/index.m3u8
 
-
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6252" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6252.png",Magic Thriller HD
+#EXTINF:0 tvg-id="6252" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6252.png",Magic Thriller HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18065/index.m3u8
-#EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="6249" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6249.png",Magic VHS HD
+
+#EXTINF:0 tvg-id="6249" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6249.png",Magic VHS HD
+#EXTGRP:Лучок Кинозалы Magic
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18062/index.m3u8
+
 
 #EXTINF:-1 group-title="Лучок Кинозалы" tvg-id="5356" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5356.png",Millennium TV HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14160/index.m3u8
@@ -2830,9 +2956,8 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20049/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Шансон HD
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20142/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мюзикл 4K
-#EXTGRP:Лучок Музыка
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31662/index.m3u8
+
+
 #EXTINF:0 tvg-rec="7",MCM Top Russia
 #EXTGRP:Лучок Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/836/index.m3u8
@@ -3153,9 +3278,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1053/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI Docu HD
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20143/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Наука FHD
-#EXTGRP:Лучок Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19305/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Love Nature 4K
 #EXTGRP:Лучок Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5001/index.m3u8
