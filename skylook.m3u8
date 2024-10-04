@@ -2102,7 +2102,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2099/index.m3u8
 #EXTINF:0 tvg-rec="7",Звезда
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/544/index.m3u8
-#EXTINF:0 tvg-rec="3",Звезда (+2)
+#EXTINF:0 tvg-rec="3",Звезда +2
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/739/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда +4
@@ -2165,7 +2165,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9106/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/501/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ (+2)
+#EXTINF:0 tvg-rec="3",НТВ +2
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/713/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4
@@ -2207,7 +2207,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9100/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/127/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый канал (+2)
+#EXTINF:0 tvg-rec="3",Первый канал +2
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/714/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +4
@@ -2249,7 +2249,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5031/index.m3u8
 #EXTINF:0 tvg-rec="7",Пятый канал
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/112/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый Канал (+2)
+#EXTINF:0 tvg-rec="3",Пятый Канал +2
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/746/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый канал orig
@@ -2261,7 +2261,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2119/index.m3u8
 #EXTINF:0 tvg-rec="7",Рен ТВ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/128/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
+#EXTINF:0 tvg-rec="3",РЕН ТВ +2
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/747/index.m3u8
 #EXTINF:0 tvg-rec="0",Рен ТВ +4
@@ -2363,7 +2363,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5033/index.m3u8
 #EXTINF:0 tvg-rec="7",ТВЦ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/520/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВЦ (+2)
+#EXTINF:0 tvg-rec="3",ТВЦ +2
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/716/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВЦ +4
@@ -2381,7 +2381,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9095/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/502/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ (+2)
+#EXTINF:0 tvg-rec="3",ТНТ +2
 #EXTGRP:Лучок Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/717/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ +4
@@ -4674,7 +4674,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9196/index.m3u8
 #EXTINF:0 tvg-rec="7",Карусель
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/156/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель (+3)
+#EXTINF:0 tvg-rec="3",Карусель +3
 #EXTGRP:Лучок Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/740/index.m3u8
 #EXTINF:0 tvg-rec="0",Карусель HD
