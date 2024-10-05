@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 
-#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обнова от: 4.10.24🦊 
-#EXTGRP:🦊Обнова от: 4.10.24🦊 
+#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обновлено: 5.10.24🦊
+#EXTGRP:🦊Обновлено: 5.10.24🦊
 https://rutube.ru/shorts/212c95751e4cd5061463298a9649a8e6/?r=wd
 
 #EXTINF:0 tvg-rec="7",BCU Marvel HD c3921155.edmonst.net
@@ -93,13 +93,16 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6010/index.m3u8
 #EXTINF:0 tvg-rec="3",Amedia Hit HD orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9070/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Amedia Premium
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/555/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia Premium HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/229/index.m3u8
-
+#EXTINF:0,Amedia Premium HD (SD) orig
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9233/index.m3u8
 
 #EXTINF:0 group-title="Кинозалы" tvg-id="5357" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5357.png",Akudji FilmBox HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14161/index.m3u8
@@ -298,6 +301,8 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11047/index.m3u8
 #EXTINF:0 tvg-id="4747" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4747.png",BCU СССР HD
 #EXTGRP:Кинозалы BCU
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11026/index.m3u8
+
+
 
 
 #EXTINF:0 group-title="Кинозалы" tvg-id="4771" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4771.png",BEST Films HD
@@ -741,21 +746,51 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19300/index.m3u8
 #EXTGRP:Кинозалы Fresh
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19293/index.m3u8
 
+
+
+#EXTINF:0,FilmBox
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/948/index.m3u8
+
 #EXTINF:0 tvg-rec="0",FX HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19216/index.m3u8
+
 #EXTINF:0 tvg-rec="3",FX HD orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9018/index.m3u8
+
+
+#EXTINF:0,Fox HD orig
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9018/index.m3u8
+
+
+#EXTINF:0,Fox Life HD
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/6389/index.m3u8
+
+#EXTINF:0,Fox Life orig
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9232/index.m3u8
+
+#EXTINF:0,Fox Russia
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/550/index.m3u8
+
+
 #EXTINF:0 tvg-rec="7",Hollywood
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/557/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Hollywood HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/209/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Hollywood HD orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9017/index.m3u8
+
 #EXTINF:0 tvg-rec="0",HORROR HD (тест)
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31708/index.m3u8
@@ -800,6 +835,9 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11083/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11091/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4718" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4718.png",KBC Шпионское
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11093/index.m3u8
+
+
+
 
 #EXTINF:0 tvg-id="6003" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6003.png",Kino watch тв Свежаки HD
 #EXTGRP:Kino Watch ТВ
@@ -852,74 +890,129 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18055/index.m3u8
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20211/index.m3u8
 
+
 #EXTINF:0 tvg-rec="0",KLI Action FHD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20051/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI Club FHD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19319/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6397" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6397.png",KLI CCCP HD
+#EXTINF:0 tvg-id="6397" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6397.png",KLI CCCP HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18175/index.m3u8
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6106" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6106.png",KLI Cinema HD
+
+#EXTINF:0 tvg-id="6106" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6106.png",KLI Cinema HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16078/index.m3u8
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6107" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6107.png",KLI Comedy HD
+
+#EXTINF:0 tvg-rec="0",KLI Concert FHD
+#EXTGRP:Музыка
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20049/index.m3u8
+
+#EXTINF:0 tvg-id="6107" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6107.png",KLI Comedy HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16080/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI Drama FHD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20053/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6398" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6398.png",KLI Family HD
+#EXTINF:0 tvg-rec="0",KLI Docu HD
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20143/index.m3u8
+
+#EXTINF:0 tvg-id="6398" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6398.png",KLI Family HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18176/index.m3u8
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6236" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6236.png",KLI Fantastic HD
+
+#EXTINF:0 tvg-id="6236" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6236.png",KLI Fantastic HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18050/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KLI Fantasy FHD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20054/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI Franchise HD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31634/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы" tvg-id="6233" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6233.png",KLI History HD
+#EXTINF:0 tvg-id="6233" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6233.png",KLI History HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18047/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI Horror FHD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20050/index.m3u8
+
+#EXTINF:0 tvg-rec="0",KLI Humor HD
+#EXTGRP:Развлекательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20052/index.m3u8
+
+#EXTINF:0 tvg-rec="0",KLI Kids FHD
+#EXTGRP:Детям
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20047/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI Marvel HD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31632/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI Millennium HD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31631/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI Netflix HD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20177/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6234" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6234.png",KLI Premium HD
+#EXTINF:0 tvg-id="6234" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6234.png",KLI Premium HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18048/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KLI Relax HD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31636/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6399" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6399.png",KLI Retro HD
+#EXTINF:0 tvg-id="6399" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6399.png",KLI Retro HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18177/index.m3u8
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6235" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6235.png",KLI Russian HD
+
+#EXTINF:0 tvg-id="6235" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6235.png",KLI Russian HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18049/index.m3u8
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6396" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6396.png",KLI Thriller HD
+
+#EXTINF:0 tvg-id="6396" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6396.png",KLI Thriller HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18174/index.m3u8
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6395" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6395.png",KLI VHS HD
+
+#EXTINF:0 tvg-id="6395" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6395.png",KLI VHS HD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18173/index.m3u8
-#EXTINF:0 group-title="Кинозалы KLI" tvg-id="6830" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6830.png",KLI Киносерия FHD
+
+#EXTINF:0 tvg-id="6830" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6830.png",KLI Киносерия FHD
+#EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19400/index.m3u8
+
+#EXTINF:0 tvg-rec="0",KLI Мультики FHD
+#EXTGRP:Детям
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20048/index.m3u8
 
 #EXTINF:0 tvg-rec="0",KLI Новинки HD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31633/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KLI СССР HD
 #EXTGRP:Кинозалы KLI
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18175/index.m3u8
+
+#EXTINF:0 tvg-rec="0",KLI Шансон HD
+#EXTGRP:Музыка
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20142/index.m3u8
+
+
+
 
 
 #EXTINF:0 ,Liberty Anime HD
@@ -1587,7 +1680,9 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17058/index.m3u8
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16142/index.m3u8
 
 
-
+#EXTINF:0,START Air HD
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18036/index.m3u8
 
 
 #EXTINF:0 group-title="Кинозалы" tvg-id="4773" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4773.png",Sky2000 HD
@@ -1722,51 +1817,132 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31643/index.m3u8
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31642/index.m3u8
 
+#EXTINF:0 tvg-rec="7",Viju TV1000
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/132/index.m3u8
+
+#EXTINF:0,Viju TV1000 HD
+#EXTGRP:Кинозалы Viju TV1000
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/6387/index.m3u8
+
+#EXTINF:0,Viju TV1000 orig
+#EXTGRP:Кинозалы Viju TV1000
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9235/index.m3u8
+
+
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/131/index.m3u8
+
+#EXTINF:0,Viju TV1000 Action orig
+#EXTGRP:Кинозалы Viju TV1000
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9229/index.m3u8
+
+#EXTINF:0,Viju TV1000 Action HD
+#EXTGRP:Кинозалы Viju TV1000
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/6386/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD orig
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9057/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju Explore
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/163/index.m3u8
+
+
+#EXTINF:0 tvg-rec="3",Viju TV1000 HD orig
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9058/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2002/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/101/index.m3u8
+
+#EXTINF:0,Viju TV1000 Русское Кино orig
+#EXTGRP:Кинозалы Viju TV1000
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9227/index.m3u8
+
+#EXTINF:0,Viju TV1000 Русское Кино HD
+#EXTGRP:Кинозалы Viju TV1000
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/6388/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD orig
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9059/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/200/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju+ Comedy HD orig
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5080/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju Explore HD orig
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9075/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju History
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/162/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju History HD
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/203/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju History HD orig
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9060/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/201/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju+ Megahit HD orig
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5081/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju Nature
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/161/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju+ Planet HD
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9027/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/202/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju+ Premiere HD orig
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5079/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Viju+ Serial HD
+#EXTGRP:Кинозалы Viju TV1000
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2443/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju+ Sport
+#EXTGRP:Спорт
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/160/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Viju+ Sport HD
+#EXTGRP:Спорт
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2007/index.m3u8
+
 #EXTINF:0 tvg-rec="3",VHS-ка HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5006/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/132/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000 Action
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/131/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD orig
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9057/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 HD orig
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9058/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2002/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/101/index.m3u8
-#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD orig
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9059/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/200/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Comedy HD orig
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5080/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/201/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Megahit HD orig
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5081/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/202/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Premiere HD orig
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5079/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Serial HD
-#EXTGRP:Кинозалы
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2443/index.m3u8
+
+#EXTINF:0,VHS Classic HD
+#EXTGRP:Кино
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/19429/index.m3u8
+
 
 #EXTINF:0 tvg-id="4591" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4591.png",VF Adventure
 #EXTGRP:Кинозалы VF
@@ -2228,61 +2404,135 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15000/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4722" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4722.png",Victory HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11097/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы" tvg-id="6138" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6138.png",Yosso TV 4K
+
+
+
+#EXTINF:0 tvg-id="6138" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6138.png",Yosso TV 4K
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16153/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5586" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5586.png",Yosso TV Adrenaline
+
+#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31620/index.m3u8
+
+#EXTINF:0 tvg-id="5586" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5586.png",Yosso TV Adrenaline
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15105/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5984" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5984.png",Yosso TV Adventure
+
+#EXTINF:0 tvg-id="5984" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5984.png",Yosso TV Adventure
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15510/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5446" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5446.png",Yosso TV Best
+
+#EXTINF:0 tvg-id="5446" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5446.png",Yosso TV Best
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14236/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Yosso TV Best 60 FPS
-#EXTGRP:Кинозалы
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20165/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы" tvg-id="6136" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6136.png",Yosso TV C-Comedy
+#EXTINF:0,Yosso TV C-Cartoon
+#EXTGRP:Кинозалы Yosso TV
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16050/index.m3u8
+
+#EXTINF:0 tvg-id="6136" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6136.png",Yosso TV C-Comedy
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16151/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6392" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6392.png",Yosso TV C-History
+
+#EXTINF:0 tvg-id="6392" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6392.png",Yosso TV C-History
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18139/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6137" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6137.png",Yosso TV C-Inquest
+
+#EXTINF:0 tvg-id="6137" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6137.png",Yosso TV C-Inquest
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16152/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6007" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6007.png",Yosso TV C-Marvel
+
+#EXTINF:0 tvg-id="6007" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6007.png",Yosso TV C-Marvel
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16051/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Yosso TV Disney
-#EXTGRP:Кинозалы
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20164/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы" tvg-id="5358" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5358.png",Yosso TV Grand
+#EXTINF:0 tvg-rec="0",Yosso TV Food
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31616/index.m3u8
+
+#EXTINF:0 tvg-id="5358" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5358.png",Yosso TV Grand
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14171/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5362" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5362.png",Yosso TV NEW Кино
+
+#EXTINF:0,Yosso TV Kids
+#EXTGRP:Детям
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14173/index.m3u8
+
+#EXTINF:0,Yosso TV Music Hits
+#EXTGRP:Музыка
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14179/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Yosso TV Nature
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31618/index.m3u8
+
+#EXTINF:0 tvg-id="5362" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5362.png",Yosso TV NEW Кино
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14177/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Yosso TV Netflix
-#EXTGRP:Кинозалы
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20163/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы" tvg-id="5983" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5983.png",Yosso TV Oblivion
+#EXTINF:0 tvg-id="5983" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5983.png",Yosso TV Oblivion
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15509/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5631" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5631.png",Yosso TV Thriller
+
+#EXTINF:0 tvg-rec="0",Yosso TV Science
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31617/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Yosso TV Travel
+#EXTGRP:Познавательные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31619/index.m3u8
+
+#EXTINF:0 tvg-id="5631" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5631.png",Yosso TV Thriller
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15168/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5359" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5359.png",Yosso TV VHS
+
+#EXTINF:0 tvg-id="5359" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5359.png",Yosso TV VHS
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14172/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5444" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5444.png",Yosso TV Забавное
+
+#EXTINF:0 tvg-id="5444" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5444.png",Yosso TV Забавное
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14234/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5445" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5445.png",Yosso TV Ковбойское
+
+#EXTINF:0 tvg-id="5445" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5445.png",Yosso TV Ковбойское
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14235/index.m3u8
 
+#EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
+#EXTGRP:Детям
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19433/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
-#EXTGRP:Кинозалы
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19434/index.m3u8
 
-#EXTINF:0 group-title="Кинозалы" tvg-id="5360" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5360.png",Yosso TV Русские фильмы
+#EXTINF:0 tvg-id="5360" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5360.png",Yosso TV Русские фильмы
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14174/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5361" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5361.png",Yosso TV Советские Фильмы 4K
+
+#EXTINF:0 tvg-id="5361" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5361.png",Yosso TV Советские Фильмы 4K
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14175/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5434" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5434.png",Yosso TV Трагичное
+
+#EXTINF:0 tvg-id="5434" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5434.png",Yosso TV Трагичное
+#EXTGRP:Кинозалы Yosso TV
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14219/index.m3u8
+
+
+
 
 
 
@@ -2498,10 +2748,17 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2097/index.m3u8
 #EXTINF:0 tvg-rec="3",Кино ТВ HD orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9051/index.m3u8
-#EXTINF:0 tvg-rec="0",КИНОДРОМ HD
+#EXTINF:0 tvg-rec="0",Кинодром HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31714/index.m3u8
 
+#EXTINF:0,Киноджем 1 HD
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/7260/index.m3u8
+
+#EXTINF:0,Киноджем 2 HD
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/7261/index.m3u8
 
 #EXTINF:0 group-title="Кинозалы" tvg-id="6256" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6256.png",Кино 1 HD
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18069/index.m3u8
@@ -2561,15 +2818,28 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9154/index.m3u8
 #EXTINF:0 tvg-rec="3",Киномикс orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9126/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Кинопоказ HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2439/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Кинопоказ HD orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9092/index.m3u8
+
+#EXTINF:0,Кинокомедия
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9231/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Киносерия HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19229/index.m3u8
+
+#EXTINF:0,Киносемья
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9228/index.m3u8
+
+
 #EXTINF:0 tvg-rec="3",Киноужас HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2056/index.m3u8
@@ -2634,6 +2904,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2440/index.m3u8
 #EXTINF:0 tvg-rec="3",Наше Мужское HD orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9088/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Наше Новое Кино
+#EXTGRP:Кинозалы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9230/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Наше Новое Кино HD
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19231/index.m3u8
@@ -2747,6 +3022,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2076/index.m3u8
 #EXTINF:0 tvg-rec="3",Русский роман HD orig
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9041/index.m3u8
+
+#EXTINF:0,Российские сериалы
+#EXTGRP:Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18043/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Сапфир
 #EXTGRP:Кинозалы
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/553/index.m3u8
@@ -3206,7 +3486,9 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/534/index.m3u8
 #EXTGRP:Федеральные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9107/index.m3u8
 
-
+#EXTINF:0,Аист (Иркутск-DreamNet)
+#EXTGRP:Региональные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15414/index.m3u8
 #EXTINF:0 tvg-rec="0",Арис 24 HD
 #EXTGRP:Региональные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20134/index.m3u8
@@ -3225,9 +3507,15 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19373/index.m3u8
 #EXTINF:0 tvg-rec="0",Брянская Губерния FHD
 #EXTGRP:Региональные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20132/index.m3u8
+
 #EXTINF:0 tvg-rec="3",БСТ HD
 #EXTGRP:Региональные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2115/index.m3u8
+
+#EXTINF:0,Вариант ТВ Владимир
+#EXTGRP:Региональные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/19355/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Вместе-РФ FHD
 #EXTGRP:Региональные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20139/index.m3u8
@@ -3382,6 +3670,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20119/index.m3u8
 #EXTINF:0 tvg-rec="0",Саров 24 HD
 #EXTGRP:Региональные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19393/index.m3u8
+
+#EXTINF:0,Седьмой канал Казахстан
+#EXTGRP: Региональные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/2213/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Сварожичи HD
 #EXTGRP:Региональные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19080/index.m3u8
@@ -3467,6 +3760,9 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2036/index.m3u8
 #EXTGRP:Региональные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20015/index.m3u8
 
+#EXTINF:0,VH1 RO
+#EXTGRP:Региональные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/7026/index.m3u8
 
 #EXTINF:0 tvg-rec="0",BBC 1 HD
 #EXTGRP:Новости
@@ -3646,14 +3942,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16072/index.m3u8
 #EXTINF:0 tvg-rec="0",Kiss TV UK
 #EXTGRP:Музыка
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19193/index.m3u8
-
-#EXTINF:0 tvg-rec="0",KLI Concert FHD
-#EXTGRP:Музыка
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20049/index.m3u8
-
-#EXTINF:0 tvg-rec="0",KLI Шансон HD
-#EXTGRP:Музыка
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20142/index.m3u8
 
 
 #EXTINF:0 tvg-rec="7",MCM Top Russia
@@ -4008,18 +4296,27 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/736/index.m3u8
 #EXTINF:0 tvg-rec="3",English Club TV HD
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/993/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Fashion One
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1010/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Food Network FHD
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2419/index.m3u8
+
 #EXTINF:0 tvg-rec="7",FoodTime
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/918/index.m3u8
+
 #EXTINF:0 tvg-rec="3",FoodTime FHD
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2418/index.m3u8
+
+#EXTINF:0,Flix Snip orig
+#EXTGRP:Познавательные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9311/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Galaxy
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2010/index.m3u8
@@ -4038,6 +4335,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9013/index.m3u8
 #EXTINF:0 tvg-rec="0",HDL HD
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19251/index.m3u8
+
+#EXTINF:0,HGTV HD RU
+#EXTGRP:Познавательные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/6391/index.m3u8
+
 #EXTINF:0 tvg-rec="7",History HD
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/231/index.m3u8
@@ -4065,9 +4367,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9054/index.m3u8
 #EXTINF:0 tvg-rec="3",Kabbala TV
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1053/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Docu HD
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20143/index.m3u8
+
 
 #EXTINF:0 tvg-rec="3",Love Nature 4K
 #EXTGRP:Познавательные
@@ -4156,45 +4456,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9019/index.m3u8
 #EXTINF:0 tvg-rec="0",TravelXP CEE 4K
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20031/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju Explore
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/163/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju Explore HD orig
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9075/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju History
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/162/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju History HD
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/203/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju History HD orig
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9060/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju Nature
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/161/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Planet HD
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9027/index.m3u8
+
 #EXTINF:0 tvg-rec="3",World Fashion Channel
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/1068/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31620/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Food
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31616/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Nature
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31618/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Science
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31617/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Travel
-#EXTGRP:Познавательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31619/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Авто 24
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/538/index.m3u8
@@ -4210,6 +4476,15 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/725/index.m3u8
 #EXTINF:0 tvg-rec="7",Большая Азия HD
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2009/index.m3u8
+
+#EXTINF:0,Бьюти TV
+#EXTGRP:Познавательные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16010/index.m3u8
+
+#EXTINF:0,Вкусное TV HD
+#EXTGRP:Познавательные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16013/index.m3u8
+
 #EXTINF:0 tvg-rec="3",В мире животных HD
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2089/index.m3u8
@@ -4399,6 +4674,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19254/index.m3u8
 #EXTINF:0 tvg-rec="0",Санкт-Петербург
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/6144/index.m3u8
+
+#EXTINF:0,Связист ТВ orig
+#EXTGRP:Познавательные
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9291/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Совершенно секретно
 #EXTGRP:Познавательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/121/index.m3u8
@@ -4461,9 +4741,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20038/index.m3u8
 #EXTINF:0 tvg-rec="7",HDL
 #EXTGRP:Развлекательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/226/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Humor HD
-#EXTGRP:Развлекательные
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20052/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Lietuva 4K
 #EXTGRP:Развлекательные
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31464/index.m3u8
@@ -5205,16 +5483,11 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31562/index.m3u8
 #EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK orig
 #EXTGRP:Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5078/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Viasat Sport Ultra HD DK
 #EXTGRP:Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19163/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Sport
-#EXTGRP:Спорт
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/160/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Sport HD
-#EXTGRP:Спорт
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/2007/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
+
 #EXTGRP:Спорт
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/5065/index.m3u8
 #EXTINF:0 tvg-rec="0",ViP Sport 1
@@ -5494,12 +5767,6 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/9185/index.m3u8
 #EXTINF:0 tvg-rec="0",Kids TV HD
 #EXTGRP:Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20008/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Kids FHD
-#EXTGRP:Детям
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20047/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Мультики FHD
-#EXTGRP:Детям
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20048/index.m3u8
 #EXTINF:0 tvg-rec="0",MYTV Kids
 #EXTGRP:Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19409/index.m3u8
@@ -5542,9 +5809,7 @@ http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20001/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Kids
 #EXTGRP:Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/31646/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
-#EXTGRP:Детям
-http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19433/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Аниме HD
 #EXTGRP:Детям
 http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/20179/index.m3u8
