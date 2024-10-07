@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+﻿#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 
 #EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обновлено: 5.10.24🦊
@@ -104,7 +104,8 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/229/index.m3u8
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9233/index.m3u8
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="5357" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5357.png",Akudji FilmBox HD
+#EXTINF:0 tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5357.png",Akudji FilmBox HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14161/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Amedia Premium HD orig
@@ -112,9 +113,12 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14161/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9022/index.m3u8
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4662.png",Backus TV Dark HD (пока не доступен)
+#EXTINF:0 tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4662.png",Backus TV Dark HD (пока не доступен)
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/10061/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4770.png",Backus TV original HD (пока не доступен)
+
+#EXTINF:0 tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4770.png",Backus TV original HD (пока не доступен)
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11049/index.m3u8
 
 #EXTINF:0,Backus tv music HD
@@ -305,8 +309,10 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11026/index.m3u8
 
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4771" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4771.png",BEST Films HD
+#EXTINF:0 tvg-id="4771" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4771.png",BEST Films HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11050/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Bollywood HD
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/239/index.m3u8
@@ -1421,7 +1427,8 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17030/index.m3u8
 
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4772" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4772.png",Lost HD
+#EXTINF:0  tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4772.png",Lost HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11053/index.m3u8
 
 
@@ -1474,7 +1481,8 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18065/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18062/index.m3u8
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="5356" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5356.png",Millennium TV HD
+#EXTINF:0 tvg-id="5356" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5356.png",Millennium TV HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14160/index.m3u8
 
 #EXTINF:0 tvg-id="5122" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5122.png",MM 007 HD
@@ -1921,7 +1929,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
 #EXTGRP:📺 Кинозалы Prokop TV
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31668/index.m3u8
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы", Prokop TV Hip Hop
+#EXTINF:0, Prokop TV Hip Hop
 #EXTGRP:📺 Кинозалы Prokop TV
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31672/index.m3u8
 
@@ -2114,7 +2122,8 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16142/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18036/index.m3u8
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4773" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4773.png",Sky2000 HD
+#EXTINF:0 tvg-id="4773" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4773.png",Sky2000 HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11054/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Sumiko HD
@@ -2125,9 +2134,12 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/2163/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/2049/index.m3u8
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4693" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4693.png",The X-Files
+#EXTINF:0 tvg-id="4693" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4693.png",The X-Files
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11055/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4724" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4724.png",Thriller HD
+
+#EXTINF:0 tvg-id="4724" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4724.png",Thriller HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11099/index.m3u8
 
 #EXTGRP:📺 Кинозалы TOP 
@@ -2936,9 +2948,12 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17012/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16137/index.m3u8
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="5462" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5462.png",VHS HD
+#EXTINF:0 tvg-id="5462" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5462.png",VHS HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15000/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4722" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4722.png",Victory HD
+
+#EXTINF:0 tvg-id="4722" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4722.png",Victory HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11097/index.m3u8
 
 
@@ -3170,14 +3185,23 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9087/index.m3u8
 #EXTINF:0 tvg-rec="0",Боевики HD
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/20172/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6005" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6005.png",Видеокассета HD
+
+#EXTINF:0 tvg-id="6005" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6005.png",Видеокассета HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16049/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6143" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6143.png",Видеокассета Ужасы
+
+#EXTINF:0 tvg-id="6143" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6143.png",Видеокассета Ужасы
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16141/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6737" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6737.png",Видеокассета Юность
+
+#EXTINF:0 tvg-id="6737" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6737.png",Видеокассета Юность
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/19318/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6259" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6259.png",Военное кино HD
+
+#EXTINF:0 tvg-id="6259" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6259.png",Военное кино HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18072/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Громовы
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31712/index.m3u8
@@ -3213,7 +3237,49 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/549/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9078/index.m3u8
 #EXTINF:0 tvg-rec="3",Еврокино orig
 #EXTGRP:📺 Кинозалы
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9134/index.m3u8
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/9134/index.m3u8ЫЫ
+
+
+
+
+#EXTINF:0 tvg-id="6353" tvg-logo="http://epg.one/img/6353.png" tvg-rec="0",Кинозал 1
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18126/index.m3u8
+#EXTINF:0 tvg-id="6354" tvg-logo="http://epg.one/img/6354.png" tvg-rec="0",Кинозал 2
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18127/index.m3u8
+#EXTINF:0 tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="0",Кинозал 3
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18128/index.m3u8
+#EXTINF:0 tvg-id="6356" tvg-logo="http://epg.one/img/6356.png" tvg-rec="0",Кинозал 4
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18129/index.m3u8
+#EXTINF:0 tvg-id="6357" tvg-logo="http://epg.one/img/6357.png" tvg-rec="0",Кинозал 5
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18130/index.m3u8
+#EXTINF:0 tvg-id="6358" tvg-logo="http://epg.one/img/6358.png" tvg-rec="0",Кинозал 6
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18131/index.m3u8
+#EXTINF:0 tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Кинозал 7
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18132/index.m3u8
+#EXTINF:0 tvg-id="6360" tvg-logo="http://epg.one/img/6360.png" tvg-rec="0",Кинозал 8
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18133/index.m3u8
+#EXTINF:0 tvg-id="6361" tvg-logo="http://epg.one/img/6361.png" tvg-rec="0",Кинозал 9
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18134/index.m3u8
+#EXTINF:0 tvg-id="6362" tvg-logo="http://epg.one/img/6362.png" tvg-rec="0",Кинозал 10
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18135/index.m3u8
+#EXTINF:0 tvg-id="6363" tvg-logo="http://epg.one/img/6363.png" tvg-rec="0",Кинозал 11
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18136/index.m3u8
+#EXTINF:0 tvg-id="6364" tvg-logo="http://epg.one/img/6364.png" tvg-rec="0",Кинозал 12
+#EXTGRP:📺 Кинозалы Триколор
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18137/index.m3u8
+
+
 
 #EXTINF:0 tvg-rec="3" tvg-id="2952" tvg-logo="http://epg.one/img/2952.png",Зал 1
 #EXTGRP:📺 Кинозалы Триколор
@@ -3250,6 +3316,15 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/2575/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-id="2960" tvg-logo="http://epg.one/img/2960.png",Зал 9
 #EXTGRP:📺 Кинозалы Триколор
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/2576/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0 tvg-rec="7",Иллюзион+
@@ -3315,62 +3390,43 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/7260/index.m3u8
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/7261/index.m3u8
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6256" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6256.png",Кино 1 HD
+#EXTINF:0 tvg-id="6256" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6256.png",Кино 1 HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18069/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6258" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6258.png",Кино 1 International
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18071/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6257" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6257.png",Кино 2 HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18070/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2952" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2952.png",#EXTGRP:📺 Кинозалы 1
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18126/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2953" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2953.png",#EXTGRP:📺 Кинозалы 2
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18127/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2954" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2954.png",#EXTGRP:📺 Кинозалы 3
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18128/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2955" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2955.png",#EXTGRP:📺 Кинозалы 4
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18129/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2956" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2956.png",#EXTGRP:📺 Кинозалы 5 (Солдаты)
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18130/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2957" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2957.png",#EXTGRP:📺 Кинозалы 6
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18131/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2958" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2958.png",#EXTGRP:📺 Кинозалы 7
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18132/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2959" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2959.png",#EXTGRP:📺 Кинозалы 8
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18133/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2960" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2960.png",#EXTGRP:📺 Кинозалы 9
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18134/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2961" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2961.png",#EXTGRP:📺 Кинозалы 10
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18135/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2962" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2962.png",#EXTGRP:📺 Кинозалы 11
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18136/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="2963" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2963.png",#EXTGRP:📺 Кинозалы 12
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18137/index.m3u8
 
-#EXTINF:0 tvg-rec="0",#EXTGRP:📺 Кинозалы! Bond 007
+#EXTINF:0 tvg-id="6258" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6258.png",Кино 1 International
+#EXTGRP:📺 Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18071/index.m3u8
+
+#EXTINF:0 tvg-id="6257" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6257.png",Кино 2 HD
+#EXTGRP:📺 Кинозалы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18070/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Кинозалы! Bond 007
 #EXTGRP:📺 Кинозалы!
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31715/index.m3u8
 
-#EXTINF:0 tvg-id="4776" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4776.png",#EXTGRP:📺 Кинозалы! VHS HD
+#EXTINF:0 tvg-id="4776" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4776.png",Кинозалы! VHS HD
 #EXTGRP:📺 Кинозалы!
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11059/index.m3u8
 
-#EXTINF:0 tvg-id="4694" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4694.png",#EXTGRP:📺 Кинозалы! Интерны ТВ
+#EXTINF:0 tvg-id="4694" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4694.png",Кинозалы! Интерны ТВ
 #EXTGRP:📺 Кинозалы!
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11060/index.m3u8
 
-#EXTINF:0 tvg-id="4696" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4696.png",#EXTGRP:📺 Кинозалы! Сваты
+#EXTINF:0 tvg-id="4696" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4696.png",Кинозалы! Сваты
 #EXTGRP:📺 Кинозалы!
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11062/index.m3u8
 
-#EXTINF:0 tvg-id="4695" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4695.png",#EXTGRP:📺 Кинозалы! СССР
+#EXTINF:0 tvg-id="4695" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4695.png",Кинозалы! СССР
 #EXTGRP:📺 Кинозалы!
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11061/index.m3u8
 
-#EXTINF:0 tvg-id="4697" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4697.png",#EXTGRP:📺 Кинозалы! Универ ТВ
+#EXTINF:0 tvg-id="4697" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4697.png",Кинозалы! Универ ТВ
 #EXTGRP:📺 Кинозалы!
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11063/index.m3u8
 
-#EXTINF:0 tvg-id="4777" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4777.png",#EXTGRP:📺 Кинозалы! ХИТ HD
+#EXTINF:0 tvg-id="4777" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4777.png",Кинозалы! ХИТ HD
 #EXTGRP:📺 Кинозалы!
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11064/index.m3u8
 
@@ -3604,8 +3660,9 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/5005/index.m3u8
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/2146/index.m3u8
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4779" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4779.png",Страх HD
+#EXTINF:0 tvg-id="4779" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4779.png",Страх HD
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11069/index.m3u8
+#EXTGRP:📺 Кинозалы
 #EXTINF:0 tvg-rec="0",СТРАХ FHD (2.0)
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31720/index.m3u8
@@ -3617,10 +3674,14 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/30149/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/20178/index.m3u8
 
 
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="6242" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6242.png",Фантастика
+#EXTINF:0 tvg-id="6242" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6242.png",Фантастика
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18043/index.m3u8
-#EXTINF:0 group-title="#EXTGRP:📺 Кинозалы" tvg-id="4780" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4780.png",Фантастика HD
+
+#EXTINF:0 tvg-id="4780" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4780.png",Фантастика HD
+#EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11070/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ФАНТАСТИКА FHD (2.0)
 #EXTGRP:📺 Кинозалы
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31722/index.m3u8
