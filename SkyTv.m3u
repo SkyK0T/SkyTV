@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://www.teleguide.info/download/new3/jtv.zip" m3uautoload=1 cache=1000
+
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Телеканалы обновлены по состоянию на 30.09.24🦊 
 https://river-3-311.rutube.ru/hls-vod/IKDqapbmSUHQB0TR4-k6TQ/1728280586/2397/0x5000c500f2b549ef/fac09ca254834b1dbc3bc2696a610002.mp4.m3u8?i=408x720_1650
 
@@ -11193,8 +11194,150 @@ https://myradio24.org/tisradio_video.m3u8
 
 
 
+#EXTINF:0 tvg-name=Первый_канал tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+
+#EXTINF:0 tvg-name=Россия_1 tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+
+#EXTINF:0 tvg-name=Матч! tvg-logo="http://uiptv.do.am/img/logo/003.gif",Матч! ТВ
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+
+#EXTINF:0 tvg-name=Пятый_Канал tvg-logo="http://uiptv.do.am/img/logo/004.gif",5 Канал
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000004/playlist.m3u8
+
+#EXTINF:0 tvg-name=Культура tvg-logo="http://uiptv.do.am/img/logo/005.gif",Россия Культура
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+
+#EXTINF:0 tvg-name=Россия_24 tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+
+#EXTINF:0 tvg-name=Карусель tvg-logo="http://uiptv.do.am/img/logo/007.gif",Карусель
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000007/playlist.m3u8
+
+#EXTINF:0 tvg-name=ОТР tvg-logo="http://uiptv.do.am/img/logo/008.gif",ОТР
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+
+#EXTINF:0 tvg-name=ТВ_Центр tvg-logo="http://uiptv.do.am/img/logo/009.gif",ТВЦ
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+
+#EXTINF:0 tvg-name=МИР_24 tvg-logo="http://uiptv.do.am/img/logo/112.gif",Мир 24
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/112234126/playlist.m3u8
+
+#EXTINF:0 tvg-name=ТРО tvg-logo="http://uiptv.do.am/img/logo/116.gif",ТРО
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/116316122/playlist.m3u8
+
+#EXTINF:0 tvg-name=НТВ tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+
+#EXTINF:0 tvg-name=МИР tvg-logo="http://uiptv.do.am/img/logo/113.gif",Мир
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+
+#EXTINF:0 tvg-name=Вместе-РФ tvg-logo="http://uiptv.do.am/img/logo/118.gif",Вместе-РФ HD
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/118056781/playlist.m3u8
+
+#EXTINF:0 tvg-name=РЕН_ТВ tvg-logo="http://uiptv.do.am/img/logo/102.gif",Рен ТВ
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/102323759/playlist.m3u8
+
+#EXTINF:0 tvg-name=Звезда tvg-logo="http://uiptv.do.am/img/logo/115.gif",Звезда
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/115312670/playlist.m3u8
+
+#EXTINF:0 tvg-name=ТВ-3 tvg-logo="http://uiptv.do.am/img/logo/107.gif",ТВ-3
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/107700947/playlist.m3u8
+
+#EXTINF:0 tvg-name=Домашний tvg-logo="http://uiptv.do.am/img/logo/104.gif",Домашний
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/104487210/playlist.m3u8
+
+#EXTINF:0 tvg-name=СТС tvg-logo="http://uiptv.do.am/img/logo/105.gif",СТС
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/105567126/playlist.m3u8
+
+#EXTINF:0 tvg-name=ТНТ tvg-logo="http://uiptv.do.am/img/logo/106.gif",ТНТ
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+
+#EXTINF:0 tvg-name=Пятница tvg-logo="http://uiptv.do.am/img/logo/103.gif",Пятница
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/103815382/playlist.m3u8
+
+#EXTINF:0 tvg-name=Че tvg-logo="http://uiptv.do.am/img/logo/109.gif",Че
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/109121273/playlist.m3u8
+
+#EXTINF:0 tvg-name=TVM_Channel tvg-logo="http://uiptv.do.am/img/logo/334.gif",TVM Channel
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/334334148/playlist.m3u8
+
+#EXTINF:0 tvg-name=Моя_Планета tvg-logo="http://uiptv.do.am/img/logo/312.gif",Моя планета
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+
+#EXTINF:0 tvg-name=Канал_2x2 tvg-logo="http://uiptv.do.am/img/logo/500.gif",2x2
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/500194263/playlist.m3u8
+
+#EXTINF:0 tvg-name=МУЗ-ТВ tvg-logo="http://uiptv.do.am/img/logo/612.gif",Муз ТВ
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/612327787/playlist.m3u8
+
+#EXTINF:0 tvg-name=Шансон_ТВ tvg-logo="http://uiptv.do.am/img/logo/602.gif",Шансон ТВ
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/602079679/playlist.m3u8
+
+#EXTINF:0 tvg-name=ТНТ_Music tvg-logo="http://uiptv.do.am/img/logo/603.gif",ТНТ Music
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/603282189/playlist.m3u8
+
+#EXTINF:0 tvg-name=РБК tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/701293058/playlist.m3u8
+
+#EXTINF:0 tvg-name=Russia_Today tvg-logo="http://uiptv.do.am/img/logo/702.gif",Russia Today HD
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
 
 
+#EXTINF:-1 ,Ю
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/108549247/playlist.m3u8
 
+#EXTINF:-1 ,Феникс плюс кино
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+http://uiptv.do.am/1ufc/229011129/playlist.m3u8
+#EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
+#EXTINF:-1 ,RT Doc [FHD]
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 
+#EXTINF:-1 ,Тест
+#EXTGRP:Т
+https://mhd219.iptv2022.com/p/ZfFHnEXcHROPJqoPA0OWXw,1729812395/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 ,Тест
+#EXTGRP:Т
+https://mhd219.iptv2022.com/p/ZfFHnEXcHROPJqoPA0OWXw,1729812395/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 ,Тест
+#EXTGRP:Т
+https://mhd.iptv2022.com/p/ZfFHnEXcHROPJqoPA0OWXw,1729812395/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 ,Тест
+#EXTGRP:Т
+https://mhd156.iptv2022.com/p/zRTIv0iiE_NXMelgKTnWKw,1729812491/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
 
