@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz, http://95.215.110.132/epg/tvikseltv.xml.gz"
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Телеканалы обновлены по состоянию на 30.09.24🦊 
 https://river-3-311.rutube.ru/hls-vod/IKDqapbmSUHQB0TR4-k6TQ/1728280586/2397/0x5000c500f2b549ef/fac09ca254834b1dbc3bc2696a610002.mp4.m3u8?i=408x720_1650
 
@@ -232,111 +232,296 @@ http://hls.goodgame.ru/hls/357813.m3u8
 #EXTINF:-1 group-title="Трансляции GoodGame.ru",dddjimmymicro
 http://hls.goodgame.ru/hls/422071.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05032024/logos/37925-65e7644b48acc.png",Видеокассета VHS ( работает с 2021)
+#EXTGRP:Трансляции Catcast TV 🐈
+https://autopilot.catcast.tv/content/37925/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05032024/logos/37925-65e7644b48acc.png",Видеокассета VHS (работает с 2021)
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/37925/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg",Видеосалон VHS
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/40391/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg",MGM HD VHS
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/44051/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04062022/banners/39005-629ba53ce1357.png",Киноклуб
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/39005/index.m3u8
 
 
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16102024/logos/47689-670fba5762ff6.png",BCHD GROUP Малдер Мегахит
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/47689/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/20092024/logos/47764-66edaa2c127e1.png",BCHD GROUP Малдер Ужас
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/47764/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14032023/logos/43064-641038e5eb29e.png",BCHD GROUP Malder vse tv (токен)
+#EXTGRP:Трансляции Catcast TV 🐈
+https://s.catcast.tv/content/43064/index.m3u8?token=3a89843c7709582511377b0a1ba5c7d7
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14032023/logos/43064-641038e5eb29e.png",BCHD GROUP Malder vse tv
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/43064/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/07102024/logos/47180-6703ab8d2f971.png",BCHD GROUP Малдер Kinozal (Offline править ссылку) Фуриоса. Хроники Безумного Макса
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/videos/ch47180/241020241734_252278/video.mp4
+
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",TvikselTV Кино 1 International
+#EXTGRP:Трансляции Catcast TV 🐈
+https://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",TvikselTV Детское кино International
+#EXTGRP:Трансляции Catcast TV 🐈
+https://v2.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",TvikselTV Музыка 1 International
+#EXTGRP:Трансляции Catcast TV 🐈
+https://kino-1.catcast.tv/content/37745/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",TvikselTV Музыка 2 International
+#EXTGRP:Трансляции Catcast TV 🐈
+https://kino-1.catcast.tv/content/37742/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",TvikselTV Музыка Кино International
+#EXTGRP:Трансляции Catcast TV 🐈
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/27062021/logos/40381-60d843d7d20b9.png",TvikselTV Кино 18+ International
+#EXTGRP:Трансляции Catcast TV 🐈
+http://v2.catcast.tv/content/40381/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://catcast.tv/assets/no-logo.svg",TvikselTV Кино 18+ ссылки пока нет
+#EXTGRP:Трансляции Catcast TV 🐈
+https://неработает
+
+#EXTINF:-1 tvg-logo="https://catcast.tv/assets/no-logo.svg",TvikselTV Военное кино ссылки пока нет
+#EXTGRP:Трансляции Catcast TV 🐈
+https://неработает
+
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38850-61045d8175ad6.png",IPTVPLAY МультСказки
+#EXTGRP:Трансляции Catcast TV 🐈
+https://s.catcast.tv/content/38850/index.m3u8?token=6c93e874917f93b3fb1b2a19aff4eade
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38896-61045dae6ffff.png",IPTVPLAY Ужастик 
+#EXTGRP:Трансляции Catcast TV 🐈
+https://s.catcast.tv/content/38896/index.m3u8?token=9478147e3637dc15dc7286e0aab29da1
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png",IPTVPLAY Промо
+#EXTGRP:Трансляции Catcast TV 🐈
+https://s.catcast.tv/content/39161/index.m3u8?token=1be819111dc680d8b4eaaa287a09da84
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38821-61045e2aa14fb.png",IPTVPLAY Память
+#EXTGRP:Трансляции Catcast TV 🐈
+https://неработает
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38801-61045ebfe0919.png",IPTVPLAY Фантастика (не работает)
+#EXTGRP:Трансляции Catcast TV 🐈
+https://неработает
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" , Сити Эдем - КиноДетектив
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
+#EXTGRP:Трансляции Catcast TV 🐈
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/40783/index.m3u8
 
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈",Сити Эдем - КиноНовелла
+#EXTGRP:Трансляции Catcast TV 🐈
 https://autopilot.catcast.tv/content/46209/index.m3u8
 
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" , Сити Эдем TV - на русском
+#EXTINF:-1 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем TV - на русском
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" , Сити Эдем - Христианское радио
+
+#EXTINF:-1 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем - Христианское радио
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем - Meditation Music (не идёт)
+
+#EXTINF:-1 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем - Meditation Music (не идёт)
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/47410/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png" , Сити Эдем - Classic Music (не идёт)
+
+#EXTINF:-1 tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем - Classic Music (не идёт)
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26012024/backgrounds/42935-65b3cb3640d77.jpg",4K Hits Кино и сериалы 24/7  (token) 4k_no VKPlay.live
+#EXTGRP:Трансляции Catcast TV 🐈
+https://s.catcast.tv/content/42935/index.m3u8?token=80ca2c515a2e79175bbbbdb73610567d
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
+#EXTGRP:Трансляции Catcast TV 🐈
 https://autopilot.catcast.tv/content/40504/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
+
+#EXTINF:-1 tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
+#EXTGRP:Трансляции Catcast TV 🐈
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈",RETRO 80 HD
+#EXTGRP:Трансляции Catcast TV 🐈
 https://autopilot.catcast.tv/content/38204/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/01102023/logos/43959-65198b3e02358.jpg",Musicarmsupertv
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01102023/logos/43959-65198b3e02358.jpg",Musicarmsupertv
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/43959/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png",HGTN
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png",HGTN
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://catcast.tv/assets/no-logo.svg",Телеканал Андийцы
+
+#EXTINF:-1 tvg-logo="https://catcast.tv/assets/no-logo.svg",Телеканал Андийцы
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/34114/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
+#EXTGRP:Трансляции Catcast TV 🐈
 https://tv.a21network.ru/content/40650/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/01092023/logos/39971-64f21c5118456.jpg",ТНОМЕР
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01092023/logos/39971-64f21c5118456.jpg",ТНОМЕР
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/39971/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/01102022/logos/42311-6338476f58942.png",6 канал
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01102022/logos/42311-6338476f58942.png",6 канал
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/42311/index.m3u8
+
 #EXTINF:-1 group-title="Трансляции Catcast TV 🐈",ԼԱՅՄ GOLD TV
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png",Eurodance 90
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17012021/logos/36987-60048f109d643.png",Eurodance 90
+#EXTGRP:Трансляции Catcast TV 🐈
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",4k_no Кино и сериалы 24/7 VKPlay.live
-https://s.catcast.tv/content/42935/index.m3u8?token=a4a35f3c1e3f120e426e54ac1583ffd2
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png",TV VHS (niko630)
+
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05012024/banners/45195-65981badecaa0.png",TV VHS (niko630)
+#EXTGRP:Трансляции Catcast TV 🐈
 https://s.catcast.tv/hls/brotv-kino-1591.ts
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/08072024/logos/47402-668bbb1ce5fcc.png",Заставка ТВ6 Москва
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/08072024/logos/47402-668bbb1ce5fcc.png",Заставка ТВ6 Москва
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/videos/ch47402/080720241200_238627/video.mp4
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",KSTR // Shelter Town Radio
+
+#EXTINF:-1 tvg-logo="",KSTR // Shelter Town Radio
+#EXTGRP:Трансляции Catcast TV 🐈
 https://catcast.tv/player/40064
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",KSTR // Shelter Town Radio 2 ԼԱՅՄ GOLD TV
+
+#EXTINF:-1 tvg-logo="",KSTR // Shelter Town Radio 2 ԼԱՅՄ GOLD TV
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/40546/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",Fenix SSSR
+
+#EXTINF:-1 tvg-logo="",Fenix SSSR
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/40102/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg",ВИДЕОСАЛОН VHS
-https://v2.catcast.tv/content/40391/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg",VHS
-https://v2.catcast.tv/content/44051/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",MTV Russia TEST
+
+#EXTINF:-1 tvg-logo="",MTV Russia TEST
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/45105/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",Ремиксы
+
+#EXTINF:-1 tvg-logo="",Ремиксы
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/41833/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",Disney XD VIP
+
+#EXTINF:-1 tvg-logo="",Disney XD VIP
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/33501/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",WWE Russian
+
+#EXTINF:-1 tvg-logo="",WWE Russian
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/42608/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈" tvg-logo="",НТВ Крайм сити
+
+#EXTINF:-1 tvg-logo="",НТВ Крайм сити
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/41632/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈",Кино Мегахит
-https://v2.catcast.tv/content/47689/index.m3u8
-#EXTINF:-1 group-title="Трансляции Catcast TV 🐈",Мультики Vizi Vizi En (Смешарики на анг)
+
+#EXTINF:-1 tvg-logo="",Мультики Vizi Vizi En (Смешарики на анг)
+#EXTGRP:Трансляции Catcast TV 🐈
 https://v2.catcast.tv/content/47669/index.m3u8
 
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="https://img.catcast.tv/uploads/14032023/logos/9620-6410392404a6a.png",Малдер Всё тв
+
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14032023/logos/9620-6410392404a6a.png",Малдер Всё тв
+#EXTGRP:Медиаплатформа Nuum.ru
 https://media-gateway-cache.nuum.ru/live/5498/index.m3u8
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="https://img.catcast.tv/uploads/13012024/logos/9620-65a24114de08d.png" ,Малдер Всё тв фильм премьер
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13012024/logos/9620-65a24114de08d.png",Малдер Всё тв фильм премьер
+#EXTGRP:Медиаплатформа Nuum.ru
 https://media-gateway-cache.nuum.ru/live/85729/index.m3u8
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета
+#EXTGRP:Медиаплатформа Nuum.ru
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета (2 ссылка)
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета (2 ссылка)
+#EXTGRP:Медиаплатформа Nuum.ru
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",ТV VHS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",ТV VHS
+#EXTGRP:Медиаплатформа Nuum.ru
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png",Всё тв Film Premiere
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png",Всё тв Film Premiere
+#EXTGRP:Медиаплатформа Nuum.ru
 https://playlist.nuum.ru/live/85729/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema",Cinema Classic
+
+#EXTINF:-1,Cinema Classic
+#EXTGRP:Медиаплатформа Nuum.ru
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 group-title="Трансляции Nuum.ru" tvg-logo="" tvg-id="no_epg_cinema",STR TV HD
+
+#EXTINF:-1,STR TV HD
+#EXTGRP:Медиаплатформа Nuum.ru
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/ba559afa-e3f9-478d-8e37-431211dc4a3b/original.jpeg",Стримерша niateppa322
+#EXTGRP:Медиаплатформа Nuum.ru
+https://playlist.nuum.ru/abr/467715/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/3865ea6d-d9aa-46b1-9d4c-0736ecc9f59c/original.jpeg" ,Стримерша fitannit https://t.me/fitannit
+#EXTGRP:Медиаплатформа Nuum.ru
+https://playlist.nuum.ru/abr/687265/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="",Стример _viktor_1958
+#EXTGRP:Медиаплатформа Nuum.ru
+https://vod-playlist-cache.nuum.ru/nuum-vod-production/728ca143-a4b8-48ac-7f87-4e4003d39836/index-f2-v1.m3u8
+
+#EXTINF:-1 tvg-logo="",Стример Diletant32
+#EXTGRP:Медиаплатформа Nuum.ru
+https://playlist.nuum.ru/abr/287603/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/7d93bb78-ebbd-43f5-a73b-f05e2b3b83ff/original.jpeg", Музыка Full_Of_Reality
+#EXTGRP:Медиаплатформа Nuum.ru
+https://playlist.nuum.ru/abr/991426/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-name="Sunset Music" tvg-logo="https://sunset-media.ru/assets/logos/music.png",Sunset Music
 https://stream.sunset-media.ru:443/Free/Free/2.m3u8
