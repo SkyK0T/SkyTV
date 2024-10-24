@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://www.teleguide.info/download/new3/jtv.zip" m3uautoload=1 cache=1000
-
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Телеканалы обновлены по состоянию на 30.09.24🦊 
 https://river-3-311.rutube.ru/hls-vod/IKDqapbmSUHQB0TR4-k6TQ/1728280586/2397/0x5000c500f2b549ef/fac09ca254834b1dbc3bc2696a610002.mp4.m3u8?i=408x720_1650
 
