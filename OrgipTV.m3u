@@ -1,0 +1,1601 @@
+#EXTM3U
+
+#EXTINF:0 group-title="Кино"  tvg-id="sony-turbo" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony-turbo.png",.black
+http://ip1.orgip.net/649/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="sony-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony.png",.red
+http://ip1.orgip.net/695/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",1 TV - Грузия
+http://ip1.orgip.net/5401/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",2 TV
+http://ip1.orgip.net/5402/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="2na2" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_2x2_ru.png",2x2
+http://ip1.orgip.net/524/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="31-kanal-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/31-kanal-kz.png",31 канал KZ
+http://ip1.orgip.net/2104/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="360-news" tvg-logo="http://cdn.server-iptv.live/logo/tv/360-degree-novosti-ru.png",360° Новости HD
+http://ip1.orgip.net/136/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="365-dnej" tvg-logo="http://cdn.server-iptv.live/logo/tv/365_dnei_tv_ru.png",365 дней ТВ
+http://ip1.orgip.net/432/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="7kanal-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/7kanal-kz.png",7 канал KZ
+http://ip1.orgip.net/2108/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="amedia2" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_2.png",A2 HD
+http://ip1.orgip.net/641/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="amedia-hit" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-hit-ru.png",Amedia Hit
+http://ip1.orgip.net/625/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="amedia-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-premium-ru.png",Amedia Premium
+http://ip1.orgip.net/624/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="animal-planet-eu" tvg-logo="http://cdn.server-iptv.live/logo/tv/animal-planet-us.png",Animal Planet
+http://ip1.orgip.net/400/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="h1-am" tvg-logo="http://cdn.server-iptv.live/logo/tv/h1-am.png",Armenia 1
+http://ip1.orgip.net/5301/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="astana" tvg-logo="http://cdn.server-iptv.live/logo/tv/astana-tv-kz.png",Astana
+http://ip1.orgip.net/2107/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="aztv" tvg-logo="http://cdn.server-iptv.live/logo/tv/aztv.png",AzTV
+http://ip1.orgip.net/5001/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Barely legal
+http://ip1.orgip.net/711/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Fantastic HD
+http://ip1.orgip.net/1606/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU History HD
+http://ip1.orgip.net/1608/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские",BCU Kids HD
+http://ip1.orgip.net/1610/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские",BCU Kids+ HD
+http://ip1.orgip.net/1609/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Kinorating HD
+http://ip1.orgip.net/1613/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Marvel HD
+http://ip1.orgip.net/1612/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Premiere 1 HD
+http://ip1.orgip.net/1621/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Premiere 2 HD
+http://ip1.orgip.net/1622/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Premiere 3 HD
+http://ip1.orgip.net/1623/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Premiere HD
+http://ip1.orgip.net/1614/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Romantic HD
+http://ip1.orgip.net/1616/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU RUSERIAL HD
+http://ip1.orgip.net/1615/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Russian HD
+http://ip1.orgip.net/1617/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Stars HD
+http://ip1.orgip.net/1618/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Ultra 4K
+http://ip1.orgip.net/1619/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU VHS HD
+http://ip1.orgip.net/1620/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU Сваты HD
+http://ip1.orgip.net/1633/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",BCU СССР HD
+http://ip1.orgip.net/1632/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="biz-cinema" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv-biz-cinema.jpg",Biz Cinema
+http://ip1.orgip.net/5203/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="biz-music" tvg-logo="http://cdn.server-iptv.live/logo/tv/biz_music.png",Biz Music
+http://ip1.orgip.net/5205/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Blue Hustler
+http://ip1.orgip.net/703/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="bollywood-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/bollywood_ru_hd.png",Bollywood
+http://ip1.orgip.net/644/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="bolt-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/bolt.png",Bolt
+http://ip1.orgip.net/637/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="boomerang" tvg-logo="http://cdn.server-iptv.live/logo/tv/boomerang_global.png",Boomerang
+http://ip1.orgip.net/514/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Brazzers TV Europe
+http://ip1.orgip.net/705/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="bridge-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-deluxe-ru.png",Bridge Deluxe HD
+http://ip1.orgip.net/466/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="bridge-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge_tv_ru.png",Bridge TV
+http://ip1.orgip.net/452/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="bridge-tv-classic" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge_tv_ru_classic.png",Bridge TV Classic
+http://ip1.orgip.net/462/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="bridge-tv-dance" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-hits-ru.png",Bridge TV Hits
+http://ip1.orgip.net/461/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="bridge-tv-ruxit" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-russkiy-hit-ru.png",Bridge TV Русский хит
+http://ip1.orgip.net/468/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="bridge-tv-fresh" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-fresh.png",Bridge tv Фрэш
+http://ip1.orgip.net/464/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="bridge-tv-shlager" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-shlyager-ru.png",Bridge TV Шлягер
+http://ip1.orgip.net/467/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="cartoon-network" tvg-logo="http://cdn.server-iptv.live/logo/tv/cartoon_network_global.png",Cartoon Network HD
+http://ip1.orgip.net/506/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="cartoons-90" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cartoons90.png",Cartoons 90
+http://ip1.orgip.net/519/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="cartoons-big" tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsBIG.png",Cartoons Big
+http://ip1.orgip.net/520/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="cartoons-short" tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsSHORT.png",Cartoons Short
+http://ip1.orgip.net/521/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="cbc-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/cbc-az.png",CBC AZ
+http://ip1.orgip.net/5004/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="cbc-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/cbc-sport.png",CBC Sport
+http://ip1.orgip.net/5008/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cinema-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekarta_ru_cinema.png",Cinema
+http://ip1.orgip.net/628/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Армения",Cineman
+http://ip1.orgip.net/5311/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan.png",CineMan
+http://ip1.orgip.net/682/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManAction.png",CineMan Action
+http://ip1.orgip.net/689/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные",CineMan Air Crash
+http://ip1.orgip.net/419/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",CineMan CCCP 4K
+http://ip1.orgip.net/1602/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",CineMan ExExEx
+http://ip1.orgip.net/706/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",CineMan ExExEx TWO
+http://ip1.orgip.net/716/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-marvel" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMARVEL.png",CineMan Marvel
+http://ip1.orgip.net/688/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-melodrama" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMelodrama.png",CineMan Melodrama
+http://ip1.orgip.net/690/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-miniseries" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMiniSeries.png",CineMan MiniSeries
+http://ip1.orgip.net/1662/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",CineMan Old 4K
+http://ip1.orgip.net/1603/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman_premium.png",CineMan Premium
+http://ip1.orgip.net/1664/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные",CineMan Relax 4K
+http://ip1.orgip.net/1405/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-thriller" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManThiller.png",CineMan Thriller
+http://ip1.orgip.net/686/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-top" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManTOP.png",CineMan Top
+http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-vhs" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManVHS.png",CineMan VHS
+http://ip1.orgip.net/685/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-rukino" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManRuKino.png",CineMan РуКино
+http://ip1.orgip.net/687/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-lesnik" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-Forester.png",CineMan Лесник
+http://ip1.orgip.net/1659/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные",CineMan Фитнес
+http://ip1.orgip.net/1404/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-uzhasy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManUzhasy.png",CineMan Ужасы
+http://ip1.orgip.net/692/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-katastrofy" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-katastrofy.png",CineMan Катастрофы
+http://ip1.orgip.net/693/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManComedy.png",CineMan Комедия
+http://ip1.orgip.net/691/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",CineMan Криминальные Сериалы
+http://ip1.orgip.net/1672/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-musw" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-MW.png",CineMan Ментовские Войны
+http://ip1.orgip.net/1657/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="cineman-simps" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-simps.png",CineMan Симпсоны
+http://ip1.orgip.net/522/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-skorpom" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-skorpom.png",CineMan Скорая помощь
+http://ip1.orgip.net/694/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-svaty" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManSvaty.png",CineMan Сваты
+http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="cineman-pes" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan-Pes.png",CineMan ПёС
+http://ip1.orgip.net/1658/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка",Classic Music
+http://ip1.orgip.net/471/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные",Da Vinci
+http://ip1.orgip.net/1401/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="discovery-channel" tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery-channel-east-us.png",Discovery Channel HD
+http://ip1.orgip.net/401/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="discovery-science" tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery-science-france-us-fr.png",Discovery Science HD
+http://ip1.orgip.net/444/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Dorcel TV HD
+http://ip1.orgip.net/701/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="dtx" tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery_turbo_us_xtra.png",DTX HD
+http://ip1.orgip.net/445/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Україна",Enter-фільм
+http://ip1.orgip.net/315/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="epik-drama" tvg-logo="http://cdn.server-iptv.live/logo/tv/epic-drama-se.png",Epic Drama
+http://ip1.orgip.net/656/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="euronews" tvg-logo="http://cdn.server-iptv.live/logo/tv/euronews_fr.png",Euronews
+http://ip1.orgip.net/140/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="europa-plus-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/europa_plus_tv.png",Europa Plus TV
+http://ip1.orgip.net/453/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport
+http://ip1.orgip.net/200/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2
+http://ip1.orgip.net/201/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские",FAN
+http://ip1.orgip.net/518/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="fightbox-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/fight_box_hd.png",FightBox
+http://ip1.orgip.net/224/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Україна",Film.Ua Drama
+http://ip1.orgip.net/322/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Армения",Filmzone ATV
+http://ip1.orgip.net/5312/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="fox" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox_global.png",Fox
+http://ip1.orgip.net/626/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="foxlife" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox-life-us.png",Fox Life
+http://ip1.orgip.net/646/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Украинские"  tvg-id="ua-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ua-tv.png",FREEДОМ HD
+http://ip1.orgip.net/301/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="galaxy-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/galaxy_tv_ru.png",Galaxy
+http://ip1.orgip.net/447/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="gulli-girl" tvg-logo="http://cdn.server-iptv.live/logo/tv/gulli-girl-fr-ru.png",Gulli Girl
+http://ip1.orgip.net/511/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="hd-life" tvg-logo="http://cdn.server-iptv.live/logo/tv/hdl-ru.png",HDL HD
+http://ip1.orgip.net/412/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="history-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/history_us.png",History
+http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="h2" tvg-logo="http://cdn.server-iptv.live/logo/tv/h2-latinoamerica-us.png",History2
+http://ip1.orgip.net/415/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="hollywood" tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-ru.png",Hollywood
+http://ip1.orgip.net/634/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="hollywood-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-hd-us-ru.png",Hollywood HD
+http://ip1.orgip.net/669/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Hustler HD Europe
+http://ip1.orgip.net/714/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="id-xtra-eu" tvg-logo="http://cdn.server-iptv.live/logo/tv/investigation_discovery_us.png",ID Xtra
+http://ip1.orgip.net/443/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="idman" tvg-logo="http://cdn.server-iptv.live/logo/tv/idman.png",Idman
+http://ip1.orgip.net/5006/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Imedi
+http://ip1.orgip.net/5403/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="jimjam" tvg-logo="http://cdn.server-iptv.live/logo/tv/jimjam-uk.png",JimJam
+http://ip1.orgip.net/507/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinoliving" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinoliving.png",KinoLiving
+http://ip1.orgip.net/1663/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",KLI СССР HD
+http://ip1.orgip.net/1600/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="love-nature-4k" tvg-logo="http://cdn.server-iptv.live/logo/tv/love_nature_ca.png",Love Nature 4K
+http://ip1.orgip.net/446/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="m1-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/m1_ua.png",M1
+http://ip1.orgip.net/455/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="m1global" tvg-logo="http://cdn.server-iptv.live/logo/tv/m-1-global-tv-ru.png",M-1 Global
+http://ip1.orgip.net/223/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="mcm-top" tvg-logo="http://cdn.server-iptv.live/logo/tv/mcm-top-fr.png",MCM TOP
+http://ip1.orgip.net/460/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="mezzo" tvg-logo="http://cdn.server-iptv.live/logo/tv/mezzo-fr.png",Mezzo
+http://ip1.orgip.net/454/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка",Mezzo Live HD
+http://ip1.orgip.net/470/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="milliy" tvg-logo="http://cdn.server-iptv.live/logo/tv/milliy.png",Milliy
+http://ip1.orgip.net/5201/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="moldova-1" tvg-logo="http://cdn.server-iptv.live/logo/tv/moldova-1.png",Moldova 1
+http://ip1.orgip.net/5101/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="moldova-2" tvg-logo="http://cdn.server-iptv.live/logo/tv/moldova-2.png",Moldova 2
+http://ip1.orgip.net/5102/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="mtv-live-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/mtv_live_hd_us.png",MTV Live HD
+http://ip1.orgip.net/458/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="my5-uz" tvg-logo="http://cdn.server-iptv.live/logo/tv/my5-uz.png",My 5
+http://ip1.orgip.net/5204/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="nat-geo-wild" tvg-logo="http://cdn.server-iptv.live/logo/tv/nat_geo_wild_us.png",Nat Geo Wild
+http://ip1.orgip.net/403/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="national-geographic" tvg-logo="http://cdn.server-iptv.live/logo/tv/nat_geo_us.png",National Geographic HD
+http://ip1.orgip.net/402/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="nick-jr" tvg-logo="http://cdn.server-iptv.live/logo/tv/nick_jr_us.png",Nick Jr
+http://ip1.orgip.net/512/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="nickelodeon-cis" tvg-logo="http://cdn.server-iptv.live/logo/tv/nickelodeon_us.png",Nickelodeon
+http://ip1.orgip.net/0504/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="nickelodeon-cis" tvg-logo="http://cdn.server-iptv.live/logo/tv/nickelodeon_us_hd.png",Nickelodeon HD
+http://ip1.orgip.net/504/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="paramount-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/paramount_comedy_ru.png",Paramount Comedy Russia
+http://ip1.orgip.net/645/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Penthouse Gold HD
+http://ip1.orgip.net/707/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Penthouse Quickies HD
+http://ip1.orgip.net/713/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="polsat" tvg-logo="http://cdn.server-iptv.live/logo/tv/polsat.png",Polsat
+http://ip1.orgip.net/1100/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="premiere-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd1.png",Premiere HD 1
+http://ip1.orgip.net/1651/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="premierehd2" tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd2.png",Premiere HD 2
+http://ip1.orgip.net/1652/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="premierehd3" tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd3.png",Premiere HD 3
+http://ip1.orgip.net/1653/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="premierehd4" tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd4.png",Premiere HD 4
+http://ip1.orgip.net/1654/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Private TV
+http://ip1.orgip.net/704/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="kazakhstan" tvg-logo="http://cdn.server-iptv.live/logo/tv/kazakhstan.png",Qazaqstan
+http://ip1.orgip.net/2103/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Redlight HD
+http://ip1.orgip.net/702/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="rtg-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/rtg_russian_travel_guide.png",RTG TV
+http://ip1.orgip.net/411/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="ru-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ru_tv_ru.png",RU.TV
+http://ip1.orgip.net/463/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="russian-musicbox" tvg-logo="http://cdn.server-iptv.live/logo/tv/russian-music-box-ru.png",Russian Music Box
+http://ip1.orgip.net/457/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="setanta-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-kz.png",Setanta Qazaqstan HD
+http://ip1.orgip.net/228/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="setanta-sports-plus" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta_sports_2.jpg",Setanta Sports 2
+http://ip1.orgip.net/221/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="setanta-sports" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta_sports_1.jpg",SETANTA SPORTS HD
+http://ip1.orgip.net/220/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="setanta-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-ua.png",Setanta Sports Ukraine HD
+http://ip1.orgip.net/222/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="setanta-plus-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-plus-ua.png",SETANTA SPORTS+ HD
+http://ip1.orgip.net/214/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="shant-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shant-tv.png",Shant
+http://ip1.orgip.net/5303/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="shoghakat" tvg-logo="http://cdn.server-iptv.live/logo/tv/shoghakat.png",Shoghakat
+http://ip1.orgip.net/5302/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="shot-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shot-tv-ru.png",Shot TV
+http://ip1.orgip.net/657/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="sony-scifi" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony_scifi_ru.png",Sony Sci-Fi
+http://ip1.orgip.net/648/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Space TV
+http://ip1.orgip.net/5009/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="star-cinema" tvg-logo="http://cdn.server-iptv.live/logo/tv/star-cinema-ru.png",Star Cinema
+http://ip1.orgip.net/643/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="star-family" tvg-logo="http://cdn.server-iptv.live/logo/tv/star-family-ua.png",Star Family
+http://ip1.orgip.net/673/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Турция",STAR TV
+http://ip1.orgip.net/5510/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="terra-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/terra-ru.png",Terra
+http://ip1.orgip.net/0402/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные",The Explorers
+http://ip1.orgip.net/1406/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="tiji" tvg-logo="http://cdn.server-iptv.live/logo/tv/tiji_fr_russia.png",Tiji
+http://ip1.orgip.net/502/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="tlc" tvg-logo="http://cdn.server-iptv.live/logo/tv/tlc_uk.png",TLC
+http://ip1.orgip.net/413/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="trashtv" tvg-logo="http://cdn.server-iptv.live/logo/tv/trashtv.png",Trash
+http://ip1.orgip.net/674/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="travel-channel" tvg-logo="http://cdn.server-iptv.live/logo/tv/travel_channel_us.png",Travel Channel
+http://ip1.orgip.net/409/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="travel-adventure" tvg-logo="http://cdn.server-iptv.live/logo/tv/travel_adventure_channel_ru.png",Travel+Adventure
+http://ip1.orgip.net/416/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="tv1000" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_east.png",TV 1000
+http://ip1.orgip.net/622/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="tv4_pl" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv4_pl.png",TV 4
+http://ip1.orgip.net/1105/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="tvxxi" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv21_lv.png",TV XXI
+http://ip1.orgip.net/601/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="tv1000-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_action.png",TV1000 Action
+http://ip1.orgip.net/623/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="tv1000-russkoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_russkoe_kino.png",TV1000 Русское кино
+http://ip1.orgip.net/621/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="tvn_pl" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvn_pl.png",TVN
+http://ip1.orgip.net/1103/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="tvn_24" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvn_24.png",TVN 24
+http://ip1.orgip.net/1104/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="tvp1" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvp1.png",TVP 1
+http://ip1.orgip.net/1101/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="tvp2" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvp2.png",TVP 2
+http://ip1.orgip.net/1102/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="viasat-explore" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_explore_ru.png",Viasat Explore
+http://ip1.orgip.net/417/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="viasat-history" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_history.png",Viasat History
+http://ip1.orgip.net/410/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="viasat-nature" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_nature_hd.png",Viasat Nature
+http://ip1.orgip.net/449/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="viasat-nature-history-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat-nature-history-hd.png",Viasat Nature/History HD
+http://ip1.orgip.net/407/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="viasat-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat-sport-east-se.png",Viasat Sport
+http://ip1.orgip.net/215/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="vip-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-comedy-se.png",VIP Comedy
+http://ip1.orgip.net/607/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="vip-megahit" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-megahit-se.png",VIP Megahit
+http://ip1.orgip.net/606/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="vip-premiere" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-premiere-se.png",VIP Premiere
+http://ip1.orgip.net/605/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",Vivid Red
+http://ip1.orgip.net/709/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="xezer" tvg-logo="http://cdn.server-iptv.live/logo/tv/xezer.png",Xezer
+http://ip1.orgip.net/5005/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="xsport-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/x-sport-ua.png",XSPORT
+http://ip1.orgip.net/217/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",XXL
+http://ip1.orgip.net/710/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",XXX 708
+http://ip1.orgip.net/708/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",XXX 712
+http://ip1.orgip.net/712/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="XXX",XXX 715
+http://ip1.orgip.net/715/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="zor-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/zor_tv.png",Zor TV
+http://ip1.orgip.net/5202/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rbk" tvg-logo="http://cdn.server-iptv.live/logo/tv/rbk_tv_ru.png",РБК-ТВ
+http://ip1.orgip.net/118/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Україна",Репортер (Одесса)
+http://ip1.orgip.net/337/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="retro-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/retro_tv_ru.png",Ретро
+http://ip1.orgip.net/658/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rentv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",РЕН ТВ
+http://ip1.orgip.net/0106/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rentv-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",РЕН ТВ (+2)
+http://ip1.orgip.net/188/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rentv-pl5" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",РЕН ТВ (+5)
+http://ip1.orgip.net/193/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rentv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",РЕН ТВ HD
+http://ip1.orgip.net/106/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="rodnoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_rodnoe_kino.png",Родное кино
+http://ip1.orgip.net/678/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="romantichnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/romantichnoe-ru.png",Романтичное HD
+http://ip1.orgip.net/1660/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1
+http://ip1.orgip.net/0102/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia1-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+2)
+http://ip1.orgip.net/182/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia1-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+4)
+http://ip1.orgip.net/183/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia1-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+6)
+http://ip1.orgip.net/194/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия",Россия 1 (+9)
+http://ip1.orgip.net/160/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия",Россия 1 (+9)
+http://ip1.orgip.net/160/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia1-pl9" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (+9)
+http://ip1.orgip.net/160/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia1-mn1" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 (-1)
+http://ip1.orgip.net/138/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png",Россия 1 HD
+http://ip1.orgip.net/102/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="kultura" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_kultura.png",Россия К +0
+http://ip1.orgip.net/117/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="kultura-pl3" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_kultura.png",Россия К +3
+http://ip1.orgip.net/170/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rossia-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_24.png",Россия-24
+http://ip1.orgip.net/113/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="rtr-planeta-eu" tvg-logo="http://cdn.server-iptv.live/logo/tv/rtr_planeta_ru.png",РТР-Планета Европа
+http://ip1.orgip.net/131/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="lubimoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/lubimoe_kino.png",РТВ Любимое кино
+http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="russky-bestseller" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_bestseller_ru.png",Русский бестселлер
+http://ip1.orgip.net/630/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="russky-illuzion" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_illusion_ru.png",Русский Иллюзион
+http://ip1.orgip.net/631/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="russky-detektiv" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_detektiv_ru.png",Русский детектив
+http://ip1.orgip.net/679/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="russky-roman" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_roman_ru.png",Русский роман
+http://ip1.orgip.net/629/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="centralnoye-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/centralnoe-tv-ru.png",Центральное телевидение
+http://ip1.orgip.net/1400/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="blokbaster" tvg-logo="http://cdn.server-iptv.live/logo/tv/blokbaster-ru.png",Блокбастер HD
+http://ip1.orgip.net/668/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="tro" tvg-logo="http://cdn.server-iptv.live/logo/tv/belros-ru.png",БелРос
+http://ip1.orgip.net/380/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="belarus1" tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus_by_1.png",Беларусь 1
+http://ip1.orgip.net/381/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="belarus2" tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus2.png",Беларусь 2
+http://ip1.orgip.net/382/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="belarus3" tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus3.png",Беларусь 3
+http://ip1.orgip.net/383/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="belarus5" tvg-logo="http://cdn.server-iptv.live/logo/tv/belorys5.jpg",Беларусь 5
+http://ip1.orgip.net/219/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="bobior" tvg-logo="http://cdn.server-iptv.live/logo/tv/bober_tv_ru.png",Бобёр
+http://ip1.orgip.net/436/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные",Большая Азия
+http://ip1.orgip.net/1402/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="box-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/boks_tv_ru.png",Бокс ТВ
+http://ip1.orgip.net/216/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="v-gostiax-u-skazki" tvg-logo="http://cdn.server-iptv.live/logo/tv/v_gostyakh_u_skazki_ru.png",В гостях у сказки
+http://ip1.orgip.net/505/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="vtv" tvg-logo="http://cdn.server-iptv.live/logo/tv/vtv_by.png",ВТВ Беларусь
+http://ip1.orgip.net/384/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="vremia" tvg-logo="http://cdn.server-iptv.live/logo/tv/vremya_ru.png",Время
+http://ip1.orgip.net/431/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="detsky-mir" tvg-logo="http://cdn.server-iptv.live/logo/tv/detski_mir_ru.png",Детский мир
+http://ip1.orgip.net/510/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="dikiy" tvg-logo="http://cdn.server-iptv.live/logo/tv/dikiy.png",Дикий
+http://ip1.orgip.net/439/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="dozhd" tvg-logo="http://cdn.server-iptv.live/logo/tv/dozhd_ru.png",Дождь
+http://ip1.orgip.net/130/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="doktor" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal-doktor-ru.png",Доктор
+http://ip1.orgip.net/448/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="domkino" tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru.png",Дом Кино
+http://ip1.orgip.net/635/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="domkino-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru_premium.png",Дом Кино Премиум
+http://ip1.orgip.net/603/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="domashny" tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png",Домашний
+http://ip1.orgip.net/110/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="domashny-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png",Домашний +2
+http://ip1.orgip.net/179/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="domashny-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png",Домашний +4
+http://ip1.orgip.net/174/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="domashny-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png",Домашний +6
+http://ip1.orgip.net/173/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="dorama" tvg-logo="http://cdn.server-iptv.live/logo/tv/dorama-uk.png",Дорама
+http://ip1.orgip.net/675/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="dushevnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/dushevnoe-hd.png",Душевное кино HD
+http://ip1.orgip.net/697/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские",Лёва
+http://ip1.orgip.net/526/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="la-minor" tvg-logo="http://cdn.server-iptv.live/logo/tv/la-minor-ru.png",Ля-минор
+http://ip1.orgip.net/469/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="feniks-plus-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/fenix_plus_kino.png",Феникс+ Кино
+http://ip1.orgip.net/680/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="che" tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png",Че
+http://ip1.orgip.net/111/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="che-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png",Че +2
+http://ip1.orgip.net/172/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="che-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png",Че +4
+http://ip1.orgip.net/195/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="yu" tvg-logo="http://cdn.server-iptv.live/logo/tv/u_tv_ru.png",Ю ТВ
+http://ip1.orgip.net/124/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="evrokino" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurokino.png",Еврокино
+http://ip1.orgip.net/602/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="illuzion-plus" tvg-logo="http://cdn.server-iptv.live/logo/tv/illusion_plus.png",Иллюзион +
+http://ip1.orgip.net/638/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="izvestia" tvg-logo="http://cdn.server-iptv.live/logo/tv/izvestiatv-ru.png",Известия
+http://ip1.orgip.net/134/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="indiyskoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_indisjkoe_kino.png",Индийское кино
+http://ip1.orgip.net/651/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные",История
+http://ip1.orgip.net/1403/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ё канал
+http://ip1.orgip.net/465/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="xabar" tvg-logo="http://cdn.server-iptv.live/logo/tv/xabar.png",Хабар
+http://ip1.orgip.net/2106/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="xabar24" tvg-logo="http://cdn.server-iptv.live/logo/tv/khabar-24-kz.png",Хабар 24
+http://ip1.orgip.net/2101/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="khit" tvg-logo="http://cdn.server-iptv.live/logo/tv/hit-ru.png",Хит HD
+http://ip1.orgip.net/665/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="amedia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_1.png",А1 HD
+http://ip1.orgip.net/640/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="anekdottv" tvg-logo="http://cdn.server-iptv.live/logo/tv/anekdot_tv_ru.png",Анекдот ТВ
+http://ip1.orgip.net/127/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="avto24" tvg-logo="http://cdn.server-iptv.live/logo/tv/avto24_ru.png",Авто24
+http://ip1.orgip.net/408/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="arsenaltv" tvg-logo="http://cdn.server-iptv.live/logo/tv/arsenal-ru.png",Арсенал HD
+http://ip1.orgip.net/664/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="shanson-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shanson_tv_ru.png",Шансон ТВ
+http://ip1.orgip.net/451/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="shokiruyushchee-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/shokiruyushchee-hd.png",Шокирующее HD
+http://ip1.orgip.net/1661/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="ufc" tvg-logo="http://cdn.server-iptv.live/logo/tv/ufc-tv-rossiya-us-ru.png",Удар HD
+http://ip1.orgip.net/227/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="detsky" tvg-logo="http://cdn.server-iptv.live/logo/tv/unicum.png",Уникум
+http://ip1.orgip.net/503/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="nash-kinopokaz" tvg-logo="http://cdn.server-iptv.live/logo/tv/nash-kinopokaz.png",Наш Кинопоказ HD
+http://ip1.orgip.net/666/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="nash-kinoroman" tvg-logo="http://cdn.server-iptv.live/logo/tv/nash_kinoroman_ru.png",Наш Кинороман
+http://ip1.orgip.net/615/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="nasha-sibir-4k" tvg-logo="http://cdn.server-iptv.live/logo/tv/nasha_sibir.png",Наша Сибирь
+http://ip1.orgip.net/429/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="nashehd" tvg-logo="http://cdn.server-iptv.live/logo/tv/nashe-ru.png",Наше HD
+http://ip1.orgip.net/616/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="nashe-novoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_nashe_novoe_kino.png",Наше новое кино
+http://ip1.orgip.net/620/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="nauka-20" tvg-logo="http://cdn.server-iptv.live/logo/tv/nauka_ru.png",Наука HD
+http://ip1.orgip.net/406/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="nostalgia" tvg-logo="http://cdn.server-iptv.live/logo/tv/nostalgia_ru.png",Ностальгия
+http://ip1.orgip.net/433/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",НТВ
+http://ip1.orgip.net/0103/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",НТВ (+2)
+http://ip1.orgip.net/184/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",НТВ (+4)
+http://ip1.orgip.net/185/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv-pl7" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",НТВ (+7)
+http://ip1.orgip.net/161/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",НТВ (-1)
+http://ip1.orgip.net/139/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",НТВ HD
+http://ip1.orgip.net/103/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv-xit" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv-hit-ru.png",НТВ Хит
+http://ip1.orgip.net/1670/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv-serial" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_serial.png",НТВ Сериал
+http://ip1.orgip.net/661/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv-style" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_styl.png",НТВ Стиль
+http://ip1.orgip.net/663/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="ntv-pravo" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_pravo.png",НТВ Право
+http://ip1.orgip.net/662/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="ntk-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntk-kz.png",НТК
+http://ip1.orgip.net/2105/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="nst" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastoyashee_strashnoe_tv_ru.png",НСТ
+http://ip1.orgip.net/660/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="kvn-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kvn_ru.png",КВН ТВ
+http://ip1.orgip.net/120/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kamedi" tvg-logo="http://cdn.server-iptv.live/logo/tv/kamedi.png",Камеди HD
+http://ip1.orgip.net/676/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="karusel" tvg-logo="http://cdn.server-iptv.live/logo/tv/karusel_tv.png",Карусель
+http://ip1.orgip.net/116/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kino-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kino_tv_ru.png",КИНО ТВ
+http://ip1.orgip.net/600/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinoxit" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_hit.png",КИНОХИТ
+http://ip1.orgip.net/608/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinomiks" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_miks.png",КИНОМИКС
+http://ip1.orgip.net/609/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinosvidanie" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_svidanie.png",КИНОСВИДАНИЕ
+http://ip1.orgip.net/614/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinosemiya" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_semja.png",КИНОСЕМЬЯ
+http://ip1.orgip.net/610/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinopremiera-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_premyera.png",КИНОПРЕМЬЕРА HD
+http://ip1.orgip.net/613/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="kxl-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru_hd.png",КХЛ HD
+http://ip1.orgip.net/218/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="kxl" tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru.png",КХЛ ТВ
+http://ip1.orgip.net/225/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kineko" tvg-logo="http://cdn.server-iptv.live/logo/tv/kineko.png",Кинеко
+http://ip1.orgip.net/639/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",Кино 24
+http://ip1.orgip.net/1671/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино",Кино без границ
+http://ip1.orgip.net/1673/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Кинозал! Интерны ТВ
+http://ip1.orgip.net/1655/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Кинозал! Универ ТВ
+http://ip1.orgip.net/1656/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinojam1" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinojam1.png",Киноджем 1 HD
+http://ip1.orgip.net/698/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinojam2" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinojam2.png",Киноджем 2 HD
+http://ip1.orgip.net/699/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinokomedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_medija.png",Кинокомедия
+http://ip1.orgip.net/654/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinopokaz" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinopokaz_ru.png",Кинопоказ
+http://ip1.orgip.net/611/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinosat" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinosat-ru.png",Киносат
+http://ip1.orgip.net/653/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinoseria" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_seriya.png",Киносерия
+http://ip1.orgip.net/650/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="kinouzhas" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinouzhas-ru.png",Киноужас HD
+http://ip1.orgip.net/642/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="komedijnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/komediynoe-ru.png",Комедийное HD
+http://ip1.orgip.net/617/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="russkaya-komedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkaya_komediya_ru.png",Комедия
+http://ip1.orgip.net/671/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Україна",Квартал ТВ
+http://ip1.orgip.net/313/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="ktk-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/ktk-kz.png",КТК
+http://ip1.orgip.net/2109/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="kto-est-kto" tvg-logo="http://cdn.server-iptv.live/logo/tv/kto_est_kto_ru.png",Кто есть кто
+http://ip1.orgip.net/434/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="kuxnia-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kuhnya_tv.png",Кухня ТВ
+http://ip1.orgip.net/435/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="m2-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/m2-ua.png",М2
+http://ip1.orgip.net/332/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="maliatko-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/malyatko_tv.png",Малятко TV
+http://ip1.orgip.net/508/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_tv.png",Матч ТВ
+http://ip1.orgip.net/207/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-football1" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_1.png",Матч! Футбол 1
+http://ip1.orgip.net/202/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-football2" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_2.png",Матч! Футбол 2
+http://ip1.orgip.net/203/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-football3" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_3.png",Матч! Футбол 3
+http://ip1.orgip.net/204/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-igra" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_igra.png",Матч! Игра
+http://ip1.orgip.net/205/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-arena" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_arena.png",Матч! Арена
+http://ip1.orgip.net/206/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-planeta" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_planeta.png",Матч! Планета
+http://ip1.orgip.net/211/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-premier" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png",МАТЧ ПРЕМЬЕР
+http://ip1.orgip.net/208/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-premier" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png",МАТЧ ПРЕМЬЕР SD
+http://ip1.orgip.net/0208/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-boets" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_boets.png",МАТЧ! Боец
+http://ip1.orgip.net/210/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="match-nash-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-strana-ru.png",МАТЧ! СТРАНА
+http://ip1.orgip.net/209/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="mir" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_ru.png",Мир
+http://ip1.orgip.net/122/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="mir-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_24_ru.png",Мир 24
+http://ip1.orgip.net/132/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт",Мир Баскетбола
+http://ip1.orgip.net/231/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="mir-seriala" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_seriala_ru.png",Мир Сериала
+http://ip1.orgip.net/627/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="moskva-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/moskva_24_ru.png",Москва 24
+http://ip1.orgip.net/114/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="mosfilm" tvg-logo="http://cdn.server-iptv.live/logo/tv/mosfilm.png",Мосфильм. Золотая коллекция
+http://ip1.orgip.net/659/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="moya-planeta" tvg-logo="http://cdn.server-iptv.live/logo/tv/moya-planeta-ru.png",Моя Планета
+http://ip1.orgip.net/404/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="muztv" tvg-logo="http://cdn.server-iptv.live/logo/tv/muz-tv-ru.png",МУЗ-ТВ
+http://ip1.orgip.net/456/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="muzhskoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_muzhskoe_kino.png",МУЖСКОЕ КИНО
+http://ip1.orgip.net/633/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",МТРК
+http://ip1.orgip.net/2102/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="mult" tvg-logo="http://cdn.server-iptv.live/logo/tv/mult_ru.png",Мульт
+http://ip1.orgip.net/501/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="multimania" tvg-logo="http://cdn.server-iptv.live/logo/tv/multilandia-ru.png",Мультиландия
+http://ip1.orgip.net/516/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="multimuzyka" tvg-logo="http://cdn.server-iptv.live/logo/tv/multimuzyka.png",МультиМузыка
+http://ip1.orgip.net/523/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Музыка"  tvg-id="zhara" tvg-logo="http://cdn.server-iptv.live/logo/tv/zhara-tv-ru.png",Жара HD
+http://ip1.orgip.net/459/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="zvezda" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Звезда
+http://ip1.orgip.net/108/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="zvezda-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Звезда (+2)
+http://ip1.orgip.net/191/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="zvezda-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Звезда (+4)
+http://ip1.orgip.net/167/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="zvezda-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Звезда (+6)
+http://ip1.orgip.net/198/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="zvezda" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Звезда HD
+http://ip1.orgip.net/0108/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="o_" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_o_ru.png",О!
+http://ip1.orgip.net/515/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="otr" tvg-logo="http://cdn.server-iptv.live/logo/tv/otr_ru.png",ОТР
+http://ip1.orgip.net/123/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="oxota-i-rybalka" tvg-logo="http://cdn.server-iptv.live/logo/tv/okhota-i-rybalka-ru.png",Охота и Рыбалка
+http://ip1.orgip.net/438/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="oxotnik-i-rybolov" tvg-logo="http://cdn.server-iptv.live/logo/tv/ohotnik-i-rybolov-ru.png",Охотник и рыболов
+http://ip1.orgip.net/405/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/ostrosyuzhetnoye-ru.png",Остросюжетное HD
+http://ip1.orgip.net/604/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tvcentr-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png",ТВ Центр +4
+http://ip1.orgip.net/176/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tvci" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvci.png",ТВ Центр International
+http://ip1.orgip.net/141/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tv3-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png",ТВ3
+http://ip1.orgip.net/119/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tv3-ru-pl3" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png",ТВ3 +3
+http://ip1.orgip.net/178/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tv3-ru-pl5" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png",ТВ3 +5
+http://ip1.orgip.net/175/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tvcentr" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png",ТВЦ
+http://ip1.orgip.net/109/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="sapfir" tvg-logo="http://cdn.server-iptv.live/logo/tv/sapfir.png",Сапфир
+http://ip1.orgip.net/647/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="sarafan" tvg-logo="http://cdn.server-iptv.live/logo/tv/sarafan_ru.png",Сарафан
+http://ip1.orgip.net/133/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт",Телеканал Футбол
+http://ip1.orgip.net/230/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="telekafe" tvg-logo="http://cdn.server-iptv.live/logo/tv/telecafe_ru.png",Телекафе
+http://ip1.orgip.net/437/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия",Соловьев Live
+http://ip1.orgip.net/5000/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="solnce" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Солнце
+http://ip1.orgip.net/500/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="sovsek" tvg-logo="http://cdn.server-iptv.live/logo/tv/soversheno_sekretno_ru.png",Совершенно секретно
+http://ip1.orgip.net/430/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="soyuz" tvg-logo="http://cdn.server-iptv.live/logo/tv/soyuz_ru.png",Союз
+http://ip1.orgip.net/129/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="spas" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal-spas-ru.png",Спас
+http://ip1.orgip.net/128/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="sport1-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/sport1_ua.png",Спорт 1
+http://ip1.orgip.net/213/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tnt" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",ТНТ
+http://ip1.orgip.net/0104/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tnt-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",ТНТ (+2)
+http://ip1.orgip.net/186/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tnt-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",ТНТ (+4)
+http://ip1.orgip.net/177/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tnt-pl7" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",ТНТ (+7)
+http://ip1.orgip.net/197/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tnt" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",ТНТ HD
+http://ip1.orgip.net/104/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tnt4" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt4-ru.png",ТНТ4
+http://ip1.orgip.net/121/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="tnt-int-eu" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-int.png",ТНТ-International
+http://ip1.orgip.net/135/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="stv-by" tvg-logo="http://cdn.server-iptv.live/logo/tv/stv-by.png",СТВ Беларусь
+http://ip1.orgip.net/385/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="sts" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",СТС
+http://ip1.orgip.net/0107/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="sts-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",СТС (+2)
+http://ip1.orgip.net/189/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия",СТС (+4)
+http://ip1.orgip.net/164/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия",СТС (+4)
+http://ip1.orgip.net/164/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="sts-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",СТС (+6)
+http://ip1.orgip.net/190/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="sts" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",СТС HD
+http://ip1.orgip.net/107/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="sts-kids-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-kids-ru.png",СТС Kids HD
+http://ip1.orgip.net/517/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="sts-love" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-love-ru.png",СТС Love
+http://ip1.orgip.net/125/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Спорт"  tvg-id="start" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_start.png",Старт
+http://ip1.orgip.net/226/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="strashnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/strashnoe_hd_ru.png",Страшное HD
+http://ip1.orgip.net/618/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="super" tvg-logo="http://cdn.server-iptv.live/logo/tv/subbota-ru.png",Суббота
+http://ip1.orgip.net/126/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Детские"  tvg-id="malysh" tvg-logo="http://cdn.server-iptv.live/logo/tv/supergeroi.png",Супергерои
+http://ip1.orgip.net/525/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="pervy" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал
+http://ip1.orgip.net/0101/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="pervy-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+2)
+http://ip1.orgip.net/180/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="pervy-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+4)
+http://ip1.orgip.net/181/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="pervy-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+6)
+http://ip1.orgip.net/192/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="pervy-pl9" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (+9)
+http://ip1.orgip.net/159/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="pervy-mn1" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал (-1)
+http://ip1.orgip.net/137/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="pervy" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png",Первый канал HD
+http://ip1.orgip.net/101/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Региональные"  tvg-id="pervy-kanal-eurasia-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/pervy-kanal-eurasia-kz.png",Первый канал Евразия
+http://ip1.orgip.net/2110/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="eureka-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/kosmichesky.png",Первый космический
+http://ip1.orgip.net/418/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="pobeda" tvg-logo="http://cdn.server-iptv.live/logo/tv/pobeda-ru.png",Победа
+http://ip1.orgip.net/632/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="premialnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/premialnoe-ru.png",Премиальное HD
+http://ip1.orgip.net/612/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Кино"  tvg-id="pro-lyubov" tvg-logo="http://cdn.server-iptv.live/logo/tv/pro-lyubov.png",Про Любовь HD
+http://ip1.orgip.net/667/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Україна",Піксель
+http://ip1.orgip.net/509/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="piatnica" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",Пятница
+http://ip1.orgip.net/0112/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="piatnica-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",Пятница (+2)
+http://ip1.orgip.net/196/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия",Пятница (+4)
+http://ip1.orgip.net/169/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="piatnica-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",Пятница (+4)
+http://ip1.orgip.net/169/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="piatnica" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",Пятница HD
+http://ip1.orgip.net/112/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="5kanal-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png",Пятый Канал
+http://ip1.orgip.net/105/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="5kanal-ru-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png",Пятый Канал (+2)
+http://ip1.orgip.net/187/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="5kanal-ru-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png",Пятый Канал (+5)
+http://ip1.orgip.net/171/video.m3u8?token=M4f082ab4c
+
+#EXTINF:0 group-title="Россия"  tvg-id="5kanal-ru-pl7" tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png",Пятый Канал (+7)
+http://ip1.orgip.net/168/video.m3u8?token=M4f082ab4c
+
+
+
+
+#EXTINF:0 group-title="Регион",12 Канал (Омск)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",12 КАНАЛ (ОМСК)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+
+#EXTINF:0 group-title="Регион" tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",1TV GEO
+http://188.93.95.250:80/1tv/index.m3u8
+
+#EXTINF:0 group-title="Регион",360/СИН (Сургут)
+http://video1.in-news.ru/360/index.m3u8
+
+#EXTINF:0 group-title="Регион",4 Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:0 group-title="Регион",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",8 канал (Владивосток)
+https://livestream.8kanal.tv/hls/livestream_high.m3u8
+
+#EXTINF:0 group-title="Регион",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
+
+#EXTINF:0 group-title="Регион",ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:0 group-title="Регион",ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:0 group-title="Регион",Al Zahra Tv
+http://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+
+#EXTINF:0 group-title="Регион",BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+
+#EXTINF:0 group-title="Регион",Baraza Music HD
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Baraza TV Greek Hits
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Brodilo TV
+http://brodilo.tv:80/channel.php
+
+#EXTINF:0 group-title="Регион",Brodilo TV
+https://brodilo.tv/brodilotv.m3u
+
+#EXTINF:0 group-title="Регион",CGTN Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+
+#EXTINF:0 group-title="Регион" tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Comedy Arkhi
+http://188.93.95.250:80/comedy/index.m3u8
+
+#EXTINF:0 group-title="Регион",Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+
+#EXTINF:0 group-title="Регион",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+
+#EXTINF:0 group-title="Регион",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+#EXTINF:0 group-title="Регион",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0 group-title="Регион",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Euronews English (720p)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:0 group-title="Регион",EWTN
+https://d3j0n5al39mfyd.cloudfront.net/ewtn/ukraine_1280x720_3300k.m3u8
+
+#EXTINF:0 group-title="Регион",Fashion TV FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:0 group-title="Регион" tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",GDS
+http://188.93.95.250:80/gdstv/index.m3u8
+
+#EXTINF:0 group-title="Регион",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:0 group-title="Регион",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:0 group-title="Регион",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+#EXTINF:0 group-title="Регион" tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",MAESTRO
+http://188.93.95.250:80/maestro/index.m3u8
+
+#EXTINF:0 group-title="Регион",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:0 group-title="Регион",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:0 group-title="Регион",On Air TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+
+#EXTINF:0 group-title="Музыка One.by",One.by
+http://rtmp.one.by:1200
+
+#EXTINF:0 group-title="Регион",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",RTV Altea HD
+http://54.38.156.56/live/stream/index.m3u8
+
+#EXTINF:0 group-title="Регион",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Регион",TBN BALTIA
+http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+
+#EXTINF:0 group-title="Регион",Turkmen Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:0 group-title="Регион",Tv Brics
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Регион",Univer TV HD
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+
+#EXTINF:0 group-title="Регион",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Vuemme TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+
+#EXTINF:0 group-title="Регион",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="Регион",Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:0 group-title="Россия"  tvg-id="rgvk-dagestan" tvg-logo="http://cdn.server-iptv.live/logo/tv/rgvk_dagestan_ru.png",РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+
+#EXTINF:0 group-title="Регион",Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:0 group-title="Регион",Раменское ТВ
+https://e10-ll.facecast.net/rtv/0.m3u8
+
+#EXTINF:0 group-title="Регион",Репортер 73
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+
+#EXTINF:0 group-title="Регион",БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+
+#EXTINF:0 group-title="Регион",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Говорит Москва
+http://video.govoritmoskva.ru:8080/rufm/index.m3u8
+
+#EXTINF:0 group-title="Регион",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
+
+#EXTINF:0 group-title="Россия"  tvg-id="grozny" tvg-logo="http://cdn.server-iptv.live/logo/tv/gtrk_groznyj_ru.png",Грозный
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+
+#EXTINF:0 group-title="Регион",Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+
+#EXTINF:0 group-title="Регион",Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+
+#EXTINF:0 group-title="Регион",Егорьевск ТВ
+http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8
+
+#EXTINF:0 group-title="Регион",Евразия Орск
+https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Абаза ТВ
+https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Регион",Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+
+#EXTINF:0 group-title="Регион",АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+
+#EXTINF:0 group-title="Регион",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+
+#EXTINF:0 group-title="Регион",Астрахань Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+
+#EXTINF:0 group-title="Регион",Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",УЛПРАВДА ТВ
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+
+#EXTINF:0 group-title="Регион",НВК Саха HD (Якутия)
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+
+#EXTINF:0 group-title="Регион",Небеса ТВ7
+https://vod.tv7.fi/tv7-ru/_definst_/smil:tv7-ru.smil/chunklist_w802965519_b946000_slru.m3u8
+
+#EXTINF:0 group-title="Регион",Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Новый век (Тамбов)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",ННТВ
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",НТК ИНГУШЕТИЯ
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
+
+#EXTINF:0 group-title="Регион",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",НТС HD
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+
+#EXTINF:0 group-title="Регион",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Курай TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+
+#EXTINF:0 group-title="Регион",Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",М2
+http://live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:0 group-title="Регион",Матур ТВ
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+
+#EXTINF:0 group-title="Регион",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+
+#EXTINF:0 group-title="Познавательные"  tvg-id="ministerstvo-idey" tvg-logo="http://cdn.server-iptv.live/logo/tv/ministerstvo_idei.jpg",Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Россия"  tvg-id="mir-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_24_ru.png",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+
+#EXTINF:0 group-title="Регион",Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+
+#EXTINF:0 group-title="Регион",Осетия-Ирыстон
+https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Регион",ТРК 555 HD
+http://trk555.tv:8888/live
+
+#EXTINF:0 group-title="Регион",ТРК Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru:80/orsk-infochhd/infochhd/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",ТВК 24 (Красноярск)
+https://air.tvk6.ru/tvk24/index.m3u8
+
+#EXTINF:0 group-title="Регион",Салям
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Тамыр
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
+
+#EXTINF:0 group-title="Регион" tvg-id="saratov-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/saratov-24.png",Саратов 24
+https://saratov24.tv/online/chank.php
+
+#EXTINF:0 group-title="Регион",Саратов 24
+https://saratov24.tv/online/playlist.php
+
+#EXTINF:0 group-title="Регион",Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
+#EXTINF:0 group-title="Регион",Телеканал ГИС Самара
+https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Регион",СЕВЕР
+http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Тивиком
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+
+#EXTINF:0 group-title="Регион",Тверской Проспект Регион
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+
+#EXTINF:0 group-title="Регион",Своё ТВ
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+
+#EXTINF:0 group-title="Регион",ТКР (Рязань)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+
+#EXTINF:0 group-title="Регион",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
+#EXTINF:0 group-title="Регион",Сургут 24
+http://video1.in-news.ru/c24/index.m3u8
+
+#EXTINF:0 group-title="Регион",Сургут 24
+https://video1.in-news.ru/c24/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Регион",Тротек
+http://trotek.keenetic.pro/play.m3u8
+
+#EXTINF:0 group-title="Регион",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+
+#EXTINF:0 group-title="Музыка One.by",Первый Музыкальный
+http://rtmp.one.by:1300
+
+#EXTINF:0 group-title="Музыка One.by"  tvg-id="onemuz" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_ru.png",Первый Музыкальный
+http://rtmp.one.by:2300
+
+#EXTINF:0 group-title="Музыка One.by"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_en.png",Первый Музыкальный (int)
+http://rtmp.one.by:1300/
+
+#EXTINF:0 group-title="Музыка One.by",Первый Музыкальный3 (RU)
+http://rtmp.one.by:2200
+
+#EXTINF:0 group-title="Регион",Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+
