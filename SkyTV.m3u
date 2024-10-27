@@ -557,31 +557,6 @@ https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CuYGyH5qFEMUIVOVpW3HkqBCTWB
 https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/Cu8G1Qv-Uxz42xf5mWUW46pyRDcXT_r5pGGSkwCfX_MRGRKXW-uBQkHBEY6k4K7ju1luy0mmYQO8LLuBhjyhr7q47oRApKCRrFwowLU97bE39T0AbIUwF_rUf9giwAPHutvduaOTCiFZpp9wJLR92n2j0JrCs1615xWPScRef1XF7XcETGENBJoZPQoYyfGhByTjS-1uBOVsHRXXcvniLGuB_w6L8rPqSogt7shZ0EwWZKN3T-t2UQtzvIHAt1o4V9br0m9vG5LyLPPcuZneWsPZORJ9DRjJqcRzWNUmvWPxIe5ZeuB9RBcf5g5ZTFCPLGVrlnepKmUMG-YwpFoMCs6aJiPYop0b5RWWXMvun9-TKs4hFBxVI83JdB84nZ3O_8P24TnQaFhA1IdQJ8EtFQAwt6BnfvLaCSuCD2bfB3nRHFO2UwjlR04JouCykqKWmaZpRMOOZ3yKbweBR65CE7qUd_x6sT6G4CyK0bA16F20JrceEh-oWgAamMjFf5TsRMLpsODmrMZoLapuCumyeGEkqx--oDCrK8GU8XqOJmubNrmtwE4RExb_LzFk4XeTXD8fUod3xllPGV73hVPE09WahCzAjmGlF81cO2jh2cOy1VpKjF93s5Rh_C21yzg1j1-43walhDZ03MN_rIVeDJT_v09gfH-z__eYutJBiyN7DCJct9c5P5oBeUTfFHK4PpfZvsqNb4ma0Oyf5Yw0ZKutB_TBYVi-FUXmpsOKTimrR-73R5jIItuPuSC68m9YqFCmlUtzqRqbBJ93zQBMeL2nzi9MMN7QuwcUKyIT_p24-Cpoxdd1ZzRqX604xXOfS3BDWjGEcLPnwHD2YJb9BpkXzxkcePG_jViPVflzk8cZNk7Bh1wSkjw8-k48-8PsCKDT5Hgfe2PaliLMwzbfaT57ZNtjoiv5aph78o_bhzIXq7YrHLYgpn-QEYFKNSLAJQKjJRSlbApjliHtQzNrluU4r5i_ZcihlElC7O24K42FhP90zIfsRnVubjWgvR3lrD4m4ue1TtwXeTK3jsAPkxPmdIpWuOkNMLwEEV4VKjrf4Smm-2AYy7RrlpNkIQ3WaQ-i9Mc7CPYvuwVwWcFviWk7ikm5-Qj9vw8wpWGUb5617MLz_DF4Qg1rMJ4ReRvTER_eDRdY5bEqWL2ivqfucfLuGgwiW4z2ukNPdawSrlogASoJZXUtd2VzdC0yMNwK.m3u8
 
 
-#EXTINF:-1 group-title="VK Play!(-_-)!",Фильмы! 24/7
-https://live.vkplay.ru/video_prokat
-#EXTINF:-1 group-title="VK Play!(-_-)!",Смотрим фильмы 24/7
-https://live.vkplay.ru/timetomovie
-#EXTINF:-1 group-title="VK Play!(-_-)!",Смотрим хорроры 24/7
-https://live.vkplay.ru/timetohorror					   
-#EXTINF:-1 group-title="VK Play!(-_-)!",Сериалы 24/7
-https://live.vkplay.ru/lampovoetv						  
-#EXTINF:-1 group-title="VK Play!(-_-)!",Мультфильмы 24/7
-https://live.vkplay.ru/wfliq
-#EXTINF:-1 group-title="VK Play!(-_-)!",Мультфильмы 24/7
-https://live.vkplay.ru/mezontrop
-#EXTINF:-1 group-title="VK Play!(-_-)!",Глад Валакас
-https://live.vkplay.ru/gladvalakas
-#EXTINF:-1 group-title="VK Play!(-_-)!"Кино 24/7 фильмы обзор
-https://live.vkplay.ru/movietoper
-#EXTINF:-1 group-title="VK Play!(-_-)!"Solo ink
-https://live.vkplay.ru/soloink
-#EXTINF:-1 group-title="VK Play!(-_-)!"TopMoment
-https://live.vkplay.ru/topmoment
-#EXTINF:-1 group-title="VK Play!(-_-)!"onlain4ikON 🔴Кино! Приятного просмотра!
-https://live.vkplay.ru/onlain4ikoff
-#EXTINF:-1 group-title="VK Play!(-_-)!"Gnumme Крепкий Гнумешек
-https://live.vkplay.ru/gnumme
-
 #EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",Dimonovich CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",Dimonovich CHD-TV Rock
@@ -928,48 +903,46 @@ http://fs2.persik.by/Domashniy/index.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" ,Заставка ТелеСеть VSE-TV.NET
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/templates/vsetv/landing/images/filmoteka-arch.gif",Заставка ТелеСеть VSE-TV.NET
 https://onlymov.vse-tv.net/PROMO/zaglushka_720p.mp4/index.mpd
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" ,43 Канал (Туапсе)
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-12/1607212870_43-kanal-tuapse.jpg",43 Канал (Туапсе)
 https://online.vse-tv.net/43_kanal_tuapse_hd/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",Eurosport 1
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-12/1607221732_eurosport1.jpg",Eurosport 1
 https://online.vse-tv.net/eurosport_1_onl/index.mpd
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",Eurosport 2
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2022-01/1642980688_eurosport-2.jpg",Eurosport 2
 https://online.vse-tv.net/eurosport_2_onl/index.mpd
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" ,VSE-TV - Фильмы Киносвидание
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-10/1602897318_vse-tv-60fps.jpg",VSE-TV - Фильмы
 https://online.vse-tv.net/kinosvidanie/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" ,Россия 24
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-10/1602898674_rossiya_24.jpg",Россия 24
 https://online.vse-tv.net/rossiya_24/index.mpd
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",Русский Экстрим (ретро)
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-10/1602899506_re.jpg",Русский Экстрим
 https://online.vse-tv.net/russkiy_ekstrim/index.mpd
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",НСТ
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1605078040_nst.jpg",НСТ
 https://online.vse-tv.net/nst_tv/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",Малыш ТВ
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1604996524_malysh-tv.jpg",Малыш ТВ
 https://online.vse-tv.net/multilandiya/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",Звезда
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1605074361_zvezda.jpg",Звезда
 https://online.vse-tv.net/zvezda_tv/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",ТелеДом
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1605079129_teledom.jpg",ТелеДом
 https://online.vse-tv.net/teledom/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" ,Сделано в СССР
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-09/1599983900_made_in_ussr.jpg",Сделано в СССР
 https://online.vse-tv.net/ussr_onl/index.mpd
 
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET",Пятый канал
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1604628667_supermult.jpg",Супер Мульт
+https://online.vse-tv.net/pyatyy_kanal/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
+
+#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1605077139_pjatyj-kanal.png",Пятый канал
 https://online.vse-tv.net/pyatyy_kanal/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
 
@@ -1010,7 +983,6 @@ http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.ts
 http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.m3u8
 #EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 TS
 http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.ts
-
 
 #EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Taurer Russia Groovezzo
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
@@ -11566,3 +11538,29 @@ https://mhd156.iptv2022.com/p/zRTIv0iiE_NXMelgKTnWKw,1729812491/streaming/aiva_t
 #EXTGRP:dmi3y-tv.ru
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 
+
+
+#EXTINF:-1 group-title="VK Play!(-_-)!",Фильмы! 24/7
+https://live.vkplay.ru/video_prokat
+#EXTINF:-1 group-title="VK Play!(-_-)!",Смотрим фильмы 24/7
+https://live.vkplay.ru/timetomovie
+#EXTINF:-1 group-title="VK Play!(-_-)!",Смотрим хорроры 24/7
+https://live.vkplay.ru/timetohorror					   
+#EXTINF:-1 group-title="VK Play!(-_-)!",Сериалы 24/7
+https://live.vkplay.ru/lampovoetv						  
+#EXTINF:-1 group-title="VK Play!(-_-)!",Мультфильмы 24/7
+https://live.vkplay.ru/wfliq
+#EXTINF:-1 group-title="VK Play!(-_-)!",Мультфильмы 24/7
+https://live.vkplay.ru/mezontrop
+#EXTINF:-1 group-title="VK Play!(-_-)!",Глад Валакас
+https://live.vkplay.ru/gladvalakas
+#EXTINF:-1 group-title="VK Play!(-_-)!"Кино 24/7 фильмы обзор
+https://live.vkplay.ru/movietoper
+#EXTINF:-1 group-title="VK Play!(-_-)!"Solo ink
+https://live.vkplay.ru/soloink
+#EXTINF:-1 group-title="VK Play!(-_-)!"TopMoment
+https://live.vkplay.ru/topmoment
+#EXTINF:-1 group-title="VK Play!(-_-)!"onlain4ikON 🔴Кино! Приятного просмотра!
+https://live.vkplay.ru/onlain4ikoff
+#EXTINF:-1 group-title="VK Play!(-_-)!"Gnumme Крепкий Гнумешек
+https://live.vkplay.ru/gnumme
