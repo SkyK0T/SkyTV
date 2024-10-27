@@ -11544,7 +11544,7 @@ http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Viasat Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",СТС (HD)
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",СТС
 http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)" ,СТС Kids
@@ -11565,7 +11565,7 @@ http://45.159.74.13:80/HTB/tracks-v1a1/mpegts
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png",Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Kentron HD
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Kentron
 http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Кинохит HD
