@@ -11571,7 +11571,7 @@ http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Кинохит HD
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Киноман HD
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Киноман
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Кинопремьера HD
