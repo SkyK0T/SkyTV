@@ -24,7 +24,7 @@ http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="atv-kinoman" tvg-name="ATV Kinoman", ATV Kinoman
 http://45.159.74.13:80/HTB/tracks-v1a1/mpegts
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png",Карусель Int (EDTV 576p)
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png",Карусель Int
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Kentron HD
@@ -45,7 +45,7 @@ http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Мир
 http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild (EDTV 576p)
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" ,Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",National Geographic
