@@ -1,3 +1,4 @@
+#EXTM3U
 ﻿#EXTM3U 
 #EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2023-10/medium/photo_2023-10-01_00-22-38.webp",с.1 ч.1 Ночная ящерица
 #EXTGRP:Человек-Паук (1994) (Студия 616)
@@ -15,7 +16,7 @@ https://redheadsound.video/storage/8ef5e76d/hls/stream_2.m3u8
 #EXTGRP:Человек-Паук (1994) (Студия 616)
 https://redheadsound.video/storage/8a012c5c/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2023-10/medium/photo_2023-10-01_00-22-38.webp",с.1 ч.6 Жало Скорпиона
-#EXTGRP:Человек-Паук (1994) (Студия 616
+#EXTGRP:Человек-Паук (1994) (Студия 616)
 https://redheadsound.video/storage/754e7b67/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2023-10/medium/photo_2023-10-01_00-22-38.webp",с.1 ч.7 Кравен-охотник
 #EXTGRP:Человек-Паук (1994) (Студия 616)
@@ -47,7 +48,7 @@ https://redheadsound.video/storage/92e88011/hls/stream_2.m3u8
 #EXTGRP:Человек-Паук (1994) (Студия 616)
 https://redheadsound.video/storage/91526a6c/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-03/medium/poster2kh1.webp", с.2 Неогенный кошмар ч.3 Гидромен
-#EXTGRP:Человек-Паук (1994) (Студия 616
+#EXTGRP:Человек-Паук (1994) (Студия 616)
 https://redheadsound.video/storage/5287f8bf/hls/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-03/medium/poster2kh1.webp", с.2 Неогенный кошмар ч.4 Страсти по мутантам
 #EXTGRP:Человек-Паук (1994) (Студия 616)
@@ -84,20 +85,171 @@ https://redheadsound.video/storage/6379cb31/hls/stream_2.m3u8
 https://redheadsound.video/storage/5c5702c6/hls/stream_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/0bjkyo6nvds.webp", с.3 "Грехи Отцов" ч.1 Доктор Стрэндж
+#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/0bjkyo6nvds.webp", с.3 "Грехи Отцов" ч.1 Доктор Стрэндж (28)
 #EXTGRP:Человек-Паук (1994) (Студия 616)
 https://redheadsound.video/storage/0511f2d9/hls/stream_2.m3u8
 
+#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/0bjkyo6nvds.webp", с.3 "Грехи Отцов" ч.2 Загадай желание (29)
+#EXTGRP:Человек-Паук (1994) (Студия 616)
+https://redheadsound.video/storage/a2485009/hls/stream_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/0bjkyo6nvds.webp", с.3 "Грехи Отцов" ч.3 Атака Октороботов (30)
+#EXTGRP:Человек-Паук (1994) (Студия 616)
+https://redheadsound.video/storage/255cb426/hls/stream_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/0bjkyo6nvds.webp", с.3 "Грехи Отцов" ч.4 Те же и Зелёный Гоблин (31)
+#EXTGRP:Человек-Паук (1994) (Студия 616)
+https://redheadsound.video/storage/1d2364d0/hls/stream_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/photo_2024-09-23_15-36-10.webp", Трейлер
-#EXTGRP:Пингвин (2024)
-https://vtrans.s3-private.mds.yandex.net/tts/prod/afbf61b7f1f047f8ab3a18590835ec76.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=WjGREUc47LBUFZn6pllC%2F20240930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240930T004921Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=6571386e31d58b7130867f9e33a77b61d7656a53c3cbeaaacc89dfcae1bea939
 
-#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/photo_2024-09-23_15-36-10.webp", Трейлер
-#EXTGRP:Пингвин (2024)
-https://vot-worker.toil.cc/video-translation/audio-proxy/afbf61b7f1f047f8ab3a18590835ec76.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=WjGREUc47LBUFZn6pllC%2F20240930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240930T004921Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=6571386e31d58b7130867f9e33a77b61d7656a53c3cbeaaacc89dfcae1bea939
 
-#EXTINF:-1 tvg-logo="https://redheadsound.studio/uploads/posts/2024-09/medium/photo_2024-09-23_15-36-10.webp", Пингвин ч.1
-#EXTGRP:Пингвин (2024) RHS
-https://redheadsound.video/storage/bf13132c/hls/stream_2.m3u8
+
+
+
+
+#EXTINF:-1,Человек-Паук (1994) 4K Ai Upscale
+https://vk.com/video-150947507_456239057
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Добрыня Никитич и Змей Горыныч [Мультфильм/Россия/2006]
+http://dmi3y-tv.ru/hls/multfilm/DOBRYNYANIKITICH_I_ZMEY_GORYNYCH.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Илья Муромец и Соловей Разбойник [Мультфильм/Россия/2007]
+http://dmi3y-tv.ru/hls/multfilm/ILYAMUROMEC_I_SOLOVEY_RAZBOYNIK.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Три богатыря и Шамаханская царица [Мультфильм/Россия/2010]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_SHAMAHANSKAYA_CARICA.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Три богатыря на дальних берегах [Мультфильм/Россия/2012]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_NA_DALNIH_BEREGAH.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Три богатыря. Ход конем [Мультфильм/Россия/2014]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_HOD_KONEM.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Три богатыря и Морской царь [Мультфильм/Россия/2016]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_MORSKOY_CAR.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Три богатыря и принцесса Египта [Мультфильм/Россия/2017]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_PRINCESSA_EGIPTA.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Три богатыря и Наследница престола [Мультфильм/Россия/2018]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_NASLEDNICA_PRESTOLA.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Иван Царевич и Серый Волк [Мультфильм/Россия/2011]
+http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Иван Царевич и Серый Волк 2 [Мультфильм/Россия/2013]
+http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK2.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Иван Царевич и Серый Волк 3 [Мультфильм/Россия/2015]
+http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK3.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Иван Царевич и Серый Волк 3 [Мультфильм/Россия/2015]
+http://anubis.ctc.ru/vod/1/hls/fta/-t7tgGLvDkxwbKC745AoPg/80376c6741d829e915c816b3b8546b04-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Волки и овцы: бе-е-е-зумное превращение [Мультфильм/Россия/2016]
+http://dmi3y-tv.ru/hls/multfilm/VOLKI_I_OVTSY.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Волки и овцы: Ход свиньей [Мультфильм/Россия/2018]
+http://dmi3y-tv.ru/hls/multfilm/VOLKI_I_OVTSY_HOD_SVINEY.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Снежная королева [Мультфильм/Россия/2012]
+http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Снежная королева 2: Перезаморозка [Мультфильм/Россия/2014]
+http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA2.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Снежная королева 3: Огонь и лёд [Мультфильм/Россия/2016]
+http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA3.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Три кота и море приключений [Мультфильм/Россия/2022]
+http://dmi3y-tv.ru/hls/multfilm/3KOTA_I_MORE_PRIKLYUCHENIY.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Тайная жизнь домашних животных [Мультфильм/США/2016]
+http://dmi3y-tv.ru/hls/multfilm/TAYNAYA_ZHIZN_DOMASHNIH_ZHIVOTNYH.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Человек-паук. Через вселенные [Мультфильм/США/2018]
+http://dmi3y-tv.ru/hls/multfilm/CHELOVEK_PAUK_CHEREZ_VSELENNYE.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Шрэк [Мультфильм/США/2001]
+http://dmi3y-tv.ru/hls/multfilm/SHREK.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Шрэк 2 [Мультфильм/США/2004]
+http://dmi3y-tv.ru/hls/multfilm/SHREK2.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Шрэк третий [Мультфильм/США/2007]
+http://dmi3y-tv.ru/hls/multfilm/SHREK_TRETIY.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Шрэк навсегда [Мультфильм/США/2010]
+http://dmi3y-tv.ru/hls/multfilm/SHREK_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Кот в сапогах [Мультфильм/США/2011]
+http://dmi3y-tv.ru/hls/multfilm/KOT_V_SAPOGAH.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Облачно. возможны осадки в виде фрикаделек [Мультфильм/США/2009]
+http://dmi3y-tv.ru/hls/multfilm/OBLACHNO.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Облачно... 2. Месть ГМО [Мультфильм/США/2013]
+http://dmi3y-tv.ru/hls/multfilm/OBLACHNO2.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Смурфики [Мультфильм/США/2011]
+http://dmi3y-tv.ru/hls/multfilm/SMURFIKI.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Смурфики 2 [Мультфильм/США/2013]
+http://dmi3y-tv.ru/hls/multfilm/SMURFIKI2.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Смурфики. Затерянная деревня [Мультфильм/США/2017]
+http://dmi3y-tv.ru/hls/multfilm/SMURFIKI_ZATERYANNAYA_DEREVNYA.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Как приручить дракона [Мультфильм/США/2010]
+http://dmi3y-tv.ru/hls/multfilm/KAK_PRIRUCHIT_DRAKONA.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Как приручить дракона 2 [Мультфильм/США/2014]
+http://dmi3y-tv.ru/hls/multfilm/KAK_PRIRUCHIT_DRAKONA2.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Сезон охоты [Мультфильм/США/2006]
+http://dmi3y-tv.ru/hls/multfilm/SEZON_OHOTY.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Сезон охоты 2 [Мультфильм/США/2008]
+http://dmi3y-tv.ru/hls/multfilm/SEZON_OHOTY2.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Сезон охоты 3 [Мультфильм/США/2010]
+http://dmi3y-tv.ru/hls/multfilm/SEZON_OHOTY3.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv", Семейка Крудс [Мультфильм/США/2013]
+http://dmi3y-tv.ru/hls/multfilm/SEMEYKA_KRUDS.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv", Семейка Крудс: Новоселье [Мультфильм/США/2020]
+http://dmi3y-tv.ru/hls/multfilm/SEMEYKA_KRUDS_NOVOSELE.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Босс-молокосос 2 [Мультфильм/США/2021]
+http://dmi3y-tv.ru/hls/multfilm/BOSS_MOLOKOSOS2.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Мадагаскар [Мультфильм/США/2005]
+http://dmi3y-tv.ru/hls/multfilm/MADAGASKAR.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Монстры на каникулах 3. Море зовёт [Мультфильм/США/2018]
+http://dmi3y-tv.ru/hls/multfilm/MONSTRY_NA_KANIKULAH3.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Планета 51 [Мультфильм/США/2009]
+http://dmi3y-tv.ru/hls/multfilm/PLANETA51.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Ранго [Мультфильм/США/2011]
+http://dmi3y-tv.ru/hls/multfilm/RANGO.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Хранители снов [Мультфильм/США/2012]
+http://dmi3y-tv.ru/hls/multfilm/HRANITELI_SNOV.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Спирит Непокорный [Мультфильм/США/2021]
+http://dmi3y-tv.ru/hls/multfilm/SPIRIT_NEPOKORNYI.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Эмоджи фильм [Мультфильм/США/2017]
+http://dmi3y-tv.ru/hls/multfilm/EMODZHI_FILM.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Кунг-фу панда 3 [Мультфильм/США/2016]
+http://dmi3y-tv.ru/hls/multfilm/KUNG-FU_PANDA3.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Зверопой 2 [Мультфильм/США/2021]
+http://dmi3y-tv.ru/hls/multfilm/ZVEROPOY2.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Приключения Тинтина: Тайна Единорога [Мультфильм/США/2011]
+http://dmi3y-tv.ru/hls/multfilm/PRIKLYUCHENIYA_TINTINA_TAYNA_EDINOROGA.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Лови волну! [Мультфильм/США/2007]
+http://dmi3y-tv.ru/hls/multfilm/LOVI_VOLNU.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Кот Гром и заколдованный дом [Мультфильм/США/2013]
+http://dmi3y-tv.ru/hls/multfilm/KOT_GROM_I_ZAKOLDOVANNY_DOM.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Рок Дог [Мультфильм/США/2016]
+http://dmi3y-tv.ru/hls/multfilm/ROK_DOG.m3u8
+
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Астерикс и тайное зелье [Мультфильм/Франция/2018]
+http://dmi3y-tv.ru/hls/multfilm/ASTERIKS_I_TAYNOE_ZELE.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Робинзон Крузо: Очень обитаемый остров [Мультфильм/Франция/2016]
+http://dmi3y-tv.ru/hls/multfilm/ROBINZON_KRUZO.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Эрнест и Селестина: Приключения мышки и медведя [Мультфильм/Франция/2012]
+http://dmi3y-tv.ru/hls/multfilm/ERNEST_I_SELESTINA.m3u8
+
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Барашек Шон [Мультфильм/Великобритания/2014]
+http://dmi3y-tv.ru/hls/multfilm/BARASHEK_SHON.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Гномы в доме [Мультфильм/Великобритания/2017]
+http://dmi3y-tv.ru/hls/multfilm/GNOMY_V_DOME.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Мы – монстры [Мультфильм/Великобритания/2017]
+http://dmi3y-tv.ru/hls/multfilm/MY_MONSTRY.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Дикие предки [Мультфильм/Великобритания/2018]
+http://dmi3y-tv.ru/hls/multfilm/DIKIE_PREDKI.m3u8
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Королевский корги [Мультфильм/Бельгия/2019]
+http://dmi3y-tv.ru/hls/multfilm/KOROLEVSKIY_KORGI.m3u8
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Стань легендой! Бигфут Младший [Мультфильм/Бельгия/2017]
+http://dmi3y-tv.ru/hls/multfilm/STAN_LEGENDOY.m3u8
+
+
+#EXTINF:-1 group-title="Мультики dmi3y-tv",Большой собачий побег [Мультфильм/Канада/2016]
+http://dmi3y-tv.ru/hls/multfilm/BOLSHOY_SOBACHIY_POBEG.m3u8
