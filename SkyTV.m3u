@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz, http://95.215.110.132/epg/tvikseltv.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Телеканалы обновлены по состоянию на 27.10.24🦊 
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",🦊Телеканалы обновлены по состоянию на 27.10.24🦊 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:-1 group-title="Клипы" group-logo="https://iili.io/H7B4QYF.png"  tvg-logo="https://avatars.mds.yandex.net/i?id=160029f366a93c0eb51a2d88814364c73f0b7f6b-10695517-images-thumbs&n=13",Benny Benassi - Love Is Gonna Save Us (Monamour Remix)
