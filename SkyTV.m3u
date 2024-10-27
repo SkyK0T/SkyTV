@@ -1,9 +1,10 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz, http://95.215.110.132/epg/tvikseltv.xml.gz"
+
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Телеканалы обновлены по состоянию на 27.10.24🦊 
-https://github.com/Dimonovich/TV/raw/refs/heads/Dimonovich/FREE/ZastavkaPodpishis.mp4
+https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:-1 group-title="Клипы" group-logo="https://iili.io/H7B4QYF.png"  tvg-logo="https://avatars.mds.yandex.net/i?id=160029f366a93c0eb51a2d88814364c73f0b7f6b-10695517-images-thumbs&n=13",Benny Benassi - Love Is Gonna Save Us (Monamour Remix)
-https://river-3-323.rutube.ru/hls-vod/7yje8AbWMTZ1aZdUPeOELw/1726573649/2393/0x5000c500f2b54bc7/2607f03f449c4e6ba124f18a77bf52b4.mp4.m3u8?i=1920x1080_3344
+https://video-preview.s3.yandex.net/ugc/afa7edd7420e1b736953fc625d28c134_vmaf-preview-10s-720.mp4
 
 
 
@@ -938,9 +939,6 @@ https://online.vse-tv.net/teledom/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU
 
 #EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-09/1599983900_made_in_ussr.jpg",Сделано в СССР
 https://online.vse-tv.net/ussr_onl/index.mpd
-
-#EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1604628667_supermult.jpg",Супер Мульт
-https://online.vse-tv.net/pyatyy_kanal/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
 #EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1605077139_pjatyj-kanal.png",Пятый канал
 https://online.vse-tv.net/pyatyy_kanal/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
