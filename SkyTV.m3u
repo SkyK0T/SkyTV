@@ -11537,7 +11537,6 @@ https://mhd156.iptv2022.com/p/zRTIv0iiE_NXMelgKTnWKw,1729812491/streaming/aiva_t
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 
 
-#EXTM3U
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",21TV
 http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
@@ -11548,10 +11547,10 @@ http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",СТС (HD)
 http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)" ,СТС Kids (EDTV 576p)
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" ,СТС Kids
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Домашний Int (EDTV 576p)
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Домашний
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Filmzone HD
@@ -11563,7 +11562,7 @@ http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="atv-kinoman" tvg-name="ATV Kinoman", ATV Kinoman
 http://45.159.74.13:80/HTB/tracks-v1a1/mpegts
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png",Карусель Int
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png",Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Kentron HD
