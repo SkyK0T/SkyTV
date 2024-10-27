@@ -3,16 +3,16 @@
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",21TV
 http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",ATV HD
-http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Авто плюс
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Viasat Sport
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",CTC HD
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",СТС (HD)
 http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Домашний
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" ,СТС Kids (EDTV 576p)
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Домашний Int (EDTV 576p)
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Filmzone HD
@@ -21,7 +21,10 @@ http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",НТВ
 http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Карусель
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="atv-kinoman" tvg-name="ATV Kinoman", ATV Kinoman
+http://45.159.74.13:80/HTB/tracks-v1a1/mpegts
+
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png",Карусель Int (EDTV 576p)
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Kentron HD
@@ -39,10 +42,10 @@ http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",Матч! Планета
 http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",МИР
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Мир
 http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VNeT (интернет-провайдер)",Nat Geo Wild
+#EXTINF:-1 group-title="VNeT (интернет-провайдер)" tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild (EDTV 576p)
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",National Geographic
