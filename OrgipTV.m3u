@@ -1,4 +1,33 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://cineman.su/epg/epg_cineman.xml.gz"
+
+#EXTINF:-1 group-title="Музыка 1muz.com", tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="FirstMusicChannel.by,Первый музыкальный канал HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="Музыка 1muz.com", tvg-logo="http://1muz.com/images/LOGORUS.png",Первый музыкальный канал SD
+http://hz1.teleport.cc:80/HLS/SD.m3u8
+
+#EXTINF:0 group-title="Музыка 1muz.com",Первый Музыкальный 1200
+http://rtmp.one.by:1200
+
+#EXTINF:0 group-title="Музыка 1muz.com"  tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_en.png",Первый Музыкальный ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:0 group-title="ONE", ONE 2 UHD
+http://rtmp.one.by:1400
+
+#EXTINF:0 group-title="ONE", ONE 3 
+http://rtmp.one.by:1499
+
+#EXTINF:0 group-title="Музыка 1muz.com",One Россия
+http://rtmp.one.by:2200
+
+#EXTINF:0 group-title="Музыка 1muz.com"  tvg-id="onemuz" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_ru.png",ONE Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:0 group-title="ONE", ONE 1 SD
+rtmp://rtmp.one.by/SD/1muz
+
+
 
 #EXTINF:0 group-title="Кино"  tvg-id="sony-turbo" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony-turbo.png",.black
 http://ip1.orgip.net/649/video.m3u8?token=M4f082ab4c
@@ -270,8 +299,6 @@ http://ip1.orgip.net/701/video.m3u8?token=M4f082ab4c
 #EXTINF:0 group-title="Познавательные"  tvg-id="dtx" tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery_turbo_us_xtra.png",DTX HD
 http://ip1.orgip.net/445/video.m3u8?token=M4f082ab4c
 
-#EXTINF:0 group-title="Україна",Enter-фільм
-http://ip1.orgip.net/315/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0 group-title="Кино"  tvg-id="epik-drama" tvg-logo="http://cdn.server-iptv.live/logo/tv/epic-drama-se.png",Epic Drama
 http://ip1.orgip.net/656/video.m3u8?token=M4f082ab4c
@@ -294,20 +321,11 @@ http://ip1.orgip.net/518/video.m3u8?token=M4f082ab4c
 #EXTINF:0 group-title="Спорт"  tvg-id="fightbox-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/fight_box_hd.png",FightBox
 http://ip1.orgip.net/224/video.m3u8?token=M4f082ab4c
 
-#EXTINF:0 group-title="Україна",Film.Ua Drama
-http://ip1.orgip.net/322/video.m3u8?token=M4f082ab4c
-
-#EXTINF:0 group-title="Армения",Filmzone ATV
-http://ip1.orgip.net/5312/video.m3u8?token=M4f082ab4c
-
 #EXTINF:0 group-title="Кино"  tvg-id="fox" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox_global.png",Fox
 http://ip1.orgip.net/626/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0 group-title="Кино"  tvg-id="foxlife" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox-life-us.png",Fox Life
 http://ip1.orgip.net/646/video.m3u8?token=M4f082ab4c
-
-#EXTINF:0 group-title="Украинские"  tvg-id="ua-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ua-tv.png",FREEДОМ HD
-http://ip1.orgip.net/301/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0 group-title="Познавательные"  tvg-id="galaxy-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/galaxy_tv_ru.png",Galaxy
 http://ip1.orgip.net/447/video.m3u8?token=M4f082ab4c
@@ -579,8 +597,6 @@ http://ip1.orgip.net/5202/video.m3u8?token=M4f082ab4c
 #EXTINF:0 group-title="Россия"  tvg-id="rbk" tvg-logo="http://cdn.server-iptv.live/logo/tv/rbk_tv_ru.png",РБК-ТВ
 http://ip1.orgip.net/118/video.m3u8?token=M4f082ab4c
 
-#EXTINF:0 group-title="Україна",Репортер (Одесса)
-http://ip1.orgip.net/337/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0 group-title="Кино"  tvg-id="retro-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/retro_tv_ru.png",Ретро
 http://ip1.orgip.net/658/video.m3u8?token=M4f082ab4c
@@ -936,8 +952,6 @@ http://ip1.orgip.net/617/video.m3u8?token=M4f082ab4c
 #EXTINF:0 group-title="Кино"  tvg-id="russkaya-komedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkaya_komediya_ru.png",Комедия
 http://ip1.orgip.net/671/video.m3u8?token=M4f082ab4c
 
-#EXTINF:0 group-title="Україна",Квартал ТВ
-http://ip1.orgip.net/313/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0 group-title="Региональные"  tvg-id="ktk-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/ktk-kz.png",КТК
 http://ip1.orgip.net/2109/video.m3u8?token=M4f082ab4c
@@ -1202,9 +1216,6 @@ http://ip1.orgip.net/612/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0 group-title="Кино"  tvg-id="pro-lyubov" tvg-logo="http://cdn.server-iptv.live/logo/tv/pro-lyubov.png",Про Любовь HD
 http://ip1.orgip.net/667/video.m3u8?token=M4f082ab4c
-
-#EXTINF:0 group-title="Україна",Піксель
-http://ip1.orgip.net/509/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0 group-title="Россия"  tvg-id="piatnica" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",Пятница
 http://ip1.orgip.net/0112/video.m3u8?token=M4f082ab4c
@@ -1584,18 +1595,11 @@ http://trotek.keenetic.pro/play.m3u8
 #EXTINF:0 group-title="Регион",Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 
-#EXTINF:0 group-title="Музыка One.by",Первый Музыкальный
-http://rtmp.one.by:1300
-
-#EXTINF:0 group-title="Музыка One.by"  tvg-id="onemuz" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_ru.png",Первый Музыкальный
-http://rtmp.one.by:2300
-
-#EXTINF:0 group-title="Музыка One.by"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_en.png",Первый Музыкальный (int)
-http://rtmp.one.by:1300/
-
-#EXTINF:0 group-title="Музыка One.by",Первый Музыкальный3 (RU)
-http://rtmp.one.by:2200
-
 #EXTINF:0 group-title="Регион",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+
+
+
+
+
 
