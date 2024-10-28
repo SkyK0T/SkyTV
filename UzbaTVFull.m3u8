@@ -1,6 +1,8 @@
-#EXTM3U8
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Телеканалы обновлены по состоянию на 30.09.24🦊 
-https://river-3-311.rutube.ru/hls-vod/IKDqapbmSUHQB0TR4-k6TQ/1728280586/2397/0x5000c500f2b549ef/fac09ca254834b1dbc3bc2696a610002.mp4.m3u8?i=408x720_1650
+#EXTM3U url-tvg="https://iptvx.one/EPG" 
+
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",🦊Телеканалы обновлены по состоянию на 27.10.24🦊 
+https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
+
 #EXTINF:-1 group-title="Usba TV",Музыка блюз
 https://fl1001.bozztv.com/ushba0/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Ushba Publicmovies
@@ -211,6 +213,12 @@ https://fl1001.bozztv.com/ushba100/index.m3u8
 https://fl1001.bozztv.com/ushba101/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Русское кино 102  🇷🇺
 https://fl1001.bozztv.com/ushba102/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Русское кино 102  🇷🇺
+https://fl1001.bozztv.com/ushba102/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Индия 103
+https://fl1001.bozztv.com/ushba103/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Нейросеть 104  🇷🇺
+https://fl1001.bozztv.com/ushba104/index.m3u8
 
 #EXTINF:-1 group-title="Usba TV",Кинозал Комедии  🇷🇺
 https://fl1001.bozztv.com/ushba-films-a/index.m3u8
@@ -257,7 +265,7 @@ https://fl1001.bozztv.com/ushba-films-s/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Кинозал 18+
 https://fl1001.bozztv.com/ushba-films-w/index.m3u8
 
-#EXTINF:-1 group-title="Usba TV "tvg-logo="https://sun9-62.userapi.com/impg/5kekOrPqMoxAwL9Bc6iyPnd-bO48aOUHO5nIEA/7dgTTTQ0zgQ.jpg?size=604x270&quality=96&sign=c69bf1d4139c82782f733c3e11cc6f8b&type=album",Ностальгия 🇷🇺
+#EXTINF:-1 group-title="Usba TV tvg-logo="https://sun9-62.userapi.com/impg/5kekOrPqMoxAwL9Bc6iyPnd-bO48aOUHO5nIEA/7dgTTTQ0zgQ.jpg?size=604x270&quality=96&sign=c69bf1d4139c82782f733c3e11cc6f8b&type=album",Ностальгия 🇷🇺
 https://fl1001.bozztv.com/ushba-rfilrms-0/index.m3u8
 
 #EXTINF:-1 group-title="Usba TV",Кинозал Культура 🇷🇺
