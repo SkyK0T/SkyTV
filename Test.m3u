@@ -386,8 +386,8 @@ https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11249.png",Поп
 http://fs2.persik.by/Pop4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11245.png",Рэп
-http://fs2.persik.by/Rap2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/1128.png",Рэп
+https://fs2.persik.by/Rap2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11243.png",Русский рок
 https://fs2.persik.by/Russkij_Rock2/tracks-v1a1/mono.m3u8
@@ -460,8 +460,24 @@ http://fs2.persik.by/Sunduchok4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PersikTV" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
 http://fs2.persik.by/365dney/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11380.png",Amedia
+https://foreign-default.persik.by/live/Ch422/playlist.m3u8?securehash=4urT9Jq_cs1KsG1d_Xm-9mc6D4zTbSZ2HZFVfdDVOIk%3D&secureendtime=1730485360&securestarttime=1730398960&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210380%22%7D
+
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11360.png",Amedia 2
+https://foreign-default.persik.by/live/Ch4/playlist.m3u8?securehash=nWmjQN95LDo8Fq8BQi_NUFbJco20LJEcj89TkpJxOdU%3D&secureendtime=1730485048&securestarttime=1730398648&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2211360%22%7D
+
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/643.png",Amedia Premium
+https://foreign-default.persik.by/live/Ch225/playlist.m3u8?securehash=tPrj4u_eFwFNkogbR0ipSYlG8FO_1p5sRF1xoGk_7HQ%3D&secureendtime=1730484414&securestarttime=1730398014&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%22643%22%7D
+
 #EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/682.png",Europa Plus TV
 https://foreign-default.persik.by/live/Ch1/playlist.m3u8?securehash=D3Frj8fmHS5Qn-yN2Rn23CWfxi3LZt-L3Q2zLMprQbk%3D&secureendtime=1730481157&securestarttime=1730394757&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%22682%22%7D
+
+
+#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/342.png",Fashion Мода (ссылка пока недоступна )
+https://fs2.persik.by/Luxuary_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11372.png",Luxuary HD
+https://fs2.persik.by/Luxuary_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/106105.png",Minsk 4K (ULTRA HD)
 https://fs2.persik.by/Misk4k/tracks-v1a1/mono.m3u8
@@ -490,19 +506,19 @@ https://fs2.persik.by/Belarus2_HD5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PersikTV" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 http://fs2.persik.by/Domashniy/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/608.png",Киномикс kinomiks (Телеканал)
+#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/608.png",Киномикс
 https://fs2.persik.by/Kinomiks/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/34.png",Кинопремьера kinopremera
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/34.png",Кинопремьера
 https://fs2.persik.by/Kinopremiera/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/30.png",Киносвидание kinosvidanie
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/30.png",Киносвидание
 https://fs2.persik.by/Kinosvidanie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/590.png",Киносемья kinosemya
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/590.png",Киносемья
 https://fs2.persik.by/Kinosemya/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/213.png",Кинохит kinohit
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/213.png",Кинохит
 https://fs2.persik.by/Kinohit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10242.png",КХЛ ТВ 
@@ -514,8 +530,12 @@ https://fs2.persik.by/MIR_HD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10025.png",Мужское кино
 https://foreign-default.persik.by/live/Ch268hd/playlist.m3u8?securehash=rNhJyZvp-u05EtdrgsnfnlqeqFGlHfDAFT6nT_nCCTs%3D&secureendtime=1730483359&securestarttime=1730396959&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210025%22%7D
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/260.png",Наше новое кино nashe-novoe-kino
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/260.png",Наше новое кино
 https://fs2.persik.by/NasheNovoeKino/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10230.png",Нано TV HD
+https://fs2.persik.by/Nano_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10255.png",НТВ-Беларусь
 https://foreign-default.persik.by/live/Ch78/playlist.m3u8?securehash=yBd9cC7q1ma2x3I1colFjkaScysuExLHnM77ymfxtbo%3D&secureendtime=1730483455&securestarttime=1730397055&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210255%22%7D
@@ -529,6 +549,10 @@ https://foreign-default.persik.by/live/Ch74/playlist.m3u8?securehash=UDmNL0RxVKv
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/111.png",ОНТ HD
 https://fs2.persik.by/ONT_HD2/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/13.png",РЕН ТВ
+https://foreign-default.persik.by/live/Ch63/playlist.m3u8?securehash=3bFSvpjGT7lJUUYgOVb838xi8u8gMfjoRA9TX2epdKw%3D&secureendtime=1730485007&securestarttime=1730398607&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2213%22%7D
+
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/700.png",РТР-БЕЛАРУСЬ HD
 https://fs2.persik.by/RTR_Belarus_HD2/tracks-v1a1/mono.m3u8
 
@@ -538,7 +562,7 @@ https://foreign-default.persik.by/live/Ch77/playlist.m3u8?securehash=y8dsFlaOa0z
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/115.png",СТВ HD
 https://fs2.persik.by/STV_HD2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/847.png",ТВ-3 Беларусь 847
+#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/847.png",ТВ-3 Беларусь
 https://fs2.persik.by/TV3BEL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/440.png",Футбол 440
