@@ -1,583 +1,745 @@
 #EXTM3U
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://i.mycdn.me/i?r=BDGvRlXWcXJosdiHOqVV3e-HIgA80qqpoQnGnUoRhMzez1yYFwVnysNuaLcYNszflNM",Известные актёры
-http://fs2.persik.by/Izvestnie_akteri5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",Александра Бортич
-http://fs2.persik.by/Bortich3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Т1
+https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcxMDA1OTQ1MCwiaHdpZCI6IjBjNjFhZGM2NGJjYzU0Y2Y5YmExZGZjNzAxNzQ3YmU0M2UyMGY2YWQ5NDIyNTEzMzE2YTdlODYyNTVjY2NlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzA5NDU0NjUwLCJzZXNzaW9uX2lkIjoiNDUyYTYxYjg2YzkyM2I3NzlkNTlkMzQyZjk4NTBhZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.j_y4zJUzwUuHb8Rwn0AXeif_Yx7pXPVmH4OvRK2gvD4
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://images.uznayvse.ru/main_catalog_image/p/images/catalog/2022/2/andrey-merzlikin-actor_11.jpg",Андрей Мерзликин
-http://fs2.persik.by/Merzlikin4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru",5 канал Россия
+https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.pinimg.com/564x/a5/da/15/a5da150e2a2be11e9d91b97bcd26c587.jpg",Андрей Миронов
-https://fs2.persik.by/Mironov7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="https://sun9-57.userapi.com/impf/c636726/v636726642/6b90c/EPUwZZOa-Io.jpg?size=960x540&quality=96&sign=68d35f122a6606a53d2a5c3b15953897&c_uniq_tag=TPlopGQfxvqXhBzCSp8U-OW6sNphvuRLYHhO0MhWZgM&type=album",555 Hunt Fishing TV
+https://stream-msk-04.ott.tricolor.tv/dtv/id590_MSKSG-PVR-1--Nasha_Tema/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://www.kino-teatr.ru/movie/kadr/586/pv_475768.jpg",Андрей Панин
-http://fs2.persik.by/Panin3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",6 КАДРОВ
+https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.pinimg.com/236x/1e/4b/7e/1e4b7ed10e19ffb881d6c0609e28978d.jpg",Аня Чиповская
-https://fs2.persik.by/Chipovskaja2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="atv-filmzone",ATV Filmzone
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://argumentiru.com/images/preview/arhnews/76e8834cbc70bfd668e51c5ef97e2490.jpg",Владимир Машков
-http://fs2.persik.by/Mashkov4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="atv-kinoman",ATV Kinoman
+http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV",Владимир Высоцкий
-https://fs2.persik.by/Visotskij/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv",Bridge TV
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id605_MSKSG-PVR-1--BRIDGE_TV_DELUXE_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV",Владимир Яглыч
-https://fs2.persik.by/Yaglich/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-classic",Bridge TV Classic
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.mycdn.me/image?id=946024504650&t=50&plc=WEB&tkn=*1-ro1j9z8KnS5TOubzlh4qTGgeo&fn=external_6",Георгий Вицин
-http://fs2.persik.by/Vicin_8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-hd",Bridge TV Deluxe
+https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://miks-karting.ru/vdnh-2024/images/headliners/kucenko.png",Гоша Куценко
-http://fs2.persik.by/Kucenko_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-dance",Bridge TV Hits
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.pinimg.com/1200x/b4/7c/c0/b47cc01c514334918cda5d60f14dcbe8.jpg",Данила Козловский
-http://fs2.persik.by/Kozlovskij_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-rock",Bridge TV Rock
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="",Дмитрий Марьянов
-https://fs2.persik.by/Marjanov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-ruxit",Bridge TV Русский хит
+https://stream-msk-16.ott.tricolor.tv/dtv/id910_MSKSG-PVR-1--Bridge_rock_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV",Жан-Клод Ван Дамм
-https://fs2.persik.by/VanDam7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",Евгений Леонов
-https://fs2.persik.by/Leonov_7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="cctv4",CCTV4 Europe
+http://stream-msk-13.ott.tricolor.tv/dtv/id658_MSKSG-PVR-1--CCTV4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",Игорь Петренко
-http://fs2.persik.by/Petrenko_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="cgtn",CGTN
+http://stream-msk-14.ott.tricolor.tv/dtv/id657_MSKSG-PVR-1--CGTN/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://www.national-movie-awards.ru/images/winners/year2014-018.jpg",Константин Хабенский
-http://fs2.persik.by/Habenskij3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные",CGTN-Русский
+http://stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://images.iptv.rt.ru/images/cfgd3fjir4ssk120a8u0.jpg",Николай Вдовиченков
-http://fs2.persik.by/Vdovichenkov3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="classic-music",Classic Music HD
+https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://www.litres.ru/static/authors/100/32/63/44/32634478.jpg",Максим Матвеев
-http://fs2.persik.by/Matveev3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-comedy",Comedy Central
+http://stream-msk-14.ott.tricolor.tv/dtv/id545_MSKSG-PVR-1--Pobeda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://r.mtdata.ru/c100x100/u14/photoD792/20034221605-0/original.jpg",Михаил Пореченков
-http://fs2.persik.by/Porechenkov2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="http://i115.fastpic.org/big/2021/0829/eb/4eecf3a0b670307e6947fdf2cd5f01eb.png",Comedy Radio
+https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://img.rosbalt.ru/photobank/c/d/0/0/tjk4QcnP-234.jpg",Павел Деревянко
-http://fs2.persik.by/Derevyanko5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" tvg-id="no_epg_radio",Dance FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id966_MSKSG-PVR-1--Comedy_Radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/1966007/952205454/S600xU_2x",Сергей Безруков
-http://fs2.persik.by/Bezrukov3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="detectivejam",DetectiveJam
+https://stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.pinimg.com/236x/1a/68/a8/1a68a841a6490b03f54fa621fcf9d82d.jpg",Сергей Пускепалис
-http://fs2.persik.by/Puskepalis3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="dtx-pl",DTX HD PL
+http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Радио" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-evropa-plyus-1659175383.jpg" tvg-id="no_epg_radio",Europe Plus
+https://stream-msk-17.ott.tricolor.tv/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn2.vectorstock.com/i/1000x1000/95/16/logo-music-vector-8129516.jpg" tvg-id="no_epg_music",Factoria TV
+https://stream-msk-14.ott.tricolor.tv/dtv/id934_MSKSG-PVR-1--9_Volna/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11060.png",Fantasy Фэнтези HD
-https://fs2.persik.by/Fantasy3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",FAN HD
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11137.png",RusKino HD 11137
-http://fs2.persik.by/RusKino3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fashion" tvg-id="fashionbox-hd" tvg-logo="https://iptvx.one/picons/fashionbox-hd.png",FashionBox HD
+http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV",Horror Movies HD
-https://fs2.persik.by/Horror_Movies_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://radiobitva.ru/images/artists/radio-dlya-dvoih.jpg" tvg-id="no_epg_radio",FM Радио для Дв❤️их
+https://stream-msk-17.ott.tricolor.tv/dtv/id965_MSKSG-PVR-1--Radio_Romantika/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11236.png",Американские комедии
-https://fs2.persik.by/Amerikanskie_Komedii_12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="eda-hd",FoodTime
+http://stream-msk-01.ott.tricolor.tv/dtv/id380_MSKSG-PVR-1--Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11269.png",Английские субтитры
-http://fs2.persik.by/Angliyskie_subtitry6/tracks-v1a1/mono.m3u8 HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HD Life
+https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10685.png",Боевики HD filmy-boeviki-hd
-http://fs2.persik.by/Boeviki_13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinojam1",Kinojam 1 HD
+https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD Кинобоевик  !(-_-)!
-http://fs2.persik.by/Boevik_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinojam2",Kinojam 2 HD
+http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD mono
-https://fs2.persik.by/Boevik_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png",Kronehit HD
+https://stream-msk-10.ott.tricolor.tv/dtv/id384_MSKSG-PVR-1--T_r_strana_fm/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10684.png",Биография HD
-https://fs2.persik.by/Biografija/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="m1global",M-1 Global
+http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",В кругу семьи
-http://fs2.persik.by/V_krugu_semii2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mezzo",Mezzo
+https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD
-https://fs2.persik.by/Vdohnovenie_13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="myzen-tv",myZen.tv HD
+http://stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-PVR-1--Channel_LIVE3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11273.png",Военные сериалы
-https://fs2.persik.by/Voen_Serialy_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="nano-hd",Nano HD
+http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11167.png",Военные фильмы
-https://fs2.persik.by/Voen_Filmy_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png",NHL (Интересные моменты)
+https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11272.png",Вторая мировая
-http://fs2.persik.by/Vtoraja_Mirovaja_7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png",Nick Music
+https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11227.png",Давай поженимся
-http://fs2.persik.by/Davaj_Pozhenimsya6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/o2tv.png" tvg-id="no_epg_music",O!2
+http://stream-msk-13.ott.tricolor.tv/dtv/id141_MSKSG-PVR-1--TNT_Mus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10687.png",Детектив HD
-https://fs2.persik.by/Detektiv_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music" tvg-logo="https://thumbs.dreamstime.com/b/retro-musiklogo-des-festivals-einfache-graue-art-101973093.jpg",Retro Music
+http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективное кино HD
-https://fs2.persik.by/Detektivnoe_Kino_8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/romance.png" tvg-id="romance",Romance
+http://stream-msk-12.ott.tricolor.tv/dtv/id647_MSKSG-PVR-1--Pro_Love_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективные сериалы
-https://fs2.persik.by/Detektivnie_Serialy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="rt-news",RT News
+http://stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1--RT/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10756.png",Дружба HD
-http://fs2.persik.by/Druzhba7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="rtd-ru",RT Д HD
+http://stream-msk-10.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11028.png",Документальное кино HD
-http://fs2.persik.by/DokumentalnoeKino3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd",RTG HD
+http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10739.png",Документальное HD
-http://fs2.persik.by/Dokumentalnoe4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv",RU.TV HD
+https://stream-msk-01.ott.tricolor.tv/dtv/id924_MSKSG-PVR-1--RUTV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11063.png",Золотая коллекция СССР
-https://fs2.persik.by/Zolotoja_Kollekcija_SSSR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Russian Extreme HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10749.png",Европейское кино HD
-https://fs2.persik.by/EvropejskoeKino14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="musicbox",Russian Musicbox Gold
+https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11129.png",Зарубежное кино
-http://fs2.persik.by/Zarubezhnoe_kino_9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Scream
+https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11271.png",Зомби апокалипсис
-http://fs2.persik.by/Zombi_apokalipsis7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="scream",Scream HD
+http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11213.png",Кино Антистресс
-http://fs2.persik.by/Kino_Antistress8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="silkway",Silk Way
+https://stream-msk-06.ott.tricolor.tv/dtv/id936_MSKSG-PVR-1--Doktor_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11266.png",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="suspense",Suspense
+http://stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1--Hit_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/608.png",Кино Микс HD
-https://fs2.persik.by/Kino_Miks11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music" tvg-logo="https://avatars.mds.yandex.net/get-socsnippets/5326024/2a0000018c7f5b87c6fd60eaaf38c7fe4845/square_216",TMF RUS
+https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11216.png",Кино по книгам
-https://fs2.persik.by/Kino_po_knigam9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11268.png",Кино про дружбу
-http://fs2.persik.by/Pro_druzhbu7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Velilla TV" tvg-id="actionwarfilms" tvg-name="velilla tv action war films hd",Velilla TV Action War Films HD
+https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11214.png",Кино про копов
-http://fs2.persik.by/Kino_pro_kopov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",Viju TV1000 Русское
+https://stream-msk-20.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11226.png",Кино про супергероев
-http://fs2.persik.by/Kino_pro_supergeroev/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="womens-magazine",Women's Magazine
+https://live-mirror-19.ott.tricolor.tv/dtv/id993_MSKSG-PVR-1--NVV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11239.png",Кино про шпионов
-http://fs2.persik.by/Kino_pro_shpionov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="rbk",РБК
+http://stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1--RBK_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11269.png",Кино с субтитрами
-http://fs2.persik.by/Kino_Subtitry_10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://sun9-32.userapi.com/hvYm3QEIKaM895rZ2fgNkIh0P18i-Oe-FjwIMw/rL09pDNrMus.jpg" tvg-id="no_epg_radio",Радио 7
+https://stream-msk-20.ott.tricolor.tv/dtv/id953_MSKSG-PVR-1--hit_fm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/10716.png",КиноТОП HD
-https://fs2.persik.by/Kinotophd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://papik.pro/grafic/uploads/posts/2023-04/1681606753_papik-pro-p-logotipi-radiostantsii-vektor-38.jpg" tvg-id="no_epg_radio",Радио ENERGY
+https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravda/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/10691.png",Комедия HD
-https://fs2.persik.by/Komediya_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-radio-maximum-1660163074.jpg" tvg-id="no_epg_radio",Радио Maximum
+https://stream-msk-04.ott.tricolor.tv/dtv/id766_MSKSG-PVR-1--Avtoradio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/11230.png",Комедии 2
-https://fs2.persik.by/Comedy_Films/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://pioner-cinema.ru/wp-content/uploads/2014/09/romantika.jpg" tvg-id="no_epg_radio",Радио Romantika
+https://stream-msk-17.ott.tricolor.tv/dtv/id959_MSKSG-PVR-1--Radio_ENERGY/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/11237.png",Комедийные боевики
-https://fs2.persik.by/Komedijnie_Boeviki/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://nerios.ru/roster/uploads/posts/2024-03/mibzo_nnejs-min.jpg" tvg-id="no_epg_radio",Радио Ваня
+https://stream-msk-20.ott.tricolor.tv/dtv/id956_MSKSG-PVR-1--yumor_fm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11274.png",Комедийные сериалы 
-http://fs2.persik.by/Komedijnie_seriali6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://static.tildacdn.com/tild3463-6266-4664-a637-333161383337/3c484c65a2d021a349aa.jpg" tvg-id="no_epg_radio",Радио Воскресение
+https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/11168.png",Комедийные фильмы HD
-https://fs2.persik.by/Novie_Komedii7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://sun1-27.userapi.com/K00RzIbIRMgpmKk5gMyIlZ_XuwhfIeOk_ID50g/WKEk93tgVTQ.jpg" tvg-id="no_epg_radio",Радио Град Петров
+https://stream-msk-17.ott.tricolor.tv/dtv/id964_MSKSG-PVR-1--Radio_TV/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/11022.png",Криминальные драмы
-https://fs2.persik.by/Kriminalnie_Drami/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://airpersonalities.ru/Foto/04April2016/radio_kp_bez_chastoty-7.jpg" tvg-id="no_epg_radio",Радио Комсомольская Правда
+https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10509.png",Kosmo
-http://fs2.persik.by/Kosmo6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://maps.adpass.ru/wp-content/uploads/2023/06/132433557_zvezd_thumb_fed_photo.jpg" tvg-id="no_epg_radio",Радио Звезда
+https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11135.png",Лёгкое кино
-http://fs2.persik.by/Legkoe_Kino9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://твояволна.рф/TVOLNA_logo_TVolna_20201113.png" tvg-id="no_epg_radio",Радио ТВОЯ ВОЛНА
+https://stream-msk-05.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/11048.png",Лучшие драмы HD
-https://fs2.persik.by/Luchshie_Drami/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="rentv",Рен ТВ HD
+http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"vg-logo="https://persik.by/media/channels/logos/11145.png",Лучшие сериалы HD
-https://fs2.persik.by/Luchshie_Seriali4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://zarplata.retrofm.ru/assets/img/logo.png" tvg-id="no_epg_radio",Ретро FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id952_MSKSG-PVR-1--dfm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV"tvg-logo="https://persik.by/media/channels/logos/10751.png",Любовь HD
-https://fs2.persik.by/Lubov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",РЕТРО КИНО
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11279.png",Любовь и детективы
-http://fs2.persik.by/Lubov_Detektivi7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png",Россия 1 HD
+https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11138.png",Мировое кино HD
-https://fs2.persik.by/Mirovoe_Kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png",Россия Культура
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11270.png",Маньяки
-http://fs2.persik.by/Manjaki6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://iptvx.one/picons/rossia-24.png" tvg-id="rossia-24",Россия-24
+https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11177.png",Мини-сериалы
-http://fs2.persik.by/Mini_serialy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov" tvg-logo"https://epgx.site/p/oxotnik-i-rybolov.png",Рыболов
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10755.png",Молодость
-http://fs2.persik.by/Molodost8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-bestseller",Русский бестселлер
+http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10747.png",Музыкальные фильмы HD
-https://fs2.persik.by/Muzikalnie_Filmy2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский Иллюзион
+http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11012.png",На реальных событиях
-https://fs2.persik.by/NaRealnihSobitijah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-detektiv",Русский детектив
+http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11030.png",Наши сериалы HD
-https://fs2.persik.by/Nashi_Seriali/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="ruskorabl",Русский корабль
+http://stream-msk-12.ott.tricolor.tv/dtv/id365_MSKSG-PVR-1--Mezzo/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11027.png",Новинки
-http://fs2.persik.by/Novinki9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-roman",Русский роман
+http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11146.png",Новинки кино HD
-http://fs2.persik.by/Novinki_Kino2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ra-germes.ru/upload/iblock/3de/russkoe_radio_img.jpg" tvg-id="no_epg_radio",Русское Радио
+https://stream-msk-05.ott.tricolor.tv/dtv/id763_MSKSG-PVR-1--Maximum/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11158.png",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="centralnoye-tv",ЦТВ
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10738.png",Новое кино
-https://fs2.persik.by/NovoeKino9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="blokbaster-hd",Блокбастер HD
+https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новые комедии
-http://fs2.persik.by/Novie_Komedii7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="tro",БелРос
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10752.png",Остросюжетные сериалы HD
-http://fs2.persik.by/OstrosuzhetnieSerialy6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="belarus2",Беларусь 2 HD
+http://stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11147.png",Отечественное кино
-https://fs2.persik.by/Otechestvennoe3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="belarus5",Беларусь 5 HD
+https://stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1--Konniy_Mir/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11024.png",Популярное кино HD
-https://fs2.persik.by/Populyarnoe_Kino_10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11346.png",Про родителей
-http://fs2.persik.by/Pro_roditeley8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="bolshoj-efir",Большой эфир
+http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Психологические ужасы
-http://fs2.persik.by/Psihologicheskie_uzhasy6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="http://stogel.ru/images/banner/bumtv.jpg",БУМ
+https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11278.png",Путешествие во времени
-http://fs2.persik.by/Puteshestvie_vo_vremeni10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",БОЕВИКИ HD
+https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11023.png",Рекомендуем
-https://fs2.persik.by/Rekomenduem7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://www.radiogrom.com/paint_new/logo__rus_big/buryad_fm.jpg" tvg-id="no_epg_radio",Буряд FM
+https://stream-msk-17.ott.tricolor.tv/dtv/id957_MSKSG-PVR-1--novoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11345.png",Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ВЗВЕШЕННЫЕ ЛЮДИ
+https://stream-msk-18.ott.tricolor.tv/dtv/id1002_MSKSG-PVR-1--Kinozal_13_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11136.png",Романтические фильмы
-http://fs2.persik.by/Romanticheskie8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ГЛУХАРЬ
+https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11029.png",Романтик комедии
-https://fs2.persik.by/Romantik_Comedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino",Дoм Kинo
+http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10487.png",Роскосмос HD
-http://fs2.persik.by/Roskosmos/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="da-vinci",Да Винчи
+https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10236.png",Русское кино
-https://fs2.persik.by/RusKino3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",День Победы HD
+http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11038.png",Русские комедии
-http://fs2.persik.by/Russkie_Komedii/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://vashifinancy.ru/upload/iblock/68a/68ad11cd47ed14bc37103967fe800822.jpg" tvg-id="no_epg_radio",Детское Радио
+https://stream-msk-10.ott.tricolor.tv/dtv/id756_MSKSG-PVR-1--Radio_dlya_Dvoikh/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10710.png",Семья HD
-https://fs2.persik.by/V_krugu_semii2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Дом Кино
+http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11025.png",Семейное
-http://fs2.persik.by/Semejnoe9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
+http://stream-msk-04.ott.tricolor.tv/dtv/id623_MSKSG-PVR-1--Moya_Planeta_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11131.png",Семейные фильмы
-http://fs2.persik.by/Semejnie_Filmy6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="domashny",Домашний HD
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10540.png",Сериалы serialy
-https://fs2.persik.by/Seriali/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Дорама HD
+https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
-http://fs2.persik.by/Soviet_Comedy11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://frocus.net/images/logotv/original/dorojnoe_radio_tiraspol.jpg" tvg-id="no_epg_radio",Дорожное FM
+https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10983.png",Советские новогодние фильмы
-https://fs2.persik.by/NewYearFilms_5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Душевное HD
+http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11031.png",Советские сериалы
-https://fs2.persik.by/Soviet_Serials/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Драйв
+http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11139.png",Твоё кино HD
-https://fs2.persik.by/Tvoe_Kino_7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="lapki-live",Лапки Live
+https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11018.png",Топ кино HD
-http://fs2.persik.by/TopKino_13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Лавстори
+http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11046.png",Триллер HD
-http://fs2.persik.by/Triller9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nashe-lubimoe-hd",Любимое HD
+https://stream-msk-14.ott.tricolor.tv/dtv/id931_MSKSG-PVR-1--Lovestory/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10713.png",Триллеры HD
-http://fs2.persik.by/Triller9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="lubimoe-kino",Любимое кино
+http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры Боевики
-http://fs2.persik.by/Trillery_Boeviki6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="football-ru" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",Футбол
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Триллеры Драма
-http://fs2.persik.by/Trillery_Drama4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg",лекторий DОСТОЕВСКИЙ
+https://live-mirror-19.ott.tricolor.tv/dtv/id969_MSKSG-PVR-1--Silk_Way_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11215.png",Триллеры США
-https://fs2.persik.by/Trillery_USA_12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
+https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10714.png",Ужасы HD
-https://fs2.persik.by/Psihologicheskie_uzhasy6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="yuvelirochka",Ювелирочка
+http://stream-msk-11.ott.tricolor.tv/dtv/id670_MSKSG-PVR-1--Luxury_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10740.png",Фестивальное кино
-http://fs2.persik.by/FestivalnoeKino8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://software-expert.ru/wp-content/uploads/2021/09/umor_fm.jpg" tvg-id="no_epg_radio",Юмор FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id962_MSKSG-PVR-1--Russkoe_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11264.png",Фильмы катастрофы
-http://fs2.persik.by/Filmy_katastrofy3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ЕРАЛАШ
+https://stream-msk-10.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11169.png",Фильмы Боевики HD
-https://fs2.persik.by/Filmi_Boeviki/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ЕВЛАМПИЯ РОМАНОВА
+https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11133.png",Фильмы про отдых
-https://fs2.persik.by/Films_pro_otdih/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Еврокино
+http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11059.png",Фильмы про спорт HD
-https://fs2.persik.by/Filmy_pro_sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные",Европа Плюс ТВ
+http://stream-msk-03.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/1013.png",Фильмы ужасов HD
-https://fs2.persik.by/Filmi_Uzhasov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Индия
+http://stream-msk-08.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10754.png",Экранизации HD
-http://fs2.persik.by/Ekranizacii12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="http://i121.fastpic.org/big/2023/0516/77/db7c2f60962c13008e3f5e9d5a86ce77.png",Игра
+http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11132.png",Экшн-фильмы
-https://fs2.persik.by/Action_Films2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id267_MSKSG-PVR-1--Zhivaya_Planeta/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Новости" tvg-id="xabar24",Хабар 24
+https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo=" https://persik.by/media/channels/logos/11245.png",Movie (Eng)
-http://fs2.persik.by/Movie2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://i.podster.fm/img/220577/crop/yes/size/default/220577-1.jpg" tvg-id="no_epg_radio",ХИТ FM
+https://stream-msk-17.ott.tricolor.tv/dtv/id967_MSKSG-PVR-1--Retro_FM/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10970.png",Sluhay.by
-http://fs2.persik.by/Sluhay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-logotip-avtoradio-na-prozrachnom-fone-6.jpg" tvg-id="no_epg_radio",Авто Радио
+https://stream-msk-17.ott.tricolor.tv/dtv/id945_MSKSG-PVR-1--europa_plus/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-name="Sluhay.by COVER" tvg-logo="https://persik.by/media/channels/logos/11102.png",Sluhay.by Cover
-https://fs2.persik.by/Sluhay_COVER2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",АНИМЕ HD
+https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-name="Sluhay.by EDM" tvg-logo="https://persik.by/media/channels/logos/10973.png",Sluhay.by Edm
-https://fs2.persik.by/Sluhay_EDM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",АНИМЕ HD
+https://stream-msk-19.ott.tricolor.tv/dtv/id997_MSKSG-PVR-1--Kinopokaz_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-name="Sluhay.by LIVE" tvg-logo="https://persik.by/media/channels/logos/10975.png",Sluhay.by Live
-https://fs2.persik.by/Sluhay_LIVE2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="arsenaltv",Арсенал HD
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1--Oruzhie/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-name="Sluhay.by RADIO" tvg-logo="https://persik.by/media/channels/logos/11170.png",Sluhay.by Radio
-https://fs2.persik.by/Sluhay_RADIO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Шокирующее HD
+https://stream-msk-06.ott.tricolor.tv/dtv/id603_MSKSG-PVR-1--Premialnoe_HD_4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-name="Sluhay.by RAP" tvg-logo="https://persik.by/media/channels/logos/10974.png",Sluhay.by Rap
-https://fs2.persik.by/Sluhay_RAP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10972.png",Sluhay.by Pop
-http://fs2.persik.by/Sluhay_POP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",УЖАСЫ HD
+https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-name="Sluhay Rock" tvg-logo="https://persik.by/media/channels/logos/10971.png",Sluhay Rock HD
-https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="usadba",Усадьба
+https://stream-msk-13.ott.tricolor.tv/dtv/id671_MSKSG-PVR-1--Nano_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11249.png",Поп
-http://fs2.persik.by/Pop4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Наш Кинопоказ HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/1128.png",Рэп
-https://fs2.persik.by/Rap2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 10
+http://stream-msk-08.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11243.png",Русский рок
-https://fs2.persik.by/Russkij_Rock2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 11
+http://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11246.png",Рок концерты
-https://fs2.persik.by/Rock_Kocerty2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 12
+http://stream-msk-11.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11247.png",Техно
-https://fs2.persik.by/Techno3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 13
+http://stream-msk-05.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1--Nash_sport12/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11248.png",Best clips
-https://fs2.persik.by/Best_clips/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 14
+http://stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11251.png",Concerts
-https://fs2.persik.by/Concerts4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 15
+http://stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11252.png",Dance!
-http://fs2.persik.by/Dance3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 16
+http://stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11225.png",DJ
-https://fs2.persik.by/DJ4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 17
+http://stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1--Nash_sport16/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11245.png",Hits
-http://fs2.persik.by/Hits4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 18
+http://stream-msk-03.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1--Nash_sport17/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11223.png",Relax
-https://fs2.persik.by/Relax3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 19
+http://stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11250.png",Pop-Rock
-https://fs2.persik.by/Pop_Rock2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 2
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11254.png",Synthwave
-http://fs2.persik.by/Synthwave/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 20
+http://stream-msk-07.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1--Nash_sport19/01/plst.m3u8
 
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 21
+http://stream-msk-08.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1--Nash_sport20/01/plst.m3u8
 
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 22
+http://stream-msk-05.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1--Nash_sport21/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11128.png",Аниме
-http://fs2.persik.by/Anime5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 23
+http://stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11130.png",Детские фильмы
-https://fs2.persik.by/DetskieFilmy4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 24
+http://stream-msk-09.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10680.png",Детские песни
-https://fs2.persik.by/DetskiePesni4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 25
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11064.png",Детские мультики
-http://fs2.persik.by/DetskieMultiki5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 26
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10746.png",Детские мультфильмы HD
-https://fs2.persik.by/DetskieMultfilmy4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 27
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1--Nash_sport26/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11033.png",Мульт сериал HD
-http://fs2.persik.by/Mult_Serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 28
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11032.png",Мультики HD
-http://fs2.persik.by/Multiki5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 29
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10748.png",Мультсериалы HD
-http://fs2.persik.by/Multserialy2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 3
+http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10745.png",Сказки HD
-http://fs2.persik.by/Skazki6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 30
+https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10741.png",Советские мультфильмы
-https://fs2.persik.by/Soviet_Mult_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 4
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10490.png",Сундучок историй HD
-http://fs2.persik.by/Sunduchok4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 5
+http://stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
-http://fs2.persik.by/365dney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 6
+http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11380.png",Amedia
-https://foreign-default.persik.by/live/Ch422/playlist.m3u8?securehash=4urT9Jq_cs1KsG1d_Xm-9mc6D4zTbSZ2HZFVfdDVOIk%3D&secureendtime=1730485360&securestarttime=1730398960&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210380%22%7D
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 7
+http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/11360.png",Amedia 2
-https://foreign-default.persik.by/live/Ch4/playlist.m3u8?securehash=nWmjQN95LDo8Fq8BQi_NUFbJco20LJEcj89TkpJxOdU%3D&secureendtime=1730485048&securestarttime=1730398648&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2211360%22%7D
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 8
+http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/643.png",Amedia Premium
-https://foreign-default.persik.by/live/Ch225/playlist.m3u8?securehash=tPrj4u_eFwFNkogbR0ipSYlG8FO_1p5sRF1xoGk_7HQ%3D&secureendtime=1730484414&securestarttime=1730398014&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%22643%22%7D
+#EXTINF:-1 group-title="Наш спорт" tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport",Наш спорт 9
+http://stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/682.png",Europa Plus TV
-https://foreign-default.persik.by/live/Ch1/playlist.m3u8?securehash=D3Frj8fmHS5Qn-yN2Rn23CWfxi3LZt-L3Q2zLMprQbk%3D&secureendtime=1730481157&securestarttime=1730394757&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%22682%22%7D
+#EXTINF:-1 group-title="Познавательные" tvg-id="nasha-tema" tvg logo"https://epgx.site/p/nasha-tema.png",Наша тема
+https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Кино и сериалы",Наше крутое HD
+http://stream-msk-14.ott.tricolor.tv/dtv/id646_MSKSG-PVR-1--Nash_kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/342.png",Fashion Мода (ссылка пока недоступна )
-https://fs2.persik.by/Luxuary_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Наше Мужское HD
+http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/11372.png",Luxuary HD
-https://fs2.persik.by/Luxuary_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="narod-vsio-vidit" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png",Народ Всё Видит
+https://live-mirror-19.ott.tricolor.tv/dtv/id994_MSKSG-PVR-1--NIK/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/106105.png",Minsk 4K (ULTRA HD)
-https://fs2.persik.by/Misk4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png",Неизвестная россия HD
+https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/10261.png",Ru.TV
-https://fs2.persik.by/Rutv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://semey.city/assets/templates/uikit/radio/images/novoe-msk-180.jpg" tvg-id="no_epg_radio",Новое Радио
+https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/311.png",Авто Плюс
-https://fs2.persik.by/Avtoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png",Ностальгия
+http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/118.png",Беларусь 1
-https://foreign-default.persik.by/live/Ch73/playlist.m3u8?securehash=ul8VmLT8UJu50PqZWfQTa2uaaB0OcOMMuzeYcYCq5qk%3D&secureendtime=1730481313&securestarttime=1730394913&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210251%22%7D
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv",НТВ HD
+https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/118.png",Беларусь 1 HD
-https://fs2.persik.by/Belarus1_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv-style",НТВ Стиль
+https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/148.png",Беларусь 2 HD
-https://fs2.persik.by/Belarus2_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv-pravo",НТВ Право
+https://stream-msk-14.ott.tricolor.tv/dtv/id938_MSKSG-PVR-1--NTV_Pravo_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/883.png",Беларусь 3 HD
-https://fs2.persik.by/Belarus2_HD3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="kvn-tv",КВН ТВ
+https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/932.png",Беларусь 5 HD
-https://fs2.persik.by/Belarus2_HD5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png",Карусель Международный
+https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://fs2.persik.by/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",КАРПОВ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="http://persik.tv/images/channels/logos/608.png",Киномикс
-https://fs2.persik.by/Kinomiks/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кино 1 International
+http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/34.png",Кинопремьера
-https://fs2.persik.by/Kinopremiera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Взрослые",Кино 18+ International
+https://stream-msk-17.ott.tricolor.tv/dtv/id960_MSKSG-PVR-1--Buraad/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/30.png",Киносвидание
-https://fs2.persik.by/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кинопоказ
+http://stream-msk-07.ott.tricolor.tv/dtv/id643_MSKSG-PVR-1--Nashe_Muzhskoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/590.png",Киносемья
-https://fs2.persik.by/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кинопоказ HD
+https://stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1--Kinopokaz/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/213.png",Кинохит
-https://fs2.persik.by/Kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="rus-hualiang-tv",Китай ТВ
+http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10242.png",КХЛ ТВ 
-https://foreign-default.persik.by/live/Ch240hd/playlist.m3u8?securehash=81QuLVhmplIiJjmBDcBxyWw309fG4vNW9Y5O3Hx_QvE%3D&secureendtime=1730482548&securestarttime=1730396148&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210242%22%7D
+#EXTINF:-1 group-title="Спортивные",Конный мир HD
+http://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/176.png",МИР HD
-https://fs2.persik.by/MIR_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Комедийное HD
+http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10025.png",Мужское кино
-https://foreign-default.persik.by/live/Ch268hd/playlist.m3u8?securehash=rNhJyZvp-u05EtdrgsnfnlqeqFGlHfDAFT6nT_nCCTs%3D&secureendtime=1730483359&securestarttime=1730396959&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210025%22%7D
+#EXTINF:-1 group-title="Кино и сериалы",Комедия
+http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/260.png",Наше новое кино
-https://fs2.persik.by/NasheNovoeKino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="kuxnia-tv",КУХНЯ-ТВ
+http://stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1--HD_Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",КОМЕДИИ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10230.png",Нано TV HD
-https://fs2.persik.by/Nano_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="no_epg" tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png",Кулинар ТВ
+http://stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1--Telekanal_E_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10255.png",НТВ-Беларусь
-https://foreign-default.persik.by/live/Ch78/playlist.m3u8?securehash=yBd9cC7q1ma2x3I1colFjkaScysuExLHnM77ymfxtbo%3D&secureendtime=1730483455&securestarttime=1730397055&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210255%22%7D
+#EXTINF:-1 group-title="Кино и сериалы",Криминальное HD
+https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/699.png",НТВ-Беларусь HD
-https://fs2.persik.by/NTVBelarus_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="mama",Мама
+http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/10724.png",ОНТ
-https://foreign-default.persik.by/live/Ch74/playlist.m3u8?securehash=UDmNL0RxVKvijuNCaJPqVCqJVhQ4izoGTnbXcsqu5a0%3D&secureendtime=1730483565&securestarttime=1730397165&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210724%22%7D
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч! HD
+http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/111.png",ОНТ HD
-https://fs2.persik.by/ONT_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",МЕНТ В ЗАКОНЕ
+https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",МЕНТОВСКИЕ ВОЙНЫ
+https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/13.png",РЕН ТВ
-https://foreign-default.persik.by/live/Ch63/playlist.m3u8?securehash=3bFSvpjGT7lJUUYgOVb838xi8u8gMfjoRA9TX2epdKw%3D&secureendtime=1730485007&securestarttime=1730398607&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2213%22%7D
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",МАЖОР
+https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/700.png",РТР-БЕЛАРУСЬ HD
-https://fs2.persik.by/RTR_Belarus_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="mir",Мир HD
+https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/700.png",РТР-Беларусь
-https://foreign-default.persik.by/live/Ch77/playlist.m3u8?securehash=y8dsFlaOa0z8gDqhrE0wvHhiC_9wT4CrBFEJDUHKyOc%3D&secureendtime=1730483995&securestarttime=1730397595&secureuserid=470176&securestreams=1&UserID=470176&device_code=web-by&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210725%22%7D
+#EXTINF:-1 group-title="Познавательные",Мир вокруг
+http://stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/115.png",СТВ HD
-https://fs2.persik.by/STV_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Мир сериала
+http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/847.png",ТВ-3 Беларусь
-https://fs2.persik.by/TV3BEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
+https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV" tvg-logo="https://persik.by/media/channels/logos/440.png",Футбол 440
-https://fs2.persik.by/Football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные",Зал суда
+http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV",Первый информационный HD 
-https://fs2.persik.by/Perviy_inf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="zagorodny-int",Загородный Int
+http://stream-msk-04.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV", Gameplay-11437
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://dvb.by/sources/logos/1092s.png",Жара
+https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV", Мода moda-2-11434
-https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="zdorovoe-tv",Здоровое ТВ
+http://stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
-#EXTINF:-1 group-title="PersikTV", Мода moda-3-11435
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ЗАЧАРОВАННЫЕ
+https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1--Zagorodniy_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
 
+#EXTINF:-1 group-title="Развлекательные" tvg-id="zhivi",Живи
+http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
+http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="zvezda",Звезда HD
+http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg" tvg-logo="http://i121.fastpic.org/big/2023/0516/82/abf0c600f233693a715cae61eefa2582.png",Эра
+http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ОБУЧАЛКИ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://iptvx.one/picons/otr.png" tvg-id="otr",ОТР HD
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные",Открытый мир
+https://stream-msk-10.ott.tricolor.tv/dtv/id471_MSKSG-PVR-1--Perviy_Vegetor/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov-int",Охотник и Рыболов Int
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кино и сериалы",Остросюжетное HD
+http://stream-msk-01.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ТРИ КОТА
+https://stream-msk-17.ott.tricolor.tv/dtv/id978_MSKSG-PVR-1--Kinozal_6/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="tvcentr",ТВ Центр HD
+https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Развлекательные" catchup="append" tvg-logo="http://only4.tv/ch/1008.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ-3
+http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",СВАТЫ
+https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",СЛЕД
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",СЛЕДСТВИЕ ВЕЛИ...
+https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv",Тайны Галактики
+https://stream-msk-09.ott.tricolor.tv/dtv/id872_MSKSG-PVR-1--OCEAN_TV/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Спортивные",Танцуй
+https://stream-msk-06.ott.tricolor.tv/dtv/id883_MSKSG-PVR-1--Tancui/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sapfir",Сапфир
+https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Развлекательные" tvg-id="sarafan",Сарафан
+http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
+https://stream-msk-14.ott.tricolor.tv/dtv/id926_MSKSG-PVR-1--LapkiLive/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="sila",Сила
+http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Новости" tvg-id="solovjinypomiot",Соловьев.Live
+https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="tonus-tv",Тонус ТВ
+http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sov-kinklass",Советская киноклассика
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="tochka-otryva",Точка отрыва
+http://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Детские" tvg-id="smaylik-tv",Смайлик ТВ
+http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",СУПЕРГЕРОИНИ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
+http://live-stream-12.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music",ТНТ Music
+https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4
+http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",СМЕШАРИКИ
+https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",СОВЕТСКИЕ ФИЛЬМЫ
+https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",СОЛДАТЫ
+https://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
+https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Развлекательные" catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="start",Старт HD
+http://stream-msk-11.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="start-triumf",Старт Триумф HD
+https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png",Первый канал HD
+https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="pervy-vegetariansky",Первый вегетарианский
+https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda",Победа
+http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg_sport" tvg-logo="http://i121.fastpic.org/big/2023/0516/4d/521030ca4ff0c8d95a2e84d49555ff4d.png",Поединок
+http://stream-msk-03.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные",Поехали!
+https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные",Поехали! HD
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кинозалы Триколор" tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema",ПЯТНИЦКИЙ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кино и сериалы",Премиальное HD
+http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="premialnoe-hd",Премиальное HD (+4)
+http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Кино и сериалы",Про Любовь HD
+http://stream-msk-12.ott.tricolor.tv/dtv/id652_MSKSG-PVR-1--Kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png",Просвещение
+https://stream-msk-16.ott.tricolor.tv/dtv/id930_MSKSG-PVR-1--MyStihiya/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
+
+#EXTINF:-1 group-title="Развлекательные" catchup="append" tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id879_MSKSG-PVR-1--Nash_sport30/03/plst.m3u8
