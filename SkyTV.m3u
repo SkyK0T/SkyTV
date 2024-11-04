@@ -1243,6 +1243,8 @@ https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 
+
+
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
@@ -1331,38 +1333,19 @@ https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/
 
 
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="VmesteRF.ru",Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTM3U
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут
-https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360.ru",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="TNTMusic.ru",ТНТ Music
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360News.ru",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xzvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",TUCKER. "Россия 24"
+https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/084/547_d20241031125812.smil/chunklist_b1200000_pd1155000.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Самара 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Урал 24 (Челябинск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Запад 24 (Калининград)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Красноярск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="NizhniyNovgorod24.ru",Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Kavkaz24.ru",Кавказ 24 (Ставрополь)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=Crz04jbzgEhkjAP7K-c0xw&e=1730614840&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://i.postimg.cc/zBqwmx5V/image.png",Башкортостан 24 (2 источник)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/3_94bb0c79/chunklist.m3u8
@@ -1370,62 +1353,78 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/3_94bb0c79/chunklist.m3
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Bashkortostan24.ru",Башкортостан 24 (Уфа)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="BigAsia.ru",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Volgograd24.ru",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" ,Соловьёв LIVE
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=Crz04jbzgEhkjAP7K-c0xw&e=1730614840&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=Crz04jbzgEhkjAP7K-c0xw&e=1730614840&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="VmesteRF.ru",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут
-https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="DumaTV.ru",Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="TNTMusic.ru",ТНТ Music
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="UgraTV.ru",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xzvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Самара 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Урал 24 (Челябинск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Запад 24 (Калининград)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Красноярск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
-
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="NizhniyNovgorod24.ru",Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Kavkaz24.ru",Кавказ 24 (Ставрополь)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://i.postimg.cc/zBqwmx5V/image.png",Башкортостан 24 (2 источник)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/3_94bb0c79/chunklist.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="krasnodar",Краснодар HD
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Bashkortostan24.ru",Башкортостан 24 (Уфа)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Volgograd24.ru",Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Moskva24.ru",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Запад 24 (Калининград)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xzvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="OTVPrim.ru",ОТВ Приморья
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут
+https://sitv.ru/vgtrk/stv.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Самара 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Толк (Алтай Барнаул)
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="SolovyovLive.ru",Соловьев Live HD
+https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/082/771_d20241028145112.smil/chunklist_b4050000_pd8043000.m3u8
 
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" ,Соловьёв LIVE
 https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=Crz04jbzgEhkjAP7K-c0xw&e=1730614840&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=Crz04jbzgEhkjAP7K-c0xw&e=1730614840&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="TNTMusic.ru",ТНТ Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+
 
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Вести ФМ
 https://vgtrksmotrim.cdnvideo.ru/hls2/vesti_fm/playlist_6.m3u8?md5=ni-cBGJnexGVlXx9PbuYGQ&e=1730613718&hls_proxy_host=70b013ca21e8364cd537747cf862272b
@@ -1508,6 +1507,44 @@ https://online.vse-tv.net/ussr_onl/index.mpd
 #EXTINF:-1 group-title="ТелеСеть VSE-TV.NET" tvg-logo="https://vse-tv.net/uploads/posts/2020-11/1605077139_pjatyj-kanal.png",Пятый канал
 https://online.vse-tv.net/pyatyy_kanal/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d0hhYU1xZFVpakZKczhiK003MWdtK3c2cE1XS1g5RVcrQkNTeEtRajcvWndGMFRDQUw4Vk1ZNw
 
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="worldcup1974" tvg-name="velilla tv world cup 1974",Velilla TV World Cup 1974
+http://158.101.194.132:8888/channel/39500db/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="worldcup1978" tvg-name="velilla tv world cup 1978",Velilla TV World Cup 1978
+http://158.101.194.132:8888/channel/39500df/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="worldcup2010" tvg-name="velilla tv world cup 2010",Velilla TV World Cup 2010
+http://158.101.194.132:8888/channel/39500e3/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="worldcup2014" tvg-name="velilla tv world cup 2014",Velilla TV World Cup 2014
+http://158.101.194.132:8888/channel/39552b7/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="velillamosgaz" tvg-name="velilla tv мосгаз hd",Velilla TV Мосгаз HD
+http://158.101.194.132:8888/channel/39552bb/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="worldcup1970" tvg-name="velilla tv world cup 1970",Velilla TV World Cup 1970
+http://158.101.194.132:8888/channel/4da1d467/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="velillaruserial" tvg-name="velilla tv русский сериал hd",Velilla TV Русский Сериал HD
+http://158.101.194.132:8888/channel/5ea8cc97/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="velilla4K" tvg-name="velilla tv cinema 4k",Velilla TV Cinema 4K
+http://158.101.194.132:8888/channel/613bf965/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="velillapoprockconcerts" tvg-name="velilla tv pop & rock concerts hd",Velilla TV Pop & Rock Concerts HD
+http://158.101.194.132:8888/channel/616d65f8/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TKACHEVY_TEMP.png",ONAIR FREE [Ткачевы на связи]
+http://158.101.194.132:8888/channel/6781f3e5/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="velillalegendarymatches" tvg-name="velilla tv legendary matches hd",Velilla TV Legendary Matches HD
+http://158.101.194.132:8888/channel/n1e74b88/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="velillaeurodance90s" tvg-name="velilla tv eurodance 90s",Velilla TV Eurodance 90s
+http://158.101.194.132:8888/channel/n2fccd864/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV A-Media" tvg-id="tomandjerry" tvg-name="velilla tv том и джерри hd",Velilla TV Том и Джерри HD
+http://158.101.194.132:8888/channel/n685da8ad/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
 
 
 #EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
