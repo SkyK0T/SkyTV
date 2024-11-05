@@ -1,9 +1,9 @@
-﻿#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 
 #EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обновлено: 5.10.24🦊
-#EXTGRP:🦊Обновлено: 5.10.24🦊
-https://rutube.ru/shorts/212c95751e4cd5061463298a9649a8e6/?r=wd
+#EXTGRP:🦊Обновлено: 6.11.24🦊
+https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:0 tvg-rec="7",BCU Marvel HD c3921155.edmonst.net
 #EXTGRP:Тест
@@ -3001,6 +3001,10 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14171/index.m3u8
 #EXTINF:0,Yosso TV Kids
 #EXTGRP:🧙 Детям
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14173/index.m3u8
+
+#EXTINF:0 ,Yosso TV Союзмульт
+#EXTGRP:🧙 Детям
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14178/index.m3u8
 
 #EXTINF:0,Yosso TV Music Hits
 #EXTGRP:🎶 Музыка
@@ -6428,6 +6432,40 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/860/index.m3u8
 #EXTINF:0 tvg-rec="0",Women`s Magazine HD
 #EXTGRP:Телемагазины
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/20010/index.m3u8
+
+#EXTINF:0,Russian MusicBox FHD
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14163/index.m3u8
+#EXTINF:0,HITV FHD
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14165/index.m3u8
+#EXTINF:0,RU TV FHD
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14164/index.m3u8
+#EXTINF:0,ТНТ Music FHD
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14166/index.m3u8
+
+#EXTINF:0,UTv FHD orig
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14167/index.m3u8
+
+#EXTINF:0,WOW!TV HD
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14168/index.m3u8
+
+#EXTINF:0,RETRO TV
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14169/index.m3u8
+
+#EXTINF:0,Dmitry-tv HD-Ondemand
+#EXTGRP:Новые
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14170/index.m3u8
+
+
+
+
+
 
 #EXTINF:0 tvg-rec="0",A3 Bikini
 #EXTGRP:Взрослые
