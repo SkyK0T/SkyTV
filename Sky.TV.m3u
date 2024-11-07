@@ -1609,12 +1609,53 @@ http://158.101.194.132:8888/channel/6781f3e5/index.m3u8?q=1bc085b2a6169370ce61b3
 http://158.101.194.132:8080/channel/n5a0c5a33/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
 
+#EXTINF:-1 group-title="50.7.92.98",Первый канал
+http://50.7.92.98:8887/8001/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Россия 1
+http://50.7.92.98:8887/8002/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",НТВ
+http://50.7.92.98:8887/8003/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Рен ТВ
+http://50.7.92.98:8887/8004/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",СТС
+http://50.7.92.98:8887/8005/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",ТВЦ
+http://50.7.92.98:8887/8006/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",ТНТ
+http://50.7.92.98:8887/8007/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Че
+http://50.7.92.98:8887/8008/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",5 канал
+http://50.7.92.98:8887/8009/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Русский роман
+http://50.7.92.98:8887/8010/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",НТВ-Мир
 http://50.7.92.98:8887/8011/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Время
+http://50.7.92.98:8887/8012/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Eurosport 1
+http://50.7.92.98:8887/8013/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Eurosport 2
+http://50.7.92.98:8887/8014/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Viasat Sport
 http://50.7.92.98:8887/8015/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Матч
+http://50.7.92.98:8887/8016/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="usadba",Усадьба
 http://50.7.92.98:8887/8017/video.m3u8
@@ -1625,20 +1666,68 @@ http://50.7.92.98:8887/8018/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="match-nash-sport",Матч! Страна HD
 http://50.7.92.98:8887/8019/video.m3u8
 
-#EXTINF:-1 group-title="50.7.92.98" tvg-id="match-premier",Матч Премьер HD
+#EXTINF:-1 group-title="50.7.92.98",Сарафан
+http://50.7.92.98:8887/8020/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Матч!Футбол 1
+http://50.7.92.98:8887/8021/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Матч! Футбол 2
+http://50.7.92.98:8887/8022/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98" tvg-id="match-premier",Матч! Премьер HD
 http://50.7.92.98:8887/8023/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Игра
+http://50.7.92.98:8887/8024/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",KHL
+http://50.7.92.98:8887/8025/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",SD REX
+http://50.7.92.98:8887/8026/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Боец
+http://50.7.92.98:8887/8027/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Премиальное
 http://50.7.92.98:8887/8028/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Матч! Футбол 3
+http://50.7.92.98:8887/8029/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Red Lips
+http://50.7.92.98:8887/8030/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Mezzo Live
+http://50.7.92.98:8887/8031/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",MTV 00s
 http://50.7.92.98:8887/8032/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Europe Plus TV
+http://50.7.92.98:8887/8033/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",BCU Кинозал Premiere 1 HD
 http://50.7.92.98:8887/8034/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",A1
 http://50.7.92.98:8887/8035/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BBC
+http://50.7.92.98:8887/8036/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Звезда
+http://50.7.92.98:8887/8037/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Индийское кино
+http://50.7.92.98:8887/8038/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",пока профилактика
+http://50.7.92.98:8887/8039/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Киномикс
+http://50.7.92.98:8887/8040/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Киносвидание HD
 http://50.7.92.98:8887/8041/video.m3u8
@@ -1652,14 +1741,44 @@ http://50.7.92.98:8887/8043/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="nashe-novoe-kino",Наше новое кино HD
 http://50.7.92.98:8887/8044/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",2x2
+http://50.7.92.98:8887/8045/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Ностальгия
+http://50.7.92.98:8887/8046/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Киносемья HD
 http://50.7.92.98:8887/8047/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",viju TV1000 Action
 http://50.7.92.98:8887/8049/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",TV1000 Русское
+http://50.7.92.98:8887/8050/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",FX
+http://50.7.92.98:8887/8051/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="foxlife",FX Life HD
 http://50.7.92.98:8887/8052/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Вопросы и Ответы
+http://50.7.92.98:8887/8053/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Солнце
+http://50.7.92.98:8887/8054/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Nickelodeon
+http://50.7.92.98:8887/8055/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Мультиландия
+http://50.7.92.98:8887/8056/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Карусель
+http://50.7.92.98:8887/8057/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",ТНТ4
+http://50.7.92.98:8887/8058/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="tlc",TLC
 http://50.7.92.98:8887/8060/video.m3u8
@@ -1667,11 +1786,35 @@ http://50.7.92.98:8887/8060/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98",Домашний
 http://50.7.92.98:8887/8062/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Кухня
+http://50.7.92.98:8887/8063/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Cartoon Network
+http://50.7.92.98:8887/8064/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Охотник и рыболов
 http://50.7.92.98:8887/8065/index.m3u8
 
-#EXTINF:-1 group-title="50.7.92.98",Ocean-TV
+#EXTINF:-1 group-title="50.7.92.98",Пятница HD
+http://50.7.92.98:8887/8066/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Уникум
+http://50.7.92.98:8887/8067/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",365
+http://50.7.92.98:8887/8068/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Океан HD
 http://50.7.92.98:8887/8069/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Мужское кино
+http://50.7.92.98:8887/8070/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Мир 24
+http://50.7.92.98:8887/8071/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Россия К
+http://50.7.92.98:8887/8072/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Совершенно секретно
 http://50.7.92.98:8887/8073/video.m3u8
@@ -1691,23 +1834,81 @@ http://50.7.92.98:8887/8078/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98",Nat geo wild HD
 http://50.7.92.98:8887/8079/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",National geografic
+http://50.7.92.98:8887/8080/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Домашние животные
+http://50.7.92.98:8887/8081/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",История
 http://50.7.92.98:8887/8082/index.m3u8
 
-#EXTINF:-1 group-title="50.7.92.98",viju Explore
+#EXTINF:-1 group-title="50.7.92.98",Travel Channel
+http://50.7.92.98:8887/8083/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Euronews
+http://50.7.92.98:8887/8084/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Viju Explore
 http://50.7.92.98:8887/8085/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Viju History
+http://50.7.92.98:8887/8086/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Viasat Nature HD
 http://50.7.92.98:8887/8087/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Da Vinci
+http://50.7.92.98:8887/8088/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Телекафе
+http://50.7.92.98:8887/8094/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Авто плюс
 http://50.7.92.98:8887/8095/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Родное кино
+http://50.7.92.98:8887/8096/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Gulli Girl
 http://50.7.92.98:8887/8097/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",EXREME
+http://50.7.92.98:8887/8098/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Ю
+http://50.7.92.98:8887/8099/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Мега хохлы
+http://50.7.92.98:8887/8100/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Ля минор
+http://50.7.92.98:8887/8101/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Россия 1
+http://50.7.92.98:8887/8102/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",WF
+http://50.7.92.98:8887/8103/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",H Пищевая эволюция
+http://50.7.92.98:8887/8104/video.m3u8
+
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="kto-est-kto",Кто есть кто
 http://50.7.92.98:8887/8105/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="cbs-reality-pl",CBS Reality PL
 http://50.7.92.98:8887/8111/video.m3u8
@@ -1916,14 +2117,31 @@ http://50.7.92.98:8887/8826/index.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-logo="https://crdtv.net/b/templates/ottch/cineman.png",CineMan 9
 http://50.7.92.98:8887/8833/index.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-logo="https://crdtv.net/b/templates/ottch/cineman.png",CineMan 10
 http://50.7.92.98:8887/8866/index.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",CineMan РуКино
 http://50.7.92.98:8887/8867/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",18+ Teen Megaworld
+http://50.7.92.98:8887/8868/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Nickelodeon
 http://50.7.92.98:8887/8869/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BCU Premire
+http://50.7.92.98:8887/8870/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="playboy-tv",Playboy TV
 http://50.7.92.98:8887/8871/index.m3u8
@@ -1970,6 +2188,12 @@ http://50.7.92.98:8887/8884/index.m3u8
 #EXTINF:-1 group-title="50.7.92.98",BCU RUSerial HD
 http://50.7.92.98:8887/8885/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",BCU Stars
+http://50.7.92.98:8887/8886/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",8887 Фентези шёл варкрафт
+http://50.7.92.98:8887/8887/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",BCU Сваты HD
 http://50.7.92.98:8887/8888/index.m3u8
 
@@ -1991,14 +2215,35 @@ http://50.7.92.98:8887/8893/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98",MM История HD
 http://50.7.92.98:8887/8894/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",КТК профилактика
+http://50.7.92.98:8887/8901/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",НТК профилактика
+http://50.7.92.98:8887/8902/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Home
+http://50.7.92.98:8887/8903/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",8904 подвисает
+http://50.7.92.98:8887/8904/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Museum TV 4K 
+http://50.7.92.98:8887/8905/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="ultra-hd-cinema" group-title="Кино и сериалы",Ultra HD Cinema
 http://50.7.92.98:8887/8906/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",ULTRA REX
+http://50.7.92.98:8887/8907/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",BCU Reality HD
 http://50.7.92.98:8887/8908/index.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",BCU Survival HD
 http://50.7.92.98:8887/8910/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",какие-то сериалы
+http://50.7.92.98:8887/8911/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",MM Celebrity HD
 http://50.7.92.98:8887/8912/index.m3u8
@@ -2009,20 +2254,110 @@ http://50.7.92.98:8887/8913/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98",MM USSR Мультфильм HD
 http://50.7.92.98:8887/8914/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",A2
+http://50.7.92.98:8887/8927/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",FlixShip
+http://50.7.92.98:8887/8928/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",.red
+http://50.7.92.98:8887/8929/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",MTV иероглифы хз чей
+http://50.7.92.98:8887/8931/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",SCREAM
+http://50.7.92.98:8887/8932/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",MM Катастрофа HD
 http://50.7.92.98:8887/8933/video.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="suspense",Suspense
 http://50.7.92.98:8887/8971/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Кино без границ
+http://50.7.92.98:8887/8972/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",TV1000 Новелла
+http://50.7.92.98:8887/8973/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",5 gold
+http://50.7.92.98:8887/8974/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BCU Cosmo
+http://50.7.92.98:8887/8975/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",какие то мультики
+http://50.7.92.98:8887/8976/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BCU Trumotion
+http://50.7.92.98:8887/8977/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BCU Charm
+http://50.7.92.98:8887/8978/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BCU Little
+http://50.7.92.98:8887/8979/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BCU 90
+http://50.7.92.98:8887/8980/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Sportcast
+http://50.7.92.98:8887/8981/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Franchise
+http://50.7.92.98:8887/8982/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Hybrid
+http://50.7.92.98:8887/8983/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Anime
+http://50.7.92.98:8887/8984/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Ganster
+http://50.7.92.98:8887/8985/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Oskar
+http://50.7.92.98:8887/8986/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Memory
+http://50.7.92.98:8887/8987/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX M.Serial HD
+http://50.7.92.98:8887/8988/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Serial
+http://50.7.92.98:8887/8989/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",BOX Music 4K
+http://50.7.92.98:8887/8990/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",MM Love HD
 http://50.7.92.98:8887/8991/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",MS Animated HD
+http://50.7.92.98:8887/8993/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",MM Tom And Jerry HD
 http://50.7.92.98:8887/8994/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",MM Walt Disney HD
 http://50.7.92.98:8887/8997/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",MTV Club
+http://50.7.92.98:8887/8998/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Беларусь 3
+http://50.7.92.98:8887/8999/video.m3u8
+
 
 
 
