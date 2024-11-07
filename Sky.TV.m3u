@@ -1898,17 +1898,17 @@ http://50.7.92.98:8887/8104/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="kto-est-kto",Кто есть кто
 http://50.7.92.98:8887/8105/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98", 9 израильский канал русские сериалы хз
+http://50.7.92.98:8887/8107/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98", VIJ Comedy
+http://50.7.92.98:8887/8108/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98", VIJ megahit
+http://50.7.92.98:8887/8109/video.m3u8
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="50.7.92.98", Tiji
+http://50.7.92.98:8887/8110/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="cbs-reality-pl",CBS Reality PL
 http://50.7.92.98:8887/8111/video.m3u8
@@ -1916,11 +1916,38 @@ http://50.7.92.98:8887/8111/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="dozhd" group-title="50.7.92.98,Дождь
 http://50.7.92.98:8887/8113/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98", ТВ3
+http://50.7.92.98:8887/8114/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",.sci-fi HD
 http://50.7.92.98:8887/8115/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="rtvi",RTVi
 http://50.7.92.98:8887/8118/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",VIJ Prenmier
+http://50.7.92.98:8887/8119/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Первый канал
+http://50.7.92.98:8887/8120/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",PLANETA RTR
+http://50.7.92.98:8887/8121/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98", test
+http://50.7.92.98:8887/8122/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98", test
+http://50.7.92.98:8887/8123/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98", Домашний
+http://50.7.92.98:8887/8124/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98", Россия 24
+http://50.7.92.98:8887/8125/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98", Шансон тв
+http://50.7.92.98:8887/8126/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Здоровое ТВ
 http://50.7.92.98:8887/8127/video.m3u8
@@ -1931,14 +1958,44 @@ http://50.7.92.98:8887/8128/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="russkaya-noch",Русская ночь
 http://50.7.92.98:8887/8129/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Brazzers TV
+http://50.7.92.98:8887/8131/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Иллюзион +
 http://50.7.92.98:8887/8132/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",C детский
+http://50.7.92.98:8887/8133/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Еврокино
 http://50.7.92.98:8887/8134/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Музыка первого
+http://50.7.92.98:8887/8135/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Дом кино
+http://50.7.92.98:8887/8136/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",MTV 80s
 http://50.7.92.98:8887/8137/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",test
+http://50.7.92.98:8887/8138/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",К
+http://50.7.92.98:8887/8139/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Еда
+http://50.7.92.98:8887/8140/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Беларусь 24
+http://50.7.92.98:8887/8144/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Первый
+http://50.7.92.98:8887/8145/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",ОТР
+http://50.7.92.98:8887/8146/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="football-ru",Футбол HD
 http://50.7.92.98:8887/8147/video.m3u8
@@ -1946,14 +2003,47 @@ http://50.7.92.98:8887/8147/video.m3u8
 #EXTINF:1 group-title="50.7.92.98" tvg-id="kinoliving",Kinoliving
 http://50.7.92.98:8887/8148/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Первый HD
+http://50.7.92.98:8887/8150/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",RTG HD
+http://50.7.92.98:8887/8151/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Россия 1 HD
 http://50.7.92.98:8887/8152/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",NickJin
+http://50.7.92.98:8887/8153/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Индия
+http://50.7.92.98:8887/8154/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",НТВ HD
+http://50.7.92.98:8887/8155/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Мульт
+http://50.7.92.98:8887/8156/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Мама
+http://50.7.92.98:8887/8157/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Amedia Hit HD
 http://50.7.92.98:8887/8159/index.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Русский детектив
+http://50.7.92.98:8887/8161/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Русский Бестселлер
+http://50.7.92.98:8887/8162/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="eurosport2",Eurosport 2 CEE
 http://50.7.92.98:8887/8163/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Успех тв
+http://50.7.92.98:8887/8164/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",НСТ
+http://50.7.92.98:8887/8165/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="nick-jr",Nick Jr
 http://50.7.92.98:8887/8166/video.m3u8
@@ -1964,8 +2054,23 @@ http://50.7.92.98:8887/8167/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="fox",FX
 http://50.7.92.98:8887/8168/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Сапфир
+http://50.7.92.98:8887/8169/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Travel+ Adventure
+http://50.7.92.98:8887/8170/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-logo="https://iptvx.one/picons/shot-tv.png" tvg-id="shot-tv",Shot TV HD
 http://50.7.92.98:8887/8171/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Бобёр
+http://50.7.92.98:8887/8172/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",RTG HD
+http://50.7.92.98:8887/8173/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",СТС Love
+http://50.7.92.98:8887/8174/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",HDL
 http://50.7.92.98:8887/8175/index.m3u8
@@ -1973,23 +2078,65 @@ http://50.7.92.98:8887/8175/index.m3u8
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="national-geographic",National Geographic HD
 http://50.7.92.98:8887/8176/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",MTV Live
+http://50.7.92.98:8887/8177/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="eurosport1",Eurosport 1 CEE
 http://50.7.92.98:8887/8178/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Матч
+http://50.7.92.98:8887/8179/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Discovery Channel
 http://50.7.92.98:8887/8180/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Nano
+http://50.7.92.98:8887/8181/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98",Телепутешествия
 http://50.7.92.98:8887/8182/index.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Рыболов
+http://50.7.92.98:8887/8183/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Остросюжетное HD PREMIUM+
+http://50.7.92.98:8887/8184/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",RU.TV
 http://50.7.92.98:8887/8185/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Живи
+http://50.7.92.98:8887/8187/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",National Geographic Wild
+http://50.7.92.98:8887/8188/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Russian Musoc Box
+http://50.7.92.98:8887/8189/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Муз
+http://50.7.92.98:8887/8190/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="redlight-hd",Redlight HD
 http://50.7.92.98:8887/8191/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Сердце логотип здоровье
+http://50.7.92.98:8887/8192/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="sholk",Шёлк
 http://50.7.92.98:8887/8193/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",ТНТ +4
+http://50.7.92.98:8887/8194/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",СТС
+http://50.7.92.98:8887/8195/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Т24
+http://50.7.92.98:8887/8196/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",РБК
+http://50.7.92.98:8887/8197/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="paramount-comedy",Paramount Comedy
 http://50.7.92.98:8887/8198/video.m3u8
@@ -1997,14 +2144,35 @@ http://50.7.92.98:8887/8198/video.m3u8
 #EXTINF:-1 group-title="50.7.92.98",Кинопремьера
 http://50.7.92.98:8887/8199/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",ТБН
+http://50.7.92.98:8887/8200/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Бокс ТВ
+http://50.7.92.98:8887/8201/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-logo="https://plannersweb.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" ,Porno
 http://50.7.92.98:8887/8203/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Amedia 1 HD
 http://50.7.92.98:8887/8204/video.m3u8
 
+#EXTINF:-1 group-title="50.7.92.98",Оружие
+http://50.7.92.98:8887/8206/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Кино ТВ
+http://50.7.92.98:8887/8207/video.m3u8
+
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="english-class",English Class
 http://50.7.92.98:8887/8208/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Профилактика
+http://50.7.92.98:8887/8209/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Профилактика
+http://50.7.92.98:8887/8210/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Профилактика
+http://50.7.92.98:8887/8211/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="tvxxi",ТВ XXI
 http://50.7.92.98:8887/8213/video.m3u8
@@ -2017,6 +2185,15 @@ http://50.7.92.98:8887/8215/index.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="KINOTEATR",Kinoteatr (UZ)
 http://50.7.92.98:8887/8222/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Мульт
+http://50.7.92.98:8887/8223/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Нтв
+http://50.7.92.98:8887/8225/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",СВС
+http://50.7.92.98:8887/8229/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98" tvg-id="sport1-ua",Sport 1
 http://50.7.92.98:8887/8234/video.m3u8
@@ -2032,6 +2209,29 @@ http://50.7.92.98:8887/8237/video.m3u8
 
 #EXTINF:-1 group-title="50.7.92.98",Матч! Футбол 3
 http://50.7.92.98:8887/8238/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",5 Live Бокс
+http://50.7.92.98:8887/8239/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Bollywood
+http://50.7.92.98:8887/8240/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",Bollajion
+http://50.7.92.98:8887/8246/video.m3u8
+
+
+#EXTINF:-1 group-title="50.7.92.98",Kentron TV
+http://50.7.92.98:8887/8249/video.m3u8
+
+#EXTINF:-1 group-title="50.7.92.98",18+ RTL Zwei 
+http://50.7.92.98:8887/8254/video.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="50.7.92.98",Русский Иллюзион
 http://50.7.92.98:8887/8313/video.m3u8
