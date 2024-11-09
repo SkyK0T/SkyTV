@@ -191,7 +191,7 @@ http://50.7.92.98:8887/8437/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Music 4K
 http://50.7.92.98:8887/8990/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Oskar HD
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Oscar HD
 http://50.7.92.98:8887/8986/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Ghost HD
