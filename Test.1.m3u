@@ -1,10 +1,11 @@
+#EXTM3U
 #EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
 
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Action
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Action HD
 http://50.7.92.98:8887/8481/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Action
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Action HDR
 http://50.7.92.98:8887/8876/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Catastrophe HD
@@ -13,7 +14,7 @@ http://50.7.92.98:8887/8877/index.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Catastrophe HD
 http://50.7.92.98:8887/8886/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Charm
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Charm HD
 http://50.7.92.98:8887/8978/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Cinema HD
@@ -22,31 +23,31 @@ http://50.7.92.98:8887/8891/index.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Cinema+ HD
 http://50.7.92.98:8887/8892/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Comedy
-http://50.7.92.98:8887/8878/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Comedy HD
 http://50.7.92.98:8887/8477/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Cosmo
-http://50.7.92.98:8887/8975/video.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Comedy HDR
+http://50.7.92.98:8887/8878/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Cosmo HD
 http://50.7.92.98:8887/8480/video.m3u8
 
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Cosmo HDR
+http://50.7.92.98:8887/8975/video.m3u8
+
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Criminal HD 
 http://50.7.92.98:8887/8890/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Fantastic
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Fantastic HD 
 http://50.7.92.98:8887/8478/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Fantastic
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Fantastic HDR
 http://50.7.92.98:8887/8879/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Filmystic
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Filmystic HD
 http://50.7.92.98:8887/8479/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Filmystic HD
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Filmystic HDR
 http://50.7.92.98:8887/8880/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU History HD
@@ -58,25 +59,29 @@ http://50.7.92.98:8887/8458/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Kids+ HD
 http://50.7.92.98:8887/8454/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Kinorating
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Kinorating HD
 http://50.7.92.98:8887/8455/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Little
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Little HD
 http://50.7.92.98:8887/8979/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Marvel
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Marvel HD
 http://50.7.92.98:8887/8476/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Marvel 
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Marvel HDR
 http://50.7.92.98:8887/8882/index.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Multserial HD
+http://50.7.92.98:8887/8874/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 1 HD
+http://50.7.92.98:8887/8468/video.m3u8
+
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
 http://50.7.92.98:8887/8473/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
 http://50.7.92.98:8887/8872/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
-http://50.7.92.98:8887/8468/video.m3u8
+
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
 http://50.7.92.98:8887/8870/video.m3u8
 
@@ -90,8 +95,7 @@ http://50.7.92.98:8887/8873/index.m3u8
 http://50.7.92.98:8887/8475/video.m3u8
 
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Multserial  HD
-http://50.7.92.98:8887/8874/index.m3u8
+
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Reality HD
 http://50.7.92.98:8887/8910/index.m3u8
