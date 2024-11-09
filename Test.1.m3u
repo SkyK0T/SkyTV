@@ -72,24 +72,27 @@ http://50.7.92.98:8887/8882/index.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Multserial HD
 http://50.7.92.98:8887/8874/index.m3u8
 
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
+http://50.7.92.98:8887/8870/video.m3u8
+
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 1 HD
 http://50.7.92.98:8887/8468/video.m3u8
 
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 2 HD
 http://50.7.92.98:8887/8473/video.m3u8
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 2 HDR
 http://50.7.92.98:8887/8872/index.m3u8
 
-
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
-http://50.7.92.98:8887/8870/video.m3u8
-
-
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
-http://50.7.92.98:8887/8474/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 3 HD
+http://50.7.92.98:8887/8474/video.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 3 HDR
 http://50.7.92.98:8887/8873/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
 http://50.7.92.98:8887/8475/video.m3u8
