@@ -254,7 +254,7 @@ http://50.7.92.98:8887/8460/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 4
 http://50.7.92.98:8887/8463/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Spy 4K
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Spy HD
 http://50.7.92.98:8887/8354/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Stories HD
