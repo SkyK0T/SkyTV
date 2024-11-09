@@ -72,12 +72,10 @@ http://50.7.92.98:8887/8882/index.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Multserial HD
 http://50.7.92.98:8887/8874/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
-http://50.7.92.98:8887/8870/video.m3u8
-
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 1 HD
 http://50.7.92.98:8887/8468/video.m3u8
-
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 1 HDR
+http://50.7.92.98:8887/8870/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere 2 HD
 http://50.7.92.98:8887/8473/video.m3u8
@@ -90,12 +88,12 @@ http://50.7.92.98:8887/8474/video.m3u8
 http://50.7.92.98:8887/8873/index.m3u8
 
 
-
-
-
-
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere HD
 http://50.7.92.98:8887/8475/video.m3u8
+
+
+
+
 
 
 
@@ -106,10 +104,10 @@ http://50.7.92.98:8887/8910/index.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Romantic HD
 http://50.7.92.98:8887/8884/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Ruserial HD
+#EXTINF:-1 group-title="Кинозалы BCU",BCU RuSerial HD
 http://50.7.92.98:8887/8883/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Russia 90s
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Russia 90s HD
 http://50.7.92.98:8887/8980/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Russian HD
@@ -118,13 +116,13 @@ http://50.7.92.98:8887/8457/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Stars HD 
 http://50.7.92.98:8887/8885/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Survival  HD
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Survival HD
 http://50.7.92.98:8887/8912/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Trumotion HD
+#EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HD
 http://50.7.92.98:8887/8977/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Trumotion HD
+#EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HDК
 http://50.7.92.98:8887/8977/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU VHS HD 
@@ -150,10 +148,10 @@ http://50.7.92.98:8887/8440/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 1
 http://50.7.92.98:8887/8421/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 2
 http://50.7.92.98:8887/8422/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 3
 http://50.7.92.98:8887/8467/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX СССР 4K
@@ -168,11 +166,14 @@ http://50.7.92.98:8887/8419/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Fantasy HD
 http://50.7.92.98:8887/8982/video.m3u8
 
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Fantasy HD
+http://50.7.92.98:8887/8430/video.m3u8
+
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Gangster HD
 http://50.7.92.98:8887/8985/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Fantasy HD
-http://50.7.92.98:8887/8430/video.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Ghost HD
+http://50.7.92.98:8887/8428/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Gurman HD
 http://50.7.92.98:8887/8439/video.m3u8
@@ -183,7 +184,7 @@ http://50.7.92.98:8887/8983/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Kosmo 4K
 http://50.7.92.98:8887/8448/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Lo-Fi HD
+#EXTINF:-1 group-title="Кинозалы BOX",BOX LoFi HD
 http://50.7.92.98:8887/8446/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX M.Serial HD
@@ -195,43 +196,48 @@ http://50.7.92.98:8887/8987/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Metall HD
 http://50.7.92.98:8887/8437/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Music 4K
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Music TV HD
 http://50.7.92.98:8887/8990/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Oscar HD
 http://50.7.92.98:8887/8986/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Ghost HD
-http://50.7.92.98:8887/8428/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Relax 4k
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Relax 4K
 http://50.7.92.98:8887/8338/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Premiere 4K
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Premiere+ 4K HDR
 http://50.7.92.98:8887/8452/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Remast 4k
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Remast 4K
 http://50.7.92.98:8887/8433/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Remast+ 4k
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Remast+ 4K
 http://50.7.92.98:8887/8443/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Ru.Rap HD
+#EXTINF:-1 group-title="Кинозалы BOX",BOX RU.RAP HD
 http://50.7.92.98:8887/8435/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Russian HD
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Russian 4K
 http://50.7.92.98:8887/8453/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Serial
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Serial HD
 http://50.7.92.98:8887/8989/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Serial 4K
-http://50.7.92.98:8887/8432/video.m3u8 
+http://50.7.92.98:8887/8432/video.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX SR Sport 1 Live 4K HDR
 http://50.7.92.98:8887/8471/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX SR Sport 2 Live 4K HDR
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SR Sport 2 Live 4K HD
 http://50.7.92.98:8887/8472/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Sportcast aanba
@@ -261,6 +267,10 @@ http://50.7.92.98:8887/8460/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 4
 http://50.7.92.98:8887/8463/video.m3u8
 
+
+
+
+
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Spy HD
 http://50.7.92.98:8887/8354/video.m3u8
 
@@ -270,7 +280,7 @@ http://50.7.92.98:8887/8429/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Travel HD
 http://50.7.92.98:8887/8416/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Travel HD
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Travel Premiere HD
 http://50.7.92.98:8887/8438/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX UltraStars 4K
