@@ -285,6 +285,8 @@ http://50.7.92.98:8887/8444/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX Western HD
 http://50.7.92.98:8887/8417/video.m3u8
 
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Zombie HD
+http://50.7.92.98:8887/8418/video.m3u8
 
 
 #EXTINF:-1 group-title="Кинозалы Cineman",CineMan
@@ -479,8 +481,7 @@ http://50.7.92.98:8887/8973/video.m3u8
 #EXTINF:-1 group-title="Кинозалы Viju" tvg-id="viasat-sport",Viju+ Sport
 http://50.7.92.98:8887/8235/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы Velilla TV" tvg-id="actionwarfilms" tvg-name="velilla tv action war films hd",Velilla TV Action War Films HD
-http://50.7.92.98:8887/8418/video.m3u8
+
 
 
 
@@ -690,6 +691,9 @@ http://50.7.92.98:8887/8215/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Bollywood
 http://50.7.92.98:8887/8240/video.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",Dizi
+http://50.7.92.98:8887/8667/video.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",FAN эксклюзив
 http://50.7.92.98:8887/8386/video.m3u8
