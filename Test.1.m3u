@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz; https://bcumedia.su/epg.xml.gz"
-#EXTM3U x-tvg-url="bcumedia"
 
 #EXTINF:-1 group-title="Кинозалы BCU" catchup="default" catchup-days="3" catchup-source="http://tv.bcumedia.su/b07330451f0ad573a06794d9367f7fa9/video-${start}-${duration}.m3u8?token=94i1b0npg6" timeshift="3",BCU Action HD
 http://50.7.92.98:8887/8481/video.m3u8
