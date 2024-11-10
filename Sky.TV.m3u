@@ -2748,7 +2748,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="NizhniyNovgorod24.ru",Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
+#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
 #EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Kavkaz24.ru",Кавказ 24 (Ставрополь)
@@ -13310,37 +13310,103 @@ https://live.vkplay.ru/gnumme
 
 
 
-#EXTINF:-1 group-title="Cineman",Cineman_VHS
-http://195.158.222.115:8002/cineman_vhs
-#EXTINF:-1 group-title="Cineman",Cineman_Triller
-http://195.158.222.115:8002/cineman_thriller
-#EXTINF:-1 group-title="Cineman",Cineman_Top
-http://195.158.222.115:8002/cineman_top
-#EXTINF:-1 group-title="Cineman",Cineman_Svaty
-http://195.158.222.115:8002/cineman_svaty
-#EXTINF:-1 group-title="Cineman",Cineman_Skoraya_Pomosch
-http://195.158.222.115:8002/cineman_skoraya_pomosh
-#EXTINF:-1 group-title="Cineman",Cineman_Simpsony
-http://195.158.222.115:8002/cineman_simpson
-#EXTINF:-1 group-title="Cineman",Cineman_ruKino
-http://195.158.222.115:8002/cineman_rukino
-#EXTINF:-1 group-title="Cineman",Cineman_Premium
-http://195.158.222.115:8002/cineman_premium
-#EXTINF:-1 group-title="Cineman",Cineman_Miniseries
-http://195.158.222.115:8002/cineman_miniseries
-#EXTINF:-1 group-title="Cineman",Cineman_Melodrama
-http://195.158.222.115:8002/cineman_melodrama
-#EXTINF:-1 group-title="Cineman",Cineman_Marvel
-http://195.158.222.115:8002/cineman_marvel
-#EXTINF:-1 group-title="Cineman",Cineman_Lesnik
-http://195.158.222.115:8002/cineman_lesnik
-#EXTINF:-1 group-title="Cineman",Cineman_Katastrofy
-http://195.158.222.115:8002/cineman_katastrofi
-#EXTINF:-1 group-title="Cineman",Cineman_Komediya
-http://195.158.222.115:8002/cineman_comedy
-#EXTINF:-1 group-title="Cineman",Cineman_Boevik
-http://195.158.222.115:8002/cineman_action
-#EXTINF:-1 group-title="Cineman",Cineman
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Cineman
 http://195.158.222.115:8002/cineman
-#EXTINF:-1 group-title="Cineman",START World
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Action
+http://195.158.222.115:8002/cineman_action
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Marvel
+http://195.158.222.115:8002/cineman_marvel
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Melodrama
+http://195.158.222.115:8002/cineman_melodrama
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan MiniSeries
+http://195.158.222.115:8002/cineman_miniseries
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Premium
+http://195.158.222.115:8002/cineman_premium
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Thriller
+http://195.158.222.115:8002/cineman_thriller
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Top
+http://195.158.222.115:8002/cineman_top
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan VHS
+http://195.158.222.115:8002/cineman_vhs
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan РуКино
+http://195.158.222.115:8002/cineman_rukino
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Лесник
+http://195.158.222.115:8002/cineman_lesnik
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Катастрофы
+http://195.158.222.115:8002/cineman_katastrofi
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Комедия
+http://195.158.222.115:8002/cineman_comedy
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Симпсоны
+http://195.158.222.115:8002/cineman_simpson
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Скорая помощь
+http://195.158.222.115:8002/cineman_skoraya_pomosh
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Сваты
+http://195.158.222.115:8002/cineman_svaty
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Start World
 http://195.158.222.115:8002/start_world
+
+
+#EXTINF:-1 group-title="Cineman 195.158.222.115", История
+http://195.158.222.115:8000/play/102/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kineko", Кинеко
+http://195.158.222.115:8000/play/170/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Кино без границ
+http://195.158.222.115:8001/play/a087/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Кино без границ HD
+http://195.158.222.115:8001/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Киномикс
+http://195.158.222.115:8000/play/47/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", КиноМульт
+http://195.158.222.115:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Киносерия
+http://195.158.222.115:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kinouzhas",Киноужас
+http://195.158.222.115:8001/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kinosvidanie",Киносвидание
+http://195.158.222.115:8001/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Кто есть кто 
+http://195.158.222.115:8000/play/192/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Мир сериала HD
+http://195.158.222.115:8000/play/75/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="mir-seriala",Мир сериала
+http://195.158.222.115:8001/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Мульт 
+http://195.158.222.115:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="muzhskoe-kino",Мужское кино
+http://195.158.222.115:8001/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Наше новое кино 
+http://195.158.222.115:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="nashe-novoe-kino", Наше новое кино
+http://195.158.222.115:8001/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Пятница!
+http://195.158.222.115:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Уникум 
+http://195.158.222.115:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", ЦТВ
+http://195.158.222.115:8001/play/a083/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", 2x2
+http://195.158.222.115:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", A2 
+http://195.158.222.115:8000/play/62/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Bollywood HD
+http://195.158.222.115:8000/play/169/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Cartoon Classics
+http://195.158.222.115:8001/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Hollywood HD 
+http://195.158.222.115:8000/play/166/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Kids TV 
+http://195.158.222.115:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Kinoliving
+http://195.158.222.115:8001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="start-world" tvg-id="start-world", Start World
+http://195.158.222.115:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Star Cinema
+http://195.158.222.115:8000/play/a04q/index.m3u8 
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Viju TV1000 
+http://195.158.222.115:8001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Viju TV1000 Action
+http://195.158.222.115:8000/play/36/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Viju+ Comedy HD
+http://195.158.222.115:8000/play/40/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115", Viju+ Megahit 
+http://195.158.222.115:8000/play/38/index.m3u8
