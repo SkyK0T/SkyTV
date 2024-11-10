@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; https://gabbarit.page.link/epg"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
 
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Action HD
@@ -121,7 +121,7 @@ http://50.7.92.98:8887/8912/index.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HD
 http://50.7.92.98:8887/8977/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HDК
+#EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HDR
 http://50.7.92.98:8887/8977/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU VHS HD 
