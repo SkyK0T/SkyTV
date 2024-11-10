@@ -3,307 +3,142 @@
 #EXTGRP:🦊Обновлено: 6.11.24🦊
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
-#EXTM3U
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4748" tvg-rec="7" tvg-logo="http://epg.one/img/4748.png",BCU Action HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11027/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Anime HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14045/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4749" tvg-rec="7" tvg-logo="http://epg.one/img/4749.png",BCU Catastrophe HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11028/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Black TV HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14085/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6228" tvg-rec="0" tvg-logo="http://epg.one/img/6228.png",BCU Charm HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18053/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Bushido
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14076/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4750" tvg-rec="7" tvg-logo="http://epg.one/img/4750.png",BCU Cinema HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11029/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Clubhouse HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14122/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4751" tvg-rec="7" tvg-logo="http://epg.one/img/4751.png",BCU Cinema+ HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11030/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Dreamworks HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14091/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4752" tvg-rec="7" tvg-logo="http://epg.one/img/4752.png",BCU Comedy HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11031/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Dubstep
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14120/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="5515" tvg-rec="0" tvg-logo="http://epg.one/img/5515.png",BCU Comedy old
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15026/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Eurodance
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14029/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6176" tvg-rec="0" tvg-logo="http://epg.one/img/6176.png",BCU Cosmo HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17021/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Kosmo hd
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14012/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6165" tvg-rec="0" tvg-logo="http://epg.one/img/6165.png",BCU Cosmo old
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17022/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Marvel HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14087/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4769" tvg-rec="7" tvg-logo="http://epg.one/img/4769.png",BCU Criminal HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11048/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Mix Ужасы
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14075/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4753" tvg-rec="7" tvg-logo="http://epg.one/img/4753.png",BCU Fantastic HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11032/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Relax Космос
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14031/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4754" tvg-rec="7" tvg-logo="http://epg.one/img/4754.png",BCU FilMystic HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11033/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Ridddle HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14013/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4755" tvg-rec="7" tvg-logo="http://epg.one/img/4755.png",BCU History HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11034/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Tech Box HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14053/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU",BCU Kids 4K
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17023/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV The Offspring
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14121/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU",BCU Kids HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11035/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Tik Tok
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14011/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU",BCU Kids+ HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11036/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV WWE HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14055/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4758" tvg-rec="7" tvg-logo="http://epg.one/img/4758.png",BCU Kinorating HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11037/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV X-Files HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14049/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU",BCU Kinozakaz HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11043/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Агент 007
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14092/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-rec="0",BCU Kinozakaz Premiere 4K
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31547/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Александр Панкратов-Чёрный
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14070/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-rec="0",BCU Little HD 
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/19425/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Алладин
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14022/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4759" tvg-rec="7" tvg-logo="http://epg.one/img/4759.png",BCU Marvel HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Арнольд Шварценеггер HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14042/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="5514" tvg-rec="0" tvg-logo="http://epg.one/img/5514.png",BCU Marvel old
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15025/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Афганистан Чечня
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14037/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU",BCU Media old
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15024/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Барбоскины
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14072/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU",BCU Multserial HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11025/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Бесмертный полк
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14064/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4736" tvg-rec="7" tvg-logo="http://epg.one/img/4736.png",BCU Premiere 1 HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11015/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Брэд Питт и Анджелина Джоли HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14015/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4737" tvg-rec="7" tvg-logo="http://epg.one/img/4737.png",BCU Premiere 2 HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11016/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Брюс Виллис HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14034/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4738" tvg-rec="7" tvg-logo="http://epg.one/img/4738.png",BCU Premiere 3 HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11017/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Вин Дизель HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14065/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4760" tvg-rec="7" tvg-logo="http://epg.one/img/4760.png",BCU Premiere HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11039/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Винни-Пух
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14068/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="5561" tvg-rec="0" tvg-logo="http://epg.one/img/5561.png",BCU Premiere Ultra 4K
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15023/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Вкуснейшн ТВ
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14059/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6131" tvg-rec="0" tvg-logo="http://epg.one/img/6131.png",BCU Reality HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16082/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Военные сериалы HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14079/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6067" tvg-rec="0" tvg-logo="http://epg.one/img/6067.png",BCU Reality old
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16083/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Вуншпунш
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14006/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4761" tvg-rec="7" tvg-logo="http://epg.one/img/4761.png",BCU Romantic HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11040/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Гарри Поттер HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14082/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4761" tvg-rec="0" tvg-logo="http://epg.one/img/4761.png",BCU Romantic old
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18052/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Гравити Фолз
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14057/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4767" tvg-rec="7" tvg-logo="http://epg.one/img/4767.png",BCU Ruserial HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11046/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Гуфи и его команда
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14071/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-rec="0",BCU Russia 90s HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31658/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Дембель ТВ HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14084/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4762" tvg-rec="7" tvg-logo="http://epg.one/img/4762.png",BCU Russian HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11041/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Дензел Вашингтон HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14066/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4765" tvg-rec="7" tvg-logo="http://epg.one/img/4765.png",BCU Stars HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11044/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Детки из класса 402
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14008/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="5513" tvg-rec="0" tvg-logo="http://epg.one/img/5513.png",BCU Stars HD 2
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15024/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Джейсон Стейтем HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14080/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6175" tvg-rec="0" tvg-logo="http://epg.one/img/6175.png",BCU Survival HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17019/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Джеки Чан HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14062/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6164" tvg-rec="0" tvg-logo="http://epg.one/img/6164.png",BCU Survival old
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17020/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Джим Керри HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14094/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="6198" tvg-rec="0" tvg-logo="http://epg.one/img/6198.png",BCU TruMotion HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17054/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Дьявольщина HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14043/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4766" tvg-rec="7" tvg-logo="http://epg.one/img/4766.png",BCU Ultra 4K
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11045/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Едим Дома HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14017/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4763" tvg-rec="7" tvg-logo="http://epg.one/img/4763.png",BCU VHS HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11042/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Ералаш
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14026/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4768" tvg-rec="7" tvg-logo="http://epg.one/img/4768.png",BCU Сваты HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11047/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Жан Рено HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14025/index.m3u8
+#EXTINF:0 group-title="Кинозалы BCU" tvg-id="4747" tvg-rec="7" tvg-logo="http://epg.one/img/4747.png",BCU СССР HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11026/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Жан-Клод Ван Дамм HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14083/index.m3u8
 
-#EXTINF:-1 group-title="BTV",BTV Игра престолов HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14040/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Индиана Джонс HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14086/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Йога
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14028/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Каламбур
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14020/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Квентин Тарантино
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14030/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Комбат
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14001/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Кот Ик
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14009/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Кошмар на улице вязов (VHS)
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14041/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Криминал ТВ
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14048/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Леонид Гайдай
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14089/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Луи де Фюнес HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14061/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Маски шоу
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14014/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Маша и медведь
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14047/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мир глазами охотника HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14052/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мир наизнанку
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14078/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мистер Бин HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14016/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мистика док HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14077/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мортал комбат
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14074/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мультпарад 60FPS HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14036/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мультфильмы СССР -1
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14018/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мультфильмы СССР -3
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14024/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Мылодрама HD (16+)
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14093/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Николас Кейдж HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14063/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Ну погоди
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14046/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Обитель зла HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14007/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Огги и тараканы
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14069/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Пираты карибскго моря HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14038/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Приключения мишек гамми
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14073/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Пятница 13-е HD (коллекция)
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14124/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Робокоп HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14005/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Русалочка
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14002/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Рыбацкие будни HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14051/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Сделано в СССР
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14039/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Семейные комедии HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14023/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Сильвестр сталлоне HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14035/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Стивен Сигал HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14060/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Страшилки
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14054/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Счастливы вместе
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14010/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Сэмюэл Лерой Джексон HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14044/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Том и Джерри HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14004/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Трансформеры HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14033/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Утиные истории
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14123/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Уфолог
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14058/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Фиксики
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14000/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Фитнес HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14056/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Футурама
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14067/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Хит за хитом (шансон)
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14081/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Хлеб соль HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14050/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Человек паук
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14125/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Чернобыль HD
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14032/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Чип и дейл
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14019/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Чудеса на виражах
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14088/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Шёлк ТВ HD (+18)
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14027/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Элен и ребята
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14119/index.m3u8
-
-#EXTINF:-1 group-title="BTV",BTV Эльдар Рязанов
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14090/index.m3u8
 
 
 
@@ -404,185 +239,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11049/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18040/index.m3u8
 
 
-#EXTINF:0 tvg-id="4748" tvg-rec="7" tvg-logo="http://epg.one/img/4748.png",BCU Action HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11027/index.m3u8
-
-#EXTINF:0 tvg-id="4749" tvg-rec="7" tvg-logo="http://epg.one/img/4749.png",BCU Catastrophe HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11028/index.m3u8
-
-#EXTINF:0 tvg-id="6228" tvg-rec="0" tvg-logo="http://epg.one/img/6228.png",BCU Charm HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18053/index.m3u8
-
-#EXTINF:0 tvg-id="4750" tvg-rec="7" tvg-logo="http://epg.one/img/4750.png",BCU Cinema HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11029/index.m3u8
-
-#EXTINF:0 tvg-id="4751" tvg-rec="7" tvg-logo="http://epg.one/img/4751.png",BCU Cinema+ HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11030/index.m3u8
-
-#EXTINF:0 tvg-id="4752" tvg-rec="7" tvg-logo="http://epg.one/img/4752.png",BCU Comedy HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11031/index.m3u8
-
-#EXTINF:0 tvg-id="5515" tvg-rec="0" tvg-logo="http://epg.one/img/5515.png",BCU Comedy old
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15026/index.m3u8
-
-#EXTINF:0 tvg-id="6176" tvg-rec="0" tvg-logo="http://epg.one/img/6176.png",BCU Cosmo HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17021/index.m3u8
-
-#EXTINF:0 tvg-id="6165" tvg-rec="0" tvg-logo="http://epg.one/img/6165.png",BCU Cosmo old
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17022/index.m3u8
-
-#EXTINF:0 tvg-id="4769" tvg-rec="7" tvg-logo="http://epg.one/img/4769.png",BCU Criminal HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11048/index.m3u8
-
-#EXTINF:0 tvg-id="4753" tvg-rec="7" tvg-logo="http://epg.one/img/4753.png",BCU Fantastic HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11032/index.m3u8
-
-#EXTINF:0 tvg-id="4754" tvg-rec="7" tvg-logo="http://epg.one/img/4754.png",BCU FilMystic HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11033/index.m3u8
-
-#EXTINF:0 tvg-id="4755" tvg-rec="7" tvg-logo="http://epg.one/img/4755.png",BCU History HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11034/index.m3u8
-
-#EXTINF:0,BCU Kids HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11035/index.m3u8
-
-#EXTINF:0,BCU Kids+ HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11036/index.m3u8
-
-#EXTINF:0,BCU Kids 4K
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17023/index.m3u8
-
-#EXTINF:0 tvg-id="4758" tvg-rec="7" tvg-logo="http://epg.one/img/4758.png",BCU Kinorating HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11037/index.m3u8
-
-#EXTINF:0,BCU Kinozakaz HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11043/index.m3u8
-
-#EXTINF:0 tvg-rec="0",BCU Kinozakaz Premiere 4K
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31547/index.m3u8
-
-#EXTINF:0 tvg-rec="0",BCU Little HD 
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/19425/index.m3u8
-
-#EXTINF:0 tvg-id="4759" tvg-rec="7" tvg-logo="http://epg.one/img/4759.png",BCU Marvel HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
-
-#EXTINF:0 tvg-id="5514" tvg-rec="0" tvg-logo="http://epg.one/img/5514.png",BCU Marvel old
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15025/index.m3u8
-
-#EXTINF:0,BCU Media old
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15024/index.m3u8
-
-#EXTINF:0,BCU Multserial HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11025/index.m3u8
-
-#EXTINF:0 tvg-id="4760" tvg-rec="7" tvg-logo="http://epg.one/img/4760.png",BCU Premiere HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11039/index.m3u8
-
-#EXTINF:0 tvg-id="5561" tvg-rec="0" tvg-logo="http://epg.one/img/5561.png",BCU Premiere Ultra 4K
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15023/index.m3u8
-
-#EXTINF:0 tvg-id="6131" tvg-rec="0" tvg-logo="http://epg.one/img/6131.png",BCU Reality HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16082/index.m3u8
-
-#EXTINF:0 tvg-id="6067" tvg-rec="0" tvg-logo="http://epg.one/img/6067.png",BCU Reality old
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/16083/index.m3u8
-
-#EXTINF:0 tvg-id="4761" tvg-rec="7" tvg-logo="http://epg.one/img/4761.png",BCU Romantic HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11040/index.m3u8
-
-#EXTINF:0 tvg-id="4761" tvg-rec="0" tvg-logo="http://epg.one/img/4761.png",BCU Romantic old
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/18052/index.m3u8
-
-#EXTINF:0 tvg-id="4767" tvg-rec="7" tvg-logo="http://epg.one/img/4767.png",BCU Ruserial HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11046/index.m3u8
-
-#EXTINF:0 tvg-id="4762" tvg-rec="7" tvg-logo="http://epg.one/img/4762.png",BCU Russian HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11041/index.m3u8
-
-#EXTINF:0 tvg-rec="0",BCU Russia 90s HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31658/index.m3u8
-
-#EXTINF:0 tvg-id="4765" tvg-rec="7" tvg-logo="http://epg.one/img/4765.png",BCU Stars HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11044/index.m3u8
-
-#EXTINF:0 tvg-id="5513" tvg-rec="0" tvg-logo="http://epg.one/img/5513.png",BCU Stars HD 2
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/15024/index.m3u8
-
-#EXTINF:0 tvg-id="6175" tvg-rec="0" tvg-logo="http://epg.one/img/6175.png",BCU Survival HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17019/index.m3u8
-
-#EXTINF:0 tvg-id="6164" tvg-rec="0" tvg-logo="http://epg.one/img/6164.png",BCU Survival old
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17020/index.m3u8
-
-#EXTINF:0 tvg-id="6198" tvg-rec="0" tvg-logo="http://epg.one/img/6198.png",BCU TruMotion HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/17054/index.m3u8
-
-#EXTINF:0 tvg-id="4766" tvg-rec="7" tvg-logo="http://epg.one/img/4766.png",BCU Ultra 4K
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11045/index.m3u8
-
-#EXTINF:0 tvg-id="4763" tvg-rec="7" tvg-logo="http://epg.one/img/4763.png",BCU VHS HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11042/index.m3u8
-
-#EXTINF:0 tvg-id="4736" tvg-rec="7" tvg-logo="http://epg.one/img/4736.png",BCU #EXTGRP:Кинозалы Premiere 1 HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11015/index.m3u8
-
-#EXTINF:0 tvg-id="4737" tvg-rec="7" tvg-logo="http://epg.one/img/4737.png",BCU #EXTGRP:Кинозалы Premiere 2 HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11016/index.m3u8
-
-#EXTINF:0 tvg-id="4738" tvg-rec="7" tvg-logo="http://epg.one/img/4738.png",BCU #EXTGRP:Кинозалы Premiere 3 HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11017/index.m3u8
-
-#EXTINF:0 tvg-id="4768" tvg-rec="7" tvg-logo="http://epg.one/img/4768.png",BCU Сваты HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11047/index.m3u8
-
-#EXTINF:0 tvg-id="4747" tvg-rec="7" tvg-logo="http://epg.one/img/4747.png",BCU СССР HD
-#EXTGRP:Кинозалы BCU
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11026/index.m3u8
 
 
 
@@ -7260,33 +6916,311 @@ http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/31716/index.m3u8
 
 
 
-#EXTINF:0 tvg-rec="7",BCU Marvel HD c3921155.edmonst.net
-#EXTGRP:Тест
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
 
-#EXTINF:0 tvg-rec="7",BCU Marvel HD wps5c7yt.rostelekom.xyz
-#EXTGRP:Тест
-http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
 
-#EXTINF:0 tvg-rec="7",BCU Marvel HD 2615a5d9.edmonst.net
-#EXTGRP:Тест
-http://2615a5d9.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
 
-#EXTINF:0 tvg-rec="7",BCU Marvel HD rhsbjv7k.tvclub.xyz
-#EXTGRP:Тест
-http://rhsbjv7k.tvclub.xyz/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
 
-#EXTINF:0 tvg-rec="7",BCU Marvel HD rhsbjv7k.tvclub.xyz
-#EXTGRP:Тест
-http://rhsbjv7k.tvclub.xyz/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
 
-#EXTINF:0 tvg-rec="7",BCU Marvel HD e6ce69f2.kazaktelekom.com
-#EXTGRP:Тест
-http://e6ce69f2.kazaktelekom.com/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
 
-#EXTINF:0 tvg-rec="7",BCU Marvel HD e6ce69f2.kazaktelekom.com и токен индуса
-#EXTGRP:Тест
-http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/11038/index.m3u8
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Anime HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14045/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Black TV HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14085/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Bushido
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14076/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Clubhouse HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14122/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Dreamworks HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14091/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Dubstep
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14120/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Eurodance
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14029/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Kosmo hd
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14012/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Marvel HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14087/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Mix Ужасы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14075/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Relax Космос
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14031/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Ridddle HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14013/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Tech Box HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14053/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV The Offspring
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14121/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Tik Tok
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14011/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV WWE HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14055/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV X-Files HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14049/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Агент 007
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14092/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Александр Панкратов-Чёрный
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14070/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Алладин
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14022/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Арнольд Шварценеггер HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14042/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Афганистан Чечня
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14037/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Барбоскины
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14072/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Бесмертный полк
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14064/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Брэд Питт и Анджелина Джоли HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14015/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Брюс Виллис HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14034/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Вин Дизель HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14065/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Винни-Пух
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14068/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Вкуснейшн ТВ
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14059/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Военные сериалы HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14079/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Вуншпунш
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14006/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Гарри Поттер HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14082/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Гравити Фолз
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14057/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Гуфи и его команда
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14071/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Дембель ТВ HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14084/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Дензел Вашингтон HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14066/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Детки из класса 402
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14008/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Джейсон Стейтем HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14080/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Джеки Чан HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14062/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Джим Керри HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14094/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Дьявольщина HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14043/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Едим Дома HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14017/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Ералаш
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14026/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Жан Рено HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14025/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Жан-Клод Ван Дамм HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14083/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Игра престолов HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14040/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Индиана Джонс HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14086/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Йога
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14028/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Каламбур
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14020/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Квентин Тарантино
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14030/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Комбат
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14001/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Кот Ик
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14009/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Кошмар на улице вязов (VHS)
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14041/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Криминал ТВ
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14048/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Леонид Гайдай
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14089/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Луи де Фюнес HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14061/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Маски шоу
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14014/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Маша и медведь
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14047/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мир глазами охотника HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14052/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мир наизнанку
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14078/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мистер Бин HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14016/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мистика док HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14077/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мортал комбат
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14074/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мультпарад 60FPS HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14036/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мультфильмы СССР -1
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14018/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мультфильмы СССР -3
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14024/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Мылодрама HD (16+)
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14093/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Николас Кейдж HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14063/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Ну погоди
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14046/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Обитель зла HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14007/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Огги и тараканы
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14069/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Пираты карибскго моря HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14038/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Приключения мишек гамми
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14073/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Пятница 13-е HD (коллекция)
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14124/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Робокоп HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14005/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Русалочка
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14002/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Рыбацкие будни HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14051/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Сделано в СССР
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14039/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Семейные комедии HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14023/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Сильвестр сталлоне HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14035/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Стивен Сигал HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14060/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Страшилки
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14054/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Счастливы вместе
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14010/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Сэмюэл Лерой Джексон HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14044/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Том и Джерри HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14004/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Трансформеры HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14033/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Утиные истории
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14123/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Уфолог
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14058/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Фиксики
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14000/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Фитнес HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14056/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Футурама
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14067/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Хит за хитом (шансон)
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14081/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Хлеб соль HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14050/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Человек паук
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14125/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Чернобыль HD
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14032/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Чип и дейл
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14019/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Чудеса на виражах
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14088/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Шёлк ТВ HD (+18)
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14027/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Элен и ребята
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14119/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BTV",BTV Эльдар Рязанов
+http://wps5c7yt.rostelekom.xyz/iptv/SU2U2T2VQLFQ4Q/14090/index.m3u8
 
 
 
