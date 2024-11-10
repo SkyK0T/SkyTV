@@ -1,8 +1,9 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz; https://bcumedia.su/epg.xml.gz"
+#EXTM3U x-tvg-url="bcumedia"
 
-
-#EXTINF:-1 group-title="Кинозалы BCU",BCU Action HD
+#EXTINF:-1 group-title="Кинозалы BCU" catchup="default" catchup-days="3" catchup-source="http://tv.bcumedia.su/b07330451f0ad573a06794d9367f7fa9/video-${start}-${duration}.m3u8?token=94i1b0npg6" timeshift="3",BCU Action HD
 http://50.7.92.98:8887/8481/video.m3u8
+
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Action HDR
 http://50.7.92.98:8887/8876/index.m3u8
@@ -853,6 +854,9 @@ http://50.7.92.98:8887/8040/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Киномикс
 http://50.7.92.98:8887/8041/video.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы",Кинопоказ
+http://50.7.92.98:8887/8139/video.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы",Киносемья
 http://50.7.92.98:8887/8039/video.m3u8
 
@@ -1214,14 +1218,13 @@ http://50.7.92.98:8887/8120/video.m3u8
 #EXTINF:-1 group-title="Эфир",Пятница HD
 http://50.7.92.98:8887/8066/video.m3u8
 
-#EXTINF:-1 group-title="Эфир прочее",Мега хохлы
-http://50.7.92.98:8887/8100/video.m3u8
 
-#EXTINF:-1 group-title="Эфир прочее",ХрюкТВ пропаганда Freedom
-http://50.7.92.98:8887/8540/video.m3u8
+
+
 
 #EXTINF:-1 group-title="Телемагазин",Leomax
 http://50.7.92.98:8887/8337/video.m3u8
+
 
 #EXTINF:-1 group-title="Сериалы",Тайна
 http://50.7.92.98:8887/8304/video.m3u8
@@ -1465,6 +1468,9 @@ http://50.7.92.98:8887/8078/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Телепутешествия
 http://50.7.92.98:8887/8182/index.m3u8
 
+#EXTINF:-1 group-title="Познавательные",Телеканал ТЕАТР
+http://50.7.92.98:8887/8670/video.m3u8
+
 #EXTINF:-1 group-title="Познавательные",Техно 24
 http://50.7.92.98:8887/8196/video.m3u8
 
@@ -1511,8 +1517,6 @@ http://50.7.92.98:8887/8129/video.m3u8
 http://50.7.92.98:8887/8393/video.m3u8
 #EXTINF:-1 group-title="я18я" tvg-id="shalun",Шалун
 http://50.7.92.98:8887/8343/video.m3u8
-
-
 #EXTINF:-1 group-title="я18я",Barely Legal
 http://50.7.92.98:8887/8413/video.m3u8
 #EXTINF:-1 group-title="я18я",Blue Hustler
@@ -1549,77 +1553,56 @@ http://50.7.92.98:8887/8408/video.m3u8
 http://50.7.92.98:8887/8726/video.m3u8
 
 
+#EXTINF:-1 group-title="ХрюкТВ",Настоящее время
+http://50.7.92.98:8887/8525/video.m3u8
+#EXTINF:-1 group-title="ХрюкТВ",Мега хохлы
+http://50.7.92.98:8887/8100/video.m3u8
+#EXTINF:-1 group-title="ХрюкТВ",ХрюкТВ пропаганда Freedom
+http://50.7.92.98:8887/8540/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Тест",8887 Фентези шёл варкрафт
+#EXTINF:-1 group-title="Тест",Фэнтези нет логотипа
 http://50.7.92.98:8887/8887/video.m3u8
 
-#EXTINF:-1 group-title="Тест",8904 Путешествия искать по логотипу
-http://50.7.92.98:8887/8904/video.m3u8
-
-#EXTINF:-1 group-title="Тест",test
-http://50.7.92.98:8887/8123/video.m3u8
-
-#EXTINF:-1 group-title="Тест",test
-http://50.7.92.98:8887/8138/video.m3u8
-
-#EXTINF:-1 group-title="Тест",зависает
-http://50.7.92.98:8887/8395/video.m3u8
-
-#EXTINF:-1 group-title="Тест",зависает
-http://50.7.92.98:8887/8396/video.m3u8
-
-#EXTINF:-1 group-title="Тест",зависает
-http://50.7.92.98:8887/8397/video.m3u8
-
-#EXTINF:-1 group-title="Тест",какие то мультики
+#EXTINF:-1 group-title="Тест",Мультики искать нет логотипа
 http://50.7.92.98:8887/8976/video.m3u8
 
-#EXTINF:-1 group-title="Тест",какие-то сериалы
+#EXTINF:-1 group-title="Тест",Сериалы нет логотипа
 http://50.7.92.98:8887/8911/video.m3u8
 
-#EXTINF:-1 group-title="Тест",Наркомания какая то
-http://50.7.92.98:8887/8305/video.m3u8
-
-#EXTINF:-1 group-title="Тест",К
-http://50.7.92.98:8887/8139/video.m3u8
-
-#EXTINF:-1 group-title="Тест",Кино хз
+#EXTINF:-1 group-title="Тест",Кино нет логотипа
 http://50.7.92.98:8887/8431/video.m3u8
 
-#EXTINF:-1 group-title="Тест",Кишенёв хз
-http://50.7.92.98:8887/8525/video.m3u8
-
-#EXTINF:-1 group-title="Тест",Сериалы непонятный логотип
-http://50.7.92.98:8887/8296/video.m3u8
-
-#EXTINF:-1 group-title="Тест",Сериалы хз
-http://50.7.92.98:8887/8524/video.m3u8
-
-#EXTINF:-1 group-title="Тест",Профилактика
-http://50.7.92.98:8887/8209/video.m3u8
-
-#EXTINF:-1 group-title="Тест",Профилактика
-http://50.7.92.98:8887/8210/video.m3u8
-
-#EXTINF:-1 group-title="Тест",Профилактика
-http://50.7.92.98:8887/8211/video.m3u8
-
-#EXTINF:-1 group-title="Тест",Профилактика
-http://50.7.92.98:8887/8794/video.m3u8
-
-#EXTINF:-1 group-title="Тест",хз на нейросеть похоже
-http://50.7.92.98:8887/8675/video.m3u8
-
-#EXTINF:-1 group-title="Тест",хз пьес какие то
-http://50.7.92.98:8887/8670/video.m3u8
-
-#EXTINF:-1 group-title="Тест",чб кино без логотипа
+#EXTINF:-1 group-title="Тест",Кино нет логотипа
 http://50.7.92.98:8887/8804/video.m3u8
 
-#EXTINF:-1 group-title="Тест",test
-http://50.7.92.98:8887/8122/video.m3u8
+#EXTINF:-1 group-title="Тест",Путешествия искать по логотипу
+http://50.7.92.98:8887/8904/video.m3u8
 
-#EXTINF:-1 group-title="Тест",MM скорее всего киноканал хз
+#EXTINF:-1 group-title="Тест",Сериалы искать по логотипу
+http://50.7.92.98:8887/8296/video.m3u8
+
+#EXTINF:-1 group-title="Тест",Сериалы искать по логотипу
+http://50.7.92.98:8887/8524/video.m3u8
+
+#EXTINF:-1 group-title="Тест",Кино и сериалы искать по логотипу
 http://50.7.92.98:8887/8740/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
