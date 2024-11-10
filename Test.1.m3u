@@ -121,9 +121,6 @@ http://50.7.92.98:8887/8912/index.m3u8
 #EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HD
 http://50.7.92.98:8887/8977/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HDR
-http://50.7.92.98:8887/8977/video.m3u8
-
 #EXTINF:-1 group-title="Кинозалы BCU",BCU VHS HD 
 http://50.7.92.98:8887/8908/index.m3u8
 
@@ -144,13 +141,13 @@ http://50.7.92.98:8887/8441/video.m3u8
 #EXTINF:-1 group-title="Кинозалы BOX",BOX AutoTrend HD
 http://50.7.92.98:8887/8440/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 1
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 1 HD
 http://50.7.92.98:8887/8421/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 2
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 2 HD
 http://50.7.92.98:8887/8422/video.m3u8
 
-#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 3
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 3 HD
 http://50.7.92.98:8887/8467/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BOX",BOX СССР 4K
@@ -359,7 +356,7 @@ http://50.7.92.98:8887/8812/index.m3u8
 
 
 
-EXTINF:-1 group-title="Кинозалы ММ",MM Celebrity HD
+#EXTINF:-1 group-title="Кинозалы ММ",MM Celebrity HD
 http://50.7.92.98:8887/8991/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы ММ",MM Flip UHD
@@ -449,7 +446,41 @@ http://50.7.92.98:8887/8994/video.m3u8
 #EXTINF:-1 group-title="Кинозалы ММ",MM Ужасы HD
 http://50.7.92.98:8887/8725/video.m3u8
 
+#EXTINF:-1 group-title="Кинозалы Viju",Da Vinci
+http://50.7.92.98:8887/8088/video.m3u8
 
+#EXTINF:-1 group-title="Кинозалы Viju" tvg-id="history",History HD
+http://50.7.92.98:8887/8356/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viasat Nature HD
+http://50.7.92.98:8887/8087/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viasat Sport
+http://50.7.92.98:8887/8015/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viju+ Premiere
+http://50.7.92.98:8887/8119/video.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viju Explore
+http://50.7.92.98:8887/8085/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viju History
+http://50.7.92.98:8887/8086/video.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viju TV1000 Action
+http://50.7.92.98:8887/8049/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viju TV1000 Русское
+http://50.7.92.98:8887/8050/video.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju",Viju TV1000 Новелла
+http://50.7.92.98:8887/8973/video.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Viju" tvg-id="viasat-sport",Viju+ Sport
+http://50.7.92.98:8887/8235/video.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Velilla TV" tvg-id="actionwarfilms" tvg-name="velilla tv action war films hd",Velilla TV Action War Films HD
+http://50.7.92.98:8887/8418/video.m3u8
 
 
 
@@ -840,6 +871,9 @@ http://50.7.92.98:8887/8323/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Комедия
 http://50.7.92.98:8887/8648/video.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы",Красная линия
+http://50.7.92.98:8887/8390/video.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы",Мир Сериала
 http://50.7.92.98:8887/8662/video.m3u8
 
@@ -878,48 +912,6 @@ http://50.7.92.98:8887/8028/index.m3u8
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Кинозалы Velilla TV" tvg-id="actionwarfilms" tvg-name="velilla tv action war films hd",Velilla TV Action War Films HD
-http://50.7.92.98:8887/8418/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Da Vinci
-http://50.7.92.98:8887/8088/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju" tvg-id="history",History HD
-http://50.7.92.98:8887/8356/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viasat Nature HD
-http://50.7.92.98:8887/8087/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viasat Sport
-http://50.7.92.98:8887/8015/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viju Explore
-http://50.7.92.98:8887/8085/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viju History
-http://50.7.92.98:8887/8086/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viju Premiere
-http://50.7.92.98:8887/8119/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viju TV1000 Action
-http://50.7.92.98:8887/8049/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viju TV1000 Русское
-http://50.7.92.98:8887/8050/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju",Viju TV1000 Новелла
-http://50.7.92.98:8887/8973/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы Viju" tvg-id="viasat-sport",Viju+ Sport
-http://50.7.92.98:8887/8235/video.m3u8
 
 
 
@@ -1558,13 +1550,12 @@ http://50.7.92.98:8887/8726/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Тест",Красная линия
-http://50.7.92.98:8887/8389/video.m3u8
+
 
 #EXTINF:-1 group-title="Тест",8887 Фентези шёл варкрафт
 http://50.7.92.98:8887/8887/video.m3u8
 
-#EXTINF:-1 group-title="Тест",8904 подвисает
+#EXTINF:-1 group-title="Тест",8904 Путешествия искать по логотипу
 http://50.7.92.98:8887/8904/video.m3u8
 
 #EXTINF:-1 group-title="Тест",test
