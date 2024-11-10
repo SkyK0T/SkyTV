@@ -1,8 +1,200 @@
 #EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz; https://bcumedia.su/epg.xml.gz"
 
-#EXTINF:-1 group-title="Кинозалы BCU" catchup="default" catchup-days="3" catchup-source="http://tv.bcumedia.su/b07330451f0ad573a06794d9367f7fa9/video-${start}-${duration}.m3u8?token=94i1b0npg6" timeshift="3",BCU Action HD
-http://50.7.92.98:8887/8481/video.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://karnei4.github.io/convert/img/2214.png",Первый HD
+http://50.7.92.98:8887/8150/video.m3u8
+#EXTINF:-1 group-title="Эфир",Первый канал
+http://50.7.92.98:8887/8001/video.m3u8
+#EXTINF:-1 group-title="Эфир",Первый канал
+http://50.7.92.98:8887/8120/video.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://karnei4.github.io/convert/img/9429.png" ,Первый канал +2
+http://50.7.92.98:8887/8425/video.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://karnei4.github.io/convert/img/9664.png",Первый канал +4
+http://50.7.92.98:8887/8145/video.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://karnei4.github.io/convert/img/8664.png",Первый канал +6
+http://50.7.92.98:8887/8299/video.m3u8
 
+
+
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://karnei4.github.io/convert/img/5963.png",Россия 1 HD
+http://50.7.92.98:8887/8152/index.m3u8
+#EXTINF:-1 group-title="Эфир",Россия 1
+http://50.7.92.98:8887/8002/video.m3u8
+#EXTINF:-1 group-title="Эфир",Россия 1
+http://50.7.92.98:8887/8102/video.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://karnei4.github.io/convert/img/4936.png",Россия 1 +2
+http://50.7.92.98:8887/8426/video.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-logo="https://karnei4.github.io/convert/img/5445.png",Россия 1 +4
+http://50.7.92.98:8887/8300/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",НТВ HD
+http://50.7.92.98:8887/8155/video.m3u8
+#EXTINF:-1 group-title="Эфир",НТВ
+http://50.7.92.98:8887/8003/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",НТВ
+http://50.7.92.98:8887/8225/video.m3u8
+#EXTINF:-1 group-title="Эфир",НТВ
+http://50.7.92.98:8887/8298/video.m3u8
+#EXTINF:-1 group-title="Эфир",НТВ HD
+http://50.7.92.98:8887/8306/video.m3u8
+#EXTINF:-1 group-title="Эфир",НТВ +2
+http://50.7.92.98:8887/8427/video.m3u8
+
+
+#EXTINF:-1 group-title="Эфир",НТВ Хит
+http://50.7.92.98:8887/8383/video.m3u8
+#EXTINF:-1 group-title="Эфир",НТВ Сериал
+http://50.7.92.98:8887/8308/video.m3u8
+#EXTINF:-1 group-title="Эфир",НТВ Право
+http://50.7.92.98:8887/8307/video.m3u8
+#EXTINF:-1 group-title="Эфир",НТВ Мир
+http://50.7.92.98:8887/8011/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Эфир",2x2
+http://50.7.92.98:8887/8045/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",365 дней
+http://50.7.92.98:8887/8068/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",5 канал
+http://50.7.92.98:8887/8009/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Рен HD
+http://50.7.92.98:8887/8312/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Рен ТВ
+http://50.7.92.98:8887/8004/video.m3u8
+
+
+#EXTINF:-1 group-title="Эфир",Россия К
+http://50.7.92.98:8887/8072/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",БелРос
+http://50.7.92.98:8887/8381/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Беларусь 1
+http://50.7.92.98:8887/8546/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Беларусь 2
+http://50.7.92.98:8887/8302/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Беларусь 24
+http://50.7.92.98:8887/8144/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Беларусь 3
+http://50.7.92.98:8887/8999/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Беларусь 3 HD
+http://50.7.92.98:8887/8034/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Беларусь 5
+http://50.7.92.98:8887/8694/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Беларусь фильм Digital
+http://50.7.92.98:8887/8795/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Голос сша
+http://50.7.92.98:8887/8303/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Домашний
+http://50.7.92.98:8887/8124/video.m3u8
+#EXTINF:-1 group-title="Эфир",Домашний
+http://50.7.92.98:8887/8062/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Че
+http://50.7.92.98:8887/8008/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Ю
+http://50.7.92.98:8887/8099/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Еда
+http://50.7.92.98:8887/8140/video.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Эфир",НТК профилактика
+http://50.7.92.98:8887/8902/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",КВН ТВ
+http://50.7.92.98:8887/8330/index.m3u8
+
+#EXTINF:-1 group-title="Эфир",Мир
+http://50.7.92.98:8887/8560/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Мир
+http://50.7.92.98:8887/8641/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Мир 24
+http://50.7.92.98:8887/8071/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Жара
+http://50.7.92.98:8887/8360/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Звезда
+http://50.7.92.98:8887/8037/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Звезда плюс
+http://50.7.92.98:8887/8403/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",ОТР
+http://50.7.92.98:8887/8146/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",ТВ3
+http://50.7.92.98:8887/8114/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",ТВЦ
+http://50.7.92.98:8887/8006/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Санкт-Петербург
+http://50.7.92.98:8887/8550/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Солнце
+http://50.7.92.98:8887/8054/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",ТНТ HD
+http://50.7.92.98:8887/8311/video.m3u8
+#EXTINF:-1 group-title="Эфир",ТНТ
+http://50.7.92.98:8887/8007/video.m3u8
+#EXTINF:-1 group-title="Эфир",ТНТ +4
+http://50.7.92.98:8887/8194/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",ТНТ4
+http://50.7.92.98:8887/8058/video.m3u8
+#EXTINF:-1 group-title="Эфир",ТНТ4
+http://50.7.92.98:8887/8557/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",СТС
+http://50.7.92.98:8887/8005/video.m3u8
+#EXTINF:-1 group-title="Эфир",СТС
+http://50.7.92.98:8887/8195/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",СТС Love
+http://50.7.92.98:8887/8174/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Суббота
+http://50.7.92.98:8887/8359/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Перец
+http://50.7.92.98:8887/8640/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Первый игровой
+http://50.7.92.98:8887/8357/video.m3u8
+
+#EXTINF:-1 group-title="Эфир",Пятница HD
+http://50.7.92.98:8887/8066/video.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Кинозалы BCU" catchup="default" catchup-days="3" timeshift="3",BCU Action HD
+http://50.7.92.98:8887/8481/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Action HDR
 http://50.7.92.98:8887/8876/index.m3u8
@@ -1017,210 +1209,6 @@ http://50.7.92.98:8887/8020/video.m3u8
 
 #EXTINF:-1 group-title="Эфир",Продвижение
 http://50.7.92.98:8887/8665/video.m3u8
-
-
-
-#EXTINF:-1 group-title="Эфир",24
-http://50.7.92.98:8887/8371/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",2x2
-http://50.7.92.98:8887/8045/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",365
-http://50.7.92.98:8887/8068/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",5 канал
-http://50.7.92.98:8887/8009/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Рен HD
-http://50.7.92.98:8887/8312/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Рен ТВ
-http://50.7.92.98:8887/8004/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Россия 1
-http://50.7.92.98:8887/8002/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Россия 1
-http://50.7.92.98:8887/8102/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Россия 1
-http://50.7.92.98:8887/8300/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Россия 1
-http://50.7.92.98:8887/8426/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Россия 1 HD
-http://50.7.92.98:8887/8152/index.m3u8
-
-#EXTINF:-1 group-title="Эфир",Россия К
-http://50.7.92.98:8887/8072/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",БелРос
-http://50.7.92.98:8887/8381/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Беларусь 1
-http://50.7.92.98:8887/8546/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Беларусь 2
-http://50.7.92.98:8887/8302/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Беларусь 24
-http://50.7.92.98:8887/8144/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Беларусь 3
-http://50.7.92.98:8887/8999/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Беларусь 3 HD
-http://50.7.92.98:8887/8034/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Беларусь 5
-http://50.7.92.98:8887/8694/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Беларусьфильм Digital
-http://50.7.92.98:8887/8795/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Голос сша
-http://50.7.92.98:8887/8303/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Домашний
-http://50.7.92.98:8887/8124/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Домашний
-http://50.7.92.98:8887/8062/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Че
-http://50.7.92.98:8887/8008/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Ю
-http://50.7.92.98:8887/8099/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Еда
-http://50.7.92.98:8887/8140/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ
-http://50.7.92.98:8887/8003/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ
-http://50.7.92.98:8887/8298/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ
-http://50.7.92.98:8887/8225/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ +2
-http://50.7.92.98:8887/8427/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ HD
-http://50.7.92.98:8887/8155/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ HD
-http://50.7.92.98:8887/8306/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ Хит
-http://50.7.92.98:8887/8383/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ Сериал
-http://50.7.92.98:8887/8308/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ Право
-http://50.7.92.98:8887/8307/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТВ-Мир
-http://50.7.92.98:8887/8011/index.m3u8
-
-#EXTINF:-1 group-title="Эфир",НТК профилактика
-http://50.7.92.98:8887/8902/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",КВН ТВ
-http://50.7.92.98:8887/8330/index.m3u8
-
-#EXTINF:-1 group-title="Эфир",Мир
-http://50.7.92.98:8887/8560/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Мир
-http://50.7.92.98:8887/8641/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Мир 24
-http://50.7.92.98:8887/8071/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Жара
-http://50.7.92.98:8887/8360/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Звезда
-http://50.7.92.98:8887/8037/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Звезда плюс
-http://50.7.92.98:8887/8403/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ОТР
-http://50.7.92.98:8887/8146/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ТВ3
-http://50.7.92.98:8887/8114/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ТВЦ
-http://50.7.92.98:8887/8006/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Санкт-Петербург
-http://50.7.92.98:8887/8550/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Солнце
-http://50.7.92.98:8887/8054/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ТНТ
-http://50.7.92.98:8887/8007/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ТНТ +4
-http://50.7.92.98:8887/8194/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ТНТ HD
-http://50.7.92.98:8887/8311/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ТНТ4
-http://50.7.92.98:8887/8058/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",ТНТ4
-http://50.7.92.98:8887/8557/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",СТС
-http://50.7.92.98:8887/8005/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",СТС
-http://50.7.92.98:8887/8195/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",СТС Love
-http://50.7.92.98:8887/8174/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Суббота
-http://50.7.92.98:8887/8359/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Перец
-http://50.7.92.98:8887/8640/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Первый
-http://50.7.92.98:8887/8145/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Первый
-http://50.7.92.98:8887/8299/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Первый +2
-http://50.7.92.98:8887/8425/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Первый HD
-http://50.7.92.98:8887/8150/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Первый игровой
-http://50.7.92.98:8887/8357/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Первый канал
-http://50.7.92.98:8887/8001/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Первый канал
-http://50.7.92.98:8887/8120/video.m3u8
-
-#EXTINF:-1 group-title="Эфир",Пятница HD
-http://50.7.92.98:8887/8066/video.m3u8
-
 
 
 
