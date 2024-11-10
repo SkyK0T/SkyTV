@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; https://gabbarit.page.link/epg"
 
 
 #EXTINF:-1 group-title="Кинозалы BCU",BCU Action HD
