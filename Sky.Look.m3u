@@ -151,7 +151,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11026/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL BOX" tvg-id="6698" tvg-logo="http://epg.one/img/6698.png",BOX Anime HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19276/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL BOX tvg-id="8768" tvg-logo="http://epg.one/img2/8768.png",BOX Apocalypse HD
+#EXTINF:-1 group-title="KinoZzZaL BOX" tvg-id="8768" tvg-logo="http://epg.one/img2/8768.png",BOX Apocalypse HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31655/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL BOX",BOX AutoTrend HD
@@ -196,10 +196,10 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31653/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL BOX",BOX History 4K
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31546/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL BOX" tvg-id="6622" tvg-logo="http://epg.one/img2/6622.png",Box Hits HD
+#EXTINF:-1 group-title="KinoZzZaL BOX" tvg-id="6622" tvg-logo="http://epg.one/img2/6622.png",BOX Hits HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19175/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL BOX",Box Hits HD
+#EXTINF:-1 group-title="KinoZzZaL BOX",BOX Hits HD
 http://zedem9op.dienalt.org/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19175/index.m3u8
 
 
@@ -209,7 +209,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19275/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL BOX",BOX Kosmo 4K
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31548/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL BOX tvg-id="9234" tvg-logo="http://epg.one/img2/9234.png",BOX Lo-Fi HD
+#EXTINF:-1 group-title="KinoZzZaL BOX" tvg-id="9234" tvg-logo="http://epg.one/img2/9234.png",BOX Lo-Fi HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31545/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL BOX" tvg-id="6702" tvg-logo="http://epg.one/img/6702.png",BOX M.Serial HD
@@ -349,14 +349,9 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11011/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL CineMan",CineMan Криминальные Сериалы
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31626/index.m3u8
-#EXTINF:-1 tvg-id="8750" group-title="Кино" tvg-logo="http://epg.one/img2/8750.png", CineMan Глухарь + Карпов
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31626/index.m3u8
-
-
 #EXTINF:-1 group-title="KinoZzZaL CineMan",CineMan Комедийные Сериалы
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31628/index.m3u8
-#EXTINF:-1 tvg-id="8752" group-title="Кино" tvg-logo="http://epg.one/img2/8752.png", CineMan Универ
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31628/index.m3u8
+
 
 #EXTINF:-1 group-title="KinoZzZaL CineMan" tvg-id="6053" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/6053.png",CineMan Лесник
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16065/index.m3u8
@@ -2112,8 +2107,9 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14175/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14219/index.m3u8
 
 
-
-#EXTINF:-1 group-title="KinoZzZaL Z!",Z! Action HD
+#EXTINF:-1 group-title="KinoZzZaL Z!" tvg-id="8783"tvg-logo="http://epg.one/img2/8783.png", Z! Action HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31694/index.m3u8
+#EXTINF:-1 group-title="KinoZzZaL Z!" tvg-id="8783"tvg-logo="http://epg.one/img2/8783.png", Z!Action HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31694/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL Z!",Z! Adventure HD
@@ -2146,7 +2142,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31702/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL Z!",Z! Fantasy HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31703/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Z!",Z! Fun HD
+#EXTINF:-1 group-title="KinoZzZaL Z!" tvg-id="8791" tvg-logo="http://epg.one/img2/8791.png",Z! Fun HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31706/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL Z!",Z! History HD
@@ -2173,7 +2169,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15141/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL Z!" tvg-id="5900" tvg-logo="http://epg.one/img/5900.png",Z! Smile HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15142/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Z!",Z! Thriller HD
+#EXTINF:-1 group-title="KinoZzZaL Z!" tvg-id="8782" tvg-logo="http://epg.one/img2/8782.png",Z! Thriller HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31693/index.m3u8
 
 
@@ -2214,67 +2210,60 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18136/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-id="6364" tvg-logo="http://epg.one/img/6364.png",Кинозал 12
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18137/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2952" tvg-logo="http://epg.one/img/2952.png",Зал 1
+
+
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3" tvg-id="2952" tvg-logo="http://epg.one/img/2952.png",Зал 1
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2568/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2952" tvg-logo="http://epg.one/img/2952.png",Зал 2
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3" tvg-id="2952" tvg-logo="http://epg.one/img/2952.png",Зал 2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2569/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2954" tvg-logo="http://epg.one/img/2954.png",Зал 3
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3" tvg-id="2954" tvg-logo="http://epg.one/img/2954.png",Зал 3
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2570/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2955" tvg-logo="http://epg.one/img/2955.png",Зал 4
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3" tvg-id="2955" tvg-logo="http://epg.one/img/2955.png",Зал 4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2571/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2956" tvg-logo="http://epg.one/img/2956.png",Зал 5
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3" tvg-id="2956" tvg-logo="http://epg.one/img/2956.png",Зал 5
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2572/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2957" tvg-logo="http://epg.one/img/2957.png",Зал 6
+#EXTINF:-1 group-title="KinoZzZaL Триколор"catchup-days="3" tvg-rec="3" tvg-id="2957" tvg-logo="http://epg.one/img/2957.png",Зал 6
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2573/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3"  tvg-id="2958" tvg-logo="http://epg.one/img/2958.png",Зал 7
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3"  tvg-id="2958" tvg-logo="http://epg.one/img/2958.png",Зал 7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2574/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2959" tvg-logo="http://epg.one/img/2959.png",Зал 8
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3" tvg-id="2959" tvg-logo="http://epg.one/img/2959.png",Зал 8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2575/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-rec="3" tvg-id="2960" tvg-logo="http://epg.one/img/2960.png",Зал 9
+#EXTINF:-1 group-title="KinoZzZaL Триколор" catchup-days="3" tvg-rec="3" tvg-id="2960" tvg-logo="http://epg.one/img/2960.png",Зал 9
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2576/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Илья ТВ" tvg-id="4782" tvg-rec="7" tvg-logo="http://epg.one/img/4782.png",Илья ТВ Кино HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11103/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Илья ТВ" tvg-id="6141" tvg-logo="http://epg.one/img/6141.png",Илья ТВ Наш Сериал
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16154/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL Илья ТВ" tvg-id="4785" tvg-rec="7" tvg-logo="http://epg.one/img/4785.png",Илья ТВ Наше HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11106/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL Илья ТВ" tvg-id="4783" tvg-rec="7" tvg-logo="http://epg.one/img/4783.png",Илья ТВ Сериал HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11104/index.m3u8
-
-
-#EXTINF:-1 group-title="Кинозалы!",Кинозалы! Bond 007
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="8797" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img2/8797.png",Кинозал! Bond 007
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31715/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы!" tvg-id="4776" tvg-rec="7" tvg-logo="http://epg.one/img/4776.png",Кинозалы! VHS HD
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4776" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4776.png",Кинозалы! VHS HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11059/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы!" tvg-id="4694" tvg-rec="7" tvg-logo="http://epg.one/img/4694.png",Кинозалы! Интерны ТВ
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4694" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4694.png",Кинозалы! Интерны ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11060/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы!" tvg-id="4696" tvg-rec="7" tvg-logo="http://epg.one/img/4696.png",Кинозалы! Сваты
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4696" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4696.png",Кинозалы! Сваты
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11062/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы!" tvg-id="4695" tvg-rec="7" tvg-logo="http://epg.one/img/4695.png",Кинозалы! СССР
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4695" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4695.png",Кинозалы! СССР
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11061/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы!" tvg-id="4697" tvg-rec="7" tvg-logo="http://epg.one/img/4697.png",Кинозалы! Универ ТВ
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4697" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4697.png",Кинозалы! Универ ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11063/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы!" tvg-id="4777" tvg-rec="7" tvg-logo="http://epg.one/img/4777.png",Кинозалы! ХИТ HD
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4777" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4777.png",Кинозалы! Хит HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11064/index.m3u8
 
+
+#EXTINF:-1 group-title="KinoZzZaL Илья ТВ (не работает)" tvg-id="4782" tvg-rec="7" tvg-logo="http://epg.one/img/4782.png",Илья ТВ Кино HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11103/index.m3u8
+#EXTINF:-1 group-title="KinoZzZaL Илья ТВ (не работает)" tvg-id="6141" tvg-logo="http://epg.one/img/6141.png",Илья ТВ Наш Сериал
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16154/index.m3u8
+#EXTINF:-1 group-title="KinoZzZaL Илья ТВ (не работает)" tvg-id="4785" tvg-rec="7" tvg-logo="http://epg.one/img/4785.png",Илья ТВ Наше HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11106/index.m3u8
+#EXTINF:-1 group-title="KinoZzZaL Илья ТВ (не работает)" tvg-id="4783" tvg-rec="7" tvg-logo="http://epg.one/img/4783.png",Илья ТВ Сериал HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11104/index.m3u8
 
 
 
