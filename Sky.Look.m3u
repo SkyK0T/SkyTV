@@ -1,6 +1,8 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обновлено: 5.10.24🦊
-#EXTGRP:🦊Обновлено: 6.11.24🦊
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz; https://bcumedia.su/epg.xml.gz"
+
+
+#EXTINF:0 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обновлено: 11.11.24🦊
+#EXTGRP:🦊Обновлено: 11.11.24🦊
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:0 group-title="Кинозалы BCU" tvg-id="4748" tvg-rec="7" tvg-logo="http://epg.one/img/4748.png",BCU Action HD
@@ -7221,6 +7223,24 @@ http://wps5c7yt.rostelekom.xyz/iptv/H79ANSLCBKAUUQKH2CNLC2ML/14119/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы BTV",BTV Эльдар Рязанов
 http://wps5c7yt.rostelekom.xyz/iptv/H79ANSLCBKAUUQKH2CNLC2ML/14090/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
