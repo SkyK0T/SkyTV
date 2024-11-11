@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz; https://bcumedia.su/epg.xml.gz"
+#EXTM3U url-tvg="https://bcumedia.su/epg.xml.gz"
 
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊Обновлено: 11.11.24🦊
-#EXTGRP:🦊Обновлено: 11.11.24🦊
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",🦊11.11.24🦊
+#EXTGRP:🦊11.11.24🦊
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="4748" tvg-rec="7" tvg-logo="http://epg.one/img/4748.png",BCU Action HD
