@@ -1239,7 +1239,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31667/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL Prokop TV" tvg-id="6601" tvg-logo="http://epg.one/img/6601.png",Prokop TV Netflix
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19272/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL Prokop TV" tvg-id="ProkopTVrockconcert" tvg-name="Prokop TV HARD&HEAVY CONCERTS HD", Prokop TV Rock
+#EXTINF:-1 group-title="KinoZzZaL Prokop TV" tvg-id="ProkopTVrockconcert" tvg-name="Prokop TV HARD&HEAVY CONCERTS HD",Prokop TV Rock
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18088/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL Prokop TV" tvg-id="6837" tvg-logo="http://epg.one/img/6837.png",Prokop TV Premier HD
@@ -1280,40 +1280,121 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19401/index.m3u8
 
 
 
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5632" tvg-logo="http://epg.one/img2/5632.png",Sky High Adult HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15166/index.m3u8
 
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6827" tvg-logo="http://epg.one/img2/6827.png",Sky High Anime HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19405/index.m3u8
 
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6826" tvg-logo="http://epg.one/img2/6826.png",Sky High Brain HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19404/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL SKY HIGH",SKY HIGH DOC HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18172/index.m3u8
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5596" tvg-logo="http://epg.one/img2/5596.png",Sky High Classic HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15104/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL SKY HIGH",SKY HIGH NATURE FHD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19309/index.m3u8
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5454" tvg-logo="http://epg.one/img2/5454.png",Sky High ConcerT HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14241/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL SKY HIGH",SKY HIGH STANDUP HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19311/index.m3u8
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5455" tvg-logo="http://epg.one/img2/5455.png",Sky High Dance UHD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14250/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL SKY HIGH",SKY HIGH SEX VR
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6339" tvg-logo="http://epg.one/img2/6339.png",Sky High Doc HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18172/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6194" tvg-logo="http://epg.one/img2/6194.png",Sky High Doc UHD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17053/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5449" tvg-logo="http://epg.one/img2/5449.png",Sky High EpocH HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14243/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5559" tvg-logo="http://epg.one/img2/5559.png",Sky High Fight + HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15097/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5450" tvg-logo="http://epg.one/img2/5450.png",Sky High Fresh HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14244/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6066" tvg-logo="http://epg.one/img2/6066.png",Sky High Fresh HDR
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16066/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5588" tvg-logo="http://epg.one/img2/5588.png",Sky High Future HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15103/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5448" tvg-logo="http://epg.one/img2/5448.png",Sky High HeroeS HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14242/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6726" tvg-logo="http://epg.one/img2/6726.png",Sky High Lo FI HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19312/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5461" tvg-logo="http://epg.one/img2/5461.png",Sky High Man HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14245/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5451" tvg-logo="http://epg.one/img2/5451.png",Sky High Mix 3D
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14246/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5456" tvg-logo="http://epg.one/img2/5456.png",Sky High Nature 4K
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14247/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5457" tvg-logo="http://epg.one/img2/5457.png",Sky High Nature 4K HDR
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14248/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6738" tvg-logo="http://epg.one/img2/6738.png",Sky High Nature FHD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19309/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6055" tvg-logo="http://epg.one/img2/6055.png",Sky High Noir HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16061/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6725" tvg-logo="http://epg.one/img2/6725.png",Sky High Orig HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19310/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6054" tvg-logo="http://epg.one/img2/6054.png",Sky High Russian HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16060/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5447" tvg-logo="http://epg.one/img2/5447.png",Sky High Series HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14240/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="5452" tvg-logo="http://epg.one/img2/5452.png",Sky High Spirit HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14249/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6741" tvg-logo="http://epg.one/img2/6741.png",Sky High Standup HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19311/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6204" tvg-logo="http://epg.one/img2/6204.png",Sky High UHD HDR
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17059/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6203" tvg-logo="http://epg.one/img2/6203.png",Sky High VHS UHD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17058/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6139" tvg-logo="http://epg.one/img2/6139.png",Sky High Чбу HD
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16142/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL Sky High",Sky High Sex VR
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6255/index.m3u8
 
+#EXTINF:-1 group-title="KinoZzZaL Sky High" tvg-id="6854" tvg-logo="http://epg.one/img2/6854.png",Sky High Sex VR
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19406/index.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5113" tvg-logo="http://epg.one/img/5113.png",TOP Великолепный Век HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13001/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5114" tvg-logo="http://epg.one/img/5114.png",TOP 80 S HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13002/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5115" tvg-logo="http://epg.one/img/5115.png",TOP BUDO HD
+#EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5115" tvg-logo="http://epg.one/img/5115.png",TOP Budo HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13003/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5116" tvg-logo="http://epg.one/img/5116.png",TOP Cinema HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13004/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5118" tvg-logo="http://epg.one/img/5118.png",TOP MIX HD
+#EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5118" tvg-logo="http://epg.one/img/5118.png",TOP Mix HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13006/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5117" tvg-logo="http://epg.one/img/5117.png",TOP USSR HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13005/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL TOP " tvg-id="5113" tvg-logo="http://epg.one/img/5113.png",TOP Великолепный Век HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13001/index.m3u8
 
 
 
@@ -1385,16 +1466,16 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13065/index.m3u8
 
 
 
-#EXTINF:-1 group-title="KinoZzZaL VB ",VB VHS Classic
+#EXTINF:-1 group-title="KinoZzZaL VB",VB VHS Classic
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19429/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VB ",VB Назад в СССР HD
+#EXTINF:-1 group-title="KinoZzZaL VB",VB Назад в СССР HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20175/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VB ",VB Сваты HD
+#EXTINF:-1 group-title="KinoZzZaL VB",VB Сваты HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31624/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VB ",VB Спецназ-Диверсант HD
+#EXTINF:-1 group-title="KinoZzZaL VB",VB Спецназ-Диверсант HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20176/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL VB",VB Eurodance Hits 90s
@@ -1411,6 +1492,19 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31623/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL VB",VB Контент Моего Детства
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20001/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL VB", VB Российские Сериалы
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18043/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",ОСП-студия HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16004/index.m3u8
+
+#EXTINF:-1 tvg-id="6020" group-title="Развлекательные" tvg-logo="http://epg.one/img2/6020.png", VB ОСП-Cтудия
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16004/index.m3u8
+#EXTINF:-1 tvg-id="6021" group-title="Развлекательные" tvg-logo="http://epg.one/img2/6021.png", VB Осторожно Модерн
+http://junior.edmonst.net/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16005/index.m3u8
+
+
 
 
 
@@ -2230,10 +2324,10 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14161/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-rec="3",Amedia Premium HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9022/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.one/img/4662.png",Backus TV Dark HD (пока не доступен)
+#EXTINF:-1 group-title="Кинозалы" tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.one/img/4662.png",Backus TV Dark HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10061/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.one/img/4770.png",Backus TV original HD (пока не доступен)
+#EXTINF:-1 group-title="Кинозалы" tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.one/img/4770.png",Backus TV original HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11049/index.m3u8
 
 #EXTINF:-1 group-title="Музыка",Backus tv music HD
@@ -2728,9 +2822,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2076/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-rec="3",Русский роман HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9041/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы",Российские сериалы
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18043/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-rec="7",Сапфир
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/553/index.m3u8
@@ -4300,9 +4391,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11067/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",НТВ Стиль HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20037/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",ОСП-студия HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16004/index.m3u8
-
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7",Продвижение
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/851/index.m3u8
 
@@ -5311,7 +5399,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2052/index.m3u8
 #EXTINF:-1 group-title="Детям",Сказки Зайки
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9195/index.m3u8
 
-#EXTINF:-1 group-title="Детские" tvg-rec="3",Смайлик ТВ
+#EXTINF:-1 group-title="Детям" tvg-rec="3",Смайлик ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14150/index.m3u8
 
 #EXTINF:-1 group-title="Детям" tvg-rec="3",Смайлик ТВ orig
