@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="11.11.24" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif",11.11.24
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
@@ -19,13 +19,16 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11039/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="5561" tvg-logo="http://epg.one/img/5561.png" catchup-days="7" tvg-rec="7",BCU Premiere Ultra 4K
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15023/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL BCU" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img2/4764.png", BCU Media HD
+#EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="bcu-media" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img2/4764.png", BCU Media HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11043/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL BCU" catchup-days="7" tvg-rec="7",BCU Kinozakaz Premiere 4K
+#EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="5513" tvg-id="bcu-media" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img2/5513.png",BCU Media HD old
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15024/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="bcu-kinozakaz-premiere-4k" catchup-days="7" tvg-rec="7",BCU Kinozakaz Premiere 4K
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31547/index.m3u8
 
-
+	
 
 #EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="4748" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4748.png",BCU Action HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11027/index.m3u8
@@ -89,9 +92,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11038/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="5514" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/5514.png",BCU Marvel HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15025/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="5513" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img2/5513.png",BCU Media old
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15024/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="4746" catchup-days="7" tvg-rec="7",BCU Multserial HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11025/index.m3u8
