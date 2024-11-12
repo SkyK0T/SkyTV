@@ -94,9 +94,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11038/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15025/index.m3u8
 
 
-
-
-#EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="bcu-multserial" catchup-days="7" tvg-rec="7" tvg-logo="https://iptvx.one/picons/bcu-multserial.png",BCU Мультсериал HD
+#EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="bcu-multserial" catchup-days="7" tvg-rec="7" tvg-logo="https://iptvx.one/picons/bcu-multserial.png",BCU Multserial HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11025/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL BCU" tvg-id="6131" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/6131.png",BCU Reality HD
@@ -1429,71 +1427,7 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13005/index.m3u8
 
 
 
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5187" tvg-logo="http://epg.one/img/5187.png",UZ Kino1 HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13074/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5186" tvg-logo="http://epg.one/img/5186.png",UZ Kino2 HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13073/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5188" tvg-logo="http://epg.one/img/5188.png",UZ Kino3 HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13075/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5189" tvg-logo="http://epg.one/img/5189.png",UZ Kino4 HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13076/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5443" tvg-logo="http://epg.one/img/5443.png",UZ Kino5 HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18108/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="6335" tvg-logo="http://epg.one/img/6335.png",UZ Swiridenko TV HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18106/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="6336" tvg-logo="http://epg.one/img/6336.png",UZ Swiridenko TV HD 2
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18107/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5433" tvg-logo="http://epg.one/img/5433.png",UZ TV HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14220/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5190" tvg-logo="http://epg.one/img/5190.png",UZ Боевики HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13077/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5183" tvg-logo="http://epg.one/img/5183.png",UZ Бойцовское кино HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13070/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5213" tvg-logo="http://epg.one/img/5213.png",UZ Витек ТВ HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13100/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5442" tvg-logo="http://epg.one/img/5442.png",UZ Катастрофа HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18164/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5216" tvg-logo="http://epg.one/img/5216.png",UZ Кино Новинки HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14126/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5523" tvg-logo="http://epg.one/img/5523.png",UZ 
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15099/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5214" tvg-logo="http://epg.one/img/5214.png",UZ Кинокомфорт HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13101/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5217" tvg-logo="http://epg.one/img/5217.png",UZ Комедия HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14127/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5182" tvg-logo="http://epg.one/img/5182.png",UZ Приключение HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13069/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="6390" tvg-logo="http://epg.one/img/6390.png",UZ Сваты HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18166/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="6391" tvg-logo="http://epg.one/img/6391.png",UZ Союз-Фильмы HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18167/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5181" tvg-logo="http://epg.one/img/5181.png",UZ Ужасное ТВ HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13068/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="6420" tvg-logo="http://epg.one/img/6420.png",UZ Уральские Пельмени HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18169/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL UZ" tvg-id="5178" tvg-logo="http://epg.one/img/5178.png",UZ Фантастика HD
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13065/index.m3u8
 
 
 
@@ -1527,12 +1461,10 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20001/index.m3u8
 #EXTINF:-1 group-title="KinoZzZaL VB",VB Российские Сериалы
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18043/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",ОСП-студия HD
+#EXTINF:-1 group-title="KinoZzZaL VB" tvg-id="6020" tvg-logo="http://epg.one/img2/6020.png",VB ОСП-Cтудия
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16004/index.m3u8
 
-#EXTINF:-1 tvg-id="6020" group-title="Развлекательные" tvg-logo="http://epg.one/img2/6020.png",VB ОСП-Cтудия
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16004/index.m3u8
-#EXTINF:-1 tvg-id="6021" group-title="Развлекательные" tvg-logo="http://epg.one/img2/6021.png",VB Осторожно Модерн
+#EXTINF:-1 group-title="KinoZzZaL VB" tvg-id="6021" tvg-logo="http://epg.one/img2/6021.png",VB Осторожно Модерн
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16005/index.m3u8
 
 
@@ -1668,344 +1600,303 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31449/index.m3u8
 
 
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4591" tvg-rec="7" tvg-logo="http://epg.one/img/4591.png",VF Adventure
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10000/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4791" tvg-logo="http://epg.one/img/4791.png",VF Art house
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11119/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-rec="7",VF Anime
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10001/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-rec="7",VF Cartoon
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10002/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4647" tvg-rec="7" tvg-logo="http://epg.one/img/4647.png",VF Classic
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10054/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4594" tvg-rec="7" tvg-logo="http://epg.one/img/4594.png",VF Comedy
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10003/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Comedy Woman
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18101/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5205" tvg-logo="http://epg.one/img/5205.png",VF Comics
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13092/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4792" tvg-logo="http://epg.one/img/4792.png",VF Detective
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11120/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4595" tvg-rec="7" tvg-logo="http://epg.one/img/4595.png",VF Family
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10004/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4793" tvg-logo="http://epg.one/img/4793.png",VF Fantastic
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11121/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4596" tvg-rec="7" tvg-logo="http://epg.one/img/4596.png",VF Fantasy
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10005/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6824" tvg-logo="http://epg.one/img/6824.png",VF HBO
+#EXTINF:-1 tvg-id="6824" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6824.png",VF HBO
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19428/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4663" tvg-rec="7" tvg-logo="http://epg.one/img/4663.png",VF Marvel
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10081/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4597" tvg-rec="7" tvg-logo="http://epg.one/img/4597.png",VF Melodrama
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10006/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Metal
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17033/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Michael Jackson
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31554/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Music
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15516/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4598" tvg-rec="7" tvg-logo="http://epg.one/img/4598.png",VF Mystic
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10007/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6823" tvg-logo="http://epg.one/img/6823.png",VF Netflix
+#EXTINF:-1 tvg-id="6823" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6823.png",VF Netflix
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19427/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5981" tvg-logo="http://epg.one/img/5981.png",VF New Year
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15522/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Rap
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17034/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Rock
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15517/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4645" tvg-rec="7" tvg-logo="http://epg.one/img/4645.png",VF Premiere
+#EXTINF:-1 tvg-id="4591" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4591.png" catchup-days="7" tvg-rec="7",VF Adventure
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10000/index.m3u8
+#EXTINF:-1 tvg-id="4592" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4592.png" catchup-days="7" tvg-rec="7",VF Anime
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10001/index.m3u8
+#EXTINF:-1 tvg-id="4791" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4791.png",VF Art house
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11119/index.m3u8
+#EXTINF:-1 tvg-id="4595" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4595.png" catchup-days="7" tvg-rec="7",VF Family
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10004/index.m3u8
+#EXTINF:-1 tvg-id="4800" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4800.png",VF Cartoon 18+
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11117/index.m3u8
+#EXTINF:-1 tvg-id="4594" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4594.png" catchup-days="7" tvg-rec="7",VF Comedy
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10003/index.m3u8
+#EXTINF:-1 tvg-id="5205" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5205.png",VF Comics
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13092/index.m3u8
+#EXTINF:-1 tvg-id="4647" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4647.png" catchup-days="7" tvg-rec="7",VF Classic
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10054/index.m3u8
+#EXTINF:-1 tvg-id="4792" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4792.png",VF Detective
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11120/index.m3u8
+#EXTINF:-1 tvg-id="7278" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7278.png",VF Disney Movie
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15010/index.m3u8
+#EXTINF:-1 tvg-id="4793" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4793.png",VF Fantastic
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11121/index.m3u8
+#EXTINF:-1 tvg-id="4596" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4596.png" catchup-days="7" tvg-rec="7",VF Fantasy
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10005/index.m3u8
+#EXTINF:-1 tvg-id="4663" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4663.png" catchup-days="7" tvg-rec="7",VF Marvel
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10081/index.m3u8
+#EXTINF:-1 tvg-id="4597" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4597.png" catchup-days="7" tvg-rec="7",VF Melodrama
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10006/index.m3u8
+#EXTINF:-1 tvg-id="4598" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4598.png" catchup-days="7" tvg-rec="7",VF Mystic
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10007/index.m3u8
+#EXTINF:-1 tvg-id="4645" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4645.png" catchup-days="7" tvg-rec="7",VF Premiere
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10052/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5198" tvg-logo="http://epg.one/img/5198.png",VF Series
+#EXTINF:-1 tvg-id="5198" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5198.png",VF Series
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13085/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Test 1
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31461/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Test 2
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31462/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6146" tvg-logo="http://epg.one/img/6146.png",VF The X-Files
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17002/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5202" tvg-logo="http://epg.one/img/5202.png",VF Thriller
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13089/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4789" tvg-logo="http://epg.one/img/4789.png",VF TOP Series
+#EXTINF:-1 tvg-id="4789" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4789.png",VF TOP Series
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11116/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF VHS Cartoon
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11118/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4600" tvg-rec="7" tvg-logo="http://epg.one/img/4600.png",VF VHS MIX
+#EXTINF:-1 tvg-id="5202" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5202.png",VF Thriller
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13089/index.m3u8
+#EXTINF:-1 tvg-id="4600" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4600.png" catchup-days="7" tvg-rec="7",VF VHS MIX
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10009/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Авто
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15511/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6149" tvg-logo="http://epg.one/img/6149.png",VF Американская история ужасов
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17005/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6419" tvg-logo="http://epg.one/img/6419.png",VF Баня
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18200/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6160" tvg-logo="http://epg.one/img/6160.png",VF Без цензуры
+#EXTINF:-1 tvg-id="6160" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6160.png",VF Без цензуры
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17017/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6329" tvg-logo="http://epg.one/img/6329.png",VF Беларусьфильм
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18125/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4664" tvg-rec="7" tvg-logo="http://epg.one/img/4664.png",VF Боевик
+#EXTINF:-1 tvg-id="4664" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4664.png" catchup-days="7" tvg-rec="7",VF Боевик
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10087/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Вестерн
+#EXTINF:-1 tvg-id="7714" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7714.png",VF Граиндхаус
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14158/index.m3u8
+#EXTINF:-1 tvg-id="9227" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9227.png",VF Вестерн
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31553/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4665" tvg-rec="7" tvg-logo="http://epg.one/img/4665.png",VF Военные
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10082/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5196" tvg-logo="http://epg.one/img/5196.png",VF Воронины
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13083/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Городок
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18097/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6152" tvg-logo="http://epg.one/img/6152.png",VF Джеки Чан
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17009/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Домашний повар
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15514/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6159" tvg-logo="http://epg.one/img/6159.png",VF Доктор Хаус
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17016/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6150" tvg-logo="http://epg.one/img/6150.png",VF Друзья
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17006/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6323" tvg-logo="http://epg.one/img/6323.png",VF Игра престолов
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18119/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Индия
+#EXTINF:-1 tvg-id="5203" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5203.png",VF Индия
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13090/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5204" tvg-logo="http://epg.one/img/5204.png",VF История
+#EXTINF:-1 tvg-id="5204" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5204.png",VF История
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13091/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Каламбур
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31557/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Караоке
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15518/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4666" tvg-rec="7" tvg-logo="http://epg.one/img/4666.png",VF Катастрофы
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10080/index.m3u8
-
 #EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4804" tvg-logo="http://epg.one/img/4804.png",VF Кино 4K
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11114/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6326" tvg-logo="http://epg.one/img/6326.png",VF Киностудия им. Горького
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18122/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4646" tvg-rec="7" tvg-logo="http://epg.one/img/4646.png",VF Классика
+#EXTINF:-1 tvg-id="4666" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4666.png" catchup-days="7" tvg-rec="7",VF Катастрофы
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10080/index.m3u8
+#EXTINF:-1 tvg-id="4646" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4646.png" catchup-days="7" tvg-rec="7",VF Классика
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10053/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5207" tvg-logo="http://epg.one/img/5207.png",VF Клиника
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13094/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4648" tvg-rec="7" tvg-logo="http://epg.one/img/4648.png",VF Комедия
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10055/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Король и Шут
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31555/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5206" tvg-logo="http://epg.one/img/5206.png",VF Криминал
+#EXTINF:-1 tvg-id="5206" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5206.png",VF Криминал
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13093/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6418" tvg-logo="http://epg.one/img/6418.png",VF Кухня
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18199/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6325" tvg-logo="http://epg.one/img/6325.png",VF Ленфильм
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18121/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6148" tvg-logo="http://epg.one/img/6148.png",VF Леонид Гайдай
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17004/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6144" tvg-logo="http://epg.one/img/6144.png",VF Луи де Фюнес
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17000/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Малыш
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11123/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Маски Шоу
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31556/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4667" tvg-rec="7" tvg-logo="http://epg.one/img/4667.png",VF Мосфильм
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10084/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Музсоюз
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15521/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Музыка
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15512/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Музыкальный Новый год!
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16140/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Мультуб
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15520/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-rec="7",VF Мультфильмы СССР
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10086/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5201" tvg-logo="http://epg.one/img/5201.png",VF Мыльные оперы
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13088/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4669" tvg-rec="7" tvg-logo="http://epg.one/img/4669.png",VF Наша победа
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10083/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6153" tvg-logo="http://epg.one/img/6153.png",VF Наша Раша
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17010/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6163" tvg-logo="http://epg.one/img/6163.png",VF Новогодний
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17035/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Новогодние мультфильмы
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15523/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6324" tvg-logo="http://epg.one/img/6324.png",VF Одесская киностудия
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18120/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6706" tvg-logo="http://epg.one/img/6706.png",VF Однажды в России
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19286/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4794" tvg-logo="http://epg.one/img/4794.png",VF Оскар
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11122/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF",VF Орел и решка
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31476/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Охота
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15513/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Привет из 90х
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17011/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4644" tvg-rec="7" tvg-logo="http://epg.one/img/4644.png",VF Премьера
+#EXTINF:-1 tvg-id="4648" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4648.png" catchup-days="7" tvg-rec="7",VF Комедия
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10055/index.m3u8
+#EXTINF:-1 tvg-id="4644" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4644.png" catchup-days="7" tvg-rec="7",VF Премьера
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10051/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Путешествия
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15515/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6158" tvg-logo="http://epg.one/img/6158.png",VF Реальные пацаны
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17015/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6327" tvg-logo="http://epg.one/img/6327.png",VF Рижская киностудия
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18123/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Русский рок
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17037/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Рыбалка
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16138/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5982" tvg-logo="http://epg.one/img/5982.png",VF С новым годом!
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15524/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6151" tvg-logo="http://epg.one/img/6151.png",VF СашаТаня
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17008/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5193" tvg-logo="http://epg.one/img/5193.png",VF Сваты
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13080/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6328" tvg-logo="http://epg.one/img/6328.png",VF Свердловская киностудия
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18124/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6147" tvg-logo="http://epg.one/img/6147.png",VF Сверхъестественное
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17003/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5200" tvg-logo="http://epg.one/img/5200.png",VF Сериал
+#EXTINF:-1 tvg-id="5200" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5200.png",VF Сериал
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13087/index.m3u8
-
 #EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4805" tvg-logo="http://epg.one/img/4805.png",VF Сериал 4K
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11115/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-rec="3",VF Сериалы Турции
+#EXTINF:-1 tvg-id="5201" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5201.png",VF Мыльные оперы
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13088/index.m3u8
+#EXTINF:-1 tvg-id="9226" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9226.png" catchup-days="3" tvg-rec="3",VF Сериалы Турции
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9123/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5199" tvg-logo="http://epg.one/img/5199.png",VF След
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13086/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5194" tvg-logo="http://epg.one/img/5194.png",VF Солдаты
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13081/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Скуби-Ду
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17007/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Стройка
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16139/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5195" tvg-logo="http://epg.one/img/5195.png",VF Тайны следствия
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13082/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4599" tvg-rec="7" tvg-logo="http://epg.one/img/4599.png",VF Ужасы
+#EXTINF:-1 tvg-id="4794" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4794.png",VF Оскар
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11122/index.m3u8
+#EXTINF:-1 tvg-id="4599" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4599.png" catchup-days="7" tvg-rec="7",VF Ужасы
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10008/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4601" tvg-rec="7" tvg-logo="http://epg.one/img/4601.png",VF Ужасы VHS
+#EXTINF:-1 tvg-id="4601" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4601.png" catchup-days="7" tvg-rec="7",VF Ужасы VHS
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10010/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="5197" tvg-logo="http://epg.one/img/5197.png",VF Универ
+#EXTINF:-1 tvg-id="5196" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5196.png",VF Воронины
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13083/index.m3u8
+#EXTINF:-1 tvg-id="6158" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6158.png",VF Реальные пацаны
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17015/index.m3u8
+#EXTINF:-1 tvg-id="6151" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6151.png",VF СашаТаня
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17008/index.m3u8
+#EXTINF:-1 tvg-id="5193" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5193.png",VF Сваты
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13080/index.m3u8
+#EXTINF:-1 tvg-id="5199" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5199.png",VF След
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13086/index.m3u8
+#EXTINF:-1 tvg-id="5194" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5194.png",VF Солдаты
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13081/index.m3u8
+#EXTINF:-1 tvg-id="7271" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7271.png" catchup-days="3" tvg-rec="3",VF Счастливы Вместе
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9242/index.m3u8
+#EXTINF:-1 tvg-id="5195" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5195.png",VF Тайны следствия
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13082/index.m3u8
+#EXTINF:-1 tvg-id="5197" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5197.png",VF Универ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13084/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6156" tvg-logo="http://epg.one/img/6156.png",VF Универ новая общага
+#EXTINF:-1 tvg-id="6156" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6156.png",VF Универ новая общага
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17013/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6417" tvg-logo="http://epg.one/img/6417.png",VF Уральские пельмени
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18198/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="4670" tvg-rec="7" tvg-logo="http://epg.one/img/4670.png",VF Фильмы СССР
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10085/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Хит-парад
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17036/index.m3u8
-
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6157" tvg-logo="http://epg.one/img/6157.png",VF Ходячие мертвецы
+#EXTINF:-1 tvg-id="6149" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6149.png",VF Американская история ужасов
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17005/index.m3u8
+#EXTINF:-1 tvg-id="7272" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7272.png" catchup-days="7" tvg-rec="7",VF Бесстыжие
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10075/index.m3u8
+#EXTINF:-1 tvg-id="7273" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7273.png" catchup-days="7" tvg-rec="7",VF Два с половиной человека
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10062/index.m3u8
+#EXTINF:-1 tvg-id="6159" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6159.png",VF Доктор Хаус
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17016/index.m3u8
+#EXTINF:-1 tvg-id="6150" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6150.png",VF Друзья
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17006/index.m3u8
+#EXTINF:-1 tvg-id="6323" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6323.png",VF Игра престолов
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18119/index.m3u8
+#EXTINF:-1 tvg-id="7275" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7275.png",VF Карточный домик
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14221/index.m3u8
+#EXTINF:-1 tvg-id="5207" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5207.png",VF Клиника
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/13094/index.m3u8
+#EXTINF:-1 tvg-id="7277" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7277.png",VF Секс в большом городе
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14224/index.m3u8
+#EXTINF:-1 tvg-id="6147" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6147.png",VF Сверхъестественное
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17003/index.m3u8
+#EXTINF:-1 tvg-id="7279" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7279.png",VF Теория большого взрыва
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15009/index.m3u8
+#EXTINF:-1 tvg-id="6157" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6157.png",VF Ходячие мертвецы
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17014/index.m3u8
+#EXTINF:-1 tvg-id="6146" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6146.png",VF The X-Files
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17002/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6145" tvg-logo="http://epg.one/img/6145.png",VF Чернобыль
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17001/index.m3u8
+#EXTINF:-1 tvg-id="7276" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7276.png",VF Гарри Поттер
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14230/index.m3u8
+#EXTINF:-1 tvg-id="7274" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7274.png",VF Ёлки
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14222/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Шансон
-http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15519/index.m3u8
+#EXTINF:-1 tvg-id="5981" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5981.png",VF New Year
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15522/index.m3u8
+#EXTINF:-1 tvg-id="5982" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5982.png",VF С новым годом!
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15524/index.m3u8
+#EXTINF:-1 tvg-id="6163" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6163.png",VF Новогодний
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17035/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" tvg-id="6155" tvg-logo="http://epg.one/img/6155.png",VF Эльдар Рязанов
+#EXTINF:-1 tvg-id="7270" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7270.png" catchup-days="7" tvg-rec="7",VF Владимир Высоцкий 
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10066/index.m3u8
+#EXTINF:-1 tvg-id="6152" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6152.png",VF Джеки Чан
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17009/index.m3u8
+#EXTINF:-1 tvg-id="6144" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6144.png",VF Луи де Фюнес
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17000/index.m3u8
+#EXTINF:-1 tvg-id="6148" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6148.png",VF Леонид Гайдай
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17004/index.m3u8
+#EXTINF:-1 tvg-id="6155" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6155.png",VF Эльдар Рязанов
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17012/index.m3u8
 
-#EXTINF:-1 group-title="KinoZzZaL VF" ,VF Юмор 18+
+#EXTINF:-1 tvg-id="6329" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6329.png",VF Беларусьфильм
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18125/index.m3u8
+#EXTINF:-1 tvg-id="6326" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6326.png",VF Киностудия им. Горького
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18122/index.m3u8
+#EXTINF:-1 tvg-id="6325" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6325.png",VF Ленфильм
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18121/index.m3u8
+#EXTINF:-1 tvg-id="4667" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4667.png" catchup-days="7" tvg-rec="7",VF Мосфильм
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10084/index.m3u8
+#EXTINF:-1 tvg-id="6324" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6324.png",VF Одесская киностудия
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18120/index.m3u8
+#EXTINF:-1 tvg-id="6327" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6327.png",VF Рижская киностудия
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18123/index.m3u8
+#EXTINF:-1 tvg-id="6328" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6328.png",VF Свердловская киностудия
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18124/index.m3u8
+#EXTINF:-1 tvg-id="4665" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4665.png" catchup-days="7" tvg-rec="7",VF Военные
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10082/index.m3u8
+#EXTINF:-1 tvg-id="4669" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4669.png" catchup-days="7" tvg-rec="7",VF Наша победа
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10083/index.m3u8
+#EXTINF:-1 tvg-id="4670" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4670.png" catchup-days="7" tvg-rec="7",VF Фильмы СССР
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10085/index.m3u8
+#EXTINF:-1 tvg-id="6145" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6145.png",VF Чернобыль
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17001/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="5991" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5991.png",VF Авто
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15511/index.m3u8
+#EXTINF:-1 tvg-id="6419" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6419.png",VF Баня
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18200/index.m3u8
+#EXTINF:-1 tvg-id="5993" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5993.png",VF Домашний повар
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15514/index.m3u8
+#EXTINF:-1 tvg-id="6418" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6418.png",VF Кухня
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18199/index.m3u8
+#EXTINF:-1 tvg-id="9328" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9328.png",VF Орел и решка
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31476/index.m3u8
+#EXTINF:-1 tvg-id="5992" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5992.png",VF Охота
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15513/index.m3u8
+#EXTINF:-1 tvg-id="5994" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5994.png",VF Путешествия
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15515/index.m3u8
+#EXTINF:-1 tvg-id="6124" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6124.png",VF Рыбалка
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16138/index.m3u8
+#EXTINF:-1 tvg-id="6125" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6125.png",VF Стройка
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16139/index.m3u8
+
+
+#EXTINF:-1 tvg-id="6284" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6284.png",VF Comedy Woman
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18101/index.m3u8
+#EXTINF:-1 tvg-id="6226" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6226.png",VF Городок
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18097/index.m3u8
+#EXTINF:-1 tvg-id="9233" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9233.png",VF Каламбур
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31557/index.m3u8
+#EXTINF:-1 tvg-id="7664" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7664.png",VF КВН
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14170/index.m3u8
+#EXTINF:-1 tvg-id="9232" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9232.png",VF Маски Шоу
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31556/index.m3u8
+#EXTINF:-1 tvg-id="6153" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6153.png",VF Наша Раша
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17010/index.m3u8
+#EXTINF:-1 tvg-id="6706" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6706.png",VF Однажды в России
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19286/index.m3u8
+#EXTINF:-1 tvg-id="6417" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6417.png",VF Уральские пельмени
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18198/index.m3u8
+#EXTINF:-1 tvg-id="6129" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6129.png",VF Юмор 18+
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16137/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="6169" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6169.png",VF Rap
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17034/index.m3u8
+#EXTINF:-1 tvg-id="5987" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5987.png",VF Rock
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15517/index.m3u8
+#EXTINF:-1 tvg-id="5986" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5986.png",VF Music
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15516/index.m3u8
+#EXTINF:-1 tvg-id="6168" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6168.png",VF Metal
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17033/index.m3u8
+#EXTINF:-1 tvg-id="5988" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5988.png",VF Караоке
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15518/index.m3u8
+#EXTINF:-1 tvg-id="7663" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7663.png",VF Концерты
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14159/index.m3u8
+#EXTINF:-1 tvg-id="9228" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9228.png",VF Король и Шут
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31555/index.m3u8
+#EXTINF:-1 tvg-id="7573" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7573.png" catchup-days="7" tvg-rec="7",VF Легенды Ретро ФМ
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10067/index.m3u8
+#EXTINF:-1 tvg-id="5990" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5990.png",VF Музсоюз
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15521/index.m3u8
+#EXTINF:-1 tvg-id="5985" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5985.png",VF Музыка
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15512/index.m3u8
+#EXTINF:-1 tvg-id="6135" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6135.png",VF Музыкальный Новый год!
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16140/index.m3u8
+#EXTINF:-1 tvg-id="6154" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6154.png",VF Привет из 90х
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17011/index.m3u8
+#EXTINF:-1 tvg-id="6171" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6171.png",VF Русский рок
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17037/index.m3u8
+#EXTINF:-1 tvg-id="5989" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5989.png",VF Шансон
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15519/index.m3u8
+#EXTINF:-1 tvg-id="6170" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6170.png",VF Хит-парад
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17036/index.m3u8
+#EXTINF:-1 tvg-id="7553" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7553.png",VF Britney Spears
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14005/index.m3u8
+#EXTINF:-1 tvg-id="9230" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9230.png",VF Michael Jackson
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31554/index.m3u8
+#EXTINF:-1 tvg-id="7552" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7552.png",VF Modern Talking
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14004/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="7595" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7595.png",VF Ералаш
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14163/index.m3u8
+#EXTINF:-1 tvg-id="4795" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4795.png",VF Малыш
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11123/index.m3u8
+#EXTINF:-1 tvg-id="4668" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4668.png" catchup-days="7" tvg-rec="7",VF Мультфильмы СССР
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10086/index.m3u8
+#EXTINF:-1 tvg-id="5995" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5995.png",VF Мультуб
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15520/index.m3u8
+#EXTINF:-1 tvg-id="5996" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/5996.png",VF Новогодние мультфильмы
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15523/index.m3u8
+#EXTINF:-1 tvg-id="6162" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/6162.png",VF Скуби-Ду
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/17007/index.m3u8
+#EXTINF:-1 tvg-id="7594" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7594.png",VF Союзмультфильм
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14238/index.m3u8
+#EXTINF:-1 tvg-id="4593" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4593.png" catchup-days="7" tvg-rec="7",VF Cartoon
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10002/index.m3u8
+#EXTINF:-1 tvg-id="7593" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/7593.png",VF Disney Cartoon
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15027/index.m3u8
+#EXTINF:-1 tvg-id="4790" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/4790.png",VF VHS Cartoon
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11118/index.m3u8
+
+
+#EXTINF:-1 tvg-id="9290" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9290.png",VF Football Euro 2024 Exclusiv HDR 1
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31450/index.m3u8
+#EXTINF:-1 tvg-id="9291" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9291.png",VF Football Euro 2024 Exclusiv HDR 2
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31451/index.m3u8
+#EXTINF:-1 tvg-id="9292" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9292.png",VF Football Euro 2024 Exclusiv HDR 3
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31452/index.m3u8
+#EXTINF:-1 tvg-id="9293" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9293.png",VF Football Euro 2024 Exclusiv 4
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31453/index.m3u8
+#EXTINF:-1 tvg-id="9294" group-title="KinoZzZaL VF" tvg-logo="http://epg.one/img2/9294.png",VF Football Euro 2024 Exclusiv HDR 5
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31454/index.m3u8
 
 
 
@@ -2188,14 +2079,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14139/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="KinoZzZaL Триколор" tvg-id="6353" tvg-logo="http://epg.one/img/6353.png",Кинозал 1
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18126/index.m3u8
 
@@ -2264,18 +2147,42 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2576/index.m3u8
 
 #EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="8797" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img2/8797.png",Кинозал! Bond 007
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/31715/index.m3u8
-#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4776" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4776.png",Кинозалы! VHS HD
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4776" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4776.png",Кинозал! VHS HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11059/index.m3u8
-#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4694" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4694.png",Кинозалы! Интерны ТВ
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4694" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4694.png",Кинозал! Интерны ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11060/index.m3u8
-#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4696" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4696.png",Кинозалы! Сваты
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4696" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4696.png",Кинозал! Сваты
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11062/index.m3u8
-#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4695" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4695.png",Кинозалы! СССР
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4695" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4695.png",Кинозал! СССР
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11061/index.m3u8
-#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4697" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4697.png",Кинозалы! Универ ТВ
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4697" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4697.png",Кинозал! Универ ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11063/index.m3u8
-#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4777" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4777.png",Кинозалы! Хит HD
+#EXTINF:-1 group-title="KinoZzZaL Кинозал!" tvg-id="4777" catchup-days="7" tvg-rec="7" tvg-logo="http://epg.one/img/4777.png",Кинозал! Хит HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/11064/index.m3u8
+
+
+
+#EXTINF:-1 group-title="KinoZzZaL UZ (пока не работает)" tvg-id="5216" tvg-logo="http://epg.one/img/5216.png",UZ Кино Новинки HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14126/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL UZ (пока не работает)" tvg-id="5217" tvg-logo="http://epg.one/img/5217.png",UZ Комедия HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14127/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL UZ (пока не работает)" tvg-id="6335" tvg-logo="http://epg.one/img/6335.png",UZ Swiridenko TV HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18106/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL UZ (пока не работает)" tvg-id="6336" tvg-logo="http://epg.one/img/6336.png",UZ Swiridenko TV HD 2
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18107/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL UZ (пока не работает)" tvg-id="5442" tvg-logo="http://epg.one/img/5442.png",UZ Катастрофа HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18164/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL UZ (пока не работает)" tvg-id="6391" tvg-logo="http://epg.one/img/6391.png",UZ Союз-Фильмы HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18167/index.m3u8
+
+#EXTINF:-1 group-title="KinoZzZaL UZ (пока не работает)" tvg-id="6390" tvg-logo="http://epg.one/img/6390.png",UZ Сваты HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/18166/index.m3u8
+
 
 
 #EXTINF:-1 group-title="KinoZzZaL Илья ТВ (не работает)" tvg-id="4782" tvg-rec="7" tvg-logo="http://epg.one/img/4782.png",Илья ТВ Кино HD
@@ -2915,679 +2822,679 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9090/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-rec="3",Шокирующее HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9004/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",360
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",360
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/825/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",360 HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",360 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2065/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",360 HD orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",360 HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9036/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",5 канал +4
+#EXTINF:-1 group-title="Эфирные",5 канал +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6025/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",5 канал +7
+#EXTINF:-1 group-title="Эфирные",5 канал +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6040/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",5 канал +8
+#EXTINF:-1 group-title="Эфирные",5 канал +8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6054/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",E TV
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",E TV
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/5048/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Gametoon HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Gametoon HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/5049/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",GNC
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",GNC
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/955/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",RT Documentary HD orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",RT Documentary HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9031/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",RTVi
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",RTVi
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2086/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",RTVi orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",RTVi orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9102/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",БСТ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",БСТ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2108/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Вместе-РФ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Вместе-РФ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2073/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Вместе-РФ orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Вместе-РФ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9124/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Дождь
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Дождь
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2030/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Дождь HD
+#EXTINF:-1 group-title="Эфирные",Дождь HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20083/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Дождь orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Дождь orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9122/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Домашний
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Домашний
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/514/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Домашний +2
+#EXTINF:-1 group-title="Эфирные",Домашний +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6016/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Домашний +4
+#EXTINF:-1 group-title="Эфирные",Домашний +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6030/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Домашний +7
+#EXTINF:-1 group-title="Эфирные",Домашний +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6044/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Домашний orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Домашний orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9104/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Загородный
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Загородный
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2099/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Звезда
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Звезда
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/544/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Звезда +2
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Звезда +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/739/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Звезда +4
+#EXTINF:-1 group-title="Эфирные",Звезда +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6033/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Звезда +7
+#EXTINF:-1 group-title="Эфирные",Звезда +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6047/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Звезда orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Звезда orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9098/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Звезда Плюс HD
+#EXTINF:-1 group-title="Эфирные",Звезда Плюс HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19230/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Здоровое ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Здоровое ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2022/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Здоровое ТВ orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Здоровое ТВ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9113/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",КВН ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",КВН ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/546/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Красная линия
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Красная линия
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2147/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Красная линия orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Красная линия orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9119/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Кто есть кто
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Кто есть кто
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2042/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ЛДПР ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ЛДПР ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2110/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ЛДПР ТВ orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ЛДПР ТВ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9120/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Министерство идей HD
+#EXTINF:-1 group-title="Эфирные",Министерство идей HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/16025/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Мир
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Мир
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/113/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Мир +2
+#EXTINF:-1 group-title="Эфирные",Мир +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6019/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Мир +4
+#EXTINF:-1 group-title="Эфирные",Мир +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6034/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Мир +7
+#EXTINF:-1 group-title="Эфирные",Мир +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6048/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Настоящее время
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Настоящее время
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/986/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Ностальгия
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Ностальгия
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/102/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Ностальгия orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Ностальгия orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9106/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",НТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",НТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/501/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",НТВ +2
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",НТВ +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/713/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",НТВ +4
+#EXTINF:-1 group-title="Эфирные",НТВ +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6024/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",НТВ +7
+#EXTINF:-1 group-title="Эфирные",НТВ +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6039/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",НТВ +8
+#EXTINF:-1 group-title="Эфирные",НТВ +8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6053/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",НТВ HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",НТВ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/213/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",НТВ HD orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",НТВ HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9028/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Открытый мир
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Открытый мир
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2078/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Открытый мир orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Открытый мир orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9117/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",ОТР
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",ОТР
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/705/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ОТР +2
+#EXTINF:-1 group-title="Эфирные",ОТР +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6014/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ОТР +4
+#EXTINF:-1 group-title="Эфирные",ОТР +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6026/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ОТР HD
+#EXTINF:-1 group-title="Эфирные",ОТР HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20018/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ОТР orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ОТР orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9100/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Первый канал
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Первый канал
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/127/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Первый канал +2
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Первый канал +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/714/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Первый канал +4
+#EXTINF:-1 group-title="Эфирные",Первый канал +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6021/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Первый канал +6
+#EXTINF:-1 group-title="Эфирные",Первый канал +6
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6037/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Первый канал +8
+#EXTINF:-1 group-title="Эфирные",Первый канал +8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6050/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Первый канал FHD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Первый канал FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2402/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Первый канал HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Первый канал HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/204/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Психология 21
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Психология 21
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2025/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Психология 21 orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Психология 21 orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9114/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Пятница +2
+#EXTINF:-1 group-title="Эфирные",Пятница +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6018/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Пятница +4
+#EXTINF:-1 group-title="Эфирные",Пятница +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6032/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Пятница +7
+#EXTINF:-1 group-title="Эфирные",Пятница +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6046/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Пятница!
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Пятница!
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/503/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Пятница! HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Пятница! HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/5031/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Пятый канал
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Пятый канал
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/112/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Пятый Канал +2
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Пятый Канал +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/746/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Пятый канал orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Пятый канал orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9096/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Ратник
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Ратник
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2119/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Рен ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Рен ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/128/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",РЕН ТВ +2
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",РЕН ТВ +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/747/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Рен ТВ +4
+#EXTINF:-1 group-title="Эфирные",Рен ТВ +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6028/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Рен ТВ +7
+#EXTINF:-1 group-title="Эфирные",Рен ТВ +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6042/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Рен ТВ HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Рен ТВ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2024/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Рен ТВ HD orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Рен ТВ HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9002/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Россия 1
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Россия 1
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/504/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Россия 1 FHD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Россия 1 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2409/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Россия 1 HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Россия 1 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/205/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Россия-1 +2
+#EXTINF:-1 group-title="Эфирные",Россия-1 +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6011/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Россия-1 +4
+#EXTINF:-1 group-title="Эфирные",Россия-1 +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6022/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Россия-1 +6
+#EXTINF:-1 group-title="Эфирные",Россия-1 +6
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6038/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",Россия-1 +8
+#EXTINF:-1 group-title="Эфирные",Россия-1 +8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6051/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Россия-Культура
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Россия-Культура
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/505/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Сарафан
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Сарафан
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/748/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Сарафан orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Сарафан orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9109/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Союз
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Союз
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2016/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Союз orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Союз orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9112/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",СПАС
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",СПАС
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/983/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",СПАС orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",СПАС orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9111/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",СТС
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",СТС
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/506/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",СТС +2
+#EXTINF:-1 group-title="Эфирные",СТС +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6015/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",СТС +4
+#EXTINF:-1 group-title="Эфирные",СТС +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6029/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",СТС +7
+#EXTINF:-1 group-title="Эфирные",СТС +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6043/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",СТС Love
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",СТС Love
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/103/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",СТС Love orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",СТС Love orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9099/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Суббота
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Суббота
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/826/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Суббота orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Суббота orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9103/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ТБН
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ТБН
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/974/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",ТВ3
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",ТВ3
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/508/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТВ3 +2
+#EXTINF:-1 group-title="Эфирные",ТВ3 +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6017/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТВ3 +4
+#EXTINF:-1 group-title="Эфирные",ТВ3 +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6031/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТВ3 +7
+#EXTINF:-1 group-title="Эфирные",ТВ3 +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6045/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ТВ3 HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ТВ3 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/5033/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",ТВЦ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",ТВЦ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/520/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ТВЦ +2
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ТВЦ +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/716/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТВЦ +4
+#EXTINF:-1 group-title="Эфирные",ТВЦ +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6027/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТВЦ +7
+#EXTINF:-1 group-title="Эфирные",ТВЦ +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6041/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТВЦ +8
+#EXTINF:-1 group-title="Эфирные",ТВЦ +8
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6056/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ТВЦ orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ТВЦ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9095/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",ТНТ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",ТНТ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/502/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ТНТ +2
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ТНТ +2
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/717/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТНТ +4
+#EXTINF:-1 group-title="Эфирные",ТНТ +4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6035/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные",ТНТ +7
+#EXTINF:-1 group-title="Эфирные",ТНТ +7
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/6049/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",ТНТ FHD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",ТНТ FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2417/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",ТНТ HD
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",ТНТ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/237/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",ТНТ4
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",ТНТ4
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/104/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Точка ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Точка ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2053/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Точка ТВ orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Точка ТВ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9110/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Три ангела
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Три ангела
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2116/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Успех
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Успех
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2041/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Успех orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Успех orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9115/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Хузур ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Хузур ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2150/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Хузур ТВ orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Хузур ТВ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9121/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Че
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Че
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/513/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Че orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Че orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9101/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="7",Ю ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7",Ю ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/534/index.m3u8
 
-#EXTINF:-1 group-title=" Эфирные" tvg-rec="3",Ю ТВ orig
+#EXTINF:-1 group-title="Эфирные" tvg-rec="3",Ю ТВ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9107/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Аист (Иркутск-DreamNet)
+#EXTINF:-1 group-title="Региональные",Аист (Иркутск-DreamNet)
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15414/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Арис 24 HD
+#EXTINF:-1 group-title="Региональные",Арис 24 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20134/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Архыз 24
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Архыз 24
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/1049/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Баршкортостан 24 FHD
+#EXTINF:-1 group-title="Региональные",Баршкортостан 24 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20133/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="7",Башкирское спутниковое телевидение
+#EXTINF:-1 group-title="Региональные" tvg-rec="7",Башкирское спутниковое телевидение
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/832/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",БелМуз ТВ
+#EXTINF:-1 group-title="Региональные",БелМуз ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19373/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Брянская Губерния FHD
+#EXTINF:-1 group-title="Региональные",Брянская Губерния FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20132/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",БСТ HD
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",БСТ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2115/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Вариант ТВ Владимир
+#EXTINF:-1 group-title="Региональные",Вариант ТВ Владимир
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19355/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Вместе-РФ FHD
+#EXTINF:-1 group-title="Региональные",Вместе-РФ FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20139/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Волга
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Волга
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2113/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Волга 24 HD
+#EXTINF:-1 group-title="Региональные",Волга 24 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19353/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Волга ТВ FHD
+#EXTINF:-1 group-title="Региональные",Волга ТВ FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19354/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Восток 24 FHD
+#EXTINF:-1 group-title="Региональные",Восток 24 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20131/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Город ТВ Шадринск FHD
+#EXTINF:-1 group-title="Региональные",Город ТВ Шадринск FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19350/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Городской Телеканал-Ярославль
+#EXTINF:-1 group-title="Региональные",Городской Телеканал-Ярославль
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19349/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="7",Грозный
+#EXTINF:-1 group-title="Региональные" tvg-rec="7",Грозный
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/855/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Губерния Самара
+#EXTINF:-1 group-title="Региональные",Губерния Самара
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19347/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Губерния Хабаровск
+#EXTINF:-1 group-title="Региональные",Губерния Хабаровск
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19348/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Евразия (Орск)
+#EXTINF:-1 group-title="Региональные",Евразия (Орск)
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19236/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",К16 Саров
+#EXTINF:-1 group-title="Региональные",К16 Саров
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19346/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Камчатка 1 FHD
+#EXTINF:-1 group-title="Региональные",Камчатка 1 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19345/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",КРЫМ 24
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",КРЫМ 24
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2143/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Кузбасс 1 FHD
+#EXTINF:-1 group-title="Региональные",Кузбасс 1 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20128/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Липецк Time
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Липецк Time
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2435/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Луч Пуровск HD
+#EXTINF:-1 group-title="Региональные",Луч Пуровск HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19257/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Между NET ТВ HD
+#EXTINF:-1 group-title="Региональные",Между NET ТВ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19344/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Миллет HD
+#EXTINF:-1 group-title="Региональные",Миллет HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19258/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Мир Белогорья HD
+#EXTINF:-1 group-title="Региональные",Мир Белогорья HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20126/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="7",Москва Доверие
+#EXTINF:-1 group-title="Региональные" tvg-rec="7",Москва Доверие
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/869/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",НВК Саха FHD
+#EXTINF:-1 group-title="Региональные",НВК Саха FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20125/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Нижний Новгород 24 FHD
+#EXTINF:-1 group-title="Региональные",Нижний Новгород 24 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20124/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Ники ТВ HD
+#EXTINF:-1 group-title="Региональные",Ники ТВ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20123/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ННТВ Нижний Новгород
+#EXTINF:-1 group-title="Региональные",ННТВ Нижний Новгород
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19343/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",НСК-49
+#EXTINF:-1 group-title="Региональные",НСК-49
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19377/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",НТВ Беларусь
+#EXTINF:-1 group-title="Региональные",НТВ Беларусь
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19371/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",НТК Калмыкия
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",НТК Калмыкия
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2066/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",НТС FHD Иркутск
+#EXTINF:-1 group-title="Региональные",НТС FHD Иркутск
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19342/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Обком ТВ
+#EXTINF:-1 group-title="Региональные",Обком ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19340/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ОТВ Екатеринбург
+#EXTINF:-1 group-title="Региональные",ОТВ Екатеринбург
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19261/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ОТС Full HD
+#EXTINF:-1 group-title="Региональные",ОТС Full HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/10030/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Панорама ТВ FHD Тверь
+#EXTINF:-1 group-title="Региональные",Панорама ТВ FHD Тверь
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19339/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Первый Крымский
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Первый Крымский
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2139/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Первый Псковский
+#EXTINF:-1 group-title="Региональные",Первый Псковский
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19220/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Первый республиканский HD
+#EXTINF:-1 group-title="Региональные",Первый республиканский HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19240/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Первый Тульский
+#EXTINF:-1 group-title="Региональные",Первый Тульский
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19242/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Первый Тульский FHD
+#EXTINF:-1 group-title="Региональные",Первый Тульский FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19362/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Первый Ярославский FHD
+#EXTINF:-1 group-title="Региональные",Первый Ярославский FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20137/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Прима ТВ FHD
+#EXTINF:-1 group-title="Региональные",Прима ТВ FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19361/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Раменское ТВ HD
+#EXTINF:-1 group-title="Региональные",Раменское ТВ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19360/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",РГВК Дагестан FHD
+#EXTINF:-1 group-title="Региональные",РГВК Дагестан FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20136/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Родной канал HD
+#EXTINF:-1 group-title="Региональные",Родной канал HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19239/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",РТР Планета Северная Америка
+#EXTINF:-1 group-title="Региональные",РТР Планета Северная Америка
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19368/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Самара 24 FHD
+#EXTINF:-1 group-title="Региональные",Самара 24 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20120/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Самара 24 HD
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Самара 24 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2183/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Самара ГИС FHD
+#EXTINF:-1 group-title="Региональные",Самара ГИС FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19357/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="7",Санкт-Петербург
+#EXTINF:-1 group-title="Региональные" tvg-rec="7",Санкт-Петербург
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/715/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Саратов 24 HD
+#EXTINF:-1 group-title="Региональные",Саратов 24 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20119/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Саров 24 HD
+#EXTINF:-1 group-title="Региональные",Саров 24 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19393/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Седьмой канал Казахстан
+#EXTINF:-1 group-title="Региональные",Седьмой канал Казахстан
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2213/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Сварожичи HD
+#EXTINF:-1 group-title="Региональные",Сварожичи HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19080/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Своё ТВ FHD
+#EXTINF:-1 group-title="Региональные",Своё ТВ FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20118/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",СГДФ 24 FHD
+#EXTINF:-1 group-title="Региональные",СГДФ 24 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19359/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Север ТВ FHD
+#EXTINF:-1 group-title="Региональные",Север ТВ FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20116/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Сочи 24 FHD
+#EXTINF:-1 group-title="Региональные",Сочи 24 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20115/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Сочи 24 HD
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Сочи 24 HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9040/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Сочи HD
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Сочи HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2433/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Сургут 1 FHD
+#EXTINF:-1 group-title="Региональные",Сургут 1 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19391/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Сургут 24
+#EXTINF:-1 group-title="Региональные",Сургут 24
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19238/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Сургут 86 FHD
+#EXTINF:-1 group-title="Региональные",Сургут 86 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19390/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ТВ 7 Абакан
+#EXTINF:-1 group-title="Региональные",ТВ 7 Абакан
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19389/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ТВК FHD
+#EXTINF:-1 group-title="Региональные",ТВК FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19388/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ТВЦ HD
+#EXTINF:-1 group-title="Региональные",ТВЦ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19222/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Теледом ТВ HD
+#EXTINF:-1 group-title="Региональные",Теледом ТВ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19383/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ТЕО ТВ HD
+#EXTINF:-1 group-title="Региональные",ТЕО ТВ HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19382/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Тивиком ТВ FHD Улан Удэ
+#EXTINF:-1 group-title="Региональные",Тивиком ТВ FHD Улан Удэ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19381/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="7",ТНВ-Планета
+#EXTINF:-1 group-title="Региональные" tvg-rec="7",ТНВ-Планета
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/515/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",ТОЛК
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",ТОЛК
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2140/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ТРК Евразия Орск HD
+#EXTINF:-1 group-title="Региональные",ТРК Евразия Орск HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19385/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",ТРК555 Алушта HD
+#EXTINF:-1 group-title="Региональные",ТРК555 Алушта HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19386/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Туапсе 24 FHD
+#EXTINF:-1 group-title="Региональные",Туапсе 24 FHD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19380/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Тюменское время
+#EXTINF:-1 group-title="Региональные",Тюменское время
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19237/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Щёлковское ТВ
+#EXTINF:-1 group-title="Региональные",Щёлковское ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19379/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Эхо 24 ТВ Новоуральск
+#EXTINF:-1 group-title="Региональные",Эхо 24 ТВ Новоуральск
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19375/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Югра
+#EXTINF:-1 group-title="Региональные",Югра
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/19256/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="3",Югра Тревел HD
+#EXTINF:-1 group-title="Региональные" tvg-rec="3",Югра Тревел HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/5038/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные" tvg-rec="7",Юрган
+#EXTINF:-1 group-title="Региональные" tvg-rec="7",Юрган
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2036/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",Якутия 24
+#EXTINF:-1 group-title="Региональные",Якутия 24
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20015/index.m3u8
 
-#EXTINF:-1 group-title=" Региональные",VH1 RO
+#EXTINF:-1 group-title="Региональные",VH1 RO
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/7026/index.m3u8
 
 #EXTINF:-1 group-title="Новости",BBC 1 HD
@@ -5452,14 +5359,17 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14150/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-rec="3",Смайлик ТВ orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2157/index.m3u8
 
-#EXTINF:-1 group-title="Детям" tvg-rec="7",СТС Kids HD
+#EXTINF:-1 group-title="Детям" tvg-rec="7",Смаил ТВ
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9199/index.m3u8
 
 #EXTINF:-1 group-title="Детям" tvg-rec="3",СТС Kids HD orig
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/2001/index.m3u8
 
-#EXTINF:-1 group-title="Детям" tvg-rec="3",СуперГерои
+#EXTINF:-1 group-title="Детям" tvg-rec="3",СТС Kids
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/9063/index.m3u8
+
+#EXTINF:-1 group-title="Детям",Супергерои
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/15099/index.m3u8
 
 #EXTINF:-1 group-title="Детям" tvg-rec="3",Тамыр
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/1041/index.m3u8
@@ -5497,6 +5407,9 @@ http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/827/index.m3u8
 #EXTINF:-1 group-title="Телемагазины",Women`s Magazine HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/860/index.m3u8
 
+
+#EXTINF:-1 tvg-id="9040" group-title="Новые" tvg-logo="http://epg.one/img2/9040.png", Women`s Magazine HD
+http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/20010/index.m3u8
 
 #EXTINF:-1 group-title="Новые",Жара kids HD
 http://wps5c7yt.rostelekom.xyz/iptv/74HGRLK6XSCSBXYGVG9GC9ZW/14139/index.m3u8
