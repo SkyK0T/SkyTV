@@ -1,361 +1,366 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
 
-#EXTINF:-1,2x2
+
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",2x2
 http://tv.ttk.mx:9099
-#EXTINF:-1,7 ТВ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",7 ТВ
 http://tv.ttk.mx:9172
-#EXTINF:-1,8 Канал
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",8 Канал
 http://tv.ttk.mx:9134
-#EXTINF:-1,360 HD
-http://tv.ttk.mx:9088
-#EXTINF:-1,555
-http://tv.ttk.mx:9148
-#EXTINF:-1,555 Алушта
-http://tv.ttk.mx:9109
-#EXTINF:-1,Ani
-http://tv.ttk.mx:9049
-#EXTINF:-1,Cinema
-http://tv.ttk.mx:9053
-#EXTINF:-1,DaVinci
-http://tv.ttk.mx:9188
-#EXTINF:-1,Dizi
-http://tv.ttk.mx:9189
-#EXTINF:-1,Luxury
-http://tv.ttk.mx:9131
-#EXTINF:-1,Nano
-http://tv.ttk.mx:9138
-#EXTINF:-1,O!
-http://tv.ttk.mx:9092
-#EXTINF:-1,RT Doc HD
-http://tv.ttk.mx:9100
-#EXTINF:-1,RU.TV
-http://tv.ttk.mx:9089
-#EXTINF:-1,Russia Today 
-http://tv.ttk.mx:9130
-#EXTINF:-1,Shopping Live
-http://tv.ttk.mx:9132
-#EXTINF:-1,TV XXI
-http://tv.ttk.mx:9067
-#EXTINF:-1,TV1000
-http://tv.ttk.mx:9181
-#EXTINF:-1,TV1000 Action
-http://tv.ttk.mx:9182
-#EXTINF:-1,TV1000 Русское Кино
-http://tv.ttk.mx:9183
-#EXTINF:-1,Viasat History
-http://tv.ttk.mx:9185
-#EXTINF:-1,Viasat Nature
-http://tv.ttk.mx:9186
-#EXTINF:-1,Viasat Sport
-http://tv.ttk.mx:9187
-#EXTINF:-1,Viju Explore
-http://tv.ttk.mx:9184
-#EXTINF:-1,Zooпарк
-http://tv.ttk.mx:9029
-#EXTINF:-1,А1
-http://tv.ttk.mx:9155
-#EXTINF:-1,А2
-http://tv.ttk.mx:9156
-#EXTINF:-1,Авто 24
-http://tv.ttk.mx:9031
-#EXTINF:-1,Беларусь 24
-http://tv.ttk.mx:9090
-#EXTINF:-1,Белрос
-http://tv.ttk.mx:9139
-#EXTINF:-1,Бобёр
-http://tv.ttk.mx:9077
-#EXTINF:-1,Боец
-http://tv.ttk.mx:9107
-#EXTINF:-1,Большая Азия
-http://tv.ttk.mx:9146
-#EXTINF:-1,Вебкамера 67
-http://tv.ttk.mx:9167
-#EXTINF:-1,Вебкамера 74
-http://tv.ttk.mx:9174
-#EXTINF:-1,Вебкамера 76
-http://tv.ttk.mx:9176
-#EXTINF:-1,Вебкамера 78
-http://tv.ttk.mx:9178
-#EXTINF:-1,Вебкамера 9124
-http://tv.ttk.mx:9124
-#EXTINF:-1,Вебкамера 9125
-http://tv.ttk.mx:9125
-#EXTINF:-1,Вместе.РФ
-http://tv.ttk.mx:9103
-#EXTINF:-1,Вопросы и ответы
-http://tv.ttk.mx:9038
-#EXTINF:-1,Восток ТВ
-http://tv.ttk.mx:9064
-#EXTINF:-1,Время
-http://tv.ttk.mx:9080
-#EXTINF:-1,Детский мир
-http://tv.ttk.mx:9063
-#EXTINF:-1,Доктор
-http://tv.ttk.mx:9058
-#EXTINF:-1,Дом кино
-http://tv.ttk.mx:9079
-#EXTINF:-1,Дом Кино Премиум
-http://tv.ttk.mx:9084
-#EXTINF:-1,Домашние животные
-http://tv.ttk.mx:9035
-#EXTINF:-1,Домашний
-http://tv.ttk.mx:9013
-#EXTINF:-1,Драйв
-http://tv.ttk.mx:9039
-#EXTINF:-1,Евпатория 24
-http://tv.ttk.mx:9147
-#EXTINF:-1,Евпатория 24
-http://tv.ttk.mx:9177
-#EXTINF:-1,Еврокино
-http://tv.ttk.mx:9030
-#EXTINF:-1,Живая природа HD
-http://tv.ttk.mx:9066
-#EXTINF:-1,Загородная жизнь
-http://tv.ttk.mx:9157
-#EXTINF:-1,Звезда
-http://tv.ttk.mx:9016
-#EXTINF:-1,Звезда плюс
-http://tv.ttk.mx:9192
-#EXTINF:-1,Здоровое ТВ
-http://tv.ttk.mx:9036
-#EXTINF:-1,Иллюзион+
-http://tv.ttk.mx:9028
-#EXTINF:-1,История
-http://tv.ttk.mx:9048
-#EXTINF:-1,Калейдоскоп
-http://tv.ttk.mx:9076
-#EXTINF:-1,Карусель
-http://tv.ttk.mx:9007
-#EXTINF:-1,Кино ТВ
-http://tv.ttk.mx:9046
-#EXTINF:-1,Кино ТВ HD
-http://tv.ttk.mx:9113
-#EXTINF:-1,Кинопоказ
-http://tv.ttk.mx:9150
-#EXTINF:-1,Кинопремьера
-http://tv.ttk.mx:9162
-#EXTINF:-1,Киносвидание
-http://tv.ttk.mx:9164
-#EXTINF:-1,Киносемья
-http://tv.ttk.mx:9161
-#EXTINF:-1,Киноужас
-http://tv.ttk.mx:9193
-#EXTINF:-1,Кинохит
-http://tv.ttk.mx:9163
-#EXTINF:-1,Комедия
-http://tv.ttk.mx:9050
-#EXTINF:-1,Красная линия
-http://tv.ttk.mx:9102
-#EXTINF:-1,Крым 1
-http://tv.ttk.mx:9020
-#EXTINF:-1,Крым 24
-http://tv.ttk.mx:9024
-#EXTINF:-1,ЛДПР ТВ
-http://tv.ttk.mx:9101
-#EXTINF:-1,Легендарный 24
-http://tv.ttk.mx:9179
-#EXTINF:-1,Мама
-http://tv.ttk.mx:9055
-#EXTINF:-1,Матч Арена
-http://tv.ttk.mx:9153
-#EXTINF:-1,Матч Игра
-http://tv.ttk.mx:9152
-#EXTINF:-1,Матч Премьер
-http://tv.ttk.mx:10000
-#EXTINF:-1,Матч! Страна
-http://tv.ttk.mx:9154
-#EXTINF:-1,Матч! ТВ
-http://tv.ttk.mx:9002
-#EXTINF:-1,Матч! ТВHD
-http://tv.ttk.mx:9094
-#EXTINF:-1,Матч! Футбол 2
-http://tv.ttk.mx:9111
-#EXTINF:-1,Матч! Футбол 2 HD
-http://tv.ttk.mx:9115
-#EXTINF:-1,Матч! Футбол 3
-http://tv.ttk.mx:9112
-#EXTINF:-1,Матч! Футбол 3 HD
-http://tv.ttk.mx:9116
-#EXTINF:-1,Матч!Футбол 1
-http://tv.ttk.mx:9108
-#EXTINF:-1,Матч!Футбол 1 HD
-http://tv.ttk.mx:9114
-#EXTINF:-1,Миллет
-http://tv.ttk.mx:9021
-#EXTINF:-1,Мир
-http://tv.ttk.mx:9017
-#EXTINF:-1,Мир HD
-http://tv.ttk.mx:9140
-#EXTINF:-1,Мир24
-http://tv.ttk.mx:9025
-#EXTINF:-1,Москва Доверие
-http://tv.ttk.mx:9091
-#EXTINF:-1,Москва-24
-http://tv.ttk.mx:9097
-#EXTINF:-1,Мосфильм. Золотая коллекция
-http://tv.ttk.mx:9169
-#EXTINF:-1,Моя планета
-http://tv.ttk.mx:9040
-#EXTINF:-1,Мужское кино
-http://tv.ttk.mx:9165
-#EXTINF:-1,Муз-ТВ
-http://tv.ttk.mx:9019
-#EXTINF:-1,Музыка Первого
-http://tv.ttk.mx:9078
-#EXTINF:-1,Мульт
-http://tv.ttk.mx:9054
-#EXTINF:-1,Мульт HD
-http://tv.ttk.mx:9086
-#EXTINF:-1,Мульт и музыка
-http://tv.ttk.mx:9045
-#EXTINF:-1,Наука 2.0
-http://tv.ttk.mx:9041
-#EXTINF:-1,Ностальгия
-http://tv.ttk.mx:9195
-#EXTINF:-1,НСТ
-http://tv.ttk.mx:9057
-#EXTINF:-1,НТВ
-http://tv.ttk.mx:9003
-#EXTINF:-1,НТВ HD
-http://tv.ttk.mx:9127
-#EXTINF:-1,НТВ-хит
-http://tv.ttk.mx:9173
-#EXTINF:-1,О!2
-http://tv.ttk.mx:9059
-#EXTINF:-1,Обзорная камера. Мирное - Спортплощадка 1
-http://tv.ttk.mx:9166
-#EXTINF:-1,Обзорная камера. Мирное - Спортплощадка 2
-http://tv.ttk.mx:9168
-#EXTINF:-1,Обзорная камера. Черноморское - Спортплощадка
-http://tv.ttk.mx:9170
-#EXTINF:-1,Открытый мир
-http://tv.ttk.mx:9191
-#EXTINF:-1,Открытый мир
-http://tv.ttk.mx:9191
-#EXTINF:-1,ОТР
-http://tv.ttk.mx:9008
-#EXTINF:-1,Охота и рыбалка
-http://tv.ttk.mx:9034
-#EXTINF:-1,Первый HD
-http://tv.ttk.mx:9093
-#EXTINF:-1,Первый канал
-http://tv.ttk.mx:9000
-#EXTINF:-1,Планета HD
-http://tv.ttk.mx:9087
-#EXTINF:-1,Победа
-http://tv.ttk.mx:9149
-#EXTINF:-1,Подмосковье 360
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",360
 http://tv.ttk.mx:9052
-#EXTINF:-1,Психология 21
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",360 HD
+http://tv.ttk.mx:9088
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",555 Алушта
+http://tv.ttk.mx:9109
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",555
+http://tv.ttk.mx:9148
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ani
+http://tv.ttk.mx:9049
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Cinema
+http://tv.ttk.mx:9053
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",DaVinci
+http://tv.ttk.mx:9188
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Dizi
+http://tv.ttk.mx:9189
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Luxury
+http://tv.ttk.mx:9131
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Nano
+http://tv.ttk.mx:9138
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",O!
+http://tv.ttk.mx:9092
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RT Doc HD
+http://tv.ttk.mx:9100
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RU.TV
+http://tv.ttk.mx:9089
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Russia Today 
+http://tv.ttk.mx:9130
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Shopping Live
+http://tv.ttk.mx:9132
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV XXI
+http://tv.ttk.mx:9067
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000
+http://tv.ttk.mx:9181
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Action
+http://tv.ttk.mx:9182
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Русское Кино
+http://tv.ttk.mx:9183
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat History
+http://tv.ttk.mx:9185
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Nature
+http://tv.ttk.mx:9186
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viju Explore
+http://tv.ttk.mx:9184
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Zooпарк
+http://tv.ttk.mx:9029
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",А1
+http://tv.ttk.mx:9155
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",А2
+http://tv.ttk.mx:9156
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Авто 24
+http://tv.ttk.mx:9031
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Беларусь 24
+http://tv.ttk.mx:9090
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Белрос
+http://tv.ttk.mx:9139
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Бобёр
+http://tv.ttk.mx:9077
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Боец
+http://tv.ttk.mx:9107
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Большая Азия
+http://tv.ttk.mx:9146
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Вместе.РФ
+http://tv.ttk.mx:9103
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Вопросы и ответы
+http://tv.ttk.mx:9038
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Восток ТВ
+http://tv.ttk.mx:9064
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Время
+http://tv.ttk.mx:9080
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Детский мир
+http://tv.ttk.mx:9063
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Доктор
+http://tv.ttk.mx:9058
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Дом кино
+http://tv.ttk.mx:9079
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Дом Кино Премиум
+http://tv.ttk.mx:9084
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Домашние животные
+http://tv.ttk.mx:9035
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Домашний
+http://tv.ttk.mx:9013
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Драйв
+http://tv.ttk.mx:9039
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Евпатория 24
+http://tv.ttk.mx:9147
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Евпатория 24
+http://tv.ttk.mx:9177
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Еврокино
+http://tv.ttk.mx:9030
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Живая природа HD
+http://tv.ttk.mx:9066
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Загородная жизнь
+http://tv.ttk.mx:9157
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Звезда
+http://tv.ttk.mx:9016
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Звезда плюс
+http://tv.ttk.mx:9192
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Здоровое ТВ
+http://tv.ttk.mx:9036
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Иллюзион+
+http://tv.ttk.mx:9028
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",История
+http://tv.ttk.mx:9048
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Калейдоскоп
+http://tv.ttk.mx:9076
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Карусель
+http://tv.ttk.mx:9007
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кино ТВ
+http://tv.ttk.mx:9046
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кино ТВ HD
+http://tv.ttk.mx:9113
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кинопоказ
+http://tv.ttk.mx:9150
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кинопремьера
+http://tv.ttk.mx:9162
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Киносвидание
+http://tv.ttk.mx:9164
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Киносемья
+http://tv.ttk.mx:9161
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Киноужас
+http://tv.ttk.mx:9193
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кинохит
+http://tv.ttk.mx:9163
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Комедия
+http://tv.ttk.mx:9050
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Красная линия
+http://tv.ttk.mx:9102
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Крым 1
+http://tv.ttk.mx:9020
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Крым 24
+http://tv.ttk.mx:9024
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ЛДПР ТВ
+http://tv.ttk.mx:9101
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Легендарный 24
+http://tv.ttk.mx:9179
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мама
+http://tv.ttk.mx:9055
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Миллет
+http://tv.ttk.mx:9021
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир
+http://tv.ttk.mx:9017
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир HD
+http://tv.ttk.mx:9140
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир24
+http://tv.ttk.mx:9025
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Москва Доверие
+http://tv.ttk.mx:9091
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Москва-24
+http://tv.ttk.mx:9097
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Моя планета
+http://tv.ttk.mx:9040
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мужское кино
+http://tv.ttk.mx:9165
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Муз-ТВ
+http://tv.ttk.mx:9019
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Музыка Первого
+http://tv.ttk.mx:9078
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мульт
+http://tv.ttk.mx:9054
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мульт HD
+http://tv.ttk.mx:9086
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мульт и музыка
+http://tv.ttk.mx:9045
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Наука 2.0
+http://tv.ttk.mx:9041
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ностальгия
+http://tv.ttk.mx:9195
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НСТ
+http://tv.ttk.mx:9057
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НТВ HD
+http://tv.ttk.mx:9127
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НТВ-хит
+http://tv.ttk.mx:9173
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",О!2
+http://tv.ttk.mx:9059
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Открытый мир
+http://tv.ttk.mx:9191
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Открытый мир
+http://tv.ttk.mx:9191
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ОТР
+http://tv.ttk.mx:9008
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Охота и рыбалка
+http://tv.ttk.mx:9034
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Первый HD
+http://tv.ttk.mx:9093
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Первый канал
+http://tv.ttk.mx:9000
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Планета HD
+http://tv.ttk.mx:9087
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Победа
+http://tv.ttk.mx:9149
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Психология 21
 http://tv.ttk.mx:9033
-#EXTINF:-1,Пятница
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Пятница
 http://tv.ttk.mx:9015
-#EXTINF:-1,Пятый канал
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Пятый канал
 http://tv.ttk.mx:9004
-#EXTINF:-1,Ратник
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ратник
 http://tv.ttk.mx:9106
-#EXTINF:-1,РБК
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",РБК
 http://tv.ttk.mx:9096
-#EXTINF:-1,РЕН ТВ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Рен ТВ
 http://tv.ttk.mx:9010
-#EXTINF:-1,Ретро
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ретро
 http://tv.ttk.mx:9032
-#EXTINF:-1,Россия 1
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 1
 http://tv.ttk.mx:9001
-#EXTINF:-1,Россия 24
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 24
 http://tv.ttk.mx:9006
-#EXTINF:-1,Россия Культура
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия Культура
 http://tv.ttk.mx:9005
-#EXTINF:-1,Россия-1 HD
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия-1 HD
 http://tv.ttk.mx:9075
-#EXTINF:-1,Русский бестселлер
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский бестселлер
 http://tv.ttk.mx:9043
-#EXTINF:-1,Русский детектив
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский детектив
 http://tv.ttk.mx:9051
-#EXTINF:-1,Русский иллюзион
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский иллюзион
 http://tv.ttk.mx:9027
-#EXTINF:-1,Русский роман
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский роман
 http://tv.ttk.mx:9042
-#EXTINF:-1,Русский роман HD
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский роман HD
 http://tv.ttk.mx:9085
-#EXTINF:-1,Русский экстрим HD
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский экстрим HD
 http://tv.ttk.mx:9095
-#EXTINF:-1,Сарафан
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Сарафан
 http://tv.ttk.mx:9044
-#EXTINF:-1,Симферополь 24
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Симферополь 24
 http://tv.ttk.mx:9180
-#EXTINF:-1,Союз
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Союз
 http://tv.ttk.mx:9142
-#EXTINF:-1,Спас ТВ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Спас ТВ
 http://tv.ttk.mx:9011
-#EXTINF:-1,СТС
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",СТС
 http://tv.ttk.mx:9012
-#EXTINF:-1,СТС Love
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",СТС Love
 http://tv.ttk.mx:9104
-#EXTINF:-1,Суббота
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Суббота
 http://tv.ttk.mx:9105
-#EXTINF:-1,Супергерои
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Супергерои
 http://tv.ttk.mx:9194
-#EXTINF:-1,Таврида Инфо
-http://tv.ttk.mx:9083
-#EXTINF:-1,Таврида инфо
-http://tv.ttk.mx:9118
-#EXTINF:-1,Таврида Инфо
-http://tv.ttk.mx:9144
-#EXTINF:-1,Тайны галактики
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Тайны галактики
 http://tv.ttk.mx:9071
-#EXTINF:-1,ТВ-3
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТВ-3
 http://tv.ttk.mx:9014
-#EXTINF:-1,ТВЦ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТВЦ
 http://tv.ttk.mx:9009
-#EXTINF:-1,Театр
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Театр
 http://tv.ttk.mx:9061
-#EXTINF:-1,Телекафе
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Телекафе
 http://tv.ttk.mx:9081
-#EXTINF:-1,Техно 24
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Техно 24
 http://tv.ttk.mx:9056
-#EXTINF:-1,ТНТ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ
 http://tv.ttk.mx:9018
-#EXTINF:-1,ТНТ HD
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ HD
 http://tv.ttk.mx:9128
-#EXTINF:-1,ТНТ Music
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ Music
 http://tv.ttk.mx:9023
-#EXTINF:-1,ТНТ4
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ4
 http://tv.ttk.mx:9098
-#EXTINF:-1,Точка отрыва
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Точка отрыва
 http://tv.ttk.mx:9151
-#EXTINF:-1,Точка ТВ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Точка ТВ
 http://tv.ttk.mx:9073
-#EXTINF:-1,Удар ТВ
-http://tv.ttk.mx:9196
-#EXTINF:-1,Уникум
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Уникум
 http://tv.ttk.mx:9026
-#EXTINF:-1,Усадьба ТВ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Усадьба ТВ
 http://tv.ttk.mx:9037
-#EXTINF:-1,Футбол
-http://tv.ttk.mx:9065
-#EXTINF:-1,Футбол 2
-http://tv.ttk.mx:9111
-#EXTINF:-1,Че
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Че
 http://tv.ttk.mx:9141
-#EXTINF:-1,Шансон-TB
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Шансон-TB
 http://tv.ttk.mx:9062
-#EXTINF:-1,Ю
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ю
 http://tv.ttk.mx:9072
 
-#EXTINF:-1,21
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Арена
+http://tv.ttk.mx:9153
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Игра
+http://tv.ttk.mx:9152
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Премьер
+http://tv.ttk.mx:10000
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Страна
+http://tv.ttk.mx:9154
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! ТВ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 1
+http://tv.ttk.mx:9108
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 2
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 2 HD
+http://tv.ttk.mx:9115
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 3
+http://tv.ttk.mx:9112
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Футбол
+http://tv.ttk.mx:9065
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Удар ТВ
+http://tv.ttk.mx:9196
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9124
+http://tv.ttk.mx:9124
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9125
+http://tv.ttk.mx:9125
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера. Мирное - Спортплощадка 1
+http://tv.ttk.mx:9166
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 67
+http://tv.ttk.mx:9167
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера. Мирное - Спортплощадка 2
+http://tv.ttk.mx:9168
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера. Черноморское - Спортплощадка
+http://tv.ttk.mx:9170
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 74
+http://tv.ttk.mx:9174
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 76
+http://tv.ttk.mx:9176
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 78
+http://tv.ttk.mx:9178
+
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Таврида Инфо
+http://tv.ttk.mx:9083
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Таврида инфо
+http://tv.ttk.mx:9118
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Таврида Инфо
+http://tv.ttk.mx:9144
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",21
 http://tv.ttk.mx:9121
-#EXTINF:-1,23
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",23
 http://tv.ttk.mx:9123
-#EXTINF:-1,26
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",26
 http://tv.ttk.mx:9126
-#EXTINF:-1,29
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",29
 http://tv.ttk.mx:9129
-#EXTINF:-1,58
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",58
 http://tv.ttk.mx:9158
-#EXTINF:-1,75
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",75
 http://tv.ttk.mx:9175
-#EXTINF:-1,90
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",90
 http://tv.ttk.mx:9190
 
 
@@ -405,14 +410,14 @@ http://flu.ttk.mx:9090/kinohit/index.m3u8?token=hs06e
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Мама
 http://flu.ttk.mx:9090/Mama/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч ТВ
+#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! ТВ
+http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! ТВ HD
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! Боец
 http://flu.ttk.mx:9090/Boets/index.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! Страна
 http://flu.ttk.mx:9090/Strana/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! ТВ
-http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Москва доверие
 http://flu.ttk.mx:9090/Doverie/index.m3u8?token=hs06e
 #EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Мосфильм. Золотая коллекция
