@@ -17,46 +17,6 @@ http://tv.ttk.mx:9088
 http://tv.ttk.mx:9109
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",555
 http://tv.ttk.mx:9148
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ani
-http://tv.ttk.mx:9049
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Cinema
-http://tv.ttk.mx:9053
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",DaVinci
-http://tv.ttk.mx:9188
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Dizi
-http://tv.ttk.mx:9189
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Luxury
-http://tv.ttk.mx:9131
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Nano
-http://tv.ttk.mx:9138
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",O!
-http://tv.ttk.mx:9092
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RT Doc HD
-http://tv.ttk.mx:9100
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RU.TV
-http://tv.ttk.mx:9089
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Russia Today 
-http://tv.ttk.mx:9130
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Shopping Live
-http://tv.ttk.mx:9132
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV XXI
-http://tv.ttk.mx:9067
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000
-http://tv.ttk.mx:9181
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Action
-http://tv.ttk.mx:9182
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Русское Кино
-http://tv.ttk.mx:9183
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat History
-http://tv.ttk.mx:9185
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Nature
-http://tv.ttk.mx:9186
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Sport
-http://tv.ttk.mx:9187
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viju Explore
-http://tv.ttk.mx:9184
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Zooпарк
-http://tv.ttk.mx:9029
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",А1
 http://tv.ttk.mx:9155
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",А2
@@ -73,7 +33,7 @@ http://tv.ttk.mx:9077
 http://tv.ttk.mx:9107
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Большая Азия
 http://tv.ttk.mx:9146
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Вместе.РФ
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Вместе-РФ
 http://tv.ttk.mx:9103
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Вопросы и ответы
 http://tv.ttk.mx:9038
@@ -155,7 +115,7 @@ http://tv.ttk.mx:9021
 http://tv.ttk.mx:9017
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир HD
 http://tv.ttk.mx:9140
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир24
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир 24
 http://tv.ttk.mx:9025
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Москва Доверие
 http://tv.ttk.mx:9091
@@ -193,16 +153,16 @@ http://tv.ttk.mx:9173
 http://tv.ttk.mx:9059
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Открытый мир
 http://tv.ttk.mx:9191
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Открытый мир
-http://tv.ttk.mx:9191
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ОТР
 http://tv.ttk.mx:9008
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Охота и рыбалка
 http://tv.ttk.mx:9034
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Первый HD
-http://tv.ttk.mx:9093
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Первый канал
 http://tv.ttk.mx:9000
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Первый HD
+http://tv.ttk.mx:9093
+
+
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Планета HD
 http://tv.ttk.mx:9087
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Победа
@@ -223,23 +183,24 @@ http://tv.ttk.mx:9010
 http://tv.ttk.mx:9032
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 1
 http://tv.ttk.mx:9001
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 1 HD
+http://tv.ttk.mx:9075
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 24
 http://tv.ttk.mx:9006
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия Культура
 http://tv.ttk.mx:9005
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия-1 HD
-http://tv.ttk.mx:9075
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский бестселлер
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Бестселлер
 http://tv.ttk.mx:9043
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский детектив
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Детектив
 http://tv.ttk.mx:9051
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский иллюзион
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Иллюзион
 http://tv.ttk.mx:9027
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский роман
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Роман
 http://tv.ttk.mx:9042
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский роман HD
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Роман HD
 http://tv.ttk.mx:9085
-#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский экстрим HD
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Экстрим HD
 http://tv.ttk.mx:9095
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Сарафан
 http://tv.ttk.mx:9044
@@ -291,6 +252,47 @@ http://tv.ttk.mx:9141
 http://tv.ttk.mx:9062
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ю
 http://tv.ttk.mx:9072
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ani
+http://tv.ttk.mx:9049
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Cinema
+http://tv.ttk.mx:9053
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Da Vinci
+http://tv.ttk.mx:9188
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Dizi
+http://tv.ttk.mx:9189
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Luxury
+http://tv.ttk.mx:9131
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Nano
+http://tv.ttk.mx:9138
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",O!
+http://tv.ttk.mx:9092
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RT Doc HD
+http://tv.ttk.mx:9100
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RU.TV
+http://tv.ttk.mx:9089
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Russia Today 
+http://tv.ttk.mx:9130
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Shopping Live
+http://tv.ttk.mx:9132
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV XXI
+http://tv.ttk.mx:9067
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000
+http://tv.ttk.mx:9181
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Action
+http://tv.ttk.mx:9182
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Русское Кино
+http://tv.ttk.mx:9183
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat History
+http://tv.ttk.mx:9185
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Nature
+http://tv.ttk.mx:9186
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viju Explore
+http://tv.ttk.mx:9184
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Zooпарк
+http://tv.ttk.mx:9029
 
 
 #EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Арена
@@ -365,158 +367,159 @@ http://tv.ttk.mx:9190
 
 
 
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",2x2
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",2x2
 http://flu.ttk.mx:9090/2x2/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",5 канал
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",5 канал
 http://flu.ttk.mx:9090/5kanal/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",360° HD
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",360° HD
 http://flu.ttk.mx:9090/360_HD/index.m3u8?token=hs06e
 
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Авто 24
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Авто 24
 http://flu.ttk.mx:9090/Avto24/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Бобер
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Бобер
 http://flu.ttk.mx:9090/Bober/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Время
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Время
 http://flu.ttk.mx:9090/Vremya/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Дом кино
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Домашние животные
-http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Драйв
-http://flu.ttk.mx:9090/Drive/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Еврокино
-http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Живая природа HD
-http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Загородная жизнь
-http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Звезда
-http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Зоопарк
-http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Иллюзион+
-http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Карусель
-http://flu.ttk.mx:9090/Karusel/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Кинопоказ
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Кинопремьера HD
-http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Киносвидание
-http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Кинохит
-http://flu.ttk.mx:9090/kinohit/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Комедия
-http://flu.ttk.mx:9090/Komediya/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Мама
-http://flu.ttk.mx:9090/Mama/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! ТВ
-http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! ТВ HD
-http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! Боец
-http://flu.ttk.mx:9090/Boets/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Матч! Страна
-http://flu.ttk.mx:9090/Strana/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Москва доверие
-http://flu.ttk.mx:9090/Doverie/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Мосфильм. Золотая коллекция
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Музыка первого
-http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Мульт
-http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Мульт
-http://flu.ttk.mx:9090/Mult/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Наука
-http://flu.ttk.mx:9090/Nauka/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",НТВ
-http://flu.ttk.mx:9090/NTV/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",НТВ HD
-http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",О!
-http://flu.ttk.mx:9090/O!/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",ОТР
-http://flu.ttk.mx:9090/OTR/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Охота и рыбалка
-http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Победа
-http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Поехали!
-http://flu.ttk.mx:9090/Poehali/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Психология 21
-http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Пятница
-http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Ратник HD
-http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",РЕН ТВ
-http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Ретро
-http://flu.ttk.mx:9090/Retro/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Россия 1
-http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Россия 24
-http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",СТС
-http://flu.ttk.mx:9090/STS/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",СТС Love
-http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Супер
-http://flu.ttk.mx:9090/Super/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",ТВ3
-http://flu.ttk.mx:9090/TV_3/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",ТВЦ
-http://flu.ttk.mx:9090/TVC/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Театр
-http://flu.ttk.mx:9090/Teatr/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Телекафе
-http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Тномер
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Вместе-РФ
 http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",ТНТ
+
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Дом кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Домашние животные
+http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Драйв
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Еврокино
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Живая природа HD
+http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Загородная жизнь
+http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Звезда
+http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Зоопарк
+http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Иллюзион+
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Карусель
+http://flu.ttk.mx:9090/Karusel/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Кинопремьера HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Киносвидание
+http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Кинохит
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мама
+http://flu.ttk.mx:9090/Mama/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! ТВ
+http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! ТВ HD
+http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! Боец
+http://flu.ttk.mx:9090/Boets/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! Страна
+http://flu.ttk.mx:9090/Strana/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Москва Доверие
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мосфильм. Золотая коллекция
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Музыка первого
+http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мульт
+http://flu.ttk.mx:9090/Mult/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мульт HD
+http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Наука
+http://flu.ttk.mx:9090/Nauka/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",НТВ
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",НТВ HD
+http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",О!
+http://flu.ttk.mx:9090/O!/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ОТР
+http://flu.ttk.mx:9090/OTR/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Поехали!
+http://flu.ttk.mx:9090/Poehali/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Психология 21
+http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Пятница
+http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ратник HD
+http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",РЕН ТВ
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ретро
+http://flu.ttk.mx:9090/Retro/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Россия 1
+http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Россия 24
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Супер
+http://flu.ttk.mx:9090/Super/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТВ3
+http://flu.ttk.mx:9090/TV_3/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТВЦ
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Театр
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Телекафе
+http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТНТ
 http://flu.ttk.mx:9090/TNT/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",ТНТ HD
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТНТ HD
 http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",ТНТ4
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТНТ4
 http://flu.ttk.mx:9090/TNT4/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Точка отрыва
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Точка отрыва
 http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Уникум
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Уникум
 http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Усадьба
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Усадьба
 http://flu.ttk.mx:9090/Usadba/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Футбол
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Футбол
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Шансон ТВ
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Шансон ТВ
 http://flu.ttk.mx:9090/Shanson/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Ю
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ю
 http://flu.ttk.mx:9090/U/index.m3u8?token=hs06e
 
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Ani
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ani
 http://flu.ttk.mx:9090/Ani/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Cinema
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Cinema
 http://flu.ttk.mx:9090/Cinema/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Da Vinci
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Da Vinci
 http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Disney
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Disney
 http://flu.ttk.mx:9090/Disney/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Galaxy
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Galaxy
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",O2TV
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",O2TV
 http://flu.ttk.mx:9090/O2TV/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",TV XXI
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",TV XXI
 http://flu.ttk.mx:9090/TV21/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",TV1000
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",TV1000
 http://flu.ttk.mx:9090/TV1000/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",TV1000 Action
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",TV1000 Action
 http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Viasat History
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Viasat History
 http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=hs06e
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Viasat Sport
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Viasat Sport
 http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=hs06e
 
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",Выполнение строительно-монтажных работ: "Благоустройство дворовых территорий по адресу с.Мирное, ул. Белова, 12б (капитальный ремонт)"
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Выполнение строительно-монтажных работ: "Благоустройство дворовых территорий по адресу с.Мирное, ул. Белова, 12б (капитальный ремонт)"
 http://flu.ttk.mx:9090/CamBelova12a/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Свифт Трейс Крым ТТК (ТрансТелеКом)",с.Мирное Спортплощадка 2.
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",с.Мирное Спортплощадка 2.
 http://flu.ttk.mx:9090/SportMirnoe2/tracks-v1/mono.m3u8
