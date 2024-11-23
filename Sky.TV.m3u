@@ -1,398 +1,397 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,https://epg.lampa.stream/?prov=prokop,http://www.teleguide.info/download/new3/xmltv.xml.gz, http://95.215.110.132/epg/tvikseltv.xml.gz"
+#EXTM3U url-tvg="https://gabbarit.page.link/epg"
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",🦊Список каналов обновлён по состоянию на 7.11.24🦊 
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",🦊Список каналов обновлён по состоянию на 23.11.24🦊 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.mycdn.me/i?r=BDGvRlXWcXJosdiHOqVV3e-HIgA80qqpoQnGnUoRhMzez1yYFwVnysNuaLcYNszflNM",Известные актёры
-http://fs2.persik.by/Izvestnie_akteri5/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Izvestnie_akteri5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",Александра Бортич
-http://fs2.persik.by/Bortich3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Bortich3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://images.uznayvse.ru/main_catalog_image/p/images/catalog/2022/2/andrey-merzlikin-actor_11.jpg",Андрей Мерзликин
-http://fs2.persik.by/Merzlikin4/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Merzlikin4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.pinimg.com/564x/a5/da/15/a5da150e2a2be11e9d91b97bcd26c587.jpg",Андрей Миронов
-https://fs2.persik.by/Mironov7/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Mironov7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://www.kino-teatr.ru/movie/kadr/586/pv_475768.jpg",Андрей Панин
-http://fs2.persik.by/Panin3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Panin3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.pinimg.com/236x/1e/4b/7e/1e4b7ed10e19ffb881d6c0609e28978d.jpg",Аня Чиповская
-https://fs2.persik.by/Chipovskaja2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Chipovskaja2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://argumentiru.com/images/preview/arhnews/76e8834cbc70bfd668e51c5ef97e2490.jpg",Владимир Машков
-http://fs2.persik.by/Mashkov5/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Mashkov5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://s1.torrent-music.net/uploads/posts/2020-01/1580201536-1437973312-poster.jpg",Владимир Высоцкий
-https://fs2.persik.by/Visotskij/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Visotskij/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i0.wp.com/www.kino-teatr.ru/acter/photo/1/4/5041/1007280.jpg?resize=200%2C200&ssl=1",Владимир Яглыч
-https://fs2.persik.by/Yaglich/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Yaglich/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.mycdn.me/image?id=946024504650&t=50&plc=WEB&tkn=*1-ro1j9z8KnS5TOubzlh4qTGgeo&fn=external_6",Георгий Вицин
-http://fs2.persik.by/Vicin_9/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Vicin_10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://miks-karting.ru/vdnh-2024/images/headliners/kucenko.png",Гоша Куценко
-http://fs2.persik.by/Kucenko_3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kucenko_3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.pinimg.com/1200x/b4/7c/c0/b47cc01c514334918cda5d60f14dcbe8.jpg",Данила Козловский
-http://fs2.persik.by/Kozlovskij_4/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kozlovskij_4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://sun9-13.userapi.com/c850324/v850324391/1cfc4c/HxMP2GKFhUE.jpg?ava=1",Дмитрий Марьянов
-https://fs2.persik.by/Marjanov/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Marjanov/index.m3u8
 #EXTINF:-1group-title="🍑PersikTV🍑" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/Picons/VanDam.jpg?raw=true",Жан-Клод Ван Дамм
-https://fs2.persik.by/VanDam7/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/VanDam8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",Евгений Леонов
-https://fs2.persik.by/Leonov_7/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Leonov_7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",Игорь Петренко
-http://fs2.persik.by/Petrenko_3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Petrenko_3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://www.national-movie-awards.ru/images/winners/year2014-018.jpg",Константин Хабенский
-http://fs2.persik.by/Habenskij3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Habenskij3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://images.iptv.rt.ru/images/cfgd3fjir4ssk120a8u0.jpg",Николай Вдовиченков
-http://fs2.persik.by/Vdovichenkov3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Vdovichenkov3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://www.litres.ru/static/authors/100/32/63/44/32634478.jpg",Максим Матвеев
-http://fs2.persik.by/Matveev3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Matveev3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://r.mtdata.ru/c100x100/u14/photoD792/20034221605-0/original.jpg",Михаил Пореченков
-http://fs2.persik.by/Porechenkov2/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Porechenkov3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://img.rosbalt.ru/photobank/c/d/0/0/tjk4QcnP-234.jpg",Павел Деревянко
-http://fs2.persik.by/Derevyanko5/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Derevyanko5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/1966007/952205454/S600xU_2x",Сергей Безруков
-http://fs2.persik.by/Bezrukov3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Bezrukov3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.pinimg.com/236x/1a/68/a8/1a68a841a6490b03f54fa621fcf9d82d.jpg",Сергей Пускепалис
-http://fs2.persik.by/Puskepalis4/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Puskepalis4/index.m3u8
 
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/Picons/RusKino.jpeg?raw=true",RusKino HD
-http://fs2.persik.by/RusKino3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/RusKino3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11166.png",Horror Movies HD
-https://fs2.persik.by/Horror_Movies_2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Horror_Movies_2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Movie
-https://fs2.persik.by/Movie2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Movie2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11236.png",Американские комедии
-https://fs2.persik.by/Amerikanskie_Komedii_13/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11269.png",Английские субтитры
-http://fs2.persik.by/Angliyskie_subtitry6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Angliyskie_subtitry6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD Кинобоевик
-http://fs2.persik.by/Boevik_3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Boevik_3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11043.png",Боевики HD
-http://fs2.persik.by/Boeviki_13/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Boeviki_15/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10684.png",Биография HD
-https://fs2.persik.by/Biografija/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD
-https://fs2.persik.by/Vdohnovenie_13/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Biografija/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD (пока не работает)
+https://fs2.persik.by/Vdohnovenie_13/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10686.png",Военный HD
-https://fs2.persik.by/Vtoraja_Mirovaja_8/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Vtoraja_Mirovaja_8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11273.png",Военные сериалы
-https://fs2.persik.by/Voen_Serialy_2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Voen_Serialy_2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11167.png",Военные фильмы
-https://fs2.persik.by/Voen_Filmy_4/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Voen_Filmy_4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11272.png",Вторая мировая
-http://fs2.persik.by/Vtoraja_Mirovaja_8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Vtoraja_Mirovaja_8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11227.png",Давай поженимся
-http://fs2.persik.by/Davaj_Pozhenimsya6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10687.png",Детектив HD
-https://fs2.persik.by/Detektiv_2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Detektiv_2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективное кино HD
-https://fs2.persik.by/Detektivnoe_Kino_8/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективные сериалы
-https://fs2.persik.by/Detektivnie_Serialy/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Detektivnie_Serialy/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10756.png",Дружба HD
-http://fs2.persik.by/Druzhba8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Druzhba8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11028.png",Документальное кино HD
-http://fs2.persik.by/DokumentalnoeKino3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10739.png",Документальное HD
-http://fs2.persik.by/Dokumentalnoe4/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Dokumentalnoe4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11063.png",Золотая коллекция СССР
-https://fs2.persik.by/Zolotoja_Kollekcija_SSSR/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Zolotoja_Kollekcija_SSSR/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10749.png",Европейское кино HD
-https://fs2.persik.by/EvropejskoeKino15/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/EvropejskoeKino15/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11129.png",Зарубежное кино
-http://fs2.persik.by/Zarubezhnoe_kino_10/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Zarubezhnoe_kino_10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11271.png",Зомби апокалипсис
-http://fs2.persik.by/Zombi_apokalipsis8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11213.png",Кино Антистресс
-http://fs2.persik.by/Kino_Antistress9/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kino_Antistress9/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11266.png",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia7/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kino_vihodnogo_dnia7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/608.png",Кино Микс HD
-https://fs2.persik.by/Kino_Miks11/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kino_Miks11/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11216.png",Кино по книгам
-https://fs2.persik.by/Kino_po_knigam10/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kino_po_knigam10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11268.png",Кино про дружбу
-http://fs2.persik.by/Pro_druzhbu7/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Pro_druzhbu7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11214.png",Кино про копов
-http://fs2.persik.by/Kino_pro_kopov/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kino_pro_kopov/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11226.png",Кино про супергероев
-http://fs2.persik.by/Kino_pro_supergeroev/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kino_pro_supergeroev/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11239.png",Кино про шпионов
-http://fs2.persik.by/Kino_pro_shpionov/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kino_pro_shpionov/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11269.png",Кино с субтитрами
-http://fs2.persik.by/Kino_Subtitry_11/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kino_Subtitry_11/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10716.png",КиноТоп HD
-https://fs2.persik.by/Kinotophd/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kinotophd/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10691.png",Комедия HD
-https://fs2.persik.by/Komediya_2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Komediya_2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11230.png",Комедии 2
-https://fs2.persik.by/Comedy_Films/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Comedy_Films/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11237.png",Комедийные боевики
-https://fs2.persik.by/Komedijnie_Boeviki/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Komedijnie_Boeviki/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11274.png",Комедийные сериалы 
-http://fs2.persik.by/Komedijnie_seriali6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11168.png",Комедийные фильмы HD
-https://fs2.persik.by/Novie_Komedii7/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Novie_Komedii7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10696.png",Криминал HD
-https://fs2.persik.by/Trillery_Boeviki6/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Trillery_Boeviki6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11022.png",Криминальные драмы
-https://fs2.persik.by/Kriminalnie_Drami/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kriminalnie_Drami/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11135.png",Лёгкое кино
-http://fs2.persik.by/Legkoe_Kino10/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Legkoe_Kino10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11048.png",Лучшие драмы HD
-https://fs2.persik.by/Luchshie_Drami/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Luchshie_Drami/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11145.png",Лучшие сериалы HD
-https://fs2.persik.by/Luchshie_Seriali4/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Luchshie_Seriali4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10751.png",Любовь HD
-https://fs2.persik.by/Lubov/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Lubov/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11279.png",Любовь и детективы
-http://fs2.persik.by/Lubov_Detektivi8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Lubov_Detektivi8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11138.png",Мировое кино HD
-https://fs2.persik.by/Mirovoe_Kino/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Mirovoe_Kino/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11270.png",Маньяки
-http://fs2.persik.by/Manjaki6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Manjaki6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11177.png",Мини-сериалы
-http://fs2.persik.by/Mini_serialy/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Mini_serialy/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10755.png",Молодость
-http://fs2.persik.by/Molodost8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Molodost8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Муви ТВ
-http://fs2.persik.by/Muvi1/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Muvi1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10747.png",Музыкальные фильмы HD
-https://fs2.persik.by/Muzikalnie_Filmy2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Muzikalnie_Filmy2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11012.png",На реальных событиях
-https://fs2.persik.by/NaRealnihSobitijah/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/NaRealnihSobitijah/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11030.png",Наши сериалы HD
-https://fs2.persik.by/Nashi_Seriali/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Nashi_Seriali/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11027.png",Новинки HD
-http://fs2.persik.by/Novinki9/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Novinki9/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11146.png",Новинки кино HD
-http://fs2.persik.by/Novinki_Kino2/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Novinki_Kino2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11158.png",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Novogodnie_Filmy_8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10738.png",Новое кино HD
-https://fs2.persik.by/NovoeKino10/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/NovoeKino10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11010.png",Новые российские фильмы
-https://fs2.persik.by/NovieRossijskieFilmy1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/NovieRossijskieFilmy1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новые комедии
-http://fs2.persik.by/Novie_Komedii7/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Novie_Komedii7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10752.png",Остросюжетные сериалы HD
-http://fs2.persik.by/OstrosuzhetnieSerialy8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/OstrosuzhetnieSerialy8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11147.png",Отечественное кино
-https://fs2.persik.by/Otechestvennoe3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Otechestvennoe3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11024.png",Популярное кино HD
-https://fs2.persik.by/Populyarnoe_Kino_10/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11346.png",Про родителей
-http://fs2.persik.by/Pro_roditeley8/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Pro_roditeley8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Психологические ужасы
-http://fs2.persik.by/Psihologicheskie_uzhasy6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Psihologicheskie_uzhasy6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11278.png",Путешествие во времени
-http://fs2.persik.by/Puteshestvie_vo_vremeni10/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Puteshestvie_vo_vremeni10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11023.png",Рекомендуем
-https://fs2.persik.by/Rekomenduem7/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Rekomenduem7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11345.png",Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy5/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11136.png",Романтические фильмы
-http://fs2.persik.by/Romanticheskie9/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Romanticheskie9/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11029.png",Романтик комедии
-https://fs2.persik.by/Romantik_Comedy/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Romantik_Comedy/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10236.png",Русское кино
-https://fs2.persik.by/RusKino3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/RusKino3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11038.png",Русские комедии
-http://fs2.persik.by/Russkie_Komedii/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Russkie_Komedii/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10710.png",Семья HD
-https://fs2.persik.by/V_krugu_semii3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/V_krugu_semii3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11025.png",Семейное
-http://fs2.persik.by/Semejnoe10/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Semejnoe10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11131.png",Семейные фильмы
-http://fs2.persik.by/Semejnie_Filmy6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10540.png",Сериалы
-https://fs2.persik.by/Seriali/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Seriali/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
-http://fs2.persik.by/Soviet_Comedy13/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Soviet_Comedy13/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10983.png",Советские новогодние фильмы
-https://fs2.persik.by/NewYearFilms_6/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/NewYearFilms_7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11031.png",Советские сериалы
-https://fs2.persik.by/Soviet_Serials/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Soviet_Serials/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11139.png",Твоё кино HD
-https://fs2.persik.by/Tvoe_Kino_7/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Tvoe_Kino_7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11018.png",Топ кино HD
-http://fs2.persik.by/TopKino/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/TopKino/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10713.png",Триллер HD
-http://fs2.persik.by/Triller/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Triller/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11277.png",Триллеры Боевики
-http://fs2.persik.by/Trillery_Boeviki6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Trillery_Boeviki6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11276.png",Триллеры Драматические
-http://fs2.persik.by/Trillery_Drama4/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Trillery_Drama4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11215.png",Триллеры США
-https://fs2.persik.by/Trillery_USA_12/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Trillery_USA_12/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10714.png",Ужасы HD
-https://fs2.persik.by/Psihologicheskie_uzhasy6/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Psihologicheskie_uzhasy6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10740.png",Фестивальное кино
-http://fs2.persik.by/FestivalnoeKino9/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/FestivalnoeKino9/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11264.png",Фильмы катастрофы
-http://fs2.persik.by/Filmy_katastrofy3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Filmy_katastrofy3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11169.png",Фильмы Боевики HD
-https://fs2.persik.by/Filmi_Boeviki/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Filmi_Boeviki/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11133.png",Фильмы про отдых
-https://fs2.persik.by/Films_pro_otdih/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Films_pro_otdih/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11059.png",Фильмы про спорт HD
-https://fs2.persik.by/Filmy_pro_sport/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Filmy_pro_sport/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11039.png",Фильмы о войне
-https://fs2.persik.by/Filmy_o_vojne/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Filmy_o_vojne/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/1013.png",Фильмы ужасов HD
-https://fs2.persik.by/Filmi_Uzhasov/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Filmi_Uzhasov/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10754.png",Экранизации HD
-http://fs2.persik.by/Ekranizacii13/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Ekranizacii13/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11132.png",Экшн-фильмы
-https://fs2.persik.by/Action_Films2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Action_Films2/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo=" https://persik.by/media/channels/logos/11245.png",Movie (Eng)
-http://fs2.persik.by/Movie2/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Movie2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10970.png",Sluhay.by
-http://fs2.persik.by/Sluhay2/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Sluhay2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-name="Sluhay.by COVER" tvg-logo="https://persik.by/media/channels/logos/11102.png",Sluhay.by Cover
-https://fs2.persik.by/Sluhay_COVER2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Sluhay_COVER2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-name="Sluhay.by EDM" tvg-logo="https://persik.by/media/channels/logos/10973.png",Sluhay.by Edm
-https://fs2.persik.by/Sluhay_EDM/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Sluhay_EDM/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-name="Sluhay.by LIVE" tvg-logo="https://persik.by/media/channels/logos/10975.png",Sluhay.by Live
-https://fs2.persik.by/Sluhay_LIVE2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-name="Sluhay.by RADIO" tvg-logo="https://persik.by/media/channels/logos/11170.png",Sluhay.by Radio
-https://fs2.persik.by/Sluhay_RADIO2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-name="Sluhay.by RAP" tvg-logo="https://persik.by/media/channels/logos/10974.png",Sluhay.by Rap
-https://fs2.persik.by/Sluhay_RAP/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Sluhay_RAP/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10972.png",Sluhay.by Pop
-http://fs2.persik.by/Sluhay_POP/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Sluhay_POP/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-name="Sluhay Rock" tvg-logo="https://persik.by/media/channels/logos/10971.png",Sluhay Rock HD
-https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Sluhay_Rock/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11249.png",Поп
-http://fs2.persik.by/Pop4/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Pop4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/1128.png",Рэп
-https://fs2.persik.by/Rap2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Rap2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11243.png",Русский рок
-https://fs2.persik.by/Russkij_Rock3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Russkij_Rock3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11246.png",Рок концерты
-https://fs2.persik.by/Rock_Kocerty2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Rock_Kocerty2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11247.png",TechnoТехно
-https://fs2.persik.by/Techno3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11248.png",Best clips
-https://fs2.persik.by/Best_clips/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Best_clips/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11251.png",Concerts
-https://fs2.persik.by/Concerts4/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Concerts4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11252.png",Dance!
-http://fs2.persik.by/Dance3/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Dance3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11225.png",DJ
-https://fs2.persik.by/DJ4/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/DJ5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11245.png",Hits
-http://fs2.persik.by/Hits5/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Hits5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11223.png",Relax
-https://fs2.persik.by/Relax3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Relax3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11250.png",Pop-Rock
-https://fs2.persik.by/Pop_Rock2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Pop_Rock3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11244.png",Synthwave
-http://fs2.persik.by/Synthwave/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Synthwave/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11254.png",Synthwave лого тест
-http://fs2.persik.by/Synthwave/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Synthwave/index.m3u8
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10487.png",Роскосмос HD
-http://fs2.persik.by/Roskosmos/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Roskosmos/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10509.png",Kosmo
-http://fs2.persik.by/Kosmo6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Kosmo6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10230.png",Нано TV HD
-https://fs2.persik.by/Nano_hd/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Nano_hd/index.m3u8
 
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11128.png",Аниме
-http://fs2.persik.by/Anime6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Anime6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11130.png",Детские фильмы
-https://fs2.persik.by/DetskieFilmy4/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/DetskieFilmy5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10680.png",Детские песни
-https://fs2.persik.by/DetskiePesni5/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/DetskiePesni5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11064.png",Детские мультики
-http://fs2.persik.by/DetskieMultiki5/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/DetskieMultiki5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10746.png",Детские мультфильмы HD
-https://fs2.persik.by/DetskieMultfilmy4/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/DetskieMultfilmy4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11033.png",Мульт сериал HD
-http://fs2.persik.by/Mult_Serial/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Mult_Serial/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11032.png",Мультики HD
-http://fs2.persik.by/Multiki5/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Multiki5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10748.png",Мультсериалы HD
-http://fs2.persik.by/Multserialy2/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Multserialy2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10745.png",Сказки HD
-http://fs2.persik.by/Skazki6/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Skazki6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10741.png",Советские мультфильмы
-https://fs2.persik.by/Soviet_Mult_2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Soviet_Mult_2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10490.png",Сундучок историй HD
-http://fs2.persik.by/Sunduchok4/tracks-v1a1/mono.m3u8
-
+http://fs2.persik.by/Sunduchok4/index.m3u8
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
-http://fs2.persik.by/365dney/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/365dney/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/608.png",Киномикс
-https://fs2.persik.by/Kinomiks1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kinomiks1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/34.png",Кинопремьера
-https://fs2.persik.by/Kinopremiera1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kinopremiera1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/30.png",Киносвидание
-https://fs2.persik.by/Kinosvidanie1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kinosvidanie1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/590.png",Киносемья
-https://fs2.persik.by/Kinosemya1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kinosemya1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/213.png",Кинохит
-https://fs2.persik.by/Kinohit1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Kinohit1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/260.png",Наше новое кино
-https://fs2.persik.by/NasheNovoeKino1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/NasheNovoeKino1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11372.png",Luxuary HD
-https://fs2.persik.by/Luxuary_hd/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Luxuary_hd/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/106105.png",Minsk 4K (ULTRA HD)
-https://fs2.persik.by/Misk4k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10261.png",Ru.TV
-https://fs2.persik.by/Rutv/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Misk4k/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/311.png",Авто Плюс
-https://fs2.persik.by/Avtoplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/118.png",Беларусь 1 HD
-https://fs2.persik.by/Belarus1_HD2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Avtoplus/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/148.png",Беларусь 2 HD
-https://fs2.persik.by/Belarus2_HD2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Belarus2_HD2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/883.png",Беларусь 3 HD
-http://fs2.persik.by/Belarus3_HD2/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Belarus3_HD2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/883.png",Беларусь 5 HD
-http://fs2.persik.by/Belarus5_HD2/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Belarus5_HD2/index.m3u8
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/699.png",НТВ-Беларусь HD
-https://fs2.persik.by/NTVBelarus_HD2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/NTVBelarus_HD2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://fs2.persik.by/Domashniy1/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/Domashniy1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Дом кино
-http://fs2.persik.by/DomKino1/tracks-v1a1/mono.m3u8
+http://fs2.persik.by/DomKino1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/176.png",Мир HD
-https://fs2.persik.by/MIR_HD2/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/MIR_HD2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Первый информационный HD
-https://fs2.persik.by/Perviy_inf/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Perviy_inf/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/111.png",ОНТ HD
-https://fs2.persik.by/ONT_HD3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/ONT_HD3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/700.png",РТР-Беларусь HD
-https://fs2.persik.by/RTR_Belarus_HD3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/RTR_Belarus_HD3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/115.png",СТВ HD
-https://fs2.persik.by/STV_HD3/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/STV_HD3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/847.png",ТВ-3 Беларусь
-https://fs2.persik.by/TV3BEL1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/TV3BEL1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/440.png",Футбол
-https://fs2.persik.by/Football1/tracks-v1a1/mono.m3u8
+https://fs2.persik.by/Football1/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/883.png",Беларусь 3 HD
+https://fs2.persik.by/Belarus2_HD3/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/932.png",Беларусь 5 HD
+https://fs2.persik.by/Belarus2_HD5/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑",Gameplay-11437
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ushba31/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Мода moda-2-11434 ushba-m6
-https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ushba-m6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Мода moda-3-11435 ushba-m7
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ushba-m7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/342.png",Fashion Мода ushba-t8
-https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ushba-t8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://static.cdn.videosport.ru/uploads/logo/64abbf63242994ea3693493d/maxres.png",Реслинг Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Детское кино
@@ -401,12 +400,8 @@ https://v2.catcast.tv/content/38720/index.m3u8
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
 
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/883.png",Беларусь 3 HD
-https://fs2.persik.by/Belarus2_HD3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/932.png",Беларусь 5 HD
-https://fs2.persik.by/Belarus2_HD5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://www.bragelonne.fr/uploads/blog/2/1001-logo-fantasy-tv.jpg",Fantasy Фэнтези HD (пробовал 1-20 стал недоступен) !(-_-)!
-https://fs2.persik.by/Fantasy3/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10705.png",Loupe Art + Music 11439
 http://persik.by/stream/8861/470176/11439.m3u8
@@ -1415,7 +1410,43 @@ http://ott.high-net.ru/Pro-Wrestling-Network/index.m3u8?token=High_Network
 #EXTINF:-1 group-title="Кинозалы High Network" tvg-logo="http://i123.fastpic.org/big/2024/0719/32/18a7d6d913e94424352bffdc1e014d32.png", High Network Sports Vital
 http://ott.high-net.ru/High_Network_Sports_Vital/index.m3u8?token=High_Network
 
+#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",Dimonovich CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",Dimonovich CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",Dimonovich СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Dimonovich Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg",Movify Кино
+https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
+
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv Сериал
+https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
+
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv История
+https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
+
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Multimania.lv",Мультимания
+https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
+
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Gribuvisuzinat.lv",Хочу всё знать
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="MuzikasVideoKanals.lv",Mūzikas Video Kanāls
+https://stream.onlive-media.com/live/streams/mvk.m3u8
+
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Pingviins.lv",Pingvīns
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+
+#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Pingviin.ee",Pingviin
+https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg" group-title="Кинозалы Velilla TV A-Media",Mafi2a Music TV
+http://158.101.194.132:8080/channel/n5a0c5a33/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
 
 #EXTINF:-1 group-title="88.218.242.237:8000",BIG PLANET HD
@@ -1618,6 +1649,528 @@ http://uiptv.do.am/1ufc/229011129/playlist.m3u8
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 #EXTINF:-1 ,RT Doc [FHD]
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",2x2
+http://tv.ttk.mx:9099
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",7 ТВ
+http://tv.ttk.mx:9172
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",8 Канал
+http://tv.ttk.mx:9134
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",360
+http://tv.ttk.mx:9052
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",360 HD
+http://tv.ttk.mx:9088
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Алушта 
+http://tv.ttk.mx:9148
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",555 Алушта HD
+http://tv.ttk.mx:9109
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",А1
+http://tv.ttk.mx:9155
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",А2
+http://tv.ttk.mx:9156
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Авто 24
+http://tv.ttk.mx:9031
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Беларусь 24
+http://tv.ttk.mx:9090
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Белрос
+http://tv.ttk.mx:9139
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Бобёр
+http://tv.ttk.mx:9077
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Боец
+http://tv.ttk.mx:9107
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Большая Азия
+http://tv.ttk.mx:9146
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Вместе-РФ
+http://tv.ttk.mx:9103
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Вопросы и ответы
+http://tv.ttk.mx:9038
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Восток ТВ
+http://tv.ttk.mx:9064
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Время
+http://tv.ttk.mx:9080
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Детский мир
+http://tv.ttk.mx:9063
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Доктор
+http://tv.ttk.mx:9058
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Дом кино
+http://tv.ttk.mx:9079
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Дом Кино Премиум
+http://tv.ttk.mx:9084
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Домашние животные
+http://tv.ttk.mx:9035
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Домашний
+http://tv.ttk.mx:9013
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Драйв
+http://tv.ttk.mx:9039
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Евпатория 24
+http://tv.ttk.mx:9147
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Евпатория 24 HD
+http://tv.ttk.mx:9177
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Еврокино
+http://tv.ttk.mx:9030
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Живая природа HD
+http://tv.ttk.mx:9066
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Загородная жизнь
+http://tv.ttk.mx:9157
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Звезда
+http://tv.ttk.mx:9016
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Звезда плюс
+http://tv.ttk.mx:9192
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Здоровое ТВ
+http://tv.ttk.mx:9036
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Иллюзион+
+http://tv.ttk.mx:9028
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",История
+http://tv.ttk.mx:9048
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Калейдоскоп
+http://tv.ttk.mx:9076
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Карусель
+http://tv.ttk.mx:9007
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кино ТВ
+http://tv.ttk.mx:9046
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кино ТВ HD
+http://tv.ttk.mx:9113
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кинопоказ
+http://tv.ttk.mx:9150
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кинопремьера
+http://tv.ttk.mx:9162
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Киносвидание
+http://tv.ttk.mx:9164
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Киносемья
+http://tv.ttk.mx:9161
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Киноужас
+http://tv.ttk.mx:9193
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Кинохит
+http://tv.ttk.mx:9163
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Комедия
+http://tv.ttk.mx:9050
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Красная линия
+http://tv.ttk.mx:9102
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Крым 1
+http://tv.ttk.mx:9020
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Крым 24
+http://tv.ttk.mx:9024
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ЛДПР ТВ
+http://tv.ttk.mx:9101
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Легендарный 24
+http://tv.ttk.mx:9179
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мама
+http://tv.ttk.mx:9055
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Миллет
+http://tv.ttk.mx:9021
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир
+http://tv.ttk.mx:9017
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир HD
+http://tv.ttk.mx:9140
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мир 24
+http://tv.ttk.mx:9025
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Москва Доверие
+http://tv.ttk.mx:9091
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Москва-24
+http://tv.ttk.mx:9097
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Моя планета
+http://tv.ttk.mx:9040
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мужское кино
+http://tv.ttk.mx:9165
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Муз-ТВ
+http://tv.ttk.mx:9019
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Музыка Первого
+http://tv.ttk.mx:9078
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мульт
+http://tv.ttk.mx:9054
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мульт HD
+http://tv.ttk.mx:9086
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Мульт и музыка
+http://tv.ttk.mx:9045
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Наука 2.0
+http://tv.ttk.mx:9041
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ностальгия
+http://tv.ttk.mx:9195
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НСТ
+http://tv.ttk.mx:9057
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НТВ HD
+http://tv.ttk.mx:9127
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",НТВ-хит
+http://tv.ttk.mx:9173
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",О!2
+http://tv.ttk.mx:9059
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Открытый мир
+http://tv.ttk.mx:9191
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ОТР
+http://tv.ttk.mx:9008
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Охота и рыбалка
+http://tv.ttk.mx:9034
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Первый канал
+http://tv.ttk.mx:9000
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Первый HD
+http://tv.ttk.mx:9093
+
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Планета HD
+http://tv.ttk.mx:9087
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Победа
+http://tv.ttk.mx:9149
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Психология 21
+http://tv.ttk.mx:9033
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Пятница
+http://tv.ttk.mx:9015
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Пятый канал
+http://tv.ttk.mx:9004
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ратник
+http://tv.ttk.mx:9106
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",РБК
+http://tv.ttk.mx:9096
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Рен ТВ
+http://tv.ttk.mx:9010
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ретро
+http://tv.ttk.mx:9032
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 1
+http://tv.ttk.mx:9001
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 1 HD
+http://tv.ttk.mx:9075
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия 24
+http://tv.ttk.mx:9006
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Россия Культура
+http://tv.ttk.mx:9005
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Бестселлер
+http://tv.ttk.mx:9043
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Детектив
+http://tv.ttk.mx:9051
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Иллюзион
+http://tv.ttk.mx:9027
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Роман
+http://tv.ttk.mx:9042
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Роман HD
+http://tv.ttk.mx:9085
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Русский Экстрим HD
+http://tv.ttk.mx:9095
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Сарафан
+http://tv.ttk.mx:9044
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Симферополь 24
+http://tv.ttk.mx:9180
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Союз
+http://tv.ttk.mx:9142
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Спас ТВ
+http://tv.ttk.mx:9011
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",СТС
+http://tv.ttk.mx:9012
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",СТС Love
+http://tv.ttk.mx:9104
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Суббота
+http://tv.ttk.mx:9105
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Супергерои
+http://tv.ttk.mx:9194
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Тайны галактики
+http://tv.ttk.mx:9071
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТВ-3
+http://tv.ttk.mx:9014
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТВЦ
+http://tv.ttk.mx:9009
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Театр
+http://tv.ttk.mx:9061
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Телекафе
+http://tv.ttk.mx:9081
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Техно 24
+http://tv.ttk.mx:9056
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ
+http://tv.ttk.mx:9018
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ HD
+http://tv.ttk.mx:9128
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ Music
+http://tv.ttk.mx:9023
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",ТНТ4
+http://tv.ttk.mx:9098
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Точка отрыва
+http://tv.ttk.mx:9151
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Точка ТВ
+http://tv.ttk.mx:9073
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Уникум
+http://tv.ttk.mx:9026
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Усадьба ТВ
+http://tv.ttk.mx:9037
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Че
+http://tv.ttk.mx:9141
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Шансон-TB
+http://tv.ttk.mx:9062
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ю
+http://tv.ttk.mx:9072
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Ani
+http://tv.ttk.mx:9049
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Cinema
+http://tv.ttk.mx:9053
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Da Vinci
+http://tv.ttk.mx:9188
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Dizi
+http://tv.ttk.mx:9189
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Luxury
+http://tv.ttk.mx:9131
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Nano
+http://tv.ttk.mx:9138
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",O!
+http://tv.ttk.mx:9092
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RT Doc HD
+http://tv.ttk.mx:9100
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",RU.TV
+http://tv.ttk.mx:9089
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Russia Today 
+http://tv.ttk.mx:9130
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Shopping Live
+http://tv.ttk.mx:9132
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV XXI
+http://tv.ttk.mx:9067
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000
+http://tv.ttk.mx:9181
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Action
+http://tv.ttk.mx:9182
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",TV1000 Русское Кино
+http://tv.ttk.mx:9183
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat History
+http://tv.ttk.mx:9185
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Nature
+http://tv.ttk.mx:9186
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viasat Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Viju Explore
+http://tv.ttk.mx:9184
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Zooпарк
+http://tv.ttk.mx:9029
+
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Арена
+http://tv.ttk.mx:9153
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Игра
+http://tv.ttk.mx:9152
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Премьер
+http://tv.ttk.mx:10000
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Страна
+http://tv.ttk.mx:9154
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! ТВ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 1
+http://tv.ttk.mx:9108
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 2
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 2 HD
+http://tv.ttk.mx:9115
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 3
+http://tv.ttk.mx:9112
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Матч! Футбол 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Футбол
+http://tv.ttk.mx:9065
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",M1 Global HD
+http://tv.ttk.mx:9196
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9124
+http://tv.ttk.mx:9124
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9125
+http://tv.ttk.mx:9125
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера. Мирное - Спортплощадка 1
+http://tv.ttk.mx:9166
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9167
+http://tv.ttk.mx:9167
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера. Мирное - Спортплощадка 2
+http://tv.ttk.mx:9168
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера. Черноморское - Спортплощадка
+http://tv.ttk.mx:9170
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9174
+http://tv.ttk.mx:9174
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9176
+http://tv.ttk.mx:9176
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Камера 9178
+http://tv.ttk.mx:9178
+
+
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Таврида Инфо
+http://tv.ttk.mx:9083
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Таврида Инфо
+http://tv.ttk.mx:9118
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Таврида Инфо
+http://tv.ttk.mx:9144
+#EXTINF:-1 group-title="Таврида-ТелеКом (Крым)",Таврида Инфо
+http://tv.ttk.mx:9121
+
+
+
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",2x2
+http://flu.ttk.mx:9090/2x2/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",5 канал
+http://flu.ttk.mx:9090/5kanal/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",360° HD
+http://flu.ttk.mx:9090/360_HD/index.m3u8?token=hs06e
+
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Авто 24
+http://flu.ttk.mx:9090/Avto24/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Бобер
+http://flu.ttk.mx:9090/Bober/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Время
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Вместе-РФ
+http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=hs06e
+
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Дом кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Домашние животные
+http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Драйв
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Еврокино
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Живая природа HD
+http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Загородная жизнь
+http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Звезда
+http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Зоопарк
+http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Иллюзион+
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Карусель
+http://flu.ttk.mx:9090/Karusel/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Кинопремьера HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Киносвидание
+http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Кинохит
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мама
+http://flu.ttk.mx:9090/Mama/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! ТВ
+http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! ТВ HD
+http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! Боец
+http://flu.ttk.mx:9090/Boets/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Матч! Страна
+http://flu.ttk.mx:9090/Strana/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Москва Доверие
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мосфильм. Золотая коллекция
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Музыка первого
+http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мульт
+http://flu.ttk.mx:9090/Mult/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Мульт HD
+http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Наука
+http://flu.ttk.mx:9090/Nauka/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",НТВ
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",НТВ HD
+http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",О!
+http://flu.ttk.mx:9090/O!/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ОТР
+http://flu.ttk.mx:9090/OTR/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Поехали!
+http://flu.ttk.mx:9090/Poehali/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Психология 21
+http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Пятница
+http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ратник HD
+http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",РЕН ТВ
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ретро
+http://flu.ttk.mx:9090/Retro/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Россия 1
+http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Россия 24
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Супер
+http://flu.ttk.mx:9090/Super/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТВ3
+http://flu.ttk.mx:9090/TV_3/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТВЦ
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Театр
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Телекафе
+http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТНТ
+http://flu.ttk.mx:9090/TNT/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТНТ HD
+http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",ТНТ4
+http://flu.ttk.mx:9090/TNT4/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Точка отрыва
+http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Уникум
+http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Усадьба
+http://flu.ttk.mx:9090/Usadba/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Шансон ТВ
+http://flu.ttk.mx:9090/Shanson/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ю
+http://flu.ttk.mx:9090/U/index.m3u8?token=hs06e
+
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Ani
+http://flu.ttk.mx:9090/Ani/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Da Vinci
+http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Disney
+http://flu.ttk.mx:9090/Disney/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Galaxy
+http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",O2TV
+http://flu.ttk.mx:9090/O2TV/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",TV1000
+http://flu.ttk.mx:9090/TV1000/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",TV1000 Action
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Viasat History
+http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=hs06e
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Viasat Sport
+http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=hs06e
+
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",Выполнение строительно-монтажных работ: "Благоустройство дворовых территорий по адресу с.Мирное, ул. Белова, 12б (капитальный ремонт)"
+http://flu.ttk.mx:9090/CamBelova12a/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Свифт Трейс (Крым) ТТК (ТрансТелеКом)",с.Мирное Спортплощадка 2.
+http://flu.ttk.mx:9090/SportMirnoe2/tracks-v1/mono.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="VNeT (интернет-провайдер)",21TV
 http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
@@ -2638,43 +3191,7 @@ http://50.7.92.98:8887/8999/video.m3u8
 
 
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",Dimonovich CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",Dimonovich CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",Dimonovich СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="🔺Кинозалы🔺" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Dimonovich Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="https://movify.tv/tvchannel-program/18"tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg",Movify Кино
-https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
-
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv Сериал
-https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
-
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv История
-https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
-
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Multimania.lv",Мультимания
-https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
-
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Gribuvisuzinat.lv",Хочу всё знать
-#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
-https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
-
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="MuzikasVideoKanals.lv",Mūzikas Video Kanāls
-https://stream.onlive-media.com/live/streams/mvk.m3u8
-
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Pingviins.lv",Pingvīns
-#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
-https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
-
-#EXTINF:-1 group-title="🔺Movify.TV🔺" tvg-id="Pingviin.ee",Pingviin
-https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg" group-title="Кинозалы Velilla TV A-Media",Mafi2a Music TV
-http://158.101.194.132:8080/channel/n5a0c5a33/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
 
 
