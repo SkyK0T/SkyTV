@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; https://gabbarit.page.link/epg"
 
 
 #EXTINF:-1 group-title="ТВ" tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png",Первый канал HD
