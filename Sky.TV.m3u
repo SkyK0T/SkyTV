@@ -819,7 +819,7 @@ https://v2.catcast.tv/content/47689/index.m3u8
 #EXTGRP:Медиаплатформа Catcast TV 🐈
 https://v2.catcast.tv/content/47764/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14032023/logos/43064-641038e5eb29e.png",BCHD GROUP Malder vse tv (токен)
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14032023/logos/43064-641038e5eb29e.png",BCHD GROUP Malder vse tv (+ токен)
 #EXTGRP:Медиаплатформа Catcast TV 🐈
 https://s.catcast.tv/content/43064/index.m3u8?token=3a89843c7709582511377b0a1ba5c7d7
 
@@ -827,9 +827,9 @@ https://s.catcast.tv/content/43064/index.m3u8?token=3a89843c7709582511377b0a1ba5
 #EXTGRP:Медиаплатформа Catcast TV 🐈
 https://v2.catcast.tv/content/43064/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/07102024/logos/47180-6703ab8d2f971.png",BCHD GROUP Малдер Kinozal (Offline править ссылку) Фуриоса. Хроники Безумного Макса
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/07102024/logos/47180-6703ab8d2f971.png",BCHD GROUP Малдер Кинозал
 #EXTGRP:Медиаплатформа Catcast TV 🐈
-https://v2.catcast.tv/videos/ch47180/241020241734_252278/video.mp4
+https://autopilot.catcast.tv/content/47180/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",TvikselTV Кино 1 International
