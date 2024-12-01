@@ -2213,12 +2213,31 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Твоё ТВ" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",Твоё ТВ HD Юмор v1
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
-
+#EXTINF:-1 group-title="cinerama.uz",Туризм 365
+https://stream2.cinerama.uz/1006/index.m3u8
+#EXTINF:-1 group-title="cinerama.uz",Bolajon
+https://stream2.cinerama.uz/1007/index.m3u8
+#EXTINF:-1 group-title="cinerama.uz",KINOTEATR 
+https://stream2.cinerama.uz/1009/index.m3u8
 
 #EXTINF:-1 group-title="cinerama.uz",СТВ  Музыка HD
 https://stream1.cinerama.uz/1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz",Первый канал
+https://stream2.cinerama.uz/1019/index.m3u8
+#EXTINF:-1 group-title="cinerama.uz",Россия 1
+https://stream2.cinerama.uz/1020/index.m3u8
+#EXTINF:-1 group-title="cinerama.uz",Россия 24
+https://stream2.cinerama.uz/1021/index.m3u8
+
+#EXTINF:-1 group-title="cinerama.uz",НТВ
+https://stream2.cinerama.uz/1023/index.m3u8
+
+#EXTINF:-1 group-title="cinerama.uz",Euronews
+https://stream2.cinerama.uz/1024/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Евроновости
 http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz",ТВЦ
+https://stream2.cinerama.uz/1025/index.m3u8
 
 #EXTINF:-1 group-title="cinerama.uz",Точка Отрыва 
 https://stream2.cinerama.uz/1031/tracks-v1a1/mono.m3u8
@@ -2254,10 +2273,8 @@ http://stream2.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Ретро
 https://stream1.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",48
 https://stream1.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",Матч Планета
 http://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Звезда
@@ -2282,7 +2299,6 @@ http://stream1.cinerama.uz/1059/tracks-v1a1/index.m3u8
 http://stream1.cinerama.uz/1060/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Fuel TV
 http://stream2.cinerama.uz/1061/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",Муз ТВ UZ
 https://stream1.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 
@@ -2294,20 +2310,26 @@ https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Киносвидание
 http://stream2.cinerama.uz/1203/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",Кинопремьера HD
 http://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",Biz Music HD UZ
 https://stream1.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="cinerama.uz",Первый HD
+https://stream2.cinerama.uz/1214/index.m3u8
+#EXTINF:-1 group-title="cinerama.uz",Мир HD
+https://stream2.cinerama.uz/1218/index.m3u8
+#EXTINF:-1 group-title="cinerama.uz",Мир 24
+https://stream2.cinerama.uz/1219/index.m3u8
+#EXTINF:-1 group-title="cinerama.uz",RTV Узбекистан
+https://stream2.cinerama.uz/1221/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",HD Life
 https://stream1.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="cinerama.uz",Viju TV1000 Action
 http://stream1.cinerama.uz/1225/tracks-v2a1/mono.m3u8
 
-
+#EXTINF:-1 group-title="cinerama.uz",MMA-TV
+https://stream2.cinerama.uz/1226/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Cinema
 https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Viju Nature
@@ -2333,7 +2355,6 @@ https://stream1.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1237/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Ля-минор
 http://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",France 24
 http://stream2.cinerama.uz/1241/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",365 ДНЕЙ
@@ -2356,6 +2377,10 @@ https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Fox News Channel FHD
 http://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="cinerama.uz",Сетанта Спорт HD
 http://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
@@ -2390,9 +2415,10 @@ http://stream2.cinerama.uz/1406/tracks-v2a1/mono.m3u8
 http://stream2.cinerama.uz/1407/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Доктор
 https://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz",Загородный
+https://stream2.cinerama.uz/1410/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Живая природа
 https://stream2.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",Охотник и рыболов
 https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Арсенал
@@ -2403,14 +2429,14 @@ https://stream2.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",ZooПарк
 http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",Живи
 http://stream2.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Драйв
 http://stream2.cinerama.uz/1421/mono.m3u8
-
+#EXTINF:-1 group-title="cinerama.uz",КХЛ
+https://stream2.cinerama.uz/1422/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Глазами туриста HD
 http://stream2.cinerama.uz/1423/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Наша Сибирь HD
@@ -2427,13 +2453,16 @@ http://stream2.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Авто 24
 http://stream2.cinerama.uz/1430/mono.m3u8
-
+#EXTINF:-1 group-title="cinerama.uz",НТВ Мир
+https://stream2.cinerama.uz/1434/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",ТВ3
 https://stream1.cinerama.uz/1435/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="cinerama.uz",Домашний
+https://stream2.cinerama.uz/1436/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",СТС Kids
 http://stream2.cinerama.uz/1437/tracks-v2a1/mono.m3u8
-
+#EXTINF:-1 group-title="cinerama.uz",РБК
+https://stream2.cinerama.uz/1438/index.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Eurosport 1
 http://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Мультиландия
@@ -2448,7 +2477,6 @@ http://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Gulli Girl
 https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="cinerama.uz",Mezzo Life HD
 https://stream1.cinerama.uz/1450/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz",Телепутешествия
