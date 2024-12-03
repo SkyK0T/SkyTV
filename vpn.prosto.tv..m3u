@@ -338,17 +338,26 @@ https://iptv.prosto.tv/id208/video.m3u8?secret=5gzzhogh
 #EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",iptv.prosto.tv/id secret=KZ21G2R4
 https://iptv.prosto.tv/id208/video.m3u8?secret=KZ21G2R4
 
-#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",iptv.prosto.tv:7000/ch secret=4hhbmi16
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",secret=4hhbmi16
 http://iptv.prosto.tv:7000/ch208/video.m3u8?secret=4hhbmi16
-#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",iptv.prosto.tv:7000/ch secret=si14qhvc
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",secret=si14qhvc
 http://iptv.prosto.tv:7000/ch208/video.m3u8?secret=si14qhvc
-#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",iptv.prosto.tv:7000/ch telegramm=
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",telegramm=
 http://iptv.prosto.tv:7000/ch208/video.m3u8?telegramm=
-#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",iptv.prosto.tv:7000/ch secret=5gzzhogh мой
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",secret=5gzzhogh мой
 http://iptv.prosto.tv:7000/ch208/video.m3u8?secret=5gzzhogh
-#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",iptv.prosto.tv:7000/ch secret=KZ21G2R4
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",secret=KZ21G2R4
 http://iptv.prosto.tv:7000/ch208/video.m3u8?secret=KZ21G2R4
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",50na50 ?secret=kp7brelm
+http://iptv.prosto.tv:7000/ch208/video.m3u8?secret=kp7brelm
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",50na50 ?secret=3fwh601f
+http://iptv.prosto.tv:7000/ch208/video.m3u8?secret=3fwh601f
+
 
 #EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",Ссылка на скачку вида 
 http://my.prosto.tv/4hhbmi16.m3u
+#EXTINF:-1 group-title="ХрюкТВ prosto.tv VPN Тест",Ссылка на скачку вида 
+http://my.prosto.tv/kp7brelm.m3u
+
+
 
