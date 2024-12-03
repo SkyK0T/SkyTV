@@ -69,6 +69,8 @@ http://fs2.persik.by/Boevik_3/index.m3u8
 http://fs2.persik.by/Boeviki_15/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10684.png",Биография HD
 https://fs2.persik.by/Biografija/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD !(-_-)!(было 13 пока не работает)
+https://fs2.persik.by/Vdohnovenie/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10686.png",Военный HD
 https://fs2.persik.by/Vtoraja_Mirovaja_8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11273.png",Военные сериалы
@@ -317,7 +319,8 @@ https://fs2.persik.by/Soviet_Mult_2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10490.png",Сундучок историй HD
 http://fs2.persik.by/Sunduchok4/index.m3u8
 
-
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 дней ТВ
+http://fs2.persik.by/365dney/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Первый информационный HD
 https://fs2.persik.by/Perviy_inf/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/106105.png",Minsk 4K (ULTRA HD)
@@ -326,11 +329,21 @@ https://fs2.persik.by/Misk4k/index.m3u8
 https://fs2.persik.by/Luxuary_hd/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/311.png",Авто Плюс
 https://fs2.persik.by/Avtoplus/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑"  tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" tvg-name="ТНТ Music",ТНТ Music
+http://fs2.persik.by/TNTMusic/index.m3u8
+
+#EXTINF:-1 group-title="🍑PersikTV🍑"  tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" tvg-name="HDL",HDL
+http://fs2.persik.by/HDL/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑"  tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" tvg-name="HDL",HDL
+http://fs2.persik.by/Zvezda/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" tvg-name="Ля-минор ТВ",Ля-минор
+http://fs2.persik.by/LaMinor/index.m3u8
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://static.cdn.videosport.ru/uploads/logo/64abbf63242994ea3693493d/maxres.png",Реслинг Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ",Бокс ТВ
+http://fs2.persik.by/Box/index.m3u8
 
 
 
