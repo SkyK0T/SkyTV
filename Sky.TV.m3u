@@ -981,790 +981,227 @@ https://playlist.nuum.ru/abr/287603/tracks-v1a1/mono.m3u8
 #EXTGRP:Медиаплатформа Nuum.ru
 https://playlist.nuum.ru/abr/991426/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Crime",Колобок ТВ - Crime HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidnNjBnMlM3RhDdtS7l_r97C/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Detective",Колобок ТВ - Detective [1916x800]
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidlaMucnVxu5n2lgRbdD-N4P/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Friends - Друзья",Колобок ТВ - Friends - Друзья
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32gz0fQiUWxWN0xWr-KAWWXn1NzMkpVNCw5Ff63XqGIP/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Melodrama",Колобок ТВ - Melodrama HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidmz9xINCb24uidkS9BjUzMx/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - New Films",Колобок ТВ - New Films [1920x804]
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidlaLv03KWkCuRAEtiB3uyn0/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Ru Serials New",Колобок ТВ - Ru Serials New [720x304]
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidnFHFjPPPufcdqBsRksdYxg/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Thriller",Колобок ТВ - Thriller [1920x800]
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidnCoQUi9GLOixgdElYdjyUt/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Боевик",Колобок ТВ - Боевик HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3181rdUP-AZkJT7RPZWdJKp9mExAurIlQDpOnJZYHD7U/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Гусар",Колобок ТВ - Гусар HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-efBETJE9e45rwXxjIjqEKiiE_QQ9WYipMxitK0ccIv/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Жуки",Колобок ТВ - Жуки HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H378Hv3lAZkn9Mf1UC0K7yAse-AHUxMEPof08_7J-QhMb/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Комедия",Колобок ТВ - Комедия HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3181rdUP-AZkJT7RPZWdJKovZ0MwACfsjjI9aoD8Uc4X/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - СССР Зарубежье",Колобок ТВ - СССР Зарубежье
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-efBETJE9e45rwXxjIjqELwQw957IYcYUAT4_DU2LYe/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Сверхъестественное",Колобок ТВ - Сверхъестественное [1916x1080]
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32gz0fQiUWxWN0xWr-KAWWUytDQwCl2Z51ODpskBZ-0U/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Секс в большом городе",Колобок ТВ - Секс в большом городе HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32IUO7Cejy2d5tcNuODh_oxJDBqx8anm1olMIcgaQLax/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Ужасы",Колобок ТВ - Ужасы HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidl57Mfv_xaoZuF86A1fZZOW/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Фантастика",Колобок ТВ - Фантастика HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3181rdUP-AZkJT7RPZWdJKqFCfZAF55HZkq0tQ_vGUeu/ts
-
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Cartoons",Колобок ТВ - Cartoons [1920x1036]
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26439" tvg-name="Кино Панорама MAX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QH7s2UlHPhXyTHH-5L7-6j4KZOyysSpj5VGB6zBq9tN.png",Кино Панорама MAX
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39uHOJxIan-A2SDByaGJHvoHfDdP1IkPJHb9iv5HWZA0/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26905" tvg-name="Колобок ТВ - Cartoons FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMmMjzegd2q0_GPOij6gjo-Y8aq4WspeTiRqg39aiV49.png",Колобок ТВ - Cartoons FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3zap1fycNhx73HQiM22hut6cfJabvWCM1nQDDbN-CZ2H/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Женский стендап",Колобок ТВ - Женский стендап
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26883" tvg-name="Колобок ТВ - Crime FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JGZG2AueOIj8XldVKdGLn66H5lR_JbNKIU922XMt1Q2R.png",Колобок ТВ - Crime FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidnNjBnMlM3RhDdtS7l_r97C/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26887" tvg-name="Колобок ТВ - Detective FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JAS52D-4OIHsTtHLVvJW267-gkuLbOeSIt29Js2DhWwt.png",Колобок ТВ - Detective FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidlaMucnVxu5n2lgRbdD-N4P/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27225" tvg-name="Колобок ТВ - Friends - Друзья" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKztpjnQRyLiwnp2eAsFYbJw_XwZik5o3u9EAEaRZZd7.png",Колобок ТВ - Friends - Друзья
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32gz0fQiUWxWN0xWr-KAWWXn1NzMkpVNCw5Ff63XqGIP/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26885" tvg-name="Колобок ТВ - Melodrama FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBOAkYcWJPZHVJbLBMcEtRwZtzPAtlEwr0mxig8AF153.png",Колобок ТВ - Melodrama FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidmz9xINCb24uidkS9BjUzMx/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26882" tvg-name="Колобок ТВ - New Films FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJDOiz8vOENRysg5_gHyeacehXSaER2AcC2n67zgHL2-.png",Колобок ТВ - New Films FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidlaLv03KWkCuRAEtiB3uyn0/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26884" tvg-name="Колобок ТВ - Ru Serials New FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOWpb5NUhHZC7al0fZv31rtODBnewZ6IjRKkFLOpb_q8.png",Колобок ТВ - Ru Serials New FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidnFHFjPPPufcdqBsRksdYxg/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26886" tvg-name="Колобок ТВ - Thriller FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JC6TcyVsDN0W9g2Fx54CYLZz-YfYF2lBkDxrGHcsMjOr.png",Колобок ТВ - Thriller FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidnCoQUi9GLOixgdElYdjyUt/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26876" tvg-name="Колобок ТВ - Боевик FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEGZsj_xvV6Q5yVjMuyUWDu7i9x4wQRbFpFAaNkslujj.png",Колобок ТВ - Боевик FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3181rdUP-AZkJT7RPZWdJKp9mExAurIlQDpOnJZYHD7U/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ"timeshift="1" xui-id="27034" tvg-name="Колобок ТВ - Гусар" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKQysc8xXedzUXDl6SDRuImXRizT-vXD-iHydc17uzYV.png",Колобок ТВ - Гусар
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-efBETJE9e45rwXxjIjqEKiiE_QQ9WYipMxitK0ccIv/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27179" tvg-name="Колобок ТВ - Женский стендап" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFe_DgkmyPrwSdQthM3WPaY5yIqnLVUIw7nN46C0Uk7V.png",Колобок ТВ - Женский стендап
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3yZyMiPLChS4xdQiK9U_4dO270nuIGgHbtSSycztIk4n/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Колобок ТВ - Элвиннн!!! И бурундуки",Колобок ТВ - Элвиннн!!! И бурундуки HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27201" tvg-name="Колобок ТВ - Жуки FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJL9fsi1h_rHhddlrEhKE5Yk8MkyIwXBg89tFmQ4mWtK.png",Колобок ТВ - Жуки FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H378Hv3lAZkn9Mf1UC0K7yAse-AHUxMEPof08_7J-QhMb/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26878" tvg-name="Колобок ТВ - Комедия FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JJdyqF6Er3ZcJjbvfyeSH9G6Mr6rtF8JKgMg20JKIg5c.png",Колобок ТВ - Комедия FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3181rdUP-AZkJT7RPZWdJKovZ0MwACfsjjI9aoD8Uc4X/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27220" tvg-name="Колобок ТВ - Сверхъестественное" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKAXTvdbd7sTVZjXRaNdiU2kFXmFmtIOH51--oSgGHdD.png",Колобок ТВ - Сверхъестественное
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32gz0fQiUWxWN0xWr-KAWWUytDQwCl2Z51ODpskBZ-0U/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27056" tvg-name="Колобок ТВ - Секс в большом городе" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEjR0iwbCL_AXwyah00AlSaMJeDq5fcCRo-HuSxf4eqb.png",Колобок ТВ - Секс в большом городе
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32IUO7Cejy2d5tcNuODh_oxJDBqx8anm1olMIcgaQLax/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27033" tvg-name="Колобок ТВ - СССР Зарубежье" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JGKrhaGoDSiR1O9eShdRiZXo1D9Q7ateFNsi70sIvrbb.png",Колобок ТВ - СССР Зарубежье
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-efBETJE9e45rwXxjIjqELwQw957IYcYUAT4_DU2LYe/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26881" tvg-name="Колобок ТВ - Ужасы FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLzavt88117l-rRLKqNgnGFnBk_TInSnmyTBYznO-x8m.png",Колобок ТВ - Ужасы FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wGezeIKQncYTcM0iKNnidl57Mfv_xaoZuF86A1fZZOW/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26877" tvg-name="Колобок ТВ - Фантастика FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBusRUvnSHNcD4t33ufXRNaR5FhSj9hW4D_yUaqiMH-J.png",Колобок ТВ - Фантастика FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3181rdUP-AZkJT7RPZWdJKqFCfZAF55HZkq0tQ_vGUeu/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27219" tvg-name="Колобок ТВ - Элвиннн!!! И бурундуки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN24Vvk0YNaGNn9i_Il6ZAwN_5qDr-jtsdzMJk-jhZ7V.png",Колобок ТВ - Элвин и бурундуки
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H35_vje7a8YaX3TSu-AWFBXDWkg5JKyVNZ3YomC_URA6d/ts
-
-
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - 4k Films",Чебур ТВ - 4k Films 4K
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22353" tvg-name="Чебур ТВ - 4k Films UHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bwozHgFG7pKFUfq_nbz6zPnzFdOhaRdwCLnqRPlooOqNfXkQlVXV9PMXM3_PlLVAQ.png",Чебур ТВ - 4k Films UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOczNPRJM28Wnjz7rvObK4ex/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Comedy Mix",Чебур ТВ - Comedy Mix
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="23769" tvg-name="Чебур ТВ - Action FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VlecogC3iZWzNq-CBY97HFQqFCKYF62t-TQMD_Nf_sY7nZv7S0v5D6X0Msw-nV7Dg.png",Чебур ТВ - Action FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H38wgY562FH1JUwKsOhQvQo77h71jIertH7eoGzMe9J7r/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="23774" tvg-name="Чебур ТВ - Comedy Mix FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMIzvXvliwoxSLQ_WsX1b-gGUqCjdBQnYRtGLjPvYtKN.png",Чебур ТВ - Comedy Mix FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31HbKH8uD5TqFthNTLHW39uKvyO4_NykSOvlidp11iRL/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - MultSeries",Чебур ТВ - MultSeries HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22648" tvg-name="Чебур ТВ - MultSeries" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JPV7afPE6A1yy-wqNgwkK9a6M4f8Yjx3OHWh0R4UkgMd.png",Чебур ТВ - MultSeries
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wr5iUcALGuVFsLl-FJpGUO4w0DsjtgaFVBIjxVjpw7L/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - RU Кино",Чебур ТВ - RU Кино [1920x1088]
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21599" tvg-name="Чебур ТВ - RU Кино FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JFU_oSkzyiCQ8726k6-sdxf4txix-JVDkD4lLVICbqr7.png",Чебур ТВ - RU Кино FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31q7uM91HjeUELA2bNNSXBg0cJ4pR-3H7V_cLQzBozHJ/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - RU Комедия",Чебур ТВ - RU Комедия [1890x1080]
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22682" tvg-name="Чебур ТВ - RU Комедия UHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JK4KZyM2pSul_kvlI0Qv1o-Up43jXSy2qCHq67JRC72H.png",Чебур ТВ - RU Комедия UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32Cf7FKo4BFU9tQWC5Akef4WckPWKXfEUXV3PpaDcCoo/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - RU Мелодрама",Чебур ТВ - RU Мелодрама HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22681" tvg-name="Чебур ТВ - RU Мелодрама UHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4TRCejsQd5hAm7IVYOL0PAsIW57hTkZnucgBJOuK3FeQ.png",Чебур ТВ - RU Мелодрама UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H32Cf7FKo4BFU9tQWC5Akef7GhJT4r-Okb6ZGF56DPZ6H/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - RU Сериал",Чебур ТВ - RU Сериал HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21554" tvg-name="Чебур ТВ - RU Сериал HD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4YC7c0RhLmC1b1nBol_pgb978vsppgE0-fe10eGmaY8jDDDzKVooKg6HSQhv5GQl9Q.png",Чебур ТВ - RU Сериал HD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wnVIUl3teK2e0kURIZTl0sUuuRuNByF_stnYctmVElY/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Series",Чебур ТВ - Series HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22590" tvg-name="Чебур ТВ - Series FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4W1SoEamZbaZe00SwfV6LgguXBilQY7tXjYbkfVK3Efn.png",Чебур ТВ - Series FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xFi9tNC3-fU_OnYYSQ_biz-QeZ4M-21ON2HOHPnxPNg/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Top Hit Indie",Чебур ТВ - Top Hit Indie HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="25425" tvg-name="Чебур ТВ - Top Hit Indie" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIKCCsCCBxtNe5_aZRkZl31q68NQKhe05EDrnKbsrdP4.png",Чебур ТВ - Top Hit Indie
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30n3qFYWNwhSdI__lrNbbUgNVEcRk2lJj8u2a2oCes4A/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Армагеддон",Чебур ТВ - Армагеддон HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="23776" tvg-name="Чебур ТВ - Top Hit Rock" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JN3CoagGNckWyar0Ew01dxrJyDbthNke3DZSr09TlCDu.png",Чебур ТВ - Top Hit Rock
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31HbKH8uD5TqFthNTLHW39vjG59mDJru3xtIhXY8JSJ_/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22362" tvg-name="Чебур ТВ - Анимешки FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JA3cBcZgX7NIBXdUThRlgN98h_kGq5QAslyPP1AS3Fxs.png",Чебур ТВ - Анимешки FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31SG-28LFqNHNaNtcAes4OK4rDL7bPIlFJ8lq1Ca9cAc/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22354" tvg-name="Чебур ТВ - Армагеддон FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOUaz4RyZgn36xVJ375xTspPW9MSu_9JnNXyA6rHrdE6.png",Чебур ТВ - Армагеддон FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOcTJTXzlENAorKiy86hGXTv/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Балабол",Чебур ТВ - Балабол HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26735" tvg-name="Чебур ТВ - Балабол" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4e9-fk5mGL1Nwi_ANXaBHtrHHkMdTFnSz2aSZKkoSpf9r1nYSYmeF6EeMrdzrRa0Vg.png",Чебур ТВ - Балабол
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wEntt6O04IuIn8vVqgIPWORR-CcpQ5-MhdJrBQCcoQp/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Биография",Чебур ТВ - Биография HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22361" tvg-name="Чебур ТВ - Биография HD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fKDsQVLtOrpr-gfXOdn1sRonT8VRvS5p6PVja5ghq1od0OBCoYMFPVRiNykRm63oA.png",Чебур ТВ - Биография HD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31SG-28LFqNHNaNtcAes4OJRO11s-DOSAnjsabXE1w0r/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Боевичок",Чебур ТВ - Боевичок HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24133" tvg-name="Чебур ТВ - Блокбастер FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4f3M3ygRywHezI0_r8IL71NLmhC6TfexS_ja7tjM0uVn.png",Чебур ТВ - Блокбастер FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H34KpPY0dM2xuo8Ijmo1WtrwOi61zChNxjHIthNKby-wU/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24132" tvg-name="Чебур ТВ - Боевичок FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKvxuV_hEPMzL2xD7JPbDK5QdLpyyqI5eIHSFvDnhnXW.png",Чебур ТВ - Боевичок FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H34KpPY0dM2xuo8Ijmo1WtrweTFagepbjGYazXfdwbv-3/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Вестерн",Чебур ТВ - Вестерн HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21604" tvg-name="Чебур ТВ - Вестерн HD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4U2U6EOOI-tGEdBASpUmKfpnQtYRMazjihJdGlKD-i4-y8DzP_0l9tERsfMhe81HOg.png",Чебур ТВ - Вестерн HD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39astVFWKNAvcHB1a1zASuvwjjpm-ADDFXiOnwWG_UZX/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Детектив",Чебур ТВ - Детектив HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22352" tvg-name="Чебур ТВ - Военный FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bO2112XGu9RCwjtRVeZKR4vK7UICICcnUcHk1noUNjU550E5lSBHq1rRs8LruevSQ.png",Чебур ТВ - Военный FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOeXSha-9VcTXdZzIb8dkaiD/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22268" tvg-id="12001" tvg-name="Чебур ТВ - Детектив UHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WON29ha8vb76FiNlFHGpDsHxzKexgZBOfTTFCqUVYzeFOWIAX0EaIENYzem1NxsDQ.png",Чебур ТВ - Детектив UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H33x7csJEJQL0Avhc9uKMTgKC4ld9kRPnz_KZ9O7gPhCB/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Драма",Чебур ТВ - Драма HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24622" tvg-name="Чебур ТВ - ДОКУ Science" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOTKUnmpue1OF90omUZAxzsPvpx-NUEO_U1ywcb8l5J-.png",Чебур ТВ - ДОКУ Science
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H377qQm9hel8BxuubgheFFMMs5-AKINAx2hBiQBU2lXlH/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24621" tvg-name="Чебур ТВ - ДОКУ Univerce" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLpztyWxmJnNKxZSqGcAR5TdcJpfXdMjPiFS7WRm947J.png",Чебур ТВ - ДОКУ Univerce
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H377qQm9hel8BxuubgheFFMPKzaITuKFJdTI8PCe6SjRg/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24819" tvg-name="Чебур ТВ - ДОКУ Живая Планета" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNzw1mUEMq0Ut2Gy8yW2RVbgnNtx88vATSd14wmprb2vH0hTWgEJgyTvOusvfqDzjA.png",Чебур ТВ - ДОКУ Живая Планета
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xcNfsUcPS208UJrhxUUi4iYfbKYaZlP0kNRn3mK8SFZ/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24619" tvg-name="Чебур ТВ - ДОКУ Планета Динозавров" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMjQlQhjZsMbW2syId43dGw6IZE8bXzWv_K_Sz_qyVsY.png",Чебур ТВ - ДОКУ Планета Динозавров
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30BJdOnflEy3xR2A_UuxTDj-KX_t0aBBBlBUJ-oDs7W2/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21469" tvg-name="Чебур ТВ - Драма FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4aQsetxtHNdXVJlNBYTu9-Fs1j9AdEllKt7HBNZsL3VoPXGkpfDulpFrVSrkaQ9XPw.png",Чебур ТВ - Драма FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3w0F1rHpU90enVkhzxcC91GxA3tXVu_8JxEZKimqisO3/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Зита-Гита",Чебур ТВ - Зита-Гита HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22666" tvg-name="Чебур ТВ - Зита-Гита" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBYOshdQb_iZ4n87lr5iLyNMhJaMf8524svPFKn2qmup.png",Чебур ТВ - Зита-Гита
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31TrPHXcPJyJV3Ce_chGhOTkA0Wh79w887lLahMky67R/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - История",Чебур ТВ - История HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22330" tvg-id="67309" tvg-name="Чебур ТВ - История FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WHE3WbITX-b5jn5ri5qKAOVdCw33L6oWphFGa8vmWCMvJcss88NmCndAOj32jkrbw.png",Чебур ТВ - История FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_Ifec6jl0o6U82TvDcWtro79izas8VDcvN8Vmi9XInL/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Каменская",Чебур ТВ - Каменская HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="27019" tvg-name="Чебур ТВ - Каменская" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNk3OtPCYkXBi7nFXK7BlTTPANJIHTXwFTT6ZMk6iwas.png",Чебур ТВ - Каменская
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3184911WX6yGruVe28alWhRQp6FQExOMEJiBf6CQx2FG/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Космос",Чебур ТВ - Космос HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="23097" tvg-name="Чебур ТВ - Карапуз FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4et_Zs6_cxO2pERQlqePtYMY3GdQeoi077O9kTLmXc3p.png",Чебур ТВ - Карапуз FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H33hd-VVdCbTlE1JhvFWW0nZlOafSENf2PWaHSliaXOMu/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22935" tvg-name="Чебур ТВ - Каратист FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNar4TnGwuOBbQExCxVp1Pjxe7GmLPLp5ttIPc9SNsyQ.png",Чебур ТВ - Каратист FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H346kLza5vvZ4pdh33VN6IQ-TaVhGl0YbleP72PdYsdm2/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22351" tvg-name="Чебур ТВ - Космос FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WLpOb_gNEU8RUXiKqSuoMSZfWFYG82RHgABGoFs0XFDpv2cAKkUEFOB2I9WOO23FQ.png",Чебур ТВ - Космос FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOdtQgQ2aZ9fwaRAEfj680iI/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Криминал",Чебур ТВ - Криминал HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21603" tvg-name="Чебур ТВ - Криминал UHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UZb8cLdmb-cts8xVep3LLw_gtkwNZ4CoVaUTrxfssQzD2WNWea0nMln5AxmtYYdgw.png",Чебур ТВ - Криминал UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39astVFWKNAvcHB1a1zASuvctLDM6isI0nNOua4wvDCG/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Мистика",Чебур ТВ - Мистика HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24257" tvg-name="Чебур ТВ - Матрица FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNMwinpA1jCdlVwsQCy7I7b_YP81yXzqUN0haq8C7P8w.png",Чебур ТВ - Матрица FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H33EXEmK4UZJpTpEjVbKcZMg3nzNsqpKE2zieVu61f3_6/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22269" tvg-id="67309" tvg-name="Чебур ТВ - Мелодрама HD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4WRdO86Yvnv3d0Dh6y2AmPTAmK4WpbOq8VV2sBmh29HvKAR73JCOWQgeBYkRKb-njg.png",Чебур ТВ - Мелодрама HD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H33x7csJEJQL0Avhc9uKMTgJAG4sNGGA_xMV19RWsroLB/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22511" tvg-name="Чебур ТВ - Мистика FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB7jW55soPJCU6wkg-CAj8CPgcxsq213Apt0wNiENMk1.png",Чебур ТВ - Мистика FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3wKIPRA7hpnmhiB777MoeMkUEqOjK7vujw5s44PzLZ-R/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - МультЭпоха СССР",Чебур ТВ - МультЭпоха СССР HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21975" tvg-name="Чебур ТВ - Мультики UHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Vz2bvuK0yHjvUBEW25iDT0_Tn6n8C2u7fqgCxBC3NaQJpe15hofcon1L0qPFjP0bA.png",Чебур ТВ - Мультики UHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H304-m3kES6xziP2fBUuL6oRKS67d5h59ets4q1FoUop4/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22591" tvg-name="Чебур ТВ - МультЭпоха СССР" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RXolkvVoRgbftTOGFunmuzJYSKIRc-p8utgDL_g7DQC.png",Чебур ТВ - МультЭпоха СССР
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xFi9tNC3-fU_OnYYSQ_bizOaKSIoMYRHqah0sci6oTw/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Мюзикл",Чебур ТВ - Мюзикл HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22355" tvg-name="Чебур ТВ - Мюзикл FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Rd7Hx4qygvG9U3KaVPPOcGI6ep91LvMwRmz3IZn_96VrPVIp9GhE4ndXQ195sE7IQ.png",Чебур ТВ - Мюзикл FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOcQzJ31IH8A1_UasPCaI4gQ/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - На Краю Вселенной HD",Чебур ТВ - На Краю Вселенной HD [960x720]
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="24618" tvg-name="Чебур ТВ - На Краю Вселенной HD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLOVkeba9fFY9O4F3a1nNLR-kMA0-Xfg1yrc7uQc9weB.png",Чебур ТВ - На Краю Вселенной HD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30BJdOnflEy3xR2A_UuxTDiGjhUPfq6fy3swDweT_9d1/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Назад в СССР",Чебур ТВ - Назад в СССР HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22267" tvg-id="12001" tvg-name="Чебур ТВ - Назад в СССР FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4bHalzv9u6ViitXThD7a6JLYfKp1BGWaaz_j63hoOVB9XSuZALIYUAA5DvJg43xaTA.png",Чебур ТВ - Назад в СССР FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H33x7csJEJQL0Avhc9uKMTgIBAyBAczCS5mHhzkoPu6D6/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Наше Детство СССР",Чебур ТВ - Наше Детство СССР HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22664" tvg-name="Чебур ТВ - Наше Детство СССР" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JLRRh6WUgtxKcj7SiM_mwfKJSVs__HNZA5Q39ofPbijq.png",Чебур ТВ - Наше Детство СССР
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31TrPHXcPJyJV3Ce_chGhORP3HIwinkQCooPgyaAR234/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Непутёвые Заметки",Чебур ТВ - Непутёвые Заметки
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22830" tvg-name="Чебур ТВ - Непутёвые Заметки" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JI_Yv5YX9tEgHvE5w4hF-CbD9AIXOEb6HQ7IpefUVZzu.png",Чебур ТВ - Непутёвые Заметки
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-e6Bhe5hXio8lkjpSPqVbHYGYaRIZyLnyxu6pr8KvnS/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Новинки",Чебур ТВ - Новинки HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21601" tvg-name="Чебур ТВ - Новинки FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RQPbOmuh6yyq-HGFmyhHj9gYjKEWEK1BmjkaOp8ZVy9AJgvDddQmpNrmXIW2B4vHg.png",Чебур ТВ - Новинки FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39astVFWKNAvcHB1a1zASuueQZcre9LnQpaT8bXyX0rd/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Приключения",Чебур ТВ - Приключения HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21468" tvg-name="Чебур ТВ - Приключения FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4c8L7MQUE3LPgqB99u8A3z-qdm6Wpn1QTbbIjdZNPjSvd4jynXddP0Mn_eenz7IXVw.png",Чебур ТВ - Приключения FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3w0F1rHpU90enVkhzxcC91HbjhLiDjUNZWDnATWUoOPB/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Пришельцы",Чебур ТВ - Пришельцы HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22356" tvg-name="Чебур ТВ - Пришельцы FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBiiy6sop4mYI_kk_uDS-VG5nvO5p0O7zeipq5qJAkyK.png",Чебур ТВ - Пришельцы FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOevI7UM3nzwLaJH-xCyNEmR/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Ретро 1980",Чебур ТВ - Ретро 1980
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="23771" tvg-name="Чебур ТВ - Ретро 1980 FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JM0_53Fn4D02y1Z--LGV4zrRPh16C0AdxfPWSCns-l2nkk1Gy8Q1ZgrwNHosONNpYQ.png",Чебур ТВ - Ретро 1980 FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31HbKH8uD5TqFthNTLHW39vzLw3SJuikB4xzsgj_Yqig/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Россия 90-00",Чебур ТВ - Россия 90-00 HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22829" tvg-name="Чебур ТВ - Россия 90-00 FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIxKqsJTDRFS0dJpxxGJSVWSCb-MwR2r4-YSvCf3O3f-.png",Чебур ТВ - Россия 90-00 FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3zPwoSjS1GvdfhR_-vhLrzWANgHJkwpi4g6zIni53Ahb/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР 20-е",Чебур ТВ - СССР 20-е HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-aXBvrhdy2JlE10t7aVD-Pc/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР 30-е",Чебур ТВ - СССР 30-е HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-Z4NkC9bbJ4cC38PVQNOhRp/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР 50-е",Чебур ТВ - СССР 50-е [1730x1080]
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31TrPHXcPJyJV3Ce_chGhOTz_8hdyT_OF_C13lOfygI2/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР 60-е",Чебур ТВ - СССР 60-е HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xgj_biXqTLkx1KyaZNouU0LPQCZvlxRG2rE64Yz5lva/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР 70-е",Чебур ТВ - СССР 70-е HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xgj_biXqTLkx1KyaZNouU1rxOWhzK0SMJSbeiMukXI3/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР 80-е",Чебур ТВ - СССР 80-е HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xgj_biXqTLkx1KyaZNouU2zGyyCZStDSCyhq2epp1I2/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР 90-е",Чебур ТВ - СССР 90-е [1800x1080]
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-bLJpcEUN72c0R9_Fy1i5Dc/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР Нетленка",Чебур ТВ - СССР Нетленка HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-YgRQ84oOvsO-VbfY-vk2k3/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - СССР Сериал",Чебур ТВ - СССР Сериал HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31TrPHXcPJyJV3Ce_chGhOQjhcdCdjUct4FZcqwQtOAH/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Семейное",Чебур ТВ - Семейное HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21538" tvg-name="Чебур ТВ - Семейное FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4azYAvI4nkwSLNUFfArso2SzQIB6j9q3-WkJVqEOkv2THAFVIEskWa_rgA7aVlM7Lg.png",Чебур ТВ - Семейное FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H35FLetyTR7ttj8IdmU9RWCcgn4zmfEpyt1j8CyB_6hwA/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Смешной",Чебур ТВ - Смешной [1920x804]
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21467" tvg-name="Чебур ТВ - Смешной FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4eDlFoSSIeglOCjOwaPGiilfNxu0w6oph_Qwf_-tAvfsmnJEmFeSMn_-MZsIUPlGgw.png",Чебур ТВ - Смешной FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3w0F1rHpU90enVkhzxcC91EFLcui9-tYko51l2HJm1vx/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Спортивный",Чебур ТВ - Спортивный HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22350" tvg-id="67309" tvg-name="Чебур ТВ - Спортивный FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4byhnh_PhScSpvFOFUDi7WVEQF0R3T3JoPwnJ01_rZriIGhSSvnbD_27Yi2MOF7Jkw.png",Чебур ТВ - Спортивный FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOfLBhwXLNsVcMJPgAOrp_id/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Стрелялки",Чебур ТВ - Стрелялки HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22676" tvg-name="Чебур ТВ - СССР 20-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4R4sMPd-BD-0zy6F0HFKAvXZgctw3FoayrNTUDsLl9Hg.png",Чебур ТВ - СССР 20-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-aXBvrhdy2JlE10t7aVD-Pc/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22677" tvg-name="Чебур ТВ - СССР 30-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZAXUAUsK8-LWxwTzAC5a_8Ws9liYkBM1sVocr9F3ezz.png",Чебур ТВ - СССР 30-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-Z4NkC9bbJ4cC38PVQNOhRp/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22662" tvg-name="Чебур ТВ - СССР 40-е" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JNbIVm0lCD5-q99Agw58A_PWD9LGgnsEt6zRbqXYNZgz.png",Чебур ТВ - СССР 40-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31TrPHXcPJyJV3Ce_chGhOSJ9Dh-RZ3CPjecyi_GASqG/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22663" tvg-name="Чебур ТВ - СССР 50-е" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JEYvlN0QWdSt4Pr1ODBXol1ViB7IyWZazmbYu-EqY2hK.png",Чебур ТВ - СССР 50-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31TrPHXcPJyJV3Ce_chGhOTz_8hdyT_OF_C13lOfygI2/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22655" tvg-name="Чебур ТВ - СССР 60-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UajGAM9tJIxpDsgSrc0FhpCwcIIY29Us3FJ9ApHzqRk.png",Чебур ТВ - СССР 60-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xgj_biXqTLkx1KyaZNouU0LPQCZvlxRG2rE64Yz5lva/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22653" tvg-name="Чебур ТВ - СССР 70-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4ZxPzfr1Sai9y4uCwz5oog9R1a5r8PT7Tmu7GOwlF6z6.png",Чебур ТВ - СССР 70-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xgj_biXqTLkx1KyaZNouU1rxOWhzK0SMJSbeiMukXI3/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22654" tvg-name="Чебур ТВ - СССР 80-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Uev0254ICugl1EnWsFZgW7_ITVUkoDDoSMfvx-DX8gt.png",Чебур ТВ - СССР 80-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xgj_biXqTLkx1KyaZNouU2zGyyCZStDSCyhq2epp1I2/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22678" tvg-name="Чебур ТВ - СССР 90-е" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4cbV7TlUoMJvmfPitMsn5ji482FzWAk2wl84g7pJLqKK.png",Чебур ТВ - СССР 90-е
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-bLJpcEUN72c0R9_Fy1i5Dc/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22671" tvg-name="Чебур ТВ - СССР Нетленка" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4eZ5jLOVM49FB9Ah3Bd43nE0HExAnN7vEJv0k-9rgLet.png",Чебур ТВ - СССР Нетленка
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-YgRQ84oOvsO-VbfY-vk2k3/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22661" tvg-name="Чебур ТВ - СССР Сериал" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JPEPF0zMNQeXQ3ExI8__mERJKeiDf00O7OIZth_ylHV0.png",Чебур ТВ - СССР Сериал
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31TrPHXcPJyJV3Ce_chGhOQjhcdCdjUct4FZcqwQtOAH/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21600" tvg-name="Чебур ТВ - Стрелялки UHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RlsuMRWZNajBlR4HBZBe1ZEpn06Mzpeowi422antEuBSISULq0qGNBeDgPsyGMpGQ.png",Чебур ТВ - Стрелялки UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39astVFWKNAvcHB1a1zASusJBM-q-kaag2BxT2cbbaUX/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Супергерои",Чебур ТВ - Супергерои HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22357" tvg-name="Чебур ТВ - Супергерои FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4cEf8cKs3lwPzvGH0C3Eo2SZilvULOGm4-n7q0YUJQIA9Qw9oZ4k2oMk_fVORTHJDw.png",Чебур ТВ - Супергерои FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30m-qbpG5R6f-7BdVAwFZOdCeNJ4lCabVxMdf46PV16h/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Триллер",Чебур ТВ - Триллер HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21470" tvg-name="Чебур ТВ - Триллер FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4beCBQFaIQrq5HB-441dP7MeZra3qzdAeX6_GUgOMWPwZfDKGnH_P8O_MgbuCSxbAA.png",Чебур ТВ - Триллер FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-uyP_2KueIxOK6i8D-Q_fX5UWqvAU88bVrxzyQ_gljh/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Фантазия",Чебур ТВ - Фантазия HD 
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21976" tvg-name="Чебур ТВ - Ужастики FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIXvFFmSwKbY_eyRE2aqzQrQOdthWh1mIlBU84wqzNWF.png",Чебур ТВ - Ужастики FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H304-m3kES6xziP2fBUuL6oTRKwK94zMlpOuhCBBExcl5/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21602" tvg-name="Чебур ТВ - Фантазия UHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Xq_7pU_0RiO7MmXrIAtsleCTeZkbRKnsWSAp7VB1O1__phZcmrLvueR5BSPVVYEbw.png",Чебур ТВ - Фантазия UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39astVFWKNAvcHB1a1zASusskVpxTJCURhcTzgJ5GwxK/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Фантастика",Чебур ТВ - Фантастика HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="21598" tvg-name="Чебур ТВ - Фантастика UHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBkSn2huSH7yeEFhLLwhG_rT50yuw5XWJHOowbZpbmVr.png",Чебур ТВ - Фантастика UHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31q7uM91HjeUELA2bNNSXBga-HPqyFKXnH5YBwt8W_Qn/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - ХБ",Чебур ТВ - ХБ HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22264" tvg-name="Чебур ТВ - Физ-Мульт Привет FHD" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4R8k2eKqkw0Nq0XivNvwUjKk7zcaHJmogTzxad6t7aQF.png",Чебур ТВ - Физ-Мульт Привет FHD
+http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H33x7csJEJQL0Avhc9uKMTgJsFpGE62BV1PT5Ab61hOSC/ts
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22861" tvg-name="Чебур ТВ - ХБ FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JF-WC56q1MdaWTTTeZO_gM31snP5Rv3CR5Gbzppj33Aa.png",Чебур ТВ - ХБ FHD
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-k4-cxywCDGXssvTbeYWbq5paaUgSBjVjpnbPx0VPuy/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Чебурашкин MIX",Чебур ТВ - Чебурашкин MIX HD
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="22672" tvg-name="Чебур ТВ - Чебурашкин MIX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4X4KabS69GJdR36GZWLPlZK1wPVPoQ1BBRS1E28XYuVC.png",Чебур ТВ - Чебурашкин MIX
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-YDViPup2bwEShB9DhvfJiz/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Шеф",Чебур ТВ - Шеф
+#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26666" tvg-name="Чебур ТВ - Шеф" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fqdJSh18TAOwCwgjKwb3fIADVdneiwzw4IXKep-9qB2eIdj8cVlDwyoEHCuyyfB3w.png",Чебур ТВ - Шеф
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H390UhmKqE6I02WCYu2_tsix4l6pTHU4kXe-beENf02fL/ts
 
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Top Hit Rock",Чебур ТВ - Top Hit Rock HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31HbKH8uD5TqFthNTLHW39vjG59mDJru3xtIhXY8JSJ_/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Анимешки",Чебур ТВ - Анимешки HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H31SG-28LFqNHNaNtcAes4OK4rDL7bPIlFJ8lq1Ca9cAc/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - ДОКУ Science",Чебур ТВ - ДОКУ Science
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H377qQm9hel8BxuubgheFFMMs5-AKINAx2hBiQBU2lXlH/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - ДОКУ Univerce",Чебур ТВ - ДОКУ Univerce
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H377qQm9hel8BxuubgheFFMPKzaITuKFJdTI8PCe6SjRg/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - ДОКУ Живая Планета",Чебур ТВ - ДОКУ Живая Планета HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3xcNfsUcPS208UJrhxUUi4iYfbKYaZlP0kNRn3mK8SFZ/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - ДОКУ Планета Динозавров",Чебур ТВ - ДОКУ Планета Динозавров
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H30BJdOnflEy3xR2A_UuxTDj-KX_t0aBBBlBUJ-oDs7W2/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Мультики",Чебур ТВ - Мультики HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H304-m3kES6xziP2fBUuL6oRKS67d5h59ets4q1FoUop4/ts
-#EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" tvg-name="Чебур ТВ - Физ-Мульт Привет",Чебур ТВ - Физ-Мульт Привет HD
-http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H33x7csJEJQL0Avhc9uKMTgJsFpGE62BV1PT5Ab61hOSC/ts
 
 
-#EXTINF:-1 group-title="Кинозалы str30", BCU Premiere
-http://str30.tv/3078/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 1 HD
-http://str30.tv/7167/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 2 HD
-http://str30.tv/2938/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 3 HD
-http://str30.tv/7597/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Premiere Ultra 4K
-http://str30.tv/3408/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Мультсериал HD
-http://str30.tv/8590/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Kids
-http://str30.tv/8585/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Kids+
-http://str30.tv/6398/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Little
-http://str30.tv/7994/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал СССР
-http://str30.tv/9118/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Russia 90s
-http://str30.tv/2563/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU VHS
-http://str30.tv/3239/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Action HD
-http://str30.tv/7255/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Cosmo
-http://str30.tv/3559/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Catastrophe HD
-http://str30.tv/5577/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Charm
-http://str30.tv/1665/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Comedy HD
-http://str30.tv/2718/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Fantastic HD
-http://str30.tv/7834/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU FilMystic HD
-http://str30.tv/6071/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU History HD
-http://str30.tv/8129/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Reality
-http://str30.tv/2310/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Marvel HD
-http://str30.tv/1740/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Romantic HD
-http://str30.tv/4559/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Stars HD
-http://str30.tv/9944/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU RUSerial HD
-http://str30.tv/2420/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Russian
-http://str30.tv/4165/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Сваты HD
-http://str30.tv/2307/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Criminal HD
-http://str30.tv/3871/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Cinema HD
-http://str30.tv/1086/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Cinema+ HD
-http://str30.tv/6536/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Kinorating
-http://str30.tv/2071/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU Survival
-http://str30.tv/6035/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-#EXTINF:-1 group-title="Кинозалы str30", BCU TruMotion
-http://str30.tv/8885/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-
-
-
-#EXTINF:-1 group-title="Кинозалы str30",MM USSR 1941-1945 HD
-http://str30.ottg.app/3599/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM USSR Детектив HD
-http://str30.ottg.app/7483/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM USSR Комедия HD
-http://str30.ottg.app/1121/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM USSR Приключения HD
-http://str30.ottg.app/9068/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM USSR Сказки HD
-http://str30.ottg.app/3374/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM USSR Драма HD
-http://str30.ottg.app/3819/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Воронины HD
-http://str30.ottg.app/3466/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM USSR Мультфильм HD
-http://str30.ottg.app/7225/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Tom and Jerry HD
-http://str30.ottg.app/5857/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Агата Кристи HD
-http://str30.ottg.app/6906/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Rock HD
-http://str30.ottg.app/2952/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM 007 HD
-http://str30.ottg.app/1190/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Flip UHD
-http://str30.ottg.app/6182/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Honey HD
-http://str30.ottg.app/4629/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Lesson HD
-http://str30.ottg.app/7616/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Live Planet HD
-http://str30.ottg.app/4085/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Love HD
-http://str30.ottg.app/8384/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 1 HD
-http://str30.ottg.app/9582/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 2 HD
-http://str30.ottg.app/2462/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 3 HD
-http://str30.ottg.app/3151/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm RU HD
-http://str30.ottg.app/1571/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Relax HD
-http://str30.ottg.app/4153/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Smile HD
-http://str30.ottg.app/3788/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM UFO HD
-http://str30.ottg.app/4264/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Приключения HD
-http://str30.ottg.app/4596/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Walt Disney HD
-http://str30.ottg.app/3781/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM World Hits HD
-http://str30.ottg.app/6813/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Боевик HD
-http://str30.ottg.app/2053/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Боевик Classic HD
-http://str30.ottg.app/4171/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Вестерн HD
-http://str30.ottg.app/8466/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Грайндхаус HD
-http://str30.ottg.app/4601/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Затмение HD
-http://str30.ottg.app/6567/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM История HD
-http://str30.ottg.app/2476/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Катастрофа HD
-http://str30.ottg.app/9725/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Квартирник HD
-http://str30.ottg.app/4037/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Киберпанк HD
-http://str30.ottg.app/3441/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Комедия Classic HD
-http://str30.ottg.app/4024/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Комедия HD
-http://str30.ottg.app/8038/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Криминал HD
-http://str30.ottg.app/5220/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Крутые 90-е HD
-http://str30.ottg.app/5495/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Кунг-Фу HD
-http://str30.ottg.app/3715/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Мифология HD
-http://str30.ottg.app/5157/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Нуар HD
-http://str30.ottg.app/6491/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Погружение HD
-http://str30.ottg.app/7686/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Полицейский с Рублёвки HD
-http://str30.ottg.app/8573/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Роскино HD
-http://str30.ottg.app/1488/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Сваты HD
-http://str30.ottg.app/3318/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Семейный 1 HD
-http://str30.ottg.app/1358/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Семейный 2 HD
-http://str30.ottg.app/2262/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Синематограф HD
-http://str30.ottg.app/3812/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Ситком HD
-http://str30.ottg.app/2511/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Ситком 2.0 HD
-http://str30.ottg.app/6880/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Скорость HD
-http://str30.ottg.app/1581/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Спорт HD
-http://str30.ottg.app/3451/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Стивен Кинг HD
-http://str30.ottg.app/7848/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Супергерои HD
-http://str30.ottg.app/1556/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Триллер HD
-http://str30.ottg.app/4829/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Ужастик HD
-http://str30.ottg.app/4708/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Ужасы Classic HD
-http://str30.ottg.app/6908/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Ужасы HD
-http://str30.ottg.app/5519/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Фантастика HD
-http://str30.ottg.app/6901/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Фобия HD
-http://str30.ottg.app/4293/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Celebrity HD
-http://str30.ottg.app/9541/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Classic HD
-http://str30.ottg.app/4789/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Translation HD
-http://str30.ottg.app/1186/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Драма HD
-http://str30.ottg.app/9941/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Микромир HD
-http://str30.ottg.app/2131/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Макромир HD
-http://str30.ottg.app/4234/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Мегамир HD
-http://str30.ottg.app/5908/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Experiment HD
-http://str30.ottg.app/4968/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM OldSchool HD
-http://str30.ottg.app/9976/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Гриффины HD
-http://str30.ottg.app/5556/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Открытия HD
-http://str30.ottg.app/2202/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-#EXTINF:-1 group-title="Кинозалы str30",MM Кинофестиваль HD
-http://str30.ottg.app/7749/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
-
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Celebrity HD
-http://str16.tv/9541/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Love HD
-http://str16.tv/8384/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 1 HD
-http://str16.tv/9582/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 2 HD
-http://str16.tv/2462/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 3 HD
-http://str16.tv/3151/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm RU HD
-http://str16.tv/1571/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Translation HD
-http://str16.tv/1186/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM UFO HD
-http://str16.tv/4264/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Боевик HD
-http://str16.tv/2053/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Боевик Classic HD
-http://str16.tv/4171/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Вестерн HD
-http://str16.tv/8466/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Воронины HD
-http://str16.tv/3466/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Грайндхаус HD
-http://str16.tv/4601/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Гриффины HD
-http://str16.tv/5556/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Затмение HD
-http://str16.tv/6567/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Драма HD
-http://str16.tv/9941/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM История HD
-http://str16.tv/2476/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Катастрофа HD
-http://str16.tv/9725/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Киберпанк HD
-http://str16.tv/3441/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Кинофестиваль
-http://str16.tv/7749/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Комедия HD
-http://str16.tv/8038/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Комедия Classic HD
-http://str16.tv/4024/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Сваты HD
-http://str16.tv/3318/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 1 HD
-http://str16.tv/1358/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 2 HD
-http://str16.tv/2262/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Синематограф HD
-http://str16.tv/3812/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Фобия HD
-http://str16.tv/4293/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Tom And Jerry HD
-http://str16.tv/5857/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Walt Disney HD
-http://str16.tv/3781/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM USSR Сказки HD
-http://str16.tv/3374/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM USSR Мультфильм HD
-http://str16.tv/7225/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM 007 HD
-http://str16.tv/1190/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Classic HD
-http://str16.tv/4789/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Flip UHD
-http://str16.tv/6182/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM USSR 1941-1945 HD
-http://str16.tv/3599/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM USSR Детектив HD
-http://str16.tv/7483/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM USSR Драма HD
-http://str16.tv/3819/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM USSR Комедия HD
-http://str16.tv/1121/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM USSR Приключения HD
-http://str16.tv/9068/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Агата Кристи HD
-http://str16.tv/6906/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Криминал HD
-http://str16.tv/5220/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Крутые 90-е HD
-http://str16.tv/5495/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Кунг-Фу HD
-http://str16.tv/3715/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Мифология HD
-http://str16.tv/5157/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Нуар HD
-http://str16.tv/6491/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Погружение HD
-http://str16.tv/7686/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Полицейский с Рублёвки HD
-http://str16.tv/8573/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Приключения HD
-http://str16.tv/4596/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Роскино HD
-http://str16.tv/1488/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Ситком 2.0 HD
-http://str16.tv/6880/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Скорость HD
-http://str16.tv/1581/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Спорт HD
-http://str16.tv/3451/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Стивен Кинг HD
-http://str16.tv/7848/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Супергерои HD
-http://str16.tv/1556/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Триллер HD
-http://str16.tv/4829/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Ужастик HD
-http://str16.tv/4708/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы HD
-http://str16.tv/5519/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы Classic HD
-http://str16.tv/6908/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Фантастика HD
-http://str16.tv/6901/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Relax HD
-http://str16.tv/4153/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Experiment HD
-http://str16.tv/4968/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Honey HD
-http://str16.tv/4629/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Lesson HD
-http://str16.tv/7616/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Live Planet HD
-http://str16.tv/4085/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM OldSchool HD
-http://str16.tv/9976/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Rock HD
-http://str16.tv/2952/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Smile HD
-http://str16.tv/3788/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM World Hits HD
-http://str16.tv/6813/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Квартирник HD
-http://str16.tv/4037/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Макромир HD
-http://str16.tv/4234/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Мегамир HD
-http://str16.tv/5908/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Микромир HD
-http://str16.tv/2131/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Открытия HD
-http://str16.tv/2202/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы MM",MM Ситком HD
-http://str16.tv/2511/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Premiere
-http://str16.tv/3078/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 1 HD
-http://str16.tv/7167/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 2 HD
-http://str16.tv/2938/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 3 HD
-http://str16.tv/7597/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Мультсериал HD
-http://str16.tv/8590/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Kids
-http://str16.tv/8585/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Kids+
-http://str16.tv/6398/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Little
-http://str16.tv/7994/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал СССР
-http://str16.tv/9118/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Russia 90s
-http://str16.tv/2563/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU VHS
-http://str16.tv/3239/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Action HD
-http://str16.tv/7255/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Cosmo
-http://str16.tv/3559/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Catastrophe HD
-http://str16.tv/5577/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Charm
-http://str16.tv/1665/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Comedy HD
-http://str16.tv/2718/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Fantastic HD
-http://str16.tv/7834/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU FilMystic HD
-http://str16.tv/6071/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU History HD
-http://str16.tv/8129/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Reality
-http://str16.tv/2310/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Marvel HD
-http://str16.tv/1740/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Romantic HD
-http://str16.tv/4559/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Stars HD
-http://str16.tv/9944/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU RUSerial HD
-http://str16.tv/2420/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Russian
-http://str16.tv/4165/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Сваты HD
-http://str16.tv/2307/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Criminal HD
-http://str16.tv/3871/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Cinema HD
-http://str16.tv/1086/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Cinema+ HD
-http://str16.tv/6536/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Kinorating
-http://str16.tv/2071/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU Survival
-http://str16.tv/6035/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-#EXTINF:-1 group-title="Кинозалы BCU", BCU TruMotion
-http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="BCU Kinorating",BCU Kinorating HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4758" tvg-logo="http://epg.one/img/4758.png" tvg-rec="7",BCU Kinorating HD
 http://hls127.homeiptv.org:8880/BCUKinoratingHD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="BCU Stars",BCU Stars HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4765" tvg-logo="http://epg.one/img/4765.png" tvg-rec="7",BCU Stars HD
 http://hls127.homeiptv.org:8880/BCUStarsHD/video.m3u8
 
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Asia",Clarity4K Asia
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Asia
 http://hls127.homeiptv.org:8880/Clarity4K_Asia/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Anime
 http://hls127.homeiptv.org:8880/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Fantastic",Clarity4K Fantastic
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Фантастика
 http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Netflix",Clarity4K Netflix
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Netflix
 http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Uzhasi
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Ужасы 
 http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Western
 http://hls127.homeiptv.org:8880/Clarity4K_Western/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Walt Disney",Clarity4K Walt Disney
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Walt Disney
 http://hls127.homeiptv.org:8880/Clarity4K_Walt_Disney/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Боевик",Clarity4K Боевик
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Боевик
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Драмы",Clarity4K Драмы
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Драмы
 http://hls127.homeiptv.org:8880/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K КиноФраншизы",Clarity4K КиноФраншизы
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K КиноФраншизы
 http://hls127.homeiptv.org:8880/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Фэнтези",Clarity4K Фэнтези
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Фэнтези
 http://hls127.homeiptv.org:8880/Clarity4K_Fentazi/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Concert,Clarity4K Concert
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Concert
 http://hls127.homeiptv.org:8880/Clarity4K_Concert/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K World Music",Clarity4K World Music
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K World Music
 http://hls127.homeiptv.org:8880/Clarity4K_World_Music/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Единоборства",Clarity4K Единоборства
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Единоборства
 http://hls127.homeiptv.org:8880/Clarity4K_Edinoborstva/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Звериный мир",Clarity4K Звериный мир
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Звериный мир
 http://hls127.homeiptv.org:8880/Clarity4K_Zveriniy_Mir/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Космомир",Clarity4K Космомир
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="clarity4k-kosmomir" tvg-logo="https://iptvx.one/picons/clarity4k-kosmomir.png",Clarity4K Космомир
 http://hls127.homeiptv.org:8880/Clarity4K_Kosmomir/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Clarity4K Мультимир",Clarity4K Мультимир
 http://hls127.homeiptv.org:8880/Clarity4K_Multmir/video.m3u8
@@ -1792,49 +1229,48 @@ http://hls127.homeiptv.org:8880/CPS_Cartoon/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",CPS Fresh UA HD
 http://hls127.homeiptv.org:8880/CPS_Fresh_UA/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="MM Скорость",MM Скорость HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare"  tvg-id="5166" tvg-logo="http://epg.one/img/5166.png",MM Скорость HD
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
-
-#EXTINF:-1 group-title="HomeIPTV Cloudflare "tvg-name="Kinozal! Интерны ТВ",Kinozal! Интерны ТВ
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" tvg-rec="7",Кинозал! Интерны ТВ
 http://hls127.homeiptv.org:8880/Kinozal_Intern_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare "tvg-name="Kinozal! Универ ТВ",Kinozal! Универ ТВ
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4697" tvg-logo="http://epg.one/img/4697.png" tvg-rec="7",Кинозал! Универ ТВ
 http://hls127.homeiptv.org:8880/Kinozal_univer/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Insomnia",Insomnia
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="6836" tvg-logo="http://epg.one/img/6836.png",Insomnia HD
 http://hls127.homeiptv.org:8880/PG_Insomnia_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Paradise",Paradise HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4725" tvg-logo="http://epg.one/img/4725.png" tvg-rec="7",Paradise HD
 http://hls127.homeiptv.org:8880/PG_Paradise_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Paradox",Paradox HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4723" tvg-logo="http://epg.one/img/4723.png" tvg-rec="7",Paradox HD
 http://hls127.homeiptv.org:8880/PG_Paradox_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Premiere",Premiere HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4719" tvg-logo="http://epg.one/img/4719.png" tvg-rec="7",Premiere HD
 http://hls127.homeiptv.org:8880/PG_Premiere_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Premium",Premium HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4720" tvg-logo="http://epg.one/img/4720.png" tvg-rec="7",Premium HD
 http://hls127.homeiptv.org:8880/PG_Premium_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Thriller",Thriller HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4724" tvg-logo="http://epg.one/img/4724.png" tvg-rec="7",Thriller HD
 http://hls127.homeiptv.org:8880/PG_Thriller_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="USSR",USSR HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4727" tvg-logo="http://epg.one/img/4727.png" tvg-rec="7",USSR
 http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Victory HD,Victory
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4722" tvg-logo="http://epg.one/img/4722.png" tvg-rec="7",Victory HD
 http://hls127.homeiptv.org:8880/PG_Victory_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="РуКино",РуКино HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4721" tvg-logo="http://epg.one/img/4721.png" tvg-rec="7",РуКино HD
 http://hls127.homeiptv.org:8880/PG_Rukino_HD/video.m3u8
 
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV Cinema 60 fps",Prokop TV Cinema 60 fps
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV Cinema 60 fps
 http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_60_fps/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV Cinema Best",Prokop TV Cinema Best HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV Cinema Best HD
 http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV Comedy",Prokop TV Comedy HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV Comedy HD
 http://hls127.homeiptv.org:8880/PROKOPTV_COMEDY/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV Criminal",Prokop TV Criminal
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV Criminal
 http://hls127.homeiptv.org:8880/PROKOPTV_CRIMINAL/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV Fantazy",Prokop TV Fantazy
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV Fantazy
 http://hls127.homeiptv.org:8880/PROKOPTV_FANTAZY/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV History",Prokop TV History
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV History
 http://hls127.homeiptv.org:8880/PROKOPTV_ISTORY/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV Horror",Prokop TV Horror HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV Horror HD
 http://hls127.homeiptv.org:8880/PROKOPTV_HORROR/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Prokop TV New Films",Prokop TV New Films
+#EXTINF:-1 group-title="HomeIPTV Cloudflare",Prokop TV New Films
 http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_FHD/video.m3u8
 
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="red.ru" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-name=".red",.red HD
@@ -2924,122 +2360,122 @@ http://88.218.242.237:8000/play/a00h
 
 
 
-#EXTINF:0 tvg-name=Первый_канал tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
+#EXTINF:-1 tvg-name=Первый_канал tvg-logo="http://uiptv.do.am/img/logo/001.gif",Первый канал
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 
-#EXTINF:0 tvg-name=Россия_1 tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
+#EXTINF:-1 tvg-name=Россия_1 tvg-logo="http://uiptv.do.am/img/logo/002.gif",Россия 1
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 
-#EXTINF:0 tvg-name=Матч! tvg-logo="http://uiptv.do.am/img/logo/003.gif",Матч! ТВ
+#EXTINF:-1 tvg-name=Матч! tvg-logo="http://uiptv.do.am/img/logo/003.gif",Матч! ТВ
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 
-#EXTINF:0 tvg-name=Пятый_Канал tvg-logo="http://uiptv.do.am/img/logo/004.gif",5 Канал
+#EXTINF:-1 tvg-name=Пятый_Канал tvg-logo="http://uiptv.do.am/img/logo/004.gif",5 Канал
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000004/playlist.m3u8
 
-#EXTINF:0 tvg-name=Культура tvg-logo="http://uiptv.do.am/img/logo/005.gif",Россия Культура
+#EXTINF:-1 tvg-name=Культура tvg-logo="http://uiptv.do.am/img/logo/005.gif",Россия Культура
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
 
-#EXTINF:0 tvg-name=Россия_24 tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
+#EXTINF:-1 tvg-name=Россия_24 tvg-logo="http://uiptv.do.am/img/logo/006.gif",Россия 24
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 
-#EXTINF:0 tvg-name=Карусель tvg-logo="http://uiptv.do.am/img/logo/007.gif",Карусель
+#EXTINF:-1 tvg-name=Карусель tvg-logo="http://uiptv.do.am/img/logo/007.gif",Карусель
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000007/playlist.m3u8
 
-#EXTINF:0 tvg-name=ОТР tvg-logo="http://uiptv.do.am/img/logo/008.gif",ОТР
+#EXTINF:-1 tvg-name=ОТР tvg-logo="http://uiptv.do.am/img/logo/008.gif",ОТР
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 
-#EXTINF:0 tvg-name=ТВ_Центр tvg-logo="http://uiptv.do.am/img/logo/009.gif",ТВЦ
+#EXTINF:-1 tvg-name=ТВ_Центр tvg-logo="http://uiptv.do.am/img/logo/009.gif",ТВЦ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
 
-#EXTINF:0 tvg-name=МИР_24 tvg-logo="http://uiptv.do.am/img/logo/112.gif",Мир 24
+#EXTINF:-1 tvg-name=МИР_24 tvg-logo="http://uiptv.do.am/img/logo/112.gif",Мир 24
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/112234126/playlist.m3u8
 
-#EXTINF:0 tvg-name=ТРО tvg-logo="http://uiptv.do.am/img/logo/116.gif",ТРО
+#EXTINF:-1 tvg-name=ТРО tvg-logo="http://uiptv.do.am/img/logo/116.gif",ТРО
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8
 
-#EXTINF:0 tvg-name=НТВ tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
+#EXTINF:-1 tvg-name=НТВ tvg-logo="http://uiptv.do.am/img/logo/114.gif",НТВ
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 
-#EXTINF:0 tvg-name=МИР tvg-logo="http://uiptv.do.am/img/logo/113.gif",Мир
+#EXTINF:-1 tvg-name=МИР tvg-logo="http://uiptv.do.am/img/logo/113.gif",Мир
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 
-#EXTINF:0 tvg-name=Вместе-РФ tvg-logo="http://uiptv.do.am/img/logo/118.gif",Вместе-РФ HD
+#EXTINF:-1 tvg-name=Вместе-РФ tvg-logo="http://uiptv.do.am/img/logo/118.gif",Вместе-РФ HD
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/118056781/playlist.m3u8
 
-#EXTINF:0 tvg-name=РЕН_ТВ tvg-logo="http://uiptv.do.am/img/logo/102.gif",Рен ТВ
+#EXTINF:-1 tvg-name=РЕН_ТВ tvg-logo="http://uiptv.do.am/img/logo/102.gif",Рен ТВ
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 
-#EXTINF:0 tvg-name=Звезда tvg-logo="http://uiptv.do.am/img/logo/115.gif",Звезда
+#EXTINF:-1 tvg-name=Звезда tvg-logo="http://uiptv.do.am/img/logo/115.gif",Звезда
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/115312670/playlist.m3u8
 
-#EXTINF:0 tvg-name=ТВ-3 tvg-logo="http://uiptv.do.am/img/logo/107.gif",ТВ-3
+#EXTINF:-1 tvg-name=ТВ-3 tvg-logo="http://uiptv.do.am/img/logo/107.gif",ТВ-3
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/107700947/playlist.m3u8
 
-#EXTINF:0 tvg-name=Домашний tvg-logo="http://uiptv.do.am/img/logo/104.gif",Домашний
+#EXTINF:-1 tvg-name=Домашний tvg-logo="http://uiptv.do.am/img/logo/104.gif",Домашний
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 
-#EXTINF:0 tvg-name=СТС tvg-logo="http://uiptv.do.am/img/logo/105.gif",СТС
+#EXTINF:-1 tvg-name=СТС tvg-logo="http://uiptv.do.am/img/logo/105.gif",СТС
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/105567126/playlist.m3u8
 
-#EXTINF:0 tvg-name=ТНТ tvg-logo="http://uiptv.do.am/img/logo/106.gif",ТНТ
+#EXTINF:-1 tvg-name=ТНТ tvg-logo="http://uiptv.do.am/img/logo/106.gif",ТНТ
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 
-#EXTINF:0 tvg-name=Пятница tvg-logo="http://uiptv.do.am/img/logo/103.gif",Пятница
+#EXTINF:-1 tvg-name=Пятница tvg-logo="http://uiptv.do.am/img/logo/103.gif",Пятница
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 
-#EXTINF:0 tvg-name=Че tvg-logo="http://uiptv.do.am/img/logo/109.gif",Че
+#EXTINF:-1 tvg-name=Че tvg-logo="http://uiptv.do.am/img/logo/109.gif",Че
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 
-#EXTINF:0 tvg-name=TVM_Channel tvg-logo="http://uiptv.do.am/img/logo/334.gif",TVM Channel
+#EXTINF:-1 tvg-name=TVM_Channel tvg-logo="http://uiptv.do.am/img/logo/334.gif",TVM Channel
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/334334148/playlist.m3u8
 
-#EXTINF:0 tvg-name=Моя_Планета tvg-logo="http://uiptv.do.am/img/logo/312.gif",Моя планета
+#EXTINF:-1 tvg-name=Моя_Планета tvg-logo="http://uiptv.do.am/img/logo/312.gif",Моя планета
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 
-#EXTINF:0 tvg-name=Канал_2x2 tvg-logo="http://uiptv.do.am/img/logo/500.gif",2x2
+#EXTINF:-1 tvg-name=Канал_2x2 tvg-logo="http://uiptv.do.am/img/logo/500.gif",2x2
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/500194263/playlist.m3u8
 
-#EXTINF:0 tvg-name=МУЗ-ТВ tvg-logo="http://uiptv.do.am/img/logo/612.gif",Муз ТВ
+#EXTINF:-1 tvg-name=МУЗ-ТВ tvg-logo="http://uiptv.do.am/img/logo/612.gif",Муз ТВ
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/612327787/playlist.m3u8
 
-#EXTINF:0 tvg-name=Шансон_ТВ tvg-logo="http://uiptv.do.am/img/logo/602.gif",Шансон ТВ
+#EXTINF:-1 tvg-name=Шансон_ТВ tvg-logo="http://uiptv.do.am/img/logo/602.gif",Шансон ТВ
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
-#EXTINF:0 tvg-name=ТНТ_Music tvg-logo="http://uiptv.do.am/img/logo/603.gif",ТНТ Music
+#EXTINF:-1 tvg-name=ТНТ_Music tvg-logo="http://uiptv.do.am/img/logo/603.gif",ТНТ Music
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 
-#EXTINF:0 tvg-name=РБК tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
+#EXTINF:-1 tvg-name=РБК tvg-logo="http://uiptv.do.am/img/logo/701.gif",РБК
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
 
-#EXTINF:0 tvg-name=Russia_Today tvg-logo="http://uiptv.do.am/img/logo/702.gif",Russia Today HD
+#EXTINF:-1 tvg-name=Russia_Today tvg-logo="http://uiptv.do.am/img/logo/702.gif",Russia Today HD
 #EXTGRP:UIPTV Свободный Российский плейлист (https://uiptv.do.am)
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
 
@@ -4856,21 +4292,21 @@ https://online.vse-tv.net/pyatyy_kanal/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d
 
 
 
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="141" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/16.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png",15+ Media Group Кринж ТВ
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="100" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png",15+ Media Group Кринж ТВ
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/18.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="9238" tvg-id="" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png",15+ Media Group Alpha Cinema
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="9238" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png",15+ Media Group Alpha Cinema
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/8.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="948" tvg-id="" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png",15+ Media Group Alpha Onenite
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="948" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png",15+ Media Group Alpha Onenite
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/9.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png",15+ Media Group Alpha Funny
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1384" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png",15+ Media Group Alpha Funny
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/10.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1246" tvg-id="" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png",15+ Media Group Alpha Games
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1246" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png",15+ Media Group Alpha Games
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/11.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="09" tvg-id="" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png",15+ Media Group Alpha Anime
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="09" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png",15+ Media Group Alpha Anime
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/12.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png",15+ Media Group Alpha Sex
+#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="190" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png",15+ Media Group Alpha Sex
 http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/13.m3u8
 
 #EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",A-Media WAR-1
@@ -14629,209 +14065,209 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RU: Эхо TV (Рязань)" tvg-logo="" group-title="۩ Rusia ۩",RU: Эхо TV (Рязань)
+#EXTINF:-1 tvg-name="RU: Эхо TV (Рязань)" tvg-logo="" group-title="۩ Rusia ۩",RU: Эхо TV (Рязань)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198937
-#EXTINF:-1 tvg-id="" tvg-name="RU: Хузур ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Хузур ТВ
+#EXTINF:-1 tvg-name="RU: Хузур ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Хузур ТВ
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284096
-#EXTINF:-1 tvg-id="" tvg-name="RU: Учалы ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Учалы ТВ
+#EXTINF:-1 tvg-name="RU: Учалы ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Учалы ТВ
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284095
-#EXTINF:-1 tvg-id="" tvg-name="RU: Український реп" tvg-logo="" group-title="۩ Rusia ۩",RU: Український реп
+#EXTINF:-1 tvg-name="RU: Український реп" tvg-logo="" group-title="۩ Rusia ۩",RU: Український реп
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/300628
-#EXTINF:-1 tvg-id="" tvg-name="RU: Три Ангела" tvg-logo="" group-title="۩ Rusia ۩",RU: Три Ангела
+#EXTINF:-1 tvg-name="RU: Три Ангела" tvg-logo="" group-title="۩ Rusia ۩",RU: Три Ангела
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/301836
-#EXTINF:-1 tvg-id="" tvg-name="RU: Телплюс ТВ (Астрахань)" tvg-logo="" group-title="۩ Rusia ۩",RU: Телплюс ТВ (Астрахань)
+#EXTINF:-1 tvg-name="RU: Телплюс ТВ (Астрахань)" tvg-logo="" group-title="۩ Rusia ۩",RU: Телплюс ТВ (Астрахань)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284092
-#EXTINF:-1 tvg-id="" tvg-name="RU: Тамыр" tvg-logo="" group-title="۩ Rusia ۩",RU: Тамыр
+#EXTINF:-1 tvg-name="RU: Тамыр" tvg-logo="" group-title="۩ Rusia ۩",RU: Тамыр
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284088
-#EXTINF:-1 tvg-id="" tvg-name="RU: ТКР (Рязань)" tvg-logo="" group-title="۩ Rusia ۩",RU: ТКР (Рязань)
+#EXTINF:-1 tvg-name="RU: ТКР (Рязань)" tvg-logo="" group-title="۩ Rusia ۩",RU: ТКР (Рязань)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/294813
-#EXTINF:-1 tvg-id="" tvg-name="RU: ТВК 24" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВК 24
+#EXTINF:-1 tvg-name="RU: ТВК 24" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВК 24
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284100
-#EXTINF:-1 tvg-id="" tvg-name="RU: ТВ3" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВ3
+#EXTINF:-1 tvg-name="RU: ТВ3" tvg-logo="" group-title="۩ Rusia ۩",RU: ТВ3
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/304606
-#EXTINF:-1 tvg-id="" tvg-name="RU: Страшное" tvg-logo="" group-title="۩ Rusia ۩",RU: Страшное
+#EXTINF:-1 tvg-name="RU: Страшное" tvg-logo="" group-title="۩ Rusia ۩",RU: Страшное
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/166585
-#EXTINF:-1 tvg-id="" tvg-name="RU: Селенга ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Селенга ТВ
+#EXTINF:-1 tvg-name="RU: Селенга ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Селенга ТВ
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284102
-#EXTINF:-1 tvg-id="" tvg-name="RU: Север (Нарьян-Мар)" tvg-logo="" group-title="۩ Rusia ۩",RU: Север (Нарьян-Мар)
+#EXTINF:-1 tvg-name="RU: Север (Нарьян-Мар)" tvg-logo="" group-title="۩ Rusia ۩",RU: Север (Нарьян-Мар)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198925
-#EXTINF:-1 tvg-id="" tvg-name="RU: Самара ГИС" tvg-logo="" group-title="۩ Rusia ۩",RU: Самара ГИС
+#EXTINF:-1 tvg-name="RU: Самара ГИС" tvg-logo="" group-title="۩ Rusia ۩",RU: Самара ГИС
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284107
-#EXTINF:-1 tvg-id="" tvg-name="RU: Салям" tvg-logo="" group-title="۩ Rusia ۩",RU: Салям
+#EXTINF:-1 tvg-name="RU: Салям" tvg-logo="" group-title="۩ Rusia ۩",RU: Салям
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284106
-#EXTINF:-1 tvg-id="" tvg-name="RU: СТС" tvg-logo="" group-title="۩ Rusia ۩",RU: СТС
+#EXTINF:-1 tvg-name="RU: СТС" tvg-logo="" group-title="۩ Rusia ۩",RU: СТС
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/304605
-#EXTINF:-1 tvg-id="" tvg-name="RU: С86 (86 Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С86 (86 Сургут)
+#EXTINF:-1 tvg-name="RU: С86 (86 Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С86 (86 Сургут)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/300457
-#EXTINF:-1 tvg-id="" tvg-name="RU: С1 (Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С1 (Сургут)
+#EXTINF:-1 tvg-name="RU: С1 (Сургут)" tvg-logo="" group-title="۩ Rusia ۩",RU: С1 (Сургут)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198924
-#EXTINF:-1 tvg-id="" tvg-name="RU: Ростов-папа" tvg-logo="" group-title="۩ Rusia ۩",RU: Ростов-папа
+#EXTINF:-1 tvg-name="RU: Ростов-папа" tvg-logo="" group-title="۩ Rusia ۩",RU: Ростов-папа
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284110
-#EXTINF:-1 tvg-id="" tvg-name="RU: Небеса ТВ7" tvg-logo="" group-title="۩ Rusia ۩",RU: Небеса ТВ7
+#EXTINF:-1 tvg-name="RU: Небеса ТВ7" tvg-logo="" group-title="۩ Rusia ۩",RU: Небеса ТВ7
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198917
-#EXTINF:-1 tvg-id="" tvg-name="RU: НТМ (Народное телевидение Мордовии)" tvg-logo="" group-title="۩ Rusia ۩",RU: НТМ (Народное телевидение Мордовии)
+#EXTINF:-1 tvg-name="RU: НТМ (Народное телевидение Мордовии)" tvg-logo="" group-title="۩ Rusia ۩",RU: НТМ (Народное телевидение Мордовии)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284132
-#EXTINF:-1 tvg-id="" tvg-name="RU: Мир Белогорья" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир Белогорья
+#EXTINF:-1 tvg-name="RU: Мир Белогорья" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир Белогорья
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/297690
-#EXTINF:-1 tvg-id="" tvg-name="RU: Мир +4" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир +4
+#EXTINF:-1 tvg-name="RU: Мир +4" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир +4
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284169
-#EXTINF:-1 tvg-id="" tvg-name="RU: Мир" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир
+#EXTINF:-1 tvg-name="RU: Мир" tvg-logo="" group-title="۩ Rusia ۩",RU: Мир
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/19039
-#EXTINF:-1 tvg-id="" tvg-name="RU: Матур ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Матур ТВ
+#EXTINF:-1 tvg-name="RU: Матур ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Матур ТВ
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284193
-#EXTINF:-1 tvg-id="" tvg-name="RU: МТВ (Волгоград)" tvg-logo="" group-title="۩ Rusia ۩",RU: МТВ (Волгоград)
+#EXTINF:-1 tvg-name="RU: МТВ (Волгоград)" tvg-logo="" group-title="۩ Rusia ۩",RU: МТВ (Волгоград)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198914
-#EXTINF:-1 tvg-id="" tvg-name="RU: ЛДПР ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: ЛДПР ТВ
+#EXTINF:-1 tvg-name="RU: ЛДПР ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: ЛДПР ТВ
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198909
-#EXTINF:-1 tvg-id="" tvg-name="RU: Кинозал боевик" tvg-logo="" group-title="۩ Rusia ۩",RU: Кинозал боевик
+#EXTINF:-1 tvg-name="RU: Кинозал боевик" tvg-logo="" group-title="۩ Rusia ۩",RU: Кинозал боевик
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/271238
-#EXTINF:-1 tvg-id="" tvg-name="RU: Кино 1 International" tvg-logo="" group-title="۩ Rusia ۩",RU: Кино 1 International
+#EXTINF:-1 tvg-name="RU: Кино 1 International" tvg-logo="" group-title="۩ Rusia ۩",RU: Кино 1 International
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/300979
-#EXTINF:-1 tvg-id="" tvg-name="RU: Каббала ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Каббала ТВ
+#EXTINF:-1 tvg-name="RU: Каббала ТВ" tvg-logo="" group-title="۩ Rusia ۩",RU: Каббала ТВ
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198905
-#EXTINF:-1 tvg-id="" tvg-name="RU: К16 (Саров)" tvg-logo="" group-title="۩ Rusia ۩",RU: К16 (Саров)
+#EXTINF:-1 tvg-name="RU: К16 (Саров)" tvg-logo="" group-title="۩ Rusia ۩",RU: К16 (Саров)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284196
-#EXTINF:-1 tvg-id="" tvg-name="RU: Енисей" tvg-logo="" group-title="۩ Rusia ۩",RU: Енисей
+#EXTINF:-1 tvg-name="RU: Енисей" tvg-logo="" group-title="۩ Rusia ۩",RU: Енисей
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/300118
-#EXTINF:-1 tvg-id="" tvg-name="RU: Евразия (Орск)" tvg-logo="" group-title="۩ Rusia ۩",RU: Евразия (Орск)
+#EXTINF:-1 tvg-name="RU: Евразия (Орск)" tvg-logo="" group-title="۩ Rusia ۩",RU: Евразия (Орск)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198902
-#EXTINF:-1 tvg-id="" tvg-name="RU: Губерния (Самара)" tvg-logo="" group-title="۩ Rusia ۩",RU: Губерния (Самара)
+#EXTINF:-1 tvg-name="RU: Губерния (Самара)" tvg-logo="" group-title="۩ Rusia ۩",RU: Губерния (Самара)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284199
-#EXTINF:-1 tvg-id="" tvg-name="RU: Городской телеканал (Ярославль)" tvg-logo="" group-title="۩ Rusia ۩",RU: Городской телеканал (Ярославль)
+#EXTINF:-1 tvg-name="RU: Городской телеканал (Ярославль)" tvg-logo="" group-title="۩ Rusia ۩",RU: Городской телеканал (Ярославль)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284200
-#EXTINF:-1 tvg-id="" tvg-name="RU: Белгород 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Белгород 24
+#EXTINF:-1 tvg-name="RU: Белгород 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Белгород 24
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284204
-#EXTINF:-1 tvg-id="" tvg-name="RU: Астрахань.Ru Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Астрахань.Ru Sport
+#EXTINF:-1 tvg-name="RU: Астрахань.Ru Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Астрахань.Ru Sport
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/304028
-#EXTINF:-1 tvg-id="" tvg-name="RU: Zvezda Plus (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zvezda Plus (Звезда)
+#EXTINF:-1 tvg-name="RU: Zvezda Plus (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zvezda Plus (Звезда)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/295315
-#EXTINF:-1 tvg-id="" tvg-name="RU: Zoo TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Zoo TV
+#EXTINF:-1 tvg-name="RU: Zoo TV" tvg-logo="" group-title="۩ Rusia ۩",RU: Zoo TV
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/283081
-#EXTINF:-1 tvg-id="" tvg-name="RU: Zhivaya Priroda (Живая Природа)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhivaya Priroda (Живая Природа)
+#EXTINF:-1 tvg-name="RU: Zhivaya Priroda (Живая Природа)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhivaya Priroda (Живая Природа)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/304391
-#EXTINF:-1 tvg-id="" tvg-name="RU: Zhar Ptitsa (Жар Птица)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhar Ptitsa (Жар Птица)
+#EXTINF:-1 tvg-name="RU: Zhar Ptitsa (Жар Птица)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zhar Ptitsa (Жар Птица)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198903
-#EXTINF:-1 tvg-id="" tvg-name="RU: Zdorovoe TV (Здоровое)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zdorovoe TV (Здоровое)
+#EXTINF:-1 tvg-name="RU: Zdorovoe TV (Здоровое)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zdorovoe TV (Здоровое)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/55793
-#EXTINF:-1 tvg-id="" tvg-name="RU: Zagorodny (Загородный)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zagorodny (Загородный)
+#EXTINF:-1 tvg-name="RU: Zagorodny (Загородный)" tvg-logo="" group-title="۩ Rusia ۩",RU: Zagorodny (Загородный)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/304384
-#EXTINF:-1 tvg-id="" tvg-name="RU: Yurgan (Юрган)" tvg-logo="" group-title="۩ Rusia ۩",RU: Yurgan (Юрган)
+#EXTINF:-1 tvg-name="RU: Yurgan (Юрган)" tvg-logo="" group-title="۩ Rusia ۩",RU: Yurgan (Юрган)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284205
-#EXTINF:-1 tvg-id="" tvg-name="RU: World Fashion Channel Russia" tvg-logo="" group-title="۩ Rusia ۩",RU: World Fashion Channel Russia
+#EXTINF:-1 tvg-name="RU: World Fashion Channel Russia" tvg-logo="" group-title="۩ Rusia ۩",RU: World Fashion Channel Russia
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/165963
-#EXTINF:-1 tvg-id="" tvg-name="RU: Vremya" tvg-logo="" group-title="۩ Rusia ۩",RU: Vremya
+#EXTINF:-1 tvg-name="RU: Vremya" tvg-logo="" group-title="۩ Rusia ۩",RU: Vremya
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/225217
-#EXTINF:-1 tvg-id="" tvg-name="RU: Volgograd 24 (Волгоград 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Volgograd 24 (Волгоград 24)
+#EXTINF:-1 tvg-name="RU: Volgograd 24 (Волгоград 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Volgograd 24 (Волгоград 24)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/300358
-#EXTINF:-1 tvg-id="" tvg-name="RU: Volga" tvg-logo="" group-title="۩ Rusia ۩",RU: Volga
+#EXTINF:-1 tvg-name="RU: Volga" tvg-logo="" group-title="۩ Rusia ۩",RU: Volga
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/299500
-#EXTINF:-1 tvg-id="" tvg-name="RU: VIVA TV" tvg-logo="" group-title="۩ Rusia ۩",RU: VIVA TV
+#EXTINF:-1 tvg-name="RU: VIVA TV" tvg-logo="" group-title="۩ Rusia ۩",RU: VIVA TV
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284086
-#EXTINF:-1 tvg-id="" tvg-name="RU: VIP MEGAHIT" tvg-logo="" group-title="۩ Rusia ۩",RU: VIP MEGAHIT
+#EXTINF:-1 tvg-name="RU: VIP MEGAHIT" tvg-logo="" group-title="۩ Rusia ۩",RU: VIP MEGAHIT
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/80168
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Sport
+#EXTINF:-1 tvg-name="RU: Viju+ Sport" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Sport
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/12811
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Serial" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Serial
+#EXTINF:-1 tvg-name="RU: Viju+ Serial" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Serial
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298881
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Premiere" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Premiere
+#EXTINF:-1 tvg-name="RU: Viju+ Premiere" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Premiere
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298880
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Planet" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Planet
+#EXTINF:-1 tvg-name="RU: Viju+ Planet" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Planet
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298874
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Nature
+#EXTINF:-1 tvg-name="RU: Viju+ Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Nature
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298876
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Megahit" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Megahit
+#EXTINF:-1 tvg-name="RU: Viju+ Megahit" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Megahit
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298882
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Explore
+#EXTINF:-1 tvg-name="RU: Viju+ Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Explore
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298877
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju+ Comedy" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Comedy
+#EXTINF:-1 tvg-name="RU: Viju+ Comedy" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju+ Comedy
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298875
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)
+#EXTINF:-1 tvg-name="RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/299024
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000 Action" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Action
+#EXTINF:-1 tvg-name="RU: Viju TV 1000 Action" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000 Action
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/42064
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000
+#EXTINF:-1 tvg-name="RU: Viju TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju TV 1000
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298879
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Nature
+#EXTINF:-1 tvg-name="RU: Viju Nature" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Nature
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/300121
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju History" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju History
+#EXTINF:-1 tvg-name="RU: Viju History" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju History
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298878
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viju Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Explore
+#EXTINF:-1 tvg-name="RU: Viju Explore" tvg-logo="" group-title="۩ Rusia ۩",RU: Viju Explore
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/299910
-#EXTINF:-1 tvg-id="" tvg-name="RU: Viasat History" tvg-logo="" group-title="۩ Rusia ۩",RU: Viasat History
+#EXTINF:-1 tvg-name="RU: Viasat History" tvg-logo="" group-title="۩ Rusia ۩",RU: Viasat History
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/45736
-#EXTINF:-1 tvg-id="" tvg-name="RU: VHS-KA" tvg-logo="" group-title="۩ Rusia ۩",RU: VHS-KA
+#EXTINF:-1 tvg-name="RU: VHS-KA" tvg-logo="" group-title="۩ Rusia ۩",RU: VHS-KA
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/304368
-#EXTINF:-1 tvg-id="" tvg-name="RU: Vetta 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Vetta 24
+#EXTINF:-1 tvg-name="RU: Vetta 24" tvg-logo="" group-title="۩ Rusia ۩",RU: Vetta 24
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198899
-#EXTINF:-1 tvg-id="" tvg-name="RU: Vera 24 TV (Вера 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Vera 24 TV (Вера 24)
+#EXTINF:-1 tvg-name="RU: Vera 24 TV (Вера 24)" tvg-logo="" group-title="۩ Rusia ۩",RU: Vera 24 TV (Вера 24)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/60539
-#EXTINF:-1 tvg-id="" tvg-name="RU: Usadba (Усадьба)" tvg-logo="" group-title="۩ Rusia ۩",RU: Usadba (Усадьба)
+#EXTINF:-1 tvg-name="RU: Usadba (Усадьба)" tvg-logo="" group-title="۩ Rusia ۩",RU: Usadba (Усадьба)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/43985
-#EXTINF:-1 tvg-id="" tvg-name="RU: Univer" tvg-logo="" group-title="۩ Rusia ۩",RU: Univer
+#EXTINF:-1 tvg-name="RU: Univer" tvg-logo="" group-title="۩ Rusia ۩",RU: Univer
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/198891
-#EXTINF:-1 tvg-id="" tvg-name="RU: Unikum (Уникум)" tvg-logo="" group-title="۩ Rusia ۩",RU: Unikum (Уникум)
+#EXTINF:-1 tvg-name="RU: Unikum (Уникум)" tvg-logo="" group-title="۩ Rusia ۩",RU: Unikum (Уникум)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/298016
-#EXTINF:-1 tvg-id="" tvg-name="RU: Ultra HD Cinema" tvg-logo="" group-title="۩ Rusia ۩",RU: Ultra HD Cinema
+#EXTINF:-1 tvg-name="RU: Ultra HD Cinema" tvg-logo="" group-title="۩ Rusia ۩",RU: Ultra HD Cinema
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/166573
-#EXTINF:-1 tvg-id="" tvg-name="RU: U TV (Ю ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: U TV (Ю ТВ)
+#EXTINF:-1 tvg-name="RU: U TV (Ю ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: U TV (Ю ТВ)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/80175
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV41" tvg-logo="" group-title="۩ Rusia ۩",RU: TV41
+#EXTINF:-1 tvg-name="RU: TV41" tvg-logo="" group-title="۩ Rusia ۩",RU: TV41
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/299836
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV Grozny (GTRK Groznyj)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Grozny (GTRK Groznyj)
+#EXTINF:-1 tvg-name="RU: TV Grozny (GTRK Groznyj)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Grozny (GTRK Groznyj)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/299442
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV Centr (ТВЦ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Centr (ТВЦ)
+#EXTINF:-1 tvg-name="RU: TV Centr (ТВЦ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Centr (ТВЦ)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/80238
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV Brics" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Brics
+#EXTINF:-1 tvg-name="RU: TV Brics" tvg-logo="" group-title="۩ Rusia ۩",RU: TV Brics
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/42065
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV 21" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 21
+#EXTINF:-1 tvg-name="RU: TV 21" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 21
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/19123
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV 1000 Comedy" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 1000 Comedy
+#EXTINF:-1 tvg-name="RU: TV 1000 Comedy" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 1000 Comedy
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/281329
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 1000
+#EXTINF:-1 tvg-name="RU: TV 1000" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 1000
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/12787
-#EXTINF:-1 tvg-id="" tvg-name="RU: TV 3 (ТВ3)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 3 (ТВ3)
+#EXTINF:-1 tvg-name="RU: TV 3 (ТВ3)" tvg-logo="" group-title="۩ Rusia ۩",RU: TV 3 (ТВ3)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/295461
-#EXTINF:-1 tvg-id="" tvg-name="RU: TRK 555" tvg-logo="" group-title="۩ Rusia ۩",RU: TRK 555
+#EXTINF:-1 tvg-name="RU: TRK 555" tvg-logo="" group-title="۩ Rusia ۩",RU: TRK 555
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/284155
-#EXTINF:-1 tvg-id="" tvg-name="RU: Tri Angela" tvg-logo="" group-title="۩ Rusia ۩",RU: Tri Angela
+#EXTINF:-1 tvg-name="RU: Tri Angela" tvg-logo="" group-title="۩ Rusia ۩",RU: Tri Angela
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/19108
-#EXTINF:-1 tvg-id="" tvg-name="RU: Travel Channel" tvg-logo="" group-title="۩ Rusia ۩",RU: Travel Channel
+#EXTINF:-1 tvg-name="RU: Travel Channel" tvg-logo="" group-title="۩ Rusia ۩",RU: Travel Channel
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/42060
-#EXTINF:-1 tvg-id="" tvg-name="RU: Trash" tvg-logo="" group-title="۩ Rusia ۩",RU: Trash
+#EXTINF:-1 tvg-name="RU: Trash" tvg-logo="" group-title="۩ Rusia ۩",RU: Trash
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/304367
-#EXTINF:-1 tvg-id="" tvg-name="RU: Top Secret (Совершенно секретно)" tvg-logo="" group-title="۩ Rusia ۩",RU: Top Secret (Совершенно секретно)
+#EXTINF:-1 tvg-name="RU: Top Secret (Совершенно секретно)" tvg-logo="" group-title="۩ Rusia ۩",RU: Top Secret (Совершенно секретно)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/299982
-#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Tatarstan (ТНВ Татарстан)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Tatarstan (ТНВ Татарстан)
+#EXTINF:-1 tvg-name="RU: TNV Tatarstan (ТНВ Татарстан)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Tatarstan (ТНВ Татарстан)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/271246
-#EXTINF:-1 tvg-id="" tvg-name="RU: TNV Planeta (ТНВ Планета)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Planeta (ТНВ Планета)
+#EXTINF:-1 tvg-name="RU: TNV Planeta (ТНВ Планета)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNV Planeta (ТНВ Планета)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/148375
-#EXTINF:-1 tvg-id="" tvg-name="RU: TNT Music (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT Music (ТНТ)
+#EXTINF:-1 tvg-name="RU: TNT Music (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT Music (ТНТ)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/23297
-#EXTINF:-1 tvg-id="" tvg-name="RU: TNT 4 (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT 4 (ТНТ)
+#EXTINF:-1 tvg-name="RU: TNT 4 (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT 4 (ТНТ)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/55825
-#EXTINF:-1 tvg-id="" tvg-name="RU: TNT (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT (ТНТ)
+#EXTINF:-1 tvg-name="RU: TNT (ТНТ)" tvg-logo="" group-title="۩ Rusia ۩",RU: TNT (ТНТ)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/12757
-#EXTINF:-1 tvg-id="" tvg-name="RU: TLC" tvg-logo="" group-title="۩ Rusia ۩",RU: TLC
+#EXTINF:-1 tvg-name="RU: TLC" tvg-logo="" group-title="۩ Rusia ۩",RU: TLC
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/42059
-#EXTINF:-1 tvg-id="" tvg-name="RU: Tiji" tvg-logo="" group-title="۩ Rusia ۩",RU: Tiji
+#EXTINF:-1 tvg-name="RU: Tiji" tvg-logo="" group-title="۩ Rusia ۩",RU: Tiji
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/80268
-#EXTINF:-1 tvg-id="" tvg-name="RU: The Reporter" tvg-logo="" group-title="۩ Rusia ۩",RU: The Reporter
+#EXTINF:-1 tvg-name="RU: The Reporter" tvg-logo="" group-title="۩ Rusia ۩",RU: The Reporter
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/299852
-#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal О!" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal О!
+#EXTINF:-1 tvg-name="RU: Telekanal О!" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal О!
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/166623
-#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Zvezda (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Zvezda (Звезда)
+#EXTINF:-1 tvg-name="RU: Telekanal Zvezda (Звезда)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Zvezda (Звезда)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/36566
-#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Spas (Спас ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Spas (Спас ТВ)
+#EXTINF:-1 tvg-name="RU: Telekanal Spas (Спас ТВ)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Spas (Спас ТВ)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/165978
-#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Futbol (Футбол)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Futbol (Футбол)
+#EXTINF:-1 tvg-name="RU: Telekanal Futbol (Футбол)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Futbol (Футбол)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/148388
-#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal Doktor (Доктор)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Doktor (Доктор)
+#EXTINF:-1 tvg-name="RU: Telekanal Doktor (Доктор)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal Doktor (Доктор)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/148373
-#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 360° (360` Подмосковье)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 360° (360` Подмосковье)
+#EXTINF:-1 tvg-name="RU: Telekanal 360° (360` Подмосковье)" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 360° (360` Подмосковье)
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/300132
-#EXTINF:-1 tvg-id="" tvg-name="RU: Telekanal 2x2" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 2x2
+#EXTINF:-1 tvg-name="RU: Telekanal 2x2" tvg-logo="" group-title="۩ Rusia ۩",RU: Telekanal 2x2
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/60462
-#EXTINF:-1 tvg-id="" tvg-name="RU: Teledom" tvg-logo="" group-title="۩ Rusia ۩",RU: Teledom
+#EXTINF:-1 tvg-name="RU: Teledom" tvg-logo="" group-title="۩ Rusia ۩",RU: Teledom
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/303993
 
 
@@ -15056,3 +14492,581 @@ http://195.158.222.115:8000/play/36/index.m3u8
 http://195.158.222.115:8000/play/40/index.m3u8
 #EXTINF:-1 group-title="Cineman 195.158.222.115",Viju+ Megahit 
 http://195.158.222.115:8000/play/38/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Premiere
+http://str30.tv/3078/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 1 HD
+http://str30.tv/7167/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 2 HD
+http://str30.tv/2938/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 3 HD
+http://str30.tv/7597/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Premiere Ultra 4K
+http://str30.tv/3408/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Мультсериал HD
+http://str30.tv/8590/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Kids
+http://str30.tv/8585/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Kids+
+http://str30.tv/6398/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Little
+http://str30.tv/7994/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал СССР
+http://str30.tv/9118/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Russia 90s
+http://str30.tv/2563/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU VHS
+http://str30.tv/3239/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Action HD
+http://str30.tv/7255/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Cosmo
+http://str30.tv/3559/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Catastrophe HD
+http://str30.tv/5577/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Charm
+http://str30.tv/1665/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Comedy HD
+http://str30.tv/2718/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Fantastic HD
+http://str30.tv/7834/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU FilMystic HD
+http://str30.tv/6071/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU History HD
+http://str30.tv/8129/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Reality
+http://str30.tv/2310/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Marvel HD
+http://str30.tv/1740/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Romantic HD
+http://str30.tv/4559/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Stars HD
+http://str30.tv/9944/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU RUSerial HD
+http://str30.tv/2420/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Russian
+http://str30.tv/4165/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Сваты HD
+http://str30.tv/2307/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Criminal HD
+http://str30.tv/3871/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Cinema HD
+http://str30.tv/1086/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Cinema+ HD
+http://str30.tv/6536/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Kinorating
+http://str30.tv/2071/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Survival
+http://str30.tv/6035/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU TruMotion
+http://str30.tv/8885/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+
+
+
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR 1941-1945 HD
+http://str30.ottg.app/3599/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Детектив HD
+http://str30.ottg.app/7483/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Комедия HD
+http://str30.ottg.app/1121/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Приключения HD
+http://str30.ottg.app/9068/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Сказки HD
+http://str30.ottg.app/3374/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Драма HD
+http://str30.ottg.app/3819/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Воронины HD
+http://str30.ottg.app/3466/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Мультфильм HD
+http://str30.ottg.app/7225/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Tom and Jerry HD
+http://str30.ottg.app/5857/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Агата Кристи HD
+http://str30.ottg.app/6906/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Rock HD
+http://str30.ottg.app/2952/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM 007 HD
+http://str30.ottg.app/1190/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Flip UHD
+http://str30.ottg.app/6182/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Honey HD
+http://str30.ottg.app/4629/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Lesson HD
+http://str30.ottg.app/7616/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Live Planet HD
+http://str30.ottg.app/4085/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Love HD
+http://str30.ottg.app/8384/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 1 HD
+http://str30.ottg.app/9582/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 2 HD
+http://str30.ottg.app/2462/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 3 HD
+http://str30.ottg.app/3151/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm RU HD
+http://str30.ottg.app/1571/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Relax HD
+http://str30.ottg.app/4153/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Smile HD
+http://str30.ottg.app/3788/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM UFO HD
+http://str30.ottg.app/4264/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Приключения HD
+http://str30.ottg.app/4596/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Walt Disney HD
+http://str30.ottg.app/3781/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM World Hits HD
+http://str30.ottg.app/6813/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Боевик HD
+http://str30.ottg.app/2053/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Боевик Classic HD
+http://str30.ottg.app/4171/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Вестерн HD
+http://str30.ottg.app/8466/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Грайндхаус HD
+http://str30.ottg.app/4601/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Затмение HD
+http://str30.ottg.app/6567/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM История HD
+http://str30.ottg.app/2476/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Катастрофа HD
+http://str30.ottg.app/9725/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Квартирник HD
+http://str30.ottg.app/4037/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Киберпанк HD
+http://str30.ottg.app/3441/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Комедия Classic HD
+http://str30.ottg.app/4024/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Комедия HD
+http://str30.ottg.app/8038/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Криминал HD
+http://str30.ottg.app/5220/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Крутые 90-е HD
+http://str30.ottg.app/5495/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Кунг-Фу HD
+http://str30.ottg.app/3715/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Мифология HD
+http://str30.ottg.app/5157/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Нуар HD
+http://str30.ottg.app/6491/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Погружение HD
+http://str30.ottg.app/7686/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Полицейский с Рублёвки HD
+http://str30.ottg.app/8573/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Роскино HD
+http://str30.ottg.app/1488/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Сваты HD
+http://str30.ottg.app/3318/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Семейный 1 HD
+http://str30.ottg.app/1358/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Семейный 2 HD
+http://str30.ottg.app/2262/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Синематограф HD
+http://str30.ottg.app/3812/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ситком HD
+http://str30.ottg.app/2511/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ситком 2.0 HD
+http://str30.ottg.app/6880/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Скорость HD
+http://str30.ottg.app/1581/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Спорт HD
+http://str30.ottg.app/3451/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Стивен Кинг HD
+http://str30.ottg.app/7848/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Супергерои HD
+http://str30.ottg.app/1556/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Триллер HD
+http://str30.ottg.app/4829/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ужастик HD
+http://str30.ottg.app/4708/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ужасы Classic HD
+http://str30.ottg.app/6908/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ужасы HD
+http://str30.ottg.app/5519/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Фантастика HD
+http://str30.ottg.app/6901/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Фобия HD
+http://str30.ottg.app/4293/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Celebrity HD
+http://str30.ottg.app/9541/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Classic HD
+http://str30.ottg.app/4789/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Translation HD
+http://str30.ottg.app/1186/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Драма HD
+http://str30.ottg.app/9941/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Микромир HD
+http://str30.ottg.app/2131/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Макромир HD
+http://str30.ottg.app/4234/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Мегамир HD
+http://str30.ottg.app/5908/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Experiment HD
+http://str30.ottg.app/4968/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM OldSchool HD
+http://str30.ottg.app/9976/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Гриффины HD
+http://str30.ottg.app/5556/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Открытия HD
+http://str30.ottg.app/2202/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Кинофестиваль HD
+http://str30.ottg.app/7749/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Celebrity HD
+http://str16.tv/9541/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Love HD
+http://str16.tv/8384/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 1 HD
+http://str16.tv/9582/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 2 HD
+http://str16.tv/2462/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 3 HD
+http://str16.tv/3151/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm RU HD
+http://str16.tv/1571/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Translation HD
+http://str16.tv/1186/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM UFO HD
+http://str16.tv/4264/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Боевик HD
+http://str16.tv/2053/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Боевик Classic HD
+http://str16.tv/4171/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Вестерн HD
+http://str16.tv/8466/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Воронины HD
+http://str16.tv/3466/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Грайндхаус HD
+http://str16.tv/4601/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Гриффины HD
+http://str16.tv/5556/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Затмение HD
+http://str16.tv/6567/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Драма HD
+http://str16.tv/9941/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM История HD
+http://str16.tv/2476/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Катастрофа HD
+http://str16.tv/9725/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Киберпанк HD
+http://str16.tv/3441/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Кинофестиваль
+http://str16.tv/7749/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Комедия HD
+http://str16.tv/8038/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Комедия Classic HD
+http://str16.tv/4024/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Сваты HD
+http://str16.tv/3318/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 1 HD
+http://str16.tv/1358/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 2 HD
+http://str16.tv/2262/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Синематограф HD
+http://str16.tv/3812/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Фобия HD
+http://str16.tv/4293/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Tom And Jerry HD
+http://str16.tv/5857/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Walt Disney HD
+http://str16.tv/3781/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Сказки HD
+http://str16.tv/3374/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Мультфильм HD
+http://str16.tv/7225/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM 007 HD
+http://str16.tv/1190/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Classic HD
+http://str16.tv/4789/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Flip UHD
+http://str16.tv/6182/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR 1941-1945 HD
+http://str16.tv/3599/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Детектив HD
+http://str16.tv/7483/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Драма HD
+http://str16.tv/3819/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Комедия HD
+http://str16.tv/1121/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Приключения HD
+http://str16.tv/9068/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Агата Кристи HD
+http://str16.tv/6906/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Криминал HD
+http://str16.tv/5220/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Крутые 90-е HD
+http://str16.tv/5495/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Кунг-Фу HD
+http://str16.tv/3715/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Мифология HD
+http://str16.tv/5157/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Нуар HD
+http://str16.tv/6491/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Погружение HD
+http://str16.tv/7686/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Полицейский с Рублёвки HD
+http://str16.tv/8573/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Приключения HD
+http://str16.tv/4596/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Роскино HD
+http://str16.tv/1488/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ситком 2.0 HD
+http://str16.tv/6880/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Скорость HD
+http://str16.tv/1581/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Спорт HD
+http://str16.tv/3451/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Стивен Кинг HD
+http://str16.tv/7848/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Супергерои HD
+http://str16.tv/1556/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Триллер HD
+http://str16.tv/4829/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужастик HD
+http://str16.tv/4708/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы HD
+http://str16.tv/5519/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы Classic HD
+http://str16.tv/6908/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Фантастика HD
+http://str16.tv/6901/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Relax HD
+http://str16.tv/4153/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Experiment HD
+http://str16.tv/4968/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Honey HD
+http://str16.tv/4629/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Lesson HD
+http://str16.tv/7616/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Live Planet HD
+http://str16.tv/4085/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM OldSchool HD
+http://str16.tv/9976/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Rock HD
+http://str16.tv/2952/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Smile HD
+http://str16.tv/3788/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM World Hits HD
+http://str16.tv/6813/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Квартирник HD
+http://str16.tv/4037/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Макромир HD
+http://str16.tv/4234/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Мегамир HD
+http://str16.tv/5908/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Микромир HD
+http://str16.tv/2131/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Открытия HD
+http://str16.tv/2202/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ситком HD
+http://str16.tv/2511/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Premiere
+http://str16.tv/3078/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 1 HD
+http://str16.tv/7167/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 2 HD
+http://str16.tv/2938/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 3 HD
+http://str16.tv/7597/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Мультсериал HD
+http://str16.tv/8590/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Kids
+http://str16.tv/8585/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Kids+
+http://str16.tv/6398/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Little
+http://str16.tv/7994/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал СССР
+http://str16.tv/9118/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Russia 90s
+http://str16.tv/2563/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU VHS
+http://str16.tv/3239/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Action HD
+http://str16.tv/7255/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Cosmo
+http://str16.tv/3559/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Catastrophe HD
+http://str16.tv/5577/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Charm
+http://str16.tv/1665/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Comedy HD
+http://str16.tv/2718/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Fantastic HD
+http://str16.tv/7834/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU FilMystic HD
+http://str16.tv/6071/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU History HD
+http://str16.tv/8129/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Reality
+http://str16.tv/2310/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Marvel HD
+http://str16.tv/1740/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Romantic HD
+http://str16.tv/4559/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Stars HD
+http://str16.tv/9944/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU RUSerial HD
+http://str16.tv/2420/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Russian
+http://str16.tv/4165/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Сваты HD
+http://str16.tv/2307/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Criminal HD
+http://str16.tv/3871/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Cinema HD
+http://str16.tv/1086/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Cinema+ HD
+http://str16.tv/6536/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Kinorating
+http://str16.tv/2071/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Survival
+http://str16.tv/6035/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU TruMotion
+http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
