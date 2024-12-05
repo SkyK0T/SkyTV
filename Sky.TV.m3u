@@ -1797,12 +1797,12 @@ http://hls127.homeiptv.org:8880/CPS_Fresh_UA/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="MM Скорость",MM Скорость HD
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Kinozal! Интерны ТВ",Kinozal! Интерны ТВ
+#EXTINF:-1 group-title="HomeIPTV Cloudflare "tvg-name="Kinozal! Интерны ТВ",Kinozal! Интерны ТВ
 http://hls127.homeiptv.org:8880/Kinozal_Intern_HD/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare "tvg-name="Kinozal! Универ ТВ",Kinozal! Универ ТВ
 http://hls127.homeiptv.org:8880/Kinozal_univer/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Insomnia",Insomnia HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Insomnia",Insomnia
 http://hls127.homeiptv.org:8880/PG_Insomnia_HD/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Paradise",Paradise HD
 http://hls127.homeiptv.org:8880/PG_Paradise_HD/video.m3u8
@@ -1816,7 +1816,7 @@ http://hls127.homeiptv.org:8880/PG_Premium_HD/video.m3u8
 http://hls127.homeiptv.org:8880/PG_Thriller_HD/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="USSR",USSR HD
 http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Victory HD,Victory HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="Victory HD,Victory
 http://hls127.homeiptv.org:8880/PG_Victory_HD/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-name="РуКино",РуКино HD
 http://hls127.homeiptv.org:8880/PG_Rukino_HD/video.m3u8
@@ -1966,9 +1966,9 @@ http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Старт HD
 http://hls127.homeiptv.org:8880/Start_HD/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!",Матч!
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-logo="https://i.imgur.com/iKZvKyP.png",Матч!
 http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол",Футбол
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
 http://hls127.homeiptv.org:8880/Football/video.m3u8
 
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Soyuz.ru" tvg-logo="https://i.imgur.com/w3OewHc.png" tvg-name="Союз"Союз
@@ -2165,42 +2165,42 @@ http://ott.high-net.ru/High_Network_Sports_Vital/index.m3u8?token=High_Network
 
 
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",Dimonovich CHD-TV RU Rock HD
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",Dimonovich CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="🔺Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",Dimonovich CHD-TV Rock
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",Dimonovich CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="🔺Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",Dimonovich СоюзМультфильм
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",Dimonovich СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="🔺Кинозалы🔺Dimonovich🔺" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Dimonovich Чип и Дейл
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Dimonovich Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Movify.TV🔺" tvg-id="https://movify.tv/tvchannel-program/18 "tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg",Movify Кино
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="https://movify.tv/tvchannel-program/18 "tvg-logo="http://db1.greenhosting.ru/storage/db-tvchannels/May2023/6aHfVRwPETtREku2Bkt2.jpg",Movify Кино
 https://void.greenhosting.ru/MovifyKino_Mpeg4/video.m3u8
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Movify.TV🔺" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv Сериал
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv Сериал
 https://void.greenhosting.ru/MovifyVesture_Mpeg4/index.m3u8
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Movify.TV🔺" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv История
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/s2qT2Rr8/logo.png",Movify.tv История
 https://void.greenhosting.ru/MovifySerial_Mpeg4/index.m3u8
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Movify.TV🔺" tvg-id="Multimania.lv",Мультимания
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="Multimania.lv",Мультимания
 https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Movify.TV🔺" tvg-id="Gribuvisuzinat.lv",Хочу всё знать
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="Gribuvisuzinat.lv",Хочу всё знать
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Movify.TV🔺" tvg-id="MuzikasVideoKanals.lv",Mūzikas Video Kanāls
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="MuzikasVideoKanals.lv",Mūzikas Video Kanāls
 https://stream.onlive-media.com/live/streams/mvk.m3u8
 
-#EXTINF:-1 group-title="🔺Кинозалы🔺Movify.TV🔺" tvg-id="Pingviins.lv",Pingvīns
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="Pingviins.lv",Pingvīns
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 
-#EXTINF:-1 group-title=🔺Кинозалы"🔺Movify.TV🔺" tvg-id="Pingviin.ee",Pingviin
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="Pingviin.ee",Pingviin
 https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg" group-title="🔺Кинозалы🔺 Velilla TV A-Media🔺",Mafi2a Music TV
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg",Mafi2a Music TV
 http://158.101.194.132:8080/channel/n5a0c5a33/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
 
