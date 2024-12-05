@@ -773,8 +773,6 @@ https://s.catcast.tv/content/38850/index.m3u8?token=6c93e874917f93b3fb1b2a19aff4
 #EXTGRP:🐈 Catcast TV 🐈
 https://s.catcast.tv/content/38896/index.m3u8?token=9478147e3637dc15dc7286e0aab29da1
 
-
-
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38821-61045e2aa14fb.png",IPTVPLAY Память (не работает)
 #EXTGRP:🐈 Catcast TV 🐈
 https://неработает
@@ -808,7 +806,7 @@ https://v2.catcast.tv/content/34185/index.m3u8
 #EXTGRP:🐈 Catcast TV 🐈
 https://v2.catcast.tv/content/40783/index.m3u8
 
-#EXTINF:-1 group-title="🐈 Catcast TV 🐈",Сити Эдем - КиноНовелла
+#EXTINF:-1,Сити Эдем - КиноНовелла
 #EXTGRP:🐈 Catcast TV 🐈
 https://autopilot.catcast.tv/content/46209/index.m3u8
 
