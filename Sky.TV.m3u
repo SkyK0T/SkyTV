@@ -1179,14 +1179,14 @@ http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
 http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Ужасы 
 http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Western
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-logo="https://iptvx.one/picons/clarity4k-western.png",Clarity4K Вестерн
 http://hls127.homeiptv.org:8880/Clarity4K_Western/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Walt Disney
 http://hls127.homeiptv.org:8880/Clarity4K_Walt_Disney/video.m3u8
 
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Боевик
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Драмы
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-logo="https://iptvx.one/picons/clarity4k-dramy.png",Clarity4K Драмы
 http://hls127.homeiptv.org:8880/Clarity4K_Dramma/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K КиноФраншизы
 http://hls127.homeiptv.org:8880/Clarity4K_Kinofranshiza/video.m3u8
@@ -1196,7 +1196,7 @@ http://hls127.homeiptv.org:8880/Clarity4K_Fentazi/video.m3u8
 http://hls127.homeiptv.org:8880/Clarity4K_Concert/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K World Music
 http://hls127.homeiptv.org:8880/Clarity4K_World_Music/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Единоборства
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-logo="https://iptvx.one/picons/clarity4k-edinoborstva.png",Clarity4K Единоборства
 http://hls127.homeiptv.org:8880/Clarity4K_Edinoborstva/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",Clarity4K Звериный мир
 http://hls127.homeiptv.org:8880/Clarity4K_Zveriniy_Mir/video.m3u8
@@ -1228,7 +1228,7 @@ http://hls127.homeiptv.org:8880/CPS_Cartoon/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare",CPS Fresh UA HD
 http://hls127.homeiptv.org:8880/CPS_Fresh_UA/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare"  tvg-id="5166" tvg-logo="http://epg.one/img/5166.png",MM Скорость HD
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="5166" tvg-logo="http://epg.one/img/5166.png",MM Скорость HD
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" tvg-rec="7",Кинозал! Интерны ТВ
 http://hls127.homeiptv.org:8880/Kinozal_Intern_HD/video.m3u8
@@ -1342,7 +1342,7 @@ http://hls127.homeiptv.org:8880/Istoriya/video.m3u8
 http://hls127.homeiptv.org:8880/NAUKA/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-name="Ностальгия",Ностальгия
 http://hls127.homeiptv.org:8880/Nostalgiya/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png" tvg-name="Россия-К",Россия К
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",Россия Культура
 http://hls127.homeiptv.org:8880/Rossiya_K/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="TopSecret.ru" tvg-logo="https://i.imgur.com/HM4xy4G.png" tvg-name="Совершенно секретно",Совершенно секретно
 http://hls127.homeiptv.org:8880/Sovershenno_Sekretno/video.m3u8
@@ -1354,6 +1354,9 @@ http://hls127.homeiptv.org:8880/Dikiy/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-name="Кухня ТВ",Кухня ТВ
 http://hls127.homeiptv.org:8880/Kuhnya_TV/video.m3u8
 
+
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Gagsnetwork.ru" tvg-logo="https://i.imgur.com/ENj5GIp.png",Gags Network HD
+http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-name="Мульт",Мульт
 http://hls127.homeiptv.org:8880/Mult/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="STSkids.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" tvg-name="СТС Kids",СТС Kids
@@ -1378,9 +1381,8 @@ http://hls127.homeiptv.org:8880/BelRos/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="MirBelogorya.ru" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-name="Мир Белогорья",Мир Белогорья
 http://hls127.homeiptv.org:8880/Mir_Belogorya/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Gagsnetwork.ru" tvg-logo="https://i.imgur.com/ENj5GIp.png",Gags Network 16+
-http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" tvg-name="Дважды два",Канал 2x2
+
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" tvg-name="Дважды два",2x2
 http://hls127.homeiptv.org:8880/2X2/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Kluch.ru" tvg-logo="https://i.imgur.com/WA9TOPi.png" tvg-name="Ключ",Ключ
 http://hls127.homeiptv.org:8880/Kluch/video.m3u8
@@ -1404,9 +1406,9 @@ http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
 #EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
 http://hls127.homeiptv.org:8880/Football/video.m3u8
 
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Soyuz.ru" tvg-logo="https://i.imgur.com/w3OewHc.png" tvg-name="Союз"Союз
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Soyuz.ru" tvg-logo="https://i.imgur.com/w3OewHc.png" tvg-name="Союз",Союз
 http://hls127.homeiptv.org:8880/Souz/video.m3u8
-#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Spas.ru" tvg-logo="https://i.imgur.com/yY39nMg.png" tvg-name="Спас"Спас
+#EXTINF:-1 group-title="HomeIPTV Cloudflare" tvg-id="Spas.ru" tvg-logo="https://i.imgur.com/yY39nMg.png" tvg-name="Спас",Спас
 http://hls127.homeiptv.org:8880/Spas/video.m3u8
 
 
