@@ -352,7 +352,7 @@ http://93.189.224.246:52900/play/a011/index.m3u8
 http://93.189.224.246:52900/play/a010/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Пятница
 http://93.189.224.246:52900/play/a00n/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑",Пятый
+#EXTINF:-1 group-title="🍑PersikTV🍑",5 канал
 http://93.189.224.246:52900/play/a00y/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Рен ТВ
 http://93.189.224.246:52900/play/a00v/index.m3u8
@@ -364,7 +364,7 @@ http://93.189.224.246:52900/play/a00o/index.m3u8
 http://93.189.224.246:52900/play/a00j/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Русская ночь
 http://93.189.224.246:52900/play/a00s/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑",ТВ-3 (Россия)
+#EXTINF:-1 group-title="🍑PersikTV🍑",ТВ-3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",ТВ 3 Беларусь 
 http://93.189.224.246:52900/play/a00f/index.m3u8
