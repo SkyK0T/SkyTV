@@ -1,880 +1,291 @@
-#EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz"
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ТВ3 HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/136.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Пятница! HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/181.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Суббота! HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/269.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Ю
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/230.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",2х2
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/187.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Перец International
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/121.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Fashion ONE HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/119.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Сарафан
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/81.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Вопросы и ответы
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/76.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ТНТ HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/135.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ТНТ4 HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/106.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ТНТ(+2)
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/97.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",СТС HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/138.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",СТС Love
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/183.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Домашний HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/227.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Інтер+ HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/345.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Новий канал HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/157.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ICTV 2 HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/368.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",СТБ HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/156.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",2+2 HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/173.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",FILMUADRAMA HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/273.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",UA: Культура HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/435.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",К1 HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/270.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ТЕТ HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/338.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",1+1 International
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/105.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ОЦЕ HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/329.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Кус-кус HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/195.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",НТН HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/326.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",36.6 HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/331.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Квартал ТВ
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/321.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Дім HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/383.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Bolt HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/73.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ПлюсПлюс HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/339.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Бiгудi
-#EXTGRP:Развлекательные
-http://ott.watch/stream/TL2VR9NCFE/340.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Інтер HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/174.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ICTV HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/158.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/172.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 Україна HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/219.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К2 HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/324.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Київ HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/439.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Крим HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/436.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Перший HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/437.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Zoom HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/327.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Уніан HD
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/341.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 9 HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/20.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/293.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 12 HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/294.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/295.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 14 HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/454.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Zoom (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/377.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",KAN23 (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/378.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",YES Movies Action HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/380.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",HOT Zone HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/379.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",HOT HBO HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/381.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",7 канал (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/27.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",31 Канал (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/388.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Qazaqstan (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/71.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Астана ТВ (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/28.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",КТК (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/26.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",НТК (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/389.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Armenia 1 TV (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/38.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Armenia TV HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/175.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Shant HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/37.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ATV HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/36.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Kentron HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/39.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 Life HD (Латвия)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/373.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV 7 HD (Латвия)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/371.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 24 (Латвия)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/372.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV1 (Латвия)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/34.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LNK HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/30.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",BTV HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/35.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LRT HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/31.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LRT Plius HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/353.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 8 HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/374.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/29.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Balticum (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/376.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 6 (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/375.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Молдова 1
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/336.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",RLive TV (Молдова)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/335.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Jurnal TV (Молдова)
-#EXTGRP:Национальные
-http://ott.watch/stream/TL2VR9NCFE/277.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/177.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/205.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",History HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/113.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",H2 HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/65.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",TLC HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/168.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Animal Planet HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/114.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Глазами Туриста HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/304.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живи Активно HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/132.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Наука 2.0 HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/125.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Культура
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/229.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",В мире животных HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/241.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мама
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/79.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Доктор HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/80.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Da Vinci
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/238.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viju Explore HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/239.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viju+ Planet HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/240.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viju History HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/101.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Соль ТВ HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/398.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Чемодан ТВ HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/399.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",365 дней ТВ
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/70.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя планета HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/124.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",RTG HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/164.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Приключения HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/198.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel channel HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/231.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel+Adventure HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/206.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охота и рыбалка
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/155.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охотник и рыболов HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/194.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Диалоги о рыбалке HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/264.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Охота HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/274.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Рыбалка HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/275.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Усадьба
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/211.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая природа HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/225.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая планета
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/83.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Кухня ТВ
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/179.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Food Time HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/216.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто24 HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/78.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто Плюс HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/186.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя стихия HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/141.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HDL HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/161.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Insight TV HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/361.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Нано ТВ HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/419.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",National Geographic HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/116.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Nat Geo Wild HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/149.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",RAZ 1 HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/463.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",RAZ 2 HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/464.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Quiz TV HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/397.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Рибалка HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/286.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дача HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/370.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мега HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/325.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Трофей HD
-#EXTGRP:Познавательные
-http://ott.watch/stream/TL2VR9NCFE/357.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинокомедия HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/265.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносемья HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/170.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносвидание HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/171.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинохит HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/126.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киномикс HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/133.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Родное кино
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/242.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Индийское кино
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/104.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мужское кино HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/107.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киноужас HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/278.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Viju TV 1000 HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/110.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Viju TV 1000 Action HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/100.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Viju+ Premiere HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/202.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Viju+ Megahit HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/200.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Viju+ Comedy HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/201.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Viju+ Serial HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/311.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедийное HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/74.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Premium HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/151.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia 1 HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/117.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Hit HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/162.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Роман HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/266.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Бестселлер
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/208.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Детектив
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/204.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедия
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/68.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",black HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/263.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Время
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/237.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",red HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/69.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",sci-fi HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/180.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/217.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Душевное HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/213.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",КиноТВ HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/221.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопоказ HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/64.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cinema HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/62.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НСТ
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/207.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Еврокино HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/385.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ТВ XXI
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/152.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Plan B HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/196.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Остросюжетное HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/214.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/236.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино Премиум HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/108.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Hollywood HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/268.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НТВ Сериал
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/301.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Телекафе
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/314.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",24Техно
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/209.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше мужское HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/362.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Блокбастер HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/364.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Star Family HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/226.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Kino 1 HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/395.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Шокирующее HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/75.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Хит HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/363.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/369.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Премиальное HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/421.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Ретро
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/191.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",FAN HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/420.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дорама HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/412.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/349.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Top HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/350.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cineman Premium HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/470.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cineman Катастрофы HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/471.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cineman Мелодрама HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/472.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Action HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/351.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Thriller HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/352.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Marvel HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/354.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Ужасы HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/355.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Comedy HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/356.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cineman VHS HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/474.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cineman Скорая помощь HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/475.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cineman Ментовские войны HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/477.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",CineMan Сваты HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/359.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Rating HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/422.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Cinema HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/423.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Premiere HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/424.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Comedy HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/426.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Family HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/427.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh VHS HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/428.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Fantastic HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/429.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Series HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/430.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Horror HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/431.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Adventure HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/432.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Romantic HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/433.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fresh Thriller HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/434.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Comedy Central
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/167.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/182.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Life HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/129.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Star Cinema HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/310.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Kino 2 HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/465.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Твій Серіал HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/466.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Enter-фільм HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/322.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Kinosweet HD
-#EXTGRP:Кино
-http://ott.watch/stream/TL2VR9NCFE/447.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 1 HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/176.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/192.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Боец HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/112.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 1
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/391.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 2
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/392.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 3 HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/393.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 4
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/394.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",KHL ТВ
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/166.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",KHL Prime HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/178.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viju+ Sport HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/333.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Бокс ТВ
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/154.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Extreme Sports
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/148.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Экстрим HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/285.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",UDAR HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/279.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 1 Baltic
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/461.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Dynamo Kyiv TV HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/396.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",X Sport Plus HD
-#EXTGRP:Спорт
-http://ott.watch/stream/TL2VR9NCFE/332.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/443.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/220.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Солнце
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/118.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",TiJi
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/111.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/232.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт и музыка
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/82.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/150.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Капитан Фантастика HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/144.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Карусель
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/120.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",В гостях у сказки HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/93.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал О!
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/60.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Gulli Girl
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/305.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Ani
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/306.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Fresh Kids HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/425.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Short HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/347.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Big HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/348.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cineman Симпсоны HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/476.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons 90 HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/484.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon UA HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/127.m3u8
-#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Піксель HD
-#EXTGRP:Детские
-http://ott.watch/stream/TL2VR9NCFE/323.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Stingray iConcerts HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/267.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE DELUXE HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/92.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE CLASSIC
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/272.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/318.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE ХИТ
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/320.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Music Box
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/319.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Europa Plus TV HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/184.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Inrating HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/147.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Музыка Первого
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/153.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Муз-ТВ HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/86.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Жара HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/386.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",RU.TV
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/109.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Mezzo Live HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/276.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Ля-минор ТВ
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/303.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",ТНТ MUSIC
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/317.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Stingray CMusic HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/312.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М1 HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/218.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/330.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",МУЗВАР HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/467.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV Hits
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/302.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV Live HD
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/215.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 00s
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/165.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 90s
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/88.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 80s
-#EXTGRP:Музыкальные
-http://ott.watch/stream/TL2VR9NCFE/87.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Настоящее время HD
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/384.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",EuroNews
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/189.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Deutsche Welle HD
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/440.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",BBC News HD UK
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/85.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Рада HD
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/382.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Еспресо HD
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/84.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",24 Канал HD
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/462.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/63.m3u8
-#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Ukraine World News HD
-#EXTGRP:Новостные
-http://ott.watch/stream/TL2VR9NCFE/441.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
-#EXTGRP:Для взрослых
-http://ott.watch/stream/TL2VR9NCFE/280.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
-#EXTGRP:Для взрослых
-http://ott.watch/stream/TL2VR9NCFE/289.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
-#EXTGRP:Для взрослых
-http://ott.watch/stream/TL2VR9NCFE/290.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
-#EXTGRP:Для взрослых
-http://ott.watch/stream/TL2VR9NCFE/54.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Erox HD
-#EXTGRP:Для взрослых
-http://ott.watch/stream/TL2VR9NCFE/58.m3u8
+#EXTM3U
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .0.1:1234
+http://77.241.20.87:4022/udp/230.0.0.1:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .0.2:1234
+http://77.241.20.87:4022/udp/230.0.0.2:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .0.4:1234
+http://77.241.20.87:4022/udp/230.0.0.4:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .0.5:1234
+http://77.241.20.87:4022/udp/230.0.0.5:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .0.6:1234
+http://77.241.20.87:4022/udp/230.0.0.6:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.1:1234
+http://77.241.20.87:4022/udp/230.0.1.1:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.2:1234
+http://77.241.20.87:4022/udp/230.0.1.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.3:1234
+http://77.241.20.87:4022/udp/230.0.1.3:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.4:1234
+http://77.241.20.87:4022/udp/230.0.1.4:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.5:1234
+http://77.241.20.87:4022/udp/230.0.1.5:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.6:1234
+http://77.241.20.87:4022/udp/230.0.1.6:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.7:1234
+http://77.241.20.87:4022/udp/230.0.1.7:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.8:1234
+http://77.241.20.87:4022/udp/230.0.1.8:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.9:1234
+http://77.241.20.87:4022/udp/230.0.1.9:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.10:1234
+http://77.241.20.87:4022/udp/230.0.1.10:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.11:1234
+http://77.241.20.87:4022/udp/230.0.1.11:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.12:1234
+http://77.241.20.87:4022/udp/230.0.1.12:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.13:1234
+http://77.241.20.87:4022/udp/230.0.1.13:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.14:1234
+http://77.241.20.87:4022/udp/230.0.1.14:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.15:1234
+http://77.241.20.87:4022/udp/230.0.1.15:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.16:1234
+http://77.241.20.87:4022/udp/230.0.1.16:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.17:1234
+http://77.241.20.87:4022/udp/230.0.1.17:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.18:1234
+http://77.241.20.87:4022/udp/230.0.1.18:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.19:1234
+http://77.241.20.87:4022/udp/230.0.1.19:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.20:1234
+http://77.241.20.87:4022/udp/230.0.1.20:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.21:1234
+http://77.241.20.87:4022/udp/230.0.1.21:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.23:1234
+http://77.241.20.87:4022/udp/230.0.1.23:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.24:1234
+http://77.241.20.87:4022/udp/230.0.1.24:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.25:1234
+http://77.241.20.87:4022/udp/230.0.1.25:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.26:1234
+http://77.241.20.87:4022/udp/230.0.1.26:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.27:1234
+http://77.241.20.87:4022/udp/230.0.1.27:1234
+
+
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.30:1234
+http://77.241.20.87:4022/udp/230.0.1.30:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.34:1234
+http://77.241.20.87:4022/udp/230.0.1.34:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.35:1234
+http://77.241.20.87:4022/udp/230.0.1.35:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.38:1234
+http://77.241.20.87:4022/udp/230.0.1.38:1234
+
+
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.48:1234
+http://77.241.20.87:4022/udp/230.0.1.48:1234
+
+
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.71:1234
+http://77.241.20.87:4022/udp/230.0.1.71:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.72:1234
+http://77.241.20.87:4022/udp/230.0.1.72:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .1.73:1234
+http://77.241.20.87:4022/udp/230.0.1.73:1234
+#EXTINF:-1 group-title="КурскТелеком",НТВ
+http://77.241.20.87:4022/udp/230.0.1.74:1234
+#EXTINF:-1 group-title="КурскТелеком",Пятый канал
+http://77.241.20.87:4022/udp/230.0.1.75:1234
+#EXTINF:-1 group-title="КурскТелеком",Россия К
+http://77.241.20.87:4022/udp/230.0.1.76:1234
+#EXTINF:-1 group-title="КурскТелеком",Россия 24
+http://77.241.20.87:4022/udp/230.0.1.77:1234
+#EXTINF:-1 group-title="КурскТелеком",Карусель
+http://77.241.20.87:4022/udp/230.0.1.78:1234
+
+#EXTINF:-1 group-title="КурскТелеком",2    1
+http://77.241.20.87:4022/udp/230.0.4.1:1234
+#EXTINF:-1 group-title="КурскТелеком",KHL
+http://77.241.20.87:4022/udp/230.0.4.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Матч! Игра
+http://77.241.20.87:4022/udp/230.0.4.3:1234
+#EXTINF:-1 group-title="КурскТелеком",Матч! Страна
+http://77.241.20.87:4022/udp/230.0.4.4:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .4.6:1234
+http://77.241.20.87:4022/udp/230.0.4.6:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .5.2:1234
+http://77.241.20.87:4022/udp/230.0.5.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .5.4:1234
+http://77.241.20.87:4022/udp/230.0.5.4:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .5.5:1234
+http://77.241.20.87:4022/udp/230.0.5.5:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .5.6:1234
+http://77.241.20.87:4022/udp/230.0.5.6:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .5.8:1234
+http://77.241.20.87:4022/udp/230.0.5.8:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .6.1:1234
+http://77.241.20.87:4022/udp/230.0.6.1:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .6.2:1234
+http://77.241.20.87:4022/udp/230.0.6.2:1234
+
+#EXTINF:-1 group-title="КурскТелеком",HTB+
+http://77.241.20.87:4022/udp/230.0.7.1:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .8.1:1234
+http://77.241.20.87:4022/udp/230.0.8.1:1234
+#EXTINF:-1 group-title="КурскТелеком",HTB+
+http://77.241.20.87:4022/udp/230.0.8.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .8.3:1234
+http://77.241.20.87:4022/udp/230.0.8.3:1234
+#EXTINF:-1 group-title="КурскТелеком",HTB
+http://77.241.20.87:4022/udp/230.0.8.4:1234
+#EXTINF:-1 group-title="КурскТелеком",Охота и рыбалка
+http://77.241.20.87:4022/udp/230.0.8.5:1234
+
+
+#EXTINF:-1 group-title="КурскТелеком" tvg-logo="https://veranzo.ru/other/icons/Мы.png",Мы
+http://77.241.20.87:4022/udp/230.0.10.3:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .10.4:1234
+http://77.241.20.87:4022/udp/230.0.10.4:1234
+#EXTINF:-1 group-title="КурскТелеком",РТРС
+http://77.241.20.87:4022/udp/230.0.10.25:1234
+#EXTINF:-1 group-title="КурскТелеком",ktk
+http://77.241.20.87:4022/udp/230.0.10.201:1234
+#EXTINF:-1 group-title="КурскТелеком",ktk
+http://77.241.20.87:4022/udp/230.0.10.202:1234
+#EXTINF:-1 group-title="КурскТелеком",ktk
+http://77.241.20.87:4022/udp/230.0.10.203:1234
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.1:1234
+http://77.241.20.87:4022/udp/230.0.11.1:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.2:1234
+http://77.241.20.87:4022/udp/230.0.11.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.3:1234
+http://77.241.20.87:4022/udp/230.0.11.3:1234
+#EXTINF:-1 group-title="КурскТелеком",Стс Love
+http://77.241.20.87:4022/udp/230.0.11.5:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.6:1234
+http://77.241.20.87:4022/udp/230.0.11.6:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.7:1234
+http://77.241.20.87:4022/udp/230.0.11.7:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.8:1234
+http://77.241.20.87:4022/udp/230.0.11.8:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.10:1234
+http://77.241.20.87:4022/udp/230.0.11.10:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.11:1234
+http://77.241.20.87:4022/udp/230.0.11.11:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.12:1234
+http://77.241.20.87:4022/udp/230.0.11.12:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.13:1234
+http://77.241.20.87:4022/udp/230.0.11.13:1234
+#EXTINF:-1 group-title="КурскТелеком",Че
+http://77.241.20.87:4022/udp/230.0.11.14:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.15:1234
+http://77.241.20.87:4022/udp/230.0.11.15:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.16:1234
+http://77.241.20.87:4022/udp/230.0.11.16:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.17:1234
+http://77.241.20.87:4022/udp/230.0.11.17:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.18:1234
+http://77.241.20.87:4022/udp/230.0.11.18:1234
+#EXTINF:-1 group-title="КурскТелеком",Канал .11.19:1234
+http://77.241.20.87:4022/udp/230.0.11.19:1234
+#EXTINF:-1 group-title="КурскТелеком",Усадьба
+http://77.241.20.87:4022/udp/230.0.11.20:1234
+#EXTINF:-1 group-title="КурскТелеком",Первый игровой
+http://77.241.20.87:4022/udp/230.0.11.21:1234
+#EXTINF:-1 group-title="КурскТелеком",Drive
+http://77.241.20.87:4022/udp/230.0.11.22:1234
+#EXTINF:-1 group-title="КурскТелеком",8 канал
+http://77.241.20.87:4022/udp/230.0.11.23:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Big Asia
+http://77.241.20.87:4022/udp/230.0.11.25:1234
+#EXTINF:-1 group-title="КурскТелеком",ТНТ 4
+http://77.241.20.87:4022/udp/230.0.11.26:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Суббота
+http://77.241.20.87:4022/udp/230.0.11.28:1234
+#EXTINF:-1 group-title="КурскТелеком",Солнце
+http://77.241.20.87:4022/udp/230.0.11.29:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Время
+http://77.241.20.87:4022/udp/230.0.11.31:1234
+
+#EXTINF:-1 group-title="КурскТелеком",ТНТ music
+http://77.241.20.87:4022/udp/230.0.11.35:1234
+
+
+
+#EXTINF:-1 group-title="КурскТелеком",Мосфильм Золотая коллекция
+http://77.241.20.87:4022/udp/230.0.12.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Мультиландия
+http://77.241.20.87:4022/udp/230.0.12.3:1234
+#EXTINF:-1 group-title="КурскТелеком",Уникум
+http://77.241.20.87:4022/udp/230.0.12.4:1234
+#EXTINF:-1 group-title="КурскТелеком",Детский мир
+http://77.241.20.87:4022/udp/230.0.12.5:1234
+
+
+#EXTINF:-1 group-title="КурскТелеком",ТВ 21
+http://77.241.20.87:4022/udp/230.0.13.1:1234
+#EXTINF:-1 group-title="КурскТелеком",Мир сериала
+http://77.241.20.87:4022/udp/230.0.13.4:1234
+#EXTINF:-1 group-title="КурскТелеком",Любимое кино
+http://77.241.20.87:4022/udp/230.0.13.5:1234
+#EXTINF:-1 group-title="КурскТелеком",Дом кино
+http://77.241.20.87:4022/udp/230.0.13.6:1234
+#EXTINF:-1 group-title="КурскТелеком",Кино ТВ
+http://77.241.20.87:4022/udp/230.0.13.7:1234
+#EXTINF:-1 group-title="КурскТелеком",Индия
+http://77.241.20.87:4022/udp/230.0.13.8:1234
+#EXTINF:-1 group-title="КурскТелеком",Русский бестселлер
+http://77.241.20.87:4022/udp/230.0.13.9:1234
+#EXTINF:-1 group-title="КурскТелеком",Дом кино Премиум HD
+http://77.241.20.87:4022/udp/230.0.13.10:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Кинеко
+http://77.241.20.87:4022/udp/230.0.14.1:1234
+#EXTINF:-1 group-title="КурскТелеком",Сапфир
+http://77.241.20.87:4022/udp/230.0.14.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Terra
+http://77.241.20.87:4022/udp/230.0.14.3:1234
+#EXTINF:-1 group-title="КурскТелеком",Приключения
+http://77.241.20.87:4022/udp/230.0.14.5:1234
+
+#EXTINF:-1 group-title="КурскТелеком" tvg-logo="https://veranzo.ru/other/icons/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%20HD.png",Охотник и рыболов HD
+http://77.241.20.87:4022/udp/230.0.15.1:1234
+
+#EXTINF:-1 group-title="КурскТелеком",Food
+http://77.241.20.87:4022/udp/230.0.15.4:1234
+
+
+#EXTINF:-1 group-title="КурскТелеком",Киносерия
+http://77.241.20.87:4022/udp/230.0.17.1:1234
+#EXTINF:-1 group-title="КурскТелеком",Доктор
+http://77.241.20.87:4022/udp/230.0.17.2:1234
+#EXTINF:-1 group-title="КурскТелеком",Т24
+http://77.241.20.87:4022/udp/230.0.17.3:1234
+#EXTINF:-1 group-title="КурскТелеком",НСТ
+http://77.241.20.87:4022/udp/230.0.17.4:1234
+#EXTINF:-1 group-title="КурскТелеком" ,5
+http://77.241.20.87:4022/udp/230.0.17.5:1234
+#EXTINF:-1 group-title="КурскТелеком" tvg-logo="https://veranzo.ru/other/icons/Оружие.png",Оружие
+http://77.241.20.87:4022/udp/230.0.17.6:1234
+#EXTINF:-1 group-title="КурскТелеком" ,7
+http://77.241.20.87:4022/udp/230.0.17.7:1234
+#EXTINF:-1 group-title="КурскТелеком",Загородная жизнь
+http://77.241.20.87:4022/udp/230.0.17.8:1234
