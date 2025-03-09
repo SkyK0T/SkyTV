@@ -4,6 +4,7 @@
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 
+#EXTM3U
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.mycdn.me/i?r=BDGvRlXWcXJosdiHOqVV3e-HIgA80qqpoQnGnUoRhMzez1yYFwVnysNuaLcYNszflNM",Известные актёры
 http://fs2.persik.by/Izvestnie_akteri5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",Александра Бортич
@@ -31,7 +32,7 @@ http://fs2.persik.by/Kozlovskij_4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://sun9-13.userapi.com/c850324/v850324391/1cfc4c/HxMP2GKFhUE.jpg?ava=1",Дмитрий Марьянов
 https://fs2.persik.by/Marjanov/index.m3u8
 #EXTINF:-1group-title="🍑PersikTV🍑" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/Picons/VanDam.jpg?raw=true",Жан-Клод Ван Дамм
-https://fs2.persik.by/VanDam8/index.m3u8
+https://fs2.persik.by/VanDam/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",Евгений Леонов
 https://fs2.persik.by/Leonov_7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",Игорь Петренко
@@ -63,53 +64,53 @@ https://fs2.persik.by/Movie2/index.m3u8
 https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11269.png",Английские субтитры
 http://fs2.persik.by/Angliyskie_subtitry6/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD Кинобоевик
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10685.png",Боевик HD Кинобоевик
 http://fs2.persik.by/Boevik_3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11043.png",Боевики HD
 http://fs2.persik.by/Boeviki_16/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10684.png",Биография HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10684.png",Биография HD
 https://fs2.persik.by/Biografija/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10753.png",Вдохновение HD !(-_-)!(было 13 пока не работает)
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10753.png",Вдохновение HD !(-_-)!(было 13 пока не работает)
 https://fs2.persik.by/Vdohnovenie/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10686.png",Военный HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10686.png",Военный HD
 https://fs2.persik.by/Vtoraja_Mirovaja_8/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11273.png",Военные сериалы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11273.png",Военные сериалы
 https://fs2.persik.by/Voen_Serialy_2/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11167.png",Военные фильмы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11167.png",Военные фильмы
 https://fs2.persik.by/Voen_Filmy_4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11272.png",Вторая мировая
 http://fs2.persik.by/Vtoraja_Mirovaja_8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11227.png",Давай поженимся
 http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10687.png",Детектив HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10687.png",Детектив HD
 https://fs2.persik.by/Detektiv_2/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективное кино HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11179.png",Детективное кино HD
 https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11179.png",Детективные сериалы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11179.png",Детективные сериалы
 https://fs2.persik.by/Detektivnie_Serialy/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10756.png",Дружба HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10756.png",Дружба HD
 http://fs2.persik.by/Druzhba8/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11028.png",Документальное кино HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11028.png",Документальное кино HD
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10739.png",Документальное HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10739.png",Документальное HD
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11063.png",Золотая коллекция СССР
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11063.png",Золотая коллекция СССР
 https://fs2.persik.by/Zolotoja_Kollekcija_SSSR/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10749.png",Европейское кино HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10749.png",Европейское кино HD
 https://fs2.persik.by/EvropejskoeKino15/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11129.png",Зарубежное кино
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11129.png",Зарубежное кино
 http://fs2.persik.by/Zarubezhnoe_kino_10/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11271.png",Зомби апокалипсис
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11271.png",Зомби апокалипсис
 http://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11213.png",Кино Антистресс
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11213.png",Кино Антистресс
 http://fs2.persik.by/Kino_Antistress9/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11266.png",Кино выходного дня
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11266.png",Кино выходного дня
 http://fs2.persik.by/Kino_vihodnogo_dnia8/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/608.png",Кино Микс HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/608.png",Кино Микс HD
 https://fs2.persik.by/Kino_Miks12/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11216.png",Кино по книгам
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11216.png",Кино по книгам
 https://fs2.persik.by/Kino_po_knigam10/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11268.png",Кино про дружбу
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11268.png",Кино про дружбу
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11214.png",Кино про копов
 http://fs2.persik.by/Kino_pro_kopov/index.m3u8
@@ -117,7 +118,7 @@ http://fs2.persik.by/Kino_pro_kopov/index.m3u8
 http://fs2.persik.by/Kino_pro_supergeroev/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11239.png",Кино про шпионов
 http://fs2.persik.by/Kino_pro_shpionov/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11269.png",Кино с субтитрами /// 12
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11269.png",Кино с субтитрами /// 12
 http://fs2.persik.by/Kino_Subtitry_12/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10716.png",КиноТоп HD
 https://fs2.persik.by/Kinotophd/index.m3u8
@@ -127,13 +128,13 @@ https://fs2.persik.by/Komediya_2/index.m3u8
 https://fs2.persik.by/Comedy_Films/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11237.png",Комедийные боевики
 https://fs2.persik.by/Komedijnie_Boeviki/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11274.png",Комедийные сериалы 
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11274.png",Комедийные сериалы 
 http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10696.png",Криминал HD
 https://fs2.persik.by/Trillery_Boeviki6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11022.png",Криминальные драмы
 https://fs2.persik.by/Kriminalnie_Drami/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11135.png",Лёгкое кино
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11135.png",Лёгкое кино
 http://fs2.persik.by/Legkoe_Kino10/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11048.png",Лучшие драмы HD
 https://fs2.persik.by/Luchshie_Drami/index.m3u8
@@ -141,15 +142,15 @@ https://fs2.persik.by/Luchshie_Drami/index.m3u8
 https://fs2.persik.by/Luchshie_Seriali4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10751.png",Любовь HD
 https://fs2.persik.by/Lubov/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11279.png",Любовь и детективы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11279.png",Любовь и детективы
 http://fs2.persik.by/Lubov_Detektivi8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11138.png",Мировое кино HD
 https://fs2.persik.by/Mirovoe_Kino/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11270.png",Маньяки
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11270.png",Маньяки
 http://fs2.persik.by/Manjaki6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11177.png",Мини-сериалы
 http://fs2.persik.by/Mini_serialy/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10755.png",Молодость
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10755.png",Молодость
 http://fs2.persik.by/Molodost8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10747.png",Музыкальные фильмы HD
 https://fs2.persik.by/Muzikalnie_Filmy2/index.m3u8
@@ -161,43 +162,43 @@ https://fs2.persik.by/Nashi_Seriali/index.m3u8
 http://fs2.persik.by/Novinki9/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11146.png",Новинки кино HD
 http://fs2.persik.by/Novinki_Kino2/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11158.png",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_8/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10738.png",Новое кино HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11158.png",Новогодние фильмы
+http://fs2.persik.by/Novogodnie_Filmy_9/index.m3u8
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10738.png",Новое кино HD
 https://fs2.persik.by/NovoeKino10/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11010.png",Новые российские фильмы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11010.png",Новые российские фильмы
 https://fs2.persik.by/NovieRossijskieFilmy1/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Новые комедии /// 7
 http://fs2.persik.by/Novie_Komedii7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10752.png",Остросюжетные сериалы HD
 http://fs2.persik.by/OstrosuzhetnieSerialy8/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11147.png",Отечественное кино
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11147.png",Отечественное кино
 https://fs2.persik.by/Otechestvennoe4/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11024.png",Популярное кино HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11024.png",Популярное кино HD
 https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11346.png",Про родителей
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11346.png",Про родителей
 http://fs2.persik.by/Pro_roditeley8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.postimg.cc/QNvNMjLC/1.png",Психологические ужасы /// 6
 http://fs2.persik.by/Psihologicheskie_uzhasy6/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11278.png",Путешествие во времени
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11278.png",Путешествие во времени
 http://fs2.persik.by/Puteshestvie_vo_vremeni10/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11023.png",Рекомендуем
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11023.png",Рекомендуем
 https://fs2.persik.by/Rekomenduem7/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11345.png",Рождественские фильмы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11345.png",Рождественские фильмы
 http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11136.png",Романтические фильмы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11136.png",Романтические фильмы
 http://fs2.persik.by/Romanticheskie9/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11029.png",Романтик комедии
 https://fs2.persik.by/Romantik_Comedy/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10236.png",Русское кино
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10236.png",Русское кино
 https://fs2.persik.by/RusKino3/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11038.png",Русские комедии
 http://fs2.persik.by/Russkie_Komedii/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10710.png",Семья HD
 https://fs2.persik.by/V_krugu_semii3/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11025.png",Семейное
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11025.png",Семейное
 http://fs2.persik.by/Semejnoe10/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11131.png",Семейные фильмы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11131.png",Семейные фильмы
 http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10540.png",Сериалы
 https://fs2.persik.by/Seriali/index.m3u8
@@ -205,7 +206,7 @@ https://fs2.persik.by/Seriali/index.m3u8
 https://fs2.persik.by/NewYearFilms_8/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11031.png",Советские сериалы
 https://fs2.persik.by/Soviet_Serials/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11018.png",Топ кино HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11018.png",Топ кино HD
 http://fs2.persik.by/TopKino/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10713.png",Триллер HD
 http://fs2.persik.by/Triller1/index.m3u8
@@ -213,9 +214,9 @@ http://fs2.persik.by/Triller1/index.m3u8
 http://fs2.persik.by/Trillery_Boeviki6/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11276.png",Триллеры Драматические
 http://fs2.persik.by/Trillery_Drama4/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11215.png",Триллеры США
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11215.png",Триллеры США
 https://fs2.persik.by/Trillery_USA_12/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10740.png",Фестивальное кино
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10740.png",Фестивальное кино
 http://fs2.persik.by/FestivalnoeKino9/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11264.png",Фильмы катастрофы
 http://fs2.persik.by/Filmy_katastrofy3/index.m3u8
@@ -225,11 +226,11 @@ https://fs2.persik.by/Filmi_Boeviki/index.m3u8
 https://fs2.persik.by/Films_pro_otdih/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11059.png",Фильмы про спорт HD
 https://fs2.persik.by/Filmy_pro_sport/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11039.png",Фильмы о войне
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11039.png",Фильмы о войне
 https://fs2.persik.by/Filmy_o_vojne/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/1013.png",Фильмы ужасов HD
 https://fs2.persik.by/Filmi_Uzhasov/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10754.png",Экранизации HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10754.png",Экранизации HD
 http://fs2.persik.by/Ekranizacii13/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11132.png",Экшн-фильмы
 https://fs2.persik.by/Action_Films2/index.m3u8
@@ -265,44 +266,42 @@ https://fs2.persik.by/Russkij_Rock3/index.m3u8
 https://fs2.persik.by/Rock_Kocerty2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11247.png",TechnoТехно
 https://fs2.persik.by/Techno3/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11248.png",Best clips
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11248.png",Best clips
 https://fs2.persik.by/Best_clips1/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11251.png",Concerts
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11251.png",Concerts
 https://fs2.persik.by/Concerts4/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11252.png",Dance!
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11252.png",Dance!
 http://fs2.persik.by/Dance3/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11225.png",DJ
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11225.png",DJ
 https://fs2.persik.by/DJ5/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11245.png",Hits
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11245.png",Hits
 http://fs2.persik.by/Hits5/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11223.png",Relax
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11223.png",Relax
 https://fs2.persik.by/Relax3/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11250.png",Pop-Rock
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11250.png",Pop-Rock
 https://fs2.persik.by/Pop_Rock3/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11244.png",Synthwave
-http://fs2.persik.by/Synthwave/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11254.png",Synthwave лого тест
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11244.png",Synthwave
 http://fs2.persik.by/Synthwave/index.m3u8
 
 
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10487.png",Роскосмос HD
 http://fs2.persik.by/Roskosmos/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10509.png",Kosmo
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10509.png",Kosmo
 http://fs2.persik.by/Kosmo7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10230.png",Нано TV HD
 https://fs2.persik.by/Nano_hd/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11128.png",Аниме
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11128.png",Аниме
 http://fs2.persik.by/Anime6/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11130.png",Детские фильмы
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11130.png",Детские фильмы
 https://fs2.persik.by/DetskieFilmy5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10680.png",Детские песни
 https://fs2.persik.by/DetskiePesni5/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11064.png",Детские мультики
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11064.png",Детские мультики
 http://fs2.persik.by/DetskieMultiki5/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10746.png",Детские мультфильмы HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10746.png",Детские мультфильмы HD
 https://fs2.persik.by/DetskieMultfilmy4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11033.png",Мульт сериал HD
 http://fs2.persik.by/Mult_Serial/index.m3u8
@@ -310,7 +309,7 @@ http://fs2.persik.by/Mult_Serial/index.m3u8
 http://fs2.persik.by/Multiki5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10748.png",Мультсериалы HD
 http://fs2.persik.by/Multserialy2/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/10745.png",Сказки HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10745.png",Сказки HD
 http://fs2.persik.by/Skazki7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10741.png",Советские мультфильмы
 https://fs2.persik.by/Soviet_Mult_2/index.m3u8
@@ -389,11 +388,11 @@ http://93.189.224.246:52900/play/a00p/index.m3u8
 http://fs2.persik.by/365dney/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑",Первый информационный HD
 https://fs2.persik.by/Perviy_inf1/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/106105.png",Minsk 4K (ULTRA HD)
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/106105.png",Minsk 4K (ULTRA HD)
 https://fs2.persik.by/Misk4k/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/11372.png",Luxuary HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11372.png",Luxuary HD
 https://fs2.persik.by/Luxuary_hd/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.tv/images/channels/logos/311.png",Авто Плюс
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/311.png",Авто Плюс
 https://fs2.persik.by/Avtoplus/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑"  tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" tvg-name="ТНТ Music",ТНТ Music
 http://fs2.persik.by/TNTMusic1/index.m3u8
