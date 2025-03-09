@@ -3,8 +3,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",🦊Список каналов обновлён по состоянию на 7.12.24🦊 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
+#EXTINF:-1group-title="🍑PersikTV🍑" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/Picons/VanDam.jpg?raw=true",Жан-Клод Ван Дамм
+https://fs2.persik.by/VanDam/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://i.mycdn.me/i?r=BDGvRlXWcXJosdiHOqVV3e-HIgA80qqpoQnGnUoRhMzez1yYFwVnysNuaLcYNszflNM",Известные актёры
 http://fs2.persik.by/Izvestnie_akteri5/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://avatars.mds.yandex.net/i?id=2a0000017a03dcc660a095ef8589c0c970b4-4570726-images-thumbs&n=13",Александра Бортич
@@ -31,8 +32,7 @@ http://fs2.persik.by/Kucenko_3/index.m3u8
 http://fs2.persik.by/Kozlovskij_4/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://sun9-13.userapi.com/c850324/v850324391/1cfc4c/HxMP2GKFhUE.jpg?ava=1",Дмитрий Марьянов
 https://fs2.persik.by/Marjanov/index.m3u8
-#EXTINF:-1group-title="🍑PersikTV🍑" tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/Picons/VanDam.jpg?raw=true",Жан-Клод Ван Дамм
-https://fs2.persik.by/VanDam/index.m3u8
+
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://kramtp.info/gallery/p1/2019/04/08/12800362_1000.jpg",Евгений Леонов
 https://fs2.persik.by/Leonov_7/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://ruskino.ru/media/cache/gallery_main/media/gallery/17370/nIJi9MFaUtUQsBHF3tRVMmgnREu.jpg",Игорь Петренко
@@ -228,7 +228,7 @@ https://fs2.persik.by/Films_pro_otdih/index.m3u8
 https://fs2.persik.by/Filmy_pro_sport/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/11039.png",Фильмы о войне
 https://fs2.persik.by/Filmy_o_vojne/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/1013.png",Фильмы ужасов HD
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11013.png",Фильмы ужасов HD
 https://fs2.persik.by/Filmi_Uzhasov/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="http://persik.by/images/channels/logos/10754.png",Экранизации HD
 http://fs2.persik.by/Ekranizacii13/index.m3u8
@@ -238,7 +238,7 @@ https://fs2.persik.by/Action_Films2/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo=" https://persik.by/media/channels/logos/11245.png",Movie (Eng)
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/11245.png",Movie (Eng)
 http://fs2.persik.by/Movie2/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://persik.by/media/channels/logos/10970.png",Sluhay.by
 http://fs2.persik.by/Sluhay2/index.m3u8
@@ -399,16 +399,16 @@ http://fs2.persik.by/TNTMusic1/index.m3u8
 
 #EXTINF:-1 group-title="🍑PersikTV🍑"  tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" tvg-name="HDL",HDL
 http://fs2.persik.by/HDL/index.m3u8
-#EXTINF:-1 group-title="🍑PersikTV🍑"  tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" tvg-name="HDL",HDL
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" tvg-name="HDL",HDL
 http://fs2.persik.by/Zvezda/index.m3u8
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" tvg-name="Ля-минор ТВ",Ля-минор
 http://fs2.persik.by/LaMinor/index.m3u8
 
-#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://static.cdn.videosport.ru/uploads/logo/64abbf63242994ea3693493d/maxres.png",Реслинг Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
 #EXTINF:-1 group-title="🍑PersikTV🍑" tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ",Бокс ТВ
 http://fs2.persik.by/Box/index.m3u8
+
+#EXTINF:-1 group-title="🍑PersikTV🍑" tvg-logo="https://static.cdn.videosport.ru/uploads/logo/64abbf63242994ea3693493d/maxres.png",Реслинг Wrestling (не персик тв)
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 
