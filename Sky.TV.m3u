@@ -14838,3 +14838,113 @@ http://str16.tv/6035/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 
 #EXTINF:-1 group-title="Кинозалы BCU", BCU TruMotion
 http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+
+
+#EXTINF:-1 group-title="💗" tvg-logo="https://iptvstok.work/images/channels/original.jpg",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+#EXTINF:-1 group-title="💗" tvg-logo="https://iptvstok.work/images/channels/01zx10.jpg",Мособр ТВ HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+
+#EXTINF:-1 group-title="💗" tvg-logo="https://iptvstok.work/images/channels/Univer.jpg",Univer HD
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+
+#EXTINF:-1 group-title="💗" tvg-logo="https://iptvstok.work/images/channels/01zx10.jpg",Мособр ТВ HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+
+#EXTINF:-1 group-title="💗",Тивиком HD (+5)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+
+#EXTINF:-1 group-title="💗",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="💗Музыка💗",Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+#EXTINF:-1 group-title="💗Музыка💗",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="💗Музыка💗",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1 group-title="💗Музыка💗",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Deejay TV
+https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3315527.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Muzzik
+https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="💗Музыка💗",V2Beat HD
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 group-title="💗Музыка💗",Zerouno TV
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w1175572807.m3u8
+
+#EXTINF:-1 group-title="💗Музыка💗",Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",m2o
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3282613.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Clubbing TV
+https://mhd120.iptv2022.com/p/Loef7363RuCoxvG_bxLleA,1741654128/streaming/clubbingtv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="💗Музыка💗",Stingray The Spa Live
+https://stream.ads.ottera.tv/cl/250310cv73t1j0pn17ld2b9710/1920x1080_1790800_1_f.m3u8?i=475_3027
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Naturescape Live
+https://stream.ads.ottera.tv/cl/250310cv73n0k60gqifdisl56g/1920x1080_5711200_3_f.m3u8?i=475_3041
+#EXTINF:-1 group-title="💗Музыка💗",ZenLIFE by Stingray Live
+https://stream.ads.ottera.tv/cl/250310cv73o7qm1t79l1i9mqb0/1920x1080_5711200_3_f.m3u8?i=475_10283
+
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Classic Rock HD
+https://d1gblbamdkwl5k.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/accb4a8b-ea38-456d-b4d3-e0fcd22e1165/1.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Rock Alternative Live
+https://stream.ads.ottera.tv/cl/250310cv73rprfhmpp58ju22fg/1920x1080_1790800_1_f.m3u8?i=475_3026	
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Euro Hits Live
+https://stream.ads.ottera.tv/cl/250310cv73s5meif8s8jbptrr0/1920x1080_1790800_1_f.m3u8?i=475_3019
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Hot Country HD
+https://d33l69tlyxnc6j.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o1stobjejuzbx/d1bb751f-7da8-4a41-ae04-eb369e95a914/1.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Pop Adult HD
+https://stream.ads.ottera.tv/cl/250310cv73nt33n6n52lahkqmg/1920x1080_1790800_1_f.m3u8?i=475_3023
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Remember The 80s Live
+https://d1imh73yrie9zu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/7e7778e5-b5ba-4af4-9949-808daf690242/1.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Hip-Hop/R&B HD
+https://stream.ads.ottera.tv/cl/250310cv73lun7crj8m0imj560/1920x1080_1790800_1_f.m3u8?i=475_3024
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Greatest Hits Live
+https://d2ijgfgrz03rvu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/a057abb3-0aa3-4c9d-a2e0-871a056b37fb/1.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Exitos Del Momento HD
+https://stream.ads.ottera.tv/cl/250310cv73tpdcm4tl3m1pq2mg/1920x1080_1790800_1_f.m3u8?i=475_3025
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Classica Live
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Djazz Live
+https://d1or3dijypy7w9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/8974abc1-c83e-43e2-91c7-f4d81a7e34d9/3.m3u8
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Easy Listening Live
+https://stream.ads.ottera.tv/cl/250310cv73ogshqhak68plc990/1920x1080_1790800_1_f.m3u8?i=475_3021
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Smooth Jazz Live
+https://stream.ads.ottera.tv/cl/250310cv73p3chqhak68plcldg/1920x1080_1790800_1_f.m3u8?i=475_3022
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Y2K Live
+https://stream.ads.ottera.tv/cl/250310cv73sr77crj8m0immfsg/1920x1080_1790800_1_f.m3u8?i=475_3020
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Today's K-Pop Live
+https://stream.ads.ottera.tv/cl/250310cv73t8c60gqifdisont0/1920x1080_1790800_1_f.m3u8?i=475_3018
+
+#EXTINF:-1 group-title="💗Музыка💗",Stingray Qello TV HD
+https://stream.ads.ottera.tv/cl/250310cv73ve6eif8s8jbpvl1g/1920x1080_5711200_3_f.m3u8?i=475_568
+
