@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 11.3.25💗 
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 12.3.25💗 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1
+#EXTINF:-1 group-title="☭🇷🇺 Wink c архивом ☭🇷🇺" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1
+#EXTINF:-1 group-title="☭🇷🇺 Wink c архивом ☭🇷🇺" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
@@ -1033,340 +1033,340 @@ http://fs2.persik.by/Box/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/f3/Sp14openingtitle.png",Южный парк (SCR TV HD)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/f3/Sp14openingtitle.png",Южный парк (SCR TV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/61358.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://s4.afisha.ru/mediastorage/60/9e/831378b8ef4a4f0fa3d771209e60.png",Футурама
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://s4.afisha.ru/mediastorage/60/9e/831378b8ef4a4f0fa3d771209e60.png",Футурама
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199417.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",Сериалы TV Series 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",Сериалы TV Series 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/186021.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Кинофантастика Фантом
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Кинофантастика Фантом
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204722.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="http://epg.it999.ru/img/4780.png",Кино Фантастика HD
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="http://epg.it999.ru/img/4780.png",Кино Фантастика HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187241.m3u8
 
-#EXTINF:-1 tvg-id="Akudji" group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png",Кино Интерактивное ТВ ★ from AkuDji
+#EXTINF:-1 tvg-id="Akudji" group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/Q9mycLr/image-32.png",Кино Интерактивное ТВ ★ from AkuDji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png",Кино FILM TV HD go6PbIu 3JIou-TaTaPuH
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/KsdbcNm/image-43.png",Кино FILM TV HD go6PbIu 3JIou-TaTaPuH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/163253.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Кино FILM TV HD go6PbIu 3JIou-TaTaPuH 2
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Кино FILM TV HD go6PbIu 3JIou-TaTaPuH 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/163253_master.m3u8
 
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://smotret.tv/images/fks-films.webp",Кино FKS Films Fox Kids Ex
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://smotret.tv/images/fks-films.webp",Кино FKS Films Fox Kids Ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/205063_master.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/DrTm6Lt/image-26.png",Кино 1FILMAX Фантастика 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/DrTm6Lt/image-26.png",Кино 1FILMAX Фантастика 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204708_720.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png",Кино 2FILMAX Комедия 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/R7hyjH3/image-28.png",Кино 2FILMAX Комедия 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204717.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Кино 3FILMAX Мелодрамы(с одноклассников)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Кино 3FILMAX Мелодрамы(с одноклассников)
 https://ok.ru/video/4891374853829
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Кино Всё ТВ Malder
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Кино Всё ТВ Malder
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/153640_master.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Восход ТВ
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Восход ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/202997_master.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Восход ТВ Dragon17
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Восход ТВ Dragon17
 http://hls.goodgame.ru/hls/1596320.m3u8
 
 
-#EXTINF:-1 tvg-id="FMC" group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/syWstRm/image-29.png",Кино FantasticMystiC FMC TV (TDM TV) 
+#EXTINF:-1 tvg-id="FMC" group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/syWstRm/image-29.png",Кино FantasticMystiC FMC TV (TDM TV) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187741.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",go6PbIu-TaTaPuH Кино SeleCaoTV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",go6PbIu-TaTaPuH Кино SeleCaoTV
 http://hlss.goodgame.ru/hls/157269.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",go6PbIu-TaTaPuH master.
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",go6PbIu-TaTaPuH master.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/157269_master.m3u8
 
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/gVd9SkD/image-8.png",Кино Sever-tv
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/gVd9SkD/image-8.png",Кино Sever-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/146065.m3u8
 
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Alpha Anime
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Alpha Anime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/205115.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Alpha Games 
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Alpha Games 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/206709.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Alpha Cinema (кино)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Alpha Cinema (кино)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/205072.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Alpha,alpha Horror 
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Alpha,alpha Horror 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/207299.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Alpha Funny (юмор)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Alpha Funny (юмор)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/206963.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Alpha Onenite (шоу)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Alpha Onenite (шоу)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/205116.m3u8
 
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",Кино FAN TV (Fantastic Animation) Японская анимация
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",Кино FAN TV (Fantastic Animation) Японская анимация
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/M8ksMM0/image-6.png",Кино и сериалы 4K
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/M8ksMM0/image-6.png",Кино и сериалы 4K
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/206513.m3u8 
 
-#EXTINF:-1 tvg-id="STR TV" group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png",Киноужас Кошмар HD
+#EXTINF:-1 tvg-id="STR TV" group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png",Киноужас Кошмар HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hlss.goodgame.ru/hls/204709.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Киноужас Страх HD
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Киноужас Страх HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/202127.m3u8
 
-#EXTINF:-1 tvg-id="STR TV" group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png",Киноужас STR TV
+#EXTINF:-1 tvg-id="STR TV" group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/hsmz81v/image-31.png",Киноужас STR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/185110.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",Мультики и сказки HD @TDM777
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",Мультики и сказки HD @TDM777
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/198446.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_eva.png",Музыка VIVA MUSIC Russia 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_eva.png",Музыка VIVA MUSIC Russia 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg",Музыка MIXM.TV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_1393822_dLSf.jpg",Музыка MIXM.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/181490.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png",Музыка Hot Beats TV HD 𝟸𝟺/𝟽
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png",Музыка Hot Beats TV HD 𝟸𝟺/𝟽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/191858.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_jojo.png",Музыка MB TV ROCKDAY TV: современная тяжелая музыка
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_jojo.png",Музыка MB TV ROCKDAY TV: современная тяжелая музыка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/198928.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg",Музыка Mega Radio
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg",Музыка Mega Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/175789.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1527385_x2Ay.jpg",Музыка jackfrostst 24/7 radio
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_1527385_x2Ay.jpg",Музыка jackfrostst 24/7 radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/194731.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg",Mafi2a TV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg",Mafi2a TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/147714.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",TechnoDanceMusic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180509.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Музыка TMF RUS
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Музыка TMF RUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/201891.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Радио TechnoDanceRadio
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Радио TechnoDanceRadio
 http://freeuk22.listen2myradio.com:19047
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_orc.png",SmotriOmskLive
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_orc.png",SmotriOmskLive
 https://hls.goodgame.ru/hls/191952.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Звуки дождя 24/7
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Звуки дождя 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/198378.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png",Шоу Что? Где? Когда? WWW  What? Where? When?
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.postimg.cc/N0p4mR5M/www.png",Шоу Что? Где? Когда? WWW  What? Where? When?
 http://195.9.195.3:8080/hls/192005.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",WWW
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",WWW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/192005_master.m3u8
 
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/fdcvKF9/image-45.png",SPIRAL TV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/fdcvKF9/image-45.png",SPIRAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206097.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png",Всё ТВ FILM Delta-Omega firedron (не 24/7)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png",Всё ТВ FILM Delta-Omega firedron (не 24/7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/131315.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.postimg.cc/PNnsXPZ4/Good-Films.png",Good Films (не 24/7)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.postimg.cc/PNnsXPZ4/Good-Films.png",Good Films (не 24/7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/158191.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i122.fastpic.org/big/2023/1219/b5/e997617b2e2f5ee84ab053b9113739b5.png?md5=qbJO7jzm0hwFPX6bOv2z-A&expires=1703005200",AlexVira (не 24/7)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i122.fastpic.org/big/2023/1219/b5/e997617b2e2f5ee84ab053b9113739b5.png?md5=qbJO7jzm0hwFPX6bOv2z-A&expires=1703005200",AlexVira (не 24/7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/106103.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/DW1rRn0/image-3.png",Millennium UHD Millennium_88 
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/DW1rRn0/image-3.png",Millennium UHD Millennium_88 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206461.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/xzHsymw/image.png",Lex
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/xzHsymw/image.png",Lex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/205531.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/XXXRbdF/image-12.png",VKTV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/XXXRbdF/image-12.png",VKTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/173945.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Видеосалон VHS
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Видеосалон VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/175764.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Видеокасета VHS
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Видеокасета VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/176975.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/3CdVvm4/av-1047117-r9-Cv.png",Лесной HD
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/3CdVvm4/av-1047117-r9-Cv.png",Лесной HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/131315.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Первый Городской (Гомель)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Первый Городской (Гомель)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/165178.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1247733_e6xJ.jpg",Нирея (Гомель)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_1247733_e6xJ.jpg",Нирея (Гомель)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/165177.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Смрадная Каракатица
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Смрадная Каракатица
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/167188.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Эфира Net
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Эфира Net
 #EXTVLCOPT:http-user-agent=SmartTV 
 https://hls.goodgame.ru/hls/181039.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png",Delta-Omega
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/4f2hzsS/image-11.png",Delta-Omega
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180204.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.postimg.cc/W47v1rKG/HDRmovie60fps.png",HDR Movie 60fps HD(с 19:00 до 07:00)
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.postimg.cc/W47v1rKG/HDRmovie60fps.png",HDR Movie 60fps HD(с 19:00 до 07:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/200645.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Neldoreth
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Neldoreth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/33245.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",PZN TV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",PZN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/180960.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Tyty35Ru
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Tyty35Ru
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/206510.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_271625_AV7m.png",Кино HeDoPa3yMeHue
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_271625_AV7m.png",Кино HeDoPa3yMeHue
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/22416.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Retro Music
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Retro Music
 http://hlss.goodgame.ru/hls/206244.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Кринж ТВ
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Кринж ТВ
 http://hlss.goodgame.ru/hls/141306.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Первый автомобильный
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Первый автомобильный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206355.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1566003_uo4m.jpg",НОСТАЛЬЖИ!
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_1566003_uo4m.jpg",НОСТАЛЬЖИ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/199415.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",FLX gamepax
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",FLX gamepax
 http://hls.goodgame.ru/hls/1612353.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",FLX2 FoxFun
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",FLX2 FoxFun
 http://hls.goodgame.ru/hls/1612402.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",StreamCat KSHMR
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",StreamCat KSHMR
 http://hls.goodgame.ru/hls/1612359.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",КиноПродукты 24/7 ZubrilomFilm
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",КиноПродукты 24/7 ZubrilomFilm
 http://hls.goodgame.ru/hls/1638158.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",фарго CMehanikus
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",фарго CMehanikus
 http://hls.goodgame.ru/hls/58613.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",🔴 NOSTALGIA! EmeraldGPtheOne
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",🔴 NOSTALGIA! EmeraldGPtheOne
 http://hls.goodgame.ru/hls/1566003.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",КиноКонтент📺🍿 24/7 K1n0man1a
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",КиноКонтент📺🍿 24/7 K1n0man1a
 http://hls.goodgame.ru/hls/1639851.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Кинофраншизы и сериалы ZubrilomSerials
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Кинофраншизы и сериалы ZubrilomSerials
 http://hls.goodgame.ru/hls/1640714.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1650513_Zzxp.jpg", 📌Кино, Мультфильмы, Сериалы 24/7 video-prokat
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_1650513_Zzxp.jpg", 📌Кино, Мультфильмы, Сериалы 24/7 video-prokat
 http://hls.goodgame.ru/hls/1650513.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",ЭфирА NET HD kapatel78
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",ЭфирА NET HD kapatel78
 http://hls.goodgame.ru/hls/1390931.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",ДэмсФантастика HD demsfilm
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",ДэмсФантастика HD demsfilm
 http://hls.goodgame.ru/hls/1643575.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",Мультики и сказки multikiskazki
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Мультики и сказки multikiskazki
 http://hls.goodgame.ru/hls/1559128 .m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://goodgame.ru/files/avatars/av_1286248_KSyd.jpg" , Диана Буковская Здесь творится Магия! DiZagree 
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://goodgame.ru/files/avatars/av_1286248_KSyd.jpg" , Диана Буковская Здесь творится Магия! DiZagree 
 http://hls.goodgame.ru/hls/1286248.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",POGREBOK_TV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",POGREBOK_TV
 http://hls.goodgame.ru/hls/357813.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",dddjimmymicro
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",dddjimmymicro
 http://hls.goodgame.ru/hls/422071.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204722.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",MB TV
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",MB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/198928_master.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",P Boy Podpischik
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",P Boy Podpischik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/40391_master.m3u8
 
-#EXTINF:-1 group-title="Медиаплатформа GoodGame.ru",bober12
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",bober12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/196745_master.m3u8
 
@@ -1613,56 +1613,56 @@ https://v2.catcast.tv/content/47669/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14032023/logos/9620-6410392404a6a.png",Малдер Всё тв
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://media-gateway-cache.nuum.ru/live/5498/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13012024/logos/9620-65a24114de08d.png",Малдер Всё тв фильм премьер
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://media-gateway-cache.nuum.ru/live/85729/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета (2 ссылка)
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",ТV VHS
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png",Всё тв Film Premiere
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/live/85729/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Cinema Classic
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 
 #EXTINF:-1,STR TV HD
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/ba559afa-e3f9-478d-8e37-431211dc4a3b/original.jpeg",Стримерша niateppa322
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/abr/467715/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/3865ea6d-d9aa-46b1-9d4c-0736ecc9f59c/original.jpeg" ,Стримерша fitannit https://t.me/fitannit
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/abr/687265/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="",Стример _viktor_1958
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://vod-playlist-cache.nuum.ru/nuum-vod-production/728ca143-a4b8-48ac-7f87-4e4003d39836/index-f2-v1.m3u8
 
 #EXTINF:-1 tvg-logo="",Стример Diletant32
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/abr/287603/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/7d93bb78-ebbd-43f5-a73b-f05e2b3b83ff/original.jpeg",Музыка Full_Of_Reality
-#EXTGRP:Nuum
+#EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/abr/991426/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26439" tvg-name="Кино Панорама MAX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QH7s2UlHPhXyTHH-5L7-6j4KZOyysSpj5VGB6zBq9tN.png",Кино Панорама MAX
