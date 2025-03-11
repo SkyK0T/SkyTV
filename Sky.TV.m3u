@@ -3,240 +3,228 @@
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 11.3.25💗 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rossia1",Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (AndroidTV/9) HlsWinkPlayer
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Россия 24
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rossia1",Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Planeta RTR
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4.m3u8?md5=FqJYhkQC1Lqb0fjgAy8b6w&e=1741729784&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Planeta RTR
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4.m3u8?md5=FqJYhkQC1Lqb0fjgAy8b6w&e=1741729784&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",TUCKER. "Россия 24"
+https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/084/547_d20241031125812.smil/chunklist_b1200000_pd1155000.m3u8
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Известия
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360.ru",360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="SolovyovLive.ru",Соловьев Live HD
+https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/082/771_d20241028145112.smil/chunklist_b4050000_pd8043000.m3u8
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Moskva24.ru",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360News.ru",360° Новости
+
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="360.ru",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="360News.ru",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",Частный Детектив
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 
 
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="DumaTV.ru",Дума ТВ
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="DumaTV.ru",Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="OTVPrim.ru",ОТВ Приморья
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="OTVPrim.ru",ОТВ Приморья
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="BigAsia.ru",Большая Азия
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="BigAsia.ru",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Толк (Алтай Барнаул)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Толк (Алтай Барнаул)
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="krasnodar",Краснодар HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="krasnodar",Краснодар HD
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="UgraTV.ru",Югра
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="UgraTV.ru",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360News.ru",360° Новости
+
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="OTVPrim.ru",ОТВ Приморья
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="BigAsia.ru",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Толк (Алтай Барнаул)
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="krasnodar",Краснодар HD
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="UgraTV.ru",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="360News.ru",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360.ru",360°
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="360.ru",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Moskva24.ru",Москва 24
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Moskva24.ru",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="SolovyovLive.ru",Соловьев Live HD
-https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/082/771_d20241028145112.smil/chunklist_b4050000_pd8043000.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",TUCKER. "Россия 24"
-https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/084/547_d20241031125812.smil/chunklist_b1200000_pd1155000.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="DumaTV.ru",Дума ТВ
-https://dumatv.iptv2022.com/index.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="OTVPrim.ru",ОТВ Приморья
-https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="BigAsia.ru",Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Толк (Алтай Барнаул)
-https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="krasnodar",Краснодар HD
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="UgraTV.ru",Югра
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360News.ru",360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="360.ru",360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
-
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Moskva24.ru",Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/1661
-
-
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="SolovyovLive.ru",Соловьев Live HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="SolovyovLive.ru",Соловьев Live HD
 https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/082/771_d20241028145112.smil/chunklist_b4050000_pd8043000.m3u8
 
 
 
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://i.postimg.cc/zBqwmx5V/image.png",Башкортостан 24 (2 источник)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://i.postimg.cc/zBqwmx5V/image.png",Башкортостан 24 (2 источник)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/3_94bb0c79/chunklist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Bashkortostan24.ru",Башкортостан 24 (Уфа)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Bashkortostan24.ru",Башкортостан 24 (Уфа)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="BigAsia.ru",Большая Азия
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="BigAsia.ru",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Volgograd24.ru",Волгоград 24
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Volgograd24.ru",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="VmesteRF.ru",Вместе РФ
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="VmesteRF.ru",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="DumaTV.ru",Дума ТВ
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="DumaTV.ru",Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="UgraTV.ru",Югра
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="UgraTV.ru",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Урал 24 (Челябинск)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Урал 24 (Челябинск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="NizhniyNovgorod24.ru",Нижний Новгород 24
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="NizhniyNovgorod24.ru",Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD (Севастополь)
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Kavkaz24.ru",Кавказ 24 (Ставрополь)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Kavkaz24.ru",Кавказ 24 (Ставрополь)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="krasnodar",Краснодар HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="krasnodar",Краснодар HD
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Moskva24.ru",Москва 24
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Moskva24.ru",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Запад 24 (Калининград)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Запад 24 (Калининград)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="Xzvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xzvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="OTVPrim.ru",ОТВ Приморья
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="OTVPrim.ru",ОТВ Приморья
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут
 https://sitv.ru/vgtrk/stv.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Самара 24
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Самара 24
 https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Новосибирск)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Сибирь 24 (Новосибирск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Сибирь 24 (Красноярск)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Сибирь 24 (Красноярск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Толк (Алтай Барнаул)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Толк (Алтай Барнаул)
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="SolovyovLive.ru",Соловьев Live HD
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="SolovyovLive.ru",Соловьев Live HD
 https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/082/771_d20241028145112.smil/chunklist_b4050000_pd8043000.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" ,Соловьёв LIVE
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" ,Соловьёв LIVE
 https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=Crz04jbzgEhkjAP7K-c0xw&e=1730614840&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-id="TNTMusic.ru",ТНТ Music
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="TNTMusic.ru",ТНТ Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Вести ФМ
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Вести ФМ
 https://vgtrksmotrim.cdnvideo.ru/hls2/vesti_fm/playlist_6.m3u8?md5=ni-cBGJnexGVlXx9PbuYGQ&e=1730613718&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Радио России
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Радио России
 https://vgtrksmotrim.cdnvideo.ru/hls/RadioRFM/playlist_1_2.m3u8?md5=ldjrLEbWyclD2Lni_Q82ww&e=1730613627&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺"tvg-logo="https://vgtrk.ru/i/mayak_ru_old.svg?7a1d57d281a9f96ed3badf024629b678",Радио Маяк
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺"tvg-logo="https://vgtrk.ru/i/mayak_ru_old.svg?7a1d57d281a9f96ed3badf024629b678",Радио Маяк
 https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Радио Юность
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Радио Юность
 https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Радио Культура
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Радио Культура
 https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Москва 24
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Москва 24
 https://vgtrksmotrim.cdnvideo.ru/hls/moscow_24/playlist_3.m3u8?md5=lVP7BOXVzDrNrb3X_c1C8Q&e=1730615263&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Радио Краснодар
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Радио Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/tracks-v1a1/mono.m3u8?hls_proxy_host=111691cfa2b3e6ed7b2f3322ff53b6a8
 
-#EXTINF:-1  group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Смотрим Мелодрамы 
+#EXTINF:-1  group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Смотрим Мелодрамы 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Смотрим Мелодрамы (2 источник)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Смотрим Мелодрамы (2 источник)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png",Смотрим Тайны
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/504/4.png",Смотрим Тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺",Смотрим Тайны (2 источник)
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Смотрим Тайны (2 источник)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим Детям
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://i.postimg.cc/t48njFN7/1.png",Смотрим Детям
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Детям
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Детям
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Кино и сериалы
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Мелодрамы
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="☭🇷🇺ВГТРК Смотрим☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Тайны
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 
 
@@ -514,71 +502,71 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Музыка",Stingray Naturescape Live
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayNaturescape.ca",Stingray Naturescape Live
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray The Spa Live
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayTheSpa.ca",Stingray The Spa Live
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка",ZenLIFE by Stingray Live
 https://stream.ads.ottera.tv/cl/250310cv73o7qm1t79l1i9mqb0/1920x1080_5711200_3_f.m3u8?i=475_10283
-#EXTINF:-1 group-title="Музыка" ,Qello Concerts by Stingray
+#EXTINF:-1 group-title="Музыка" tvg-id="QelloConcertsbyStingray.ca",Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="Музыка",Stingray Classic Rock
+#EXTINF:-1 group-title="Музыка"tvg-id="StingrayClassicRock.ca",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Classica
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayClassica.ca",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Classica Live
+#EXTINF:-1 group-title="Музыка"tvg-id="StingrayClassica.ca" ,Stingray Classica Live
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray CMusic
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayCMusic.ca",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray DJAZZ
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayDJAZZ.ca",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Djazz Live
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayDJAZZ.ca",Stingray Djazz Live
 https://d1or3dijypy7w9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/8974abc1-c83e-43e2-91c7-f4d81a7e34d9/3.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Exitos Del Momento HD
 https://stream.ads.ottera.tv/cl/250310cv73tpdcm4tl3m1pq2mg/1920x1080_1790800_1_f.m3u8?i=475_3025
-#EXTINF:-1 group-title="Музыка",Stingray Easy Listening
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayEasyListening.ca",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Euro Hits Live
 https://stream.ads.ottera.tv/cl/250310cv73s5meif8s8jbptrr0/1920x1080_1790800_1_f.m3u8?i=475_3019
-#EXTINF:-1 group-title="Музыка",Stingray Flashback 70s
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayFlashback70s.ca",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Greatest Hits Live
 https://d2ijgfgrz03rvu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/a057abb3-0aa3-4c9d-a2e0-871a056b37fb/1.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hit List
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayHitList.ca",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Hip-Hop/R&B HD
 https://stream.ads.ottera.tv/cl/250310cv73lun7crj8m0imj560/1920x1080_1790800_1_f.m3u8?i=475_3024
 
 #EXTINF:-1 group-title="Музыка",Holidayscapes (1080p)
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Holiday Hits
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayHolidayHits.ca",Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hot Country HD
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayHotCountry.ca",Stingray Hot Country HD
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Karaoke
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayKaraoke.ca",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Nothin' But 90s
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayNothinBut90s.ca",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Pop Adult
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayPopAdult.ca",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Remember the 80s
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayEverything80s.ca",Stingray Remember the 80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Rock Alternative
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayRockAlternative.ca",Stingray Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Romance Latino
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayRomanceLatino.ca",Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Smooth Jazz
+#EXTINF:-1 group-title="Музыка" tvg-id="StingraySmoothJazz.ca",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Soul Storm
+#EXTINF:-1 group-title="Музыка"tvg-id="StingraySoulStorm.ca",Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Today's KPOP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Today's K-Pop Live
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayTodaysKPop.ca",Stingray Today's K-Pop Live
 https://stream.ads.ottera.tv/cl/250310cv73t8c60gqifdisont0/1920x1080_1790800_1_f.m3u8?i=475_3018
-#EXTINF:-1 group-title="Музыка",Stingray Today's Latin Pop
+#EXTINF:-1 group-title="Музыка" tvg-id="StingrayTodaysLatinPop.ca",Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Urban Beat
+#EXTINF:-1 group-title="Музыка", tvg-id="StingrayUrbanBeat.ca"Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Y2K Live
 https://stream.ads.ottera.tv/cl/250310cv73sr77crj8m0immfsg/1920x1080_1790800_1_f.m3u8?i=475_3020
@@ -1625,56 +1613,56 @@ https://v2.catcast.tv/content/47669/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/14032023/logos/9620-6410392404a6a.png",Малдер Всё тв
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://media-gateway-cache.nuum.ru/live/5498/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13012024/logos/9620-65a24114de08d.png",Малдер Всё тв фильм премьер
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://media-gateway-cache.nuum.ru/live/85729/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn8Bb4M/image-1.png",Видеокассета (2 ссылка)
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png",ТV VHS
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bdZ33tx/image-7.png",Всё тв Film Premiere
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/live/85729/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Cinema Classic
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 
 #EXTINF:-1,STR TV HD
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/ba559afa-e3f9-478d-8e37-431211dc4a3b/original.jpeg",Стримерша niateppa322
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/abr/467715/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/3865ea6d-d9aa-46b1-9d4c-0736ecc9f59c/original.jpeg" ,Стримерша fitannit https://t.me/fitannit
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/abr/687265/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="",Стример _viktor_1958
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://vod-playlist-cache.nuum.ru/nuum-vod-production/728ca143-a4b8-48ac-7f87-4e4003d39836/index-f2-v1.m3u8
 
 #EXTINF:-1 tvg-logo="",Стример Diletant32
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/abr/287603/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://st.nuum.ru/nuum-upload/avatars/7d93bb78-ebbd-43f5-a73b-f05e2b3b83ff/original.jpeg",Музыка Full_Of_Reality
-#EXTGRP:Медиаплатформа Nuum.ru
+#EXTGRP:Nuum
 https://playlist.nuum.ru/abr/991426/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26439" tvg-name="Кино Панорама MAX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QH7s2UlHPhXyTHH-5L7-6j4KZOyysSpj5VGB6zBq9tN.png",Кино Панорама MAX
