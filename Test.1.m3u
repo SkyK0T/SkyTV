@@ -3706,7 +3706,7 @@ http://cdn1.starcinemax.fun:2095/Sledstvie_vedut_Kolobki/index.m3u8?token=a2Vwb2
 
 
 
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
+
 #EXTINF:-1 group-title="КурскТелеком",Канал .0.1:1234
 http://77.241.20.87:4022/udp/230.0.0.1:1234
 #EXTINF:-1 group-title="КурскТелеком",Канал .0.2:1234
