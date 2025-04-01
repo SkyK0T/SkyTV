@@ -577,6 +577,147 @@ https://stream.ads.ottera.tv/cl/250310cv73sr77crj8m0immfsg/1920x1080_1790800_1_f
 
 
 
+#EXTINF:-1 group-title="IPTVPLAY"  tvg-logo="https://i.ibb.co/NVVDdN3/Fantastika1-HD.png" tvg-name="IPTVPLAY ФАНТАСТИКА HD" tvg-id="IPTVPLAYFANTASTIKA.tv",IPTVPLAY Фантастика HD
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.ibb.co/k3C2GSM/Multskazki1-HD.png" tvg-name="IPTVPLAY МультСказки HD" tvg-id="IPTVPLAYMultSkazki.tv",IPTVPLAY МультСказки HD
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="IPTVPLAY"  tvg-logo="https://i.ibb.co/ZcKcdM9/Pamyat1-HD.png" tvg-name="IPTVPLAY ПАМЯТЬ HD" tvg-id="IPTVPLAYPAMYAT.tv",IPTVPLAY Память HD
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.ibb.co/SvHyZxQ/PromoHD.png" tvg-name="IPTVPLAY PROMO HD" tvg-id="IPTVPLAYPROMO.tv",IPTVPLAY Promo HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.ibb.co/nCPyRfZ/Uzhastik1-HD.png"  tvg-name="IPTVPLAY УЖАСТИК HD" tvg-id="IPTVPLAYUZHASTIK.tv",IPTVPLAY Ужастик HD
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="IPTVPLAY" tvg-name="IPTVPLAY ИНТЕРНЫ HD" tvg-id="IPTVPLAYINTERNY.tv",IPTVPLAY Интерны HD
+http://92.53.64.197:5050/IPTVPLAYINTERNY.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="IPTVPLAY" tvg-name="IPTVPLAY ВЕДЬМАК HD" tvg-id="IPTVPLAYVEDMAK.tv",IPTVPLAY Ведьмак HD
+http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="IPTVPLAY" tvg-name="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО HD" tvg-id="IPTVPLAY10KOROLEVSTVO.tv",IPTVPLAY Десятое Королевство HD
+http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM1
+
+
+
+
+
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayDCComics.tv" tvg-logo="http://1lot.tv/ch/9234.png" catchup-type="flussonic" catchup-days="1" ,TVPlay DC Comics HD
+http://95.143.191.33:5050/TVPlayDCComics/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayMarvel.tv" tvg-logo="http://1lot.tv/ch/9220.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Marvel HD
+http://95.143.191.33:5050/TVPlayMarvel/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayIgraPrestolov.tv" tvg-logo="http://1lot.tv/ch/9222.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Игра Престолов HD
+http://95.143.191.33:5050/TVPlayIgraPrestolov/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayAvtorskiyPerevod.tv" tvg-logo="http://1lot.tv/ch/9223.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Авторский перевод HD
+http://95.143.191.33:5050/TVPlayAvtorskiyPerevod/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayALF.tv" tvg-logo="http://1lot.tv/ch/9226.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Альф
+http://95.143.191.33:5050/TVPlayALF/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayVavilon5.tv" tvg-logo="http://1lot.tv/ch/9231.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Космический
+http://95.143.191.33:5050/TVPlayVavilon5/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayGarryPotter.tv" tvg-logo="http://1lot.tv/ch/9233.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Гарри Поттер HD
+http://95.143.191.33:5050/TVPlayGarryPotter/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayLihie90eSerial.tv" tvg-logo="http://1lot.tv/ch/9252.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Лихие 90е Сериал
+http://95.143.191.33:5050/TVPlayLihie90eSerial/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayLihie90eKino.tv" tvg-logo="http://1lot.tv/ch/9253.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Лихие 90е Кино
+http://95.143.191.33:5050/TVPlayLihie90eKino/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayNovyoRUSHD.tv" tvg-logo="http://1lot.tv/ch/9254.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Новьё RUS HD
+http://95.143.191.33:5050/TVPlayNovyoRUSHD/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayNovyoWorldHD.tv" tvg-logo="http://1lot.tv/ch/9255.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Новьё Мир HD
+http://95.143.191.33:5050/TVPlayNovyoRUSHD/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayIstoriiSredizemya.tv" tvg-logo="http://1lot.tv/ch/9235.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Истории Средиземья HD
+http://95.143.191.33:5050/TVPlayIstoriiSredizemya/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySeriesLatinas.tv" tvg-logo="http://1lot.tv/ch/9151.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Латинские сериалы ретро
+http://95.143.191.33:5050/TVPlaySeriesLatinas/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayIndianCinema.tv" tvg-logo="http://1lot.tv/ch/9221.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Indian Cinema
+http://95.143.191.33:5050/TVPlayIndianCinema.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayMythsandLegends.tv" tvg-logo="http://1lot.tv/ch/9227.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Myths and Legends
+http://95.143.191.33:5050/TVPlayMythsandLegends.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySledstvievedutHD.tv" tvg-logo="http://1lot.tv/ch/9232.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Следствие ведут HD
+http://95.143.191.33:5050/TVPlaySledstvievedutHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayUzhastikHD.tv" tvg-logo="http://1lot.tv/ch/9373.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Ужастик HD
+http://95.143.191.33:5050/TVPlayUzhastikHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayFantastikaHD.tv" tvg-logo="http://1lot.tv/ch/9374.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Фантастика HD
+http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySovKinoHD.tv" tvg-logo="http://1lot.tv/ch/9375.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Советское Кино HD
+http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayAnimeHD.tv" tvg-logo="http://1lot.tv/ch/9377.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Аниме HD
+http://95.143.191.33:5050/TVPlayAnimeHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayBuffyIstrebitelnicaVampirovHD.tv" tvg-logo="http://1lot.tv/ch/9378.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Баффи HD
+http://95.143.191.33:5050/TVPlayBuffyIstrebitelnicaVampirovHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayDruzyaHD.tv" tvg-logo="http://1lot.tv/ch/9379.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Друзья HD
+http://95.143.191.33:5050/TVPlayDruzyaHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayZacharovanniyeHD.tv" tvg-logo="http://1lot.tv/ch/9380.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Зачарованные HD
+http://95.143.191.33:5050/TVPlayZacharovanniyeHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayFantasticRUSHD.tv" tvg-logo="http://1lot.tv/ch/9381.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Фантастика RUS HD
+http://95.143.191.33:5050/TVPlayFantasticRUSHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayGameZone.tv" tvg-logo="http://1lot.tv/ch/9382.png" catchup-type="flussonic" catchup-days="1" ,TVPlay GameZone
+http://95.143.191.33:5050/TVPlayGameZone.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayParodies.tv" tvg-logo="http://1lot.tv/ch/9415.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Parodies
+http://95.143.191.33:5050/TVPlayParodies.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayMoyaPrekrasnayaNyanya.tv" tvg-logo="http://1lot.tv/ch/10193.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Моя Прекрасная няня
+http://95.143.191.33:5050/TVPlayMoyaPrekrasnayaNyanya.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayPapinyDochki.tv" tvg-logo="http://1lot.tv/ch/10194.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Папины дочки
+http://95.143.191.33:5050/TVPlayPapinyDochki.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayGayday.tv" tvg-logo="http://1lot.tv/ch/10195.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Гайдай
+http://95.143.191.33:5050/TVPlayGayday.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayDaneliya.tv" tvg-logo="http://1lot.tv/ch/10196.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Данелия
+http://95.143.191.33:5050/TVPlayDaneliya.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayPsihoHD.tv" tvg-logo="http://1lot.tv/ch/10402.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Психо HD
+http://95.143.191.33:5050/TVPlayPsihoHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayNovogodniy.tv" tvg-logo="http://1lot.tv/ch/10547.png" catchup-type="flussonic" catchup-days="1" ,TVPlay ZOMBIE Грайндхаус
+http://95.143.191.33:5050/TVPlayNovogodniy.tv/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPLAYMaskiShow.tv" tvg-logo="http://1lot.tv/ch/9152.png" catchup-type="flussonic" catchup-days="1" ,TVPLAY Маски Шоу
+http://95.143.191.33:5050/TVPLAYMaskiShow/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayVkusniyKanal.tv" tvg-logo="http://1lot.tv/ch/9230.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Вкусный канал HD
+http://95.143.191.33:5050/TVPlayVkusniyKanal/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayBolshayaRaznica.tv" tvg-logo="http://1lot.tv/ch/9229.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Большая Разница
+http://95.143.191.33:5050/TVPlayBolshayaRaznica/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayGorodok.tv" tvg-logo="http://1lot.tv/ch/9228.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Городок
+http://95.143.191.33:5050/TVPlayGorodok/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlay6Kadrov.tv" tvg-logo="http://1lot.tv/ch/9225.png" catchup-type="flussonic" catchup-days="1" ,TVPlay 6 Кадров
+http://95.143.191.33:5050/TVPlay6Kadrov/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySvoyaIgra.tv" tvg-logo="http://1lot.tv/ch/9256.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Своя игра HD
+http://95.143.191.33:5050/TVPlaySvoyaIgra/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayFOOTBALLWORLDCUPS.tv" tvg-logo="http://1lot.tv/ch/10192.png" catchup-type="flussonic" catchup-days="1" ,TVPlay FOOTBALL WORLD CUPS
+http://95.143.191.33:5050/TVPlayFOOTBALLWORLDCUPS.tv/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayEralash.tv" tvg-logo="http://1lot.tv/ch/9224.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Ералаш
+http://95.143.191.33:5050/TVPlayEralash/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayThe90sCartoons.tv" tvg-logo="http://1lot.tv/ch/9809.png" catchup-type="flussonic" catchup-days="1" ,TVPlay The90sCartoons
+http://95.143.191.33:5050/TVPlayThe90sCartoons.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayLadyBag.tv" tvg-logo="http://1lot.tv/ch/9812.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Леди Баг и Супер Кот
+http://95.143.191.33:5050/TVPlayLadyBag.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySovMultHD.tv" tvg-logo="http://1lot.tv/ch/9376.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Советские Мультфильмы HD
+http://95.143.191.33:5050/TVPlaySovMultHD.tv/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySledstvieVeli.tv" tvg-logo="http://1lot.tv/ch/9810.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Следствие вели
+http://95.143.191.33:5050/TVPlaySledstvieVeli.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayBiografii.tv" tvg-logo="http://1lot.tv/ch/9811.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Биографии
+http://95.143.191.33:5050/TVPlayBiografii.tv/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayVysotskiy.tv" tvg-logo="http://1lot.tv/ch/9219.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Высоцкий HD
+http://95.143.191.33:5050/TVPlayVysotskiy/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayRusskiyRok.tv" tvg-logo="http://1lot.tv/ch/9236.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Русский Рок HD
+http://95.143.191.33:5050/TVPlayRusskiyRok/video.m3u8?token=Y9LUPAeayunx83
+
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayNasheXXX.tv" tvg-logo="http://1lot.tv/ch/10197.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Наше XXX
+http://95.143.191.33:5050/TVPlayNasheXXX.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayWorldXXX.tv" tvg-logo="http://1lot.tv/ch/10198.png" catchup-type="flussonic" catchup-days="1" ,TVPlay World XXX
+http://95.143.191.33:5050/TVPlayWorldXXX.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayMultXXX.tv" tvg-logo="http://1lot.tv/ch/10199.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Мульт XXX
+http://95.143.191.33:5050/TVPlayMultXXX.tv/video.m3u8?token=Y9LUPAeayunx83
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9185,177 +9326,6 @@ http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 
 
 
-#EXTINF:-1 group-title="Селектел" ,Первый канал
-http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Первый канал HD
-http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,РЕН ТВ HD
-http://92.53.64.197:5050/Rentv_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Россия 1
-http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,ТНТ
-http://92.53.64.197:5050/TNT/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,НТВ
-http://92.53.64.197:5050/NTV/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,НТВ HD
-http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,ТНТ HD
-http://92.53.64.197:5050/TNT_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,НТВ СЕРИАЛ
-http://92.53.64.197:5050/ntv_serial_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Россия 24
-http://92.53.64.197:5050/Russia_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,RTG
-http://92.53.64.197:5050/rtg/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,RTG HD
-http://92.53.64.197:5050/rtg_hd/video.m3u8?token=m3VIth-Rou_bM1
-
-#EXTINF:-1 group-title="Селектел" ,PROMO
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY Promo HD
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,PAMYAT
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY Память HD
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,UZHASTIK
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY Ужастик HD
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,IPTV Play Fantastica
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY Фантастика HD
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-
-
-
-
-#EXTINF:-1 group-title="Селектел" ,Дом Кино
-http://92.53.64.197:5050/dom_kino/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Дом Кино Премиум HD
-http://92.53.64.197:5050/dom_kino_premium_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Русский Бестселлер
-http://92.53.64.197:5050/russkiy_bestseller/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Белрос
-http://92.53.64.197:5050/belros/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Ратник
-http://92.53.64.197:5050/ratnik_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" tvg-id="solovjinypomiot",Соловьев
-http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Известия
-http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,360 HD
-http://92.53.64.197:5050/360_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,360 Новости
-http://92.53.64.197:5050/360_novosti_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Мир 24
-http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Дума тв
-http://92.53.64.197:5050/duma_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Крым 24
-http://92.53.64.197:5050/Krym_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Восток 24
-http://92.53.64.197:5050/Vostok_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Луганск 24
-http://92.53.64.197:5050/Luhansk_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Республиканский
-http://92.53.64.197:5050/1_respublikanskiy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Оплот
-http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Оплот 2
-http://92.53.64.197:5050/oplot_2/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Юнион
-http://92.53.64.197:5050/union/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,6 ТВ Горловка
-http://92.53.64.197:5050/6tv_horlovka/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Таврия
-http://92.53.64.197:5050/tavriya_kherson/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Первый Крымский
-http://92.53.64.197:5050/perviy_krimskiy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,ТНР
-http://92.53.64.197:5050/tnr/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Приднестровье
-http://92.53.64.197:5050/tsv_pridnestrovye/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Сочи live
-http://92.53.64.197:5050/sochi_live_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Красная Линия
-http://92.53.64.197:5050/krasnaya_liniya/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Санкт-Петербург
-http://92.53.64.197:5050/sankt-peterburg_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,8 Канал
-http://92.53.64.197:5050/8_kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,RTD HD
-http://92.53.64.197:5050/RTD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Е
-http://92.53.64.197:5050/e_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,ОТР
-http://92.53.64.197:5050/otr/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,ЧЕ
-http://92.53.64.197:5050/che/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,СТС Love
-http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Домашний
-http://92.53.64.197:5050/domashniy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Домашний HD
-http://92.53.64.197:5050/domashniy_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Mир
-http://92.53.64.197:5050/Mir/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Пятница
-http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Пятница HD
-http://92.53.64.197:5050/pyatnica_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Пятый
-http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,РБК
-http://92.53.64.197:5050/RBK/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Новороссия
-http://92.53.64.197:5050/novorossiya_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,За ТВ
-http://92.53.64.197:5050/za_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Ю
-http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Звезда HD
-http://92.53.64.197:5050/Zvezda/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Суббота
-http://92.53.64.197:5050/subbota_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Спас
-http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,СТС
-http://92.53.64.197:5050/sts/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,СТС HD
-http://92.53.64.197:5050/sts_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,ТВ3
-http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,ТВЦ
-http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Bridge TV
-http://92.53.64.197:5050/bridge_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Bridge Classic
-http://92.53.64.197:5050/bridge_tv_classic/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Карусель
-http://92.53.64.197:5050/karusel/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Мульт
-http://92.53.64.197:5050/mult/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Смайлик ТВ HD
-http://92.53.64.197:5050/smaylik_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел" ,Солнце
-http://92.53.64.197:5050/sonce/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
-http://92.53.64.197:5050/football/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт
-http://92.53.64.197:5050/start/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт Триумф
-http://92.53.64.197:5050/start_triumf_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",УДАР
-http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Red Bull TV
-http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Sport
-http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
 
 
 
