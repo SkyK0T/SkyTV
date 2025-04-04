@@ -600,6 +600,8 @@ http://92.53.64.197:5050/NTV/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/NTV_America/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="НТВ Право" tvg-id="ntv_pravo",НТВ Право
 http://92.53.64.197:5050/ntv_pravo/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="НТВ Сериал HD" tvg-id="ntv_serial_hd",НТВ Сериал HD
+http://92.53.64.197:5050/ntv_serial_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Пятый канал" tvg-id="pyatiy_kanal",Пятый канал
 http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ОТР" tvg-id="otr",ОТР
@@ -608,38 +610,70 @@ http://92.53.64.197:5050/otr/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/Mir/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Звезда" tvg-id="Zvezda",Звезда
 http://92.53.64.197:5050/Zvezda/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Звезда плюс" tvg-id="zvezdaplus",Звезда плюс
+http://92.53.64.197:5050/zvezdaplus/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Домашний HD" tvg-id="domashniy_hd",Домашний HD
+http://92.53.64.197:5050/domashniy_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Домашний" tvg-id="domashniy",Домашний
+http://92.53.64.197:5050/domashniy/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="СТС" tvg-id="sts",СТС
 http://92.53.64.197:5050/sts/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="СТС Love" tvg-id="ctc_love",СТС Love
+http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ТНТ" tvg-id="TNT",ТНТ
 http://92.53.64.197:5050/TNT/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Че" tvg-id="che",Че
-http://92.53.64.197:5050/che/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Рен ТВ" tvg-id="Rentv",Рен ТВ
 http://92.53.64.197:5050/Rentv/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Россия К" tvg-id="Rossiya_K",Россия К
-http://92.53.64.197:5050/Rossiya_K/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ТВ 3" tvg-id="tv3",ТВ 3
+http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ТВ 3 Беларусь" tvg-id="tv3_belarus",ТВ 3 Беларусь
+http://92.53.64.197:5050/tv3_belarus/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Санкт-Петербург HD" tvg-id="sankt-peterburg_HD",Санкт-Петербург HD
-http://92.53.64.197:5050/sankt-peterburg_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="E TV HD" tvg-id="e_tv_hd",E TV HD
+http://92.53.64.197:5050/e_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Пятница!" tvg-id="pyatnica",Пятница!
+http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Твоё ТВ HD" tvg-id="tvoetv",Твоё ТВ HD
+http://92.53.64.197:5050/tvoetv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Твоё ТВ HD Юмор" tvg-id="tvoetv_yumor",Твоё ТВ HD Юмор
+http://92.53.64.197:5050/tvoetv_yumor/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Че" tvg-id="che",Че
+http://92.53.64.197:5050/che/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ю" tvg-id="yu",Ю
+http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="8 Канал" tvg-id="8_kanal",8 Канал
-http://92.53.64.197:5050/8_kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="8 канал International" tvg-id="8_kanal_int",8 канал International
-http://92.53.64.197:5050/8_kanal_int/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="День Победы" tvg-id="mediaservicelorenzTV",День Победы
+http://92.53.64.197:5050/mediaservicelorenzTV/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Дом кино" tvg-id="dom_kino",Дом кино
+http://92.53.64.197:5050/dom_kino/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Дом Кино Премиум HD" tvg-id="dom_kino_premium_hd",Дом Кино Премиум HD
+http://92.53.64.197:5050/dom_kino_premium_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский бестселлер" tvg-id="russkiy_bestseller",Русский бестселлер
+http://92.53.64.197:5050/russkiy_bestseller/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский детектив" tvg-id="russkiy_Detektiv",Русский детектив
+http://92.53.64.197:5050/russkiy_Detektiv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский Роман" tvg-id="russkiy_Roman",Русский Роман
+http://92.53.64.197:5050/russkiy_Roman/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский Иллюзион" tvg-id="russkiy_Illyuzion",Русский Иллюзион
+http://92.53.64.197:5050/russkiy_Illyuzion/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Комедия " tvg-id="kinokomedia_sd",Комедия
+http://92.53.64.197:5050/kinokomedia_sd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Красная линия" tvg-id="krasnaya_liniya",Красная линия
+http://92.53.64.197:5050/krasnaya_liniya/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мосфильм" tvg-id="mosfilm",Мосфильм
+http://92.53.64.197:5050/mosfilm/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Победа" tvg-id="pobeda",Победа
+http://92.53.64.197:5050/pobeda/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Телекафе" tvg-id="kinoseriya_sd",Телекафе
+http://92.53.64.197:5050/kinoseriya_sd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="VHS-ка" tvg-id="vhs",VHS-ка
+http://92.53.64.197:5050/vhs/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Смотрим Тайны HD" tvg-id="tainy_smotrim_HD",Смотрим Тайны HD
+http://92.53.64.197:5050/tainy_smotrim_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Смотрим Честный Детектив HD" tvg-id="chestniy_detektiv_HD",Смотрим Честный Детектив HD
+http://92.53.64.197:5050/chestniy_detektiv_HD/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="БелРос" tvg-id="belros",БелРос
-http://92.53.64.197:5050/belros/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Лен ТВ 24" tvg-id="len_tv_24",Лен ТВ 24
-http://92.53.64.197:5050/len_tv_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ОТВ Челябинск HD" tvg-id="OTV_Chelyabinsk_HD",ОТВ Челябинск HD
-http://92.53.64.197:5050/OTV_Chelyabinsk_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ural 1 HD (Челябинск)" tvg-id="ural_1_HD",Ural 1 HD (Челябинск)
-http://92.53.64.197:5050/ural_1_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мамонт ТВ HD" tvg-id="mamonttv",Мамонт ТВ HD
-http://92.53.64.197:5050/mamonttv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Звезда плюс" tvg-id="zvezdaplus",Звезда плюс
-http://92.53.64.197:5050/zvezdaplus/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="360 HD" tvg-id="360_hd",360 HD
 http://92.53.64.197:5050/360_hd/video.m3u8?token=m3VIth-Rou_bM1
@@ -651,20 +685,43 @@ http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/Russia_24/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Соловьёв live" tvg-id="Solovyov_live",Соловьёв live
 http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Крым 24 HD" tvg-id="Krym_24",Крым 24 HD
-http://92.53.64.197:5050/Krym_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Восток 24" tvg-id="Vostok_24",Восток 24
-http://92.53.64.197:5050/Vostok_24/video.m3u8?token=m3VIth-Rou_bM1
-
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="РБК" tvg-id="RBK",РБК
 http://92.53.64.197:5050/RBK/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="RTД HD" tvg-id="RTD",RTД HD
 http://92.53.64.197:5050/RTD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мир 24 HD" tvg-id="Mir_24_HD",Мир 24 HD
-http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Дума ТВ" tvg-id="duma_tv",Дума ТВ
 http://92.53.64.197:5050/duma_tv/video.m3u8?token=m3VIth-Rou_bM1
+
+
+
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мир 24 HD" tvg-id="Mir_24_HD",Мир 24 HD
+http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Крым 24 HD" tvg-id="Krym_24",Крым 24 HD
+http://92.53.64.197:5050/Krym_24/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Восток 24" tvg-id="Vostok_24",Восток 24
+http://92.53.64.197:5050/Vostok_24/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Лен ТВ 24" tvg-id="len_tv_24",Лен ТВ 24
+http://92.53.64.197:5050/len_tv_24/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Луганск 24 HD" tvg-id="Luhansk_24_HD",Луганск 24 HD
+http://92.53.64.197:5050/Luhansk_24_HD/video.m3u8?token=m3VIth-Rou_bM1
+
+
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="8 Канал" tvg-id="8_kanal",8 Канал
+http://92.53.64.197:5050/8_kanal/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="8 канал International" tvg-id="8_kanal_int",8 канал International
+http://92.53.64.197:5050/8_kanal_int/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="БелРос" tvg-id="belros",БелРос
+http://92.53.64.197:5050/belros/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Россия К" tvg-id="Rossiya_K",Россия К
+http://92.53.64.197:5050/Rossiya_K/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Санкт-Петербург HD" tvg-id="sankt-peterburg_HD",Санкт-Петербург HD
+http://92.53.64.197:5050/sankt-peterburg_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ОТВ Челябинск HD" tvg-id="OTV_Chelyabinsk_HD",ОТВ Челябинск HD
+http://92.53.64.197:5050/OTV_Chelyabinsk_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ural 1 HD (Челябинск)" tvg-id="ural_1_HD",Ural 1 HD (Челябинск)
+http://92.53.64.197:5050/ural_1_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-id="mamonttv",Мамонт ТВ
+http://92.53.64.197:5050/mamonttv/video.m3u8?token=m3VIth-Rou_bM1
 
 
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Первый Республиканский" tvg-id="1_respublikanskiy",Первый Республиканский
@@ -687,124 +744,60 @@ http://92.53.64.197:5050/tavriya_kherson/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/za_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Первый Крымский" tvg-id="perviy_krimskiy",Первый Крымский
 http://92.53.64.197:5050/perviy_krimskiy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Луганск 24 HD" tvg-id="Luhansk_24_HD",Луганск 24 HD
-http://92.53.64.197:5050/Luhansk_24_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ТСВ (Приднестровье)" tvg-id="tsv_pridnestrovye",ТСВ (Приднестровье)
 http://92.53.64.197:5050/tsv_pridnestrovye/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="СТС Love" tvg-id="ctc_love",СТС Love
-http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Красная линия" tvg-id="krasnaya_liniya",Красная линия
-http://92.53.64.197:5050/krasnaya_liniya/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ТВ 3" tvg-id="tv3",ТВ 3
-http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Домашний HD" tvg-id="domashniy_hd",Домашний HD
-http://92.53.64.197:5050/domashniy_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Домашний" tvg-id="domashniy",Домашний
-http://92.53.64.197:5050/domashniy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Дом кино" tvg-id="dom_kino",Дом кино
-http://92.53.64.197:5050/dom_kino/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Дом Кино Премиум HD" tvg-id="dom_kino_premium_hd",Дом Кино Премиум HD
-http://92.53.64.197:5050/dom_kino_premium_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский бестселлер" tvg-id="russkiy_bestseller",Русский бестселлер
-http://92.53.64.197:5050/russkiy_bestseller/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="НТВ Сериал HD" tvg-id="ntv_serial_hd",НТВ Сериал HD
-http://92.53.64.197:5050/ntv_serial_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский детектив" tvg-id="russkiy_Detektiv",Русский детектив
-http://92.53.64.197:5050/russkiy_Detektiv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский Роман" tvg-id="russkiy_Roman",Русский Роман
-http://92.53.64.197:5050/russkiy_Roman/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Русский Иллюзион" tvg-id="russkiy_Illyuzion",Русский Иллюзион
-http://92.53.64.197:5050/russkiy_Illyuzion/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Победа" tvg-id="pobeda",Победа
-http://92.53.64.197:5050/pobeda/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Комедия " tvg-id="kinokomedia_sd",Комедия
-http://92.53.64.197:5050/kinokomedia_sd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Телекафе" tvg-id="kinoseriya_sd",Телекафе
-http://92.53.64.197:5050/kinoseriya_sd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ТВ 3 Беларусь" tvg-id="tv3_belarus",ТВ 3 Беларусь
-http://92.53.64.197:5050/tv3_belarus/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мосфильм" tvg-id="mosfilm",Мосфильм
-http://92.53.64.197:5050/mosfilm/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="VHS-ка" tvg-id="vhs",VHS-ка
-http://92.53.64.197:5050/vhs/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ратник ТВ" tvg-id="ratnik_tv",Ратник ТВ
 http://92.53.64.197:5050/ratnik_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="RTG HD" tvg-id="rtg_hd",RTG HD
-http://92.53.64.197:5050/rtg_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="RTG" tvg-id="rtg",RTG
-http://92.53.64.197:5050/rtg/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ОТВ Челябинск HD" tvg-id="OTV_Chelyabinsk_HD",ОТВ HD
+http://92.53.64.197:5050/OTV_Chelyabinsk_HD/video.m3u8?token=m3VIth-Rou_bM1
+
+
+
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Sochi Live TV HD" tvg-id="sochi_live_tv_hd",Sochi Live TV HD
 http://92.53.64.197:5050/sochi_live_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="История" tvg-id="365_dnei_tv",История
-http://92.53.64.197:5050/365_dnei_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="В мире животных HD" tvg-id="v_mire_zhivotnykh_hd",В мире животных HD
-http://92.53.64.197:5050/v_mire_zhivotnykh_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Discovery Channel HD" tvg-id="discovery_channel_hd",Discovery Channel HD
 http://92.53.64.197:5050/discovery_channel_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Investigation Discovery HD" tvg-id="investigationDiscovery_HD",Investigation Discovery HD
 http://92.53.64.197:5050/investigationDiscovery_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Смотрим Тайны HD" tvg-id="tainy_smotrim_HD",Смотрим Тайны HD
-http://92.53.64.197:5050/tainy_smotrim_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Смотрим Честный Детектив HD" tvg-id="chestniy_detektiv_HD",Смотрим Честный Детектив HD
-http://92.53.64.197:5050/chestniy_detektiv_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="RTG" tvg-id="rtg",RTG
+http://92.53.64.197:5050/rtg/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="RTG HD" tvg-id="rtg_hd",RTG HD
+http://92.53.64.197:5050/rtg_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="В мире животных HD" tvg-id="v_mire_zhivotnykh_hd",В мире животных HD
+http://92.53.64.197:5050/v_mire_zhivotnykh_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="История" tvg-id="365_dnei_tv",История
+http://92.53.64.197:5050/365_dnei_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Моя планета" tvg-id="moya_planeta",Моя планета
 http://92.53.64.197:5050/moya_planeta/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Матч! ТВ" tvg-id="match_tv",Матч! ТВ
-http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Футбол" tvg-id="football",Футбол
-http://92.53.64.197:5050/football/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="UDAR HD" tvg-id="udar_hd",UDAR HD
-http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Окко Спорт HD" tvg-id="okko_sport_hd",Окко Спорт HD
-http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Dubai Sports 2 HD" tvg-id="dubai_sports_2hd",Dubai Sports 2 HD
-http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Хоккей ТВ" tvg-id="khl_Prime",Хоккей ТВ
-http://92.53.64.197:5050/khl_Prime/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Setanta Sports 1" tvg-id="khl",Setanta Sports 1
-http://92.53.64.197:5050/khl/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Матч! Планета HD" tvg-id="match_planeta_hd",Матч! Планета HD
-http://92.53.64.197:5050/match_planeta_hd/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Беларусь 5 HD" tvg-id="match_football1_hd",Беларусь 5 HD
-http://92.53.64.197:5050/match_football1_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мир Баскетбола" tvg-id="match_football3_hd",Мир Баскетбола
-http://92.53.64.197:5050/match_football3_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="CANAL+ SPORT 1" tvg-id="canalplus_sport1",CANAL+ SPORT 1
-http://92.53.64.197:5050/canalplus_sport1/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Setanta Qazaqstan" tvg-id="match_premier",Setanta Qazaqstan
-http://92.53.64.197:5050/match_premier/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Eurosport 1 HD" tvg-id="eurosport1HD",Eurosport 1 HD
-http://92.53.64.197:5050/eurosport1HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Eurosport 2 HD" tvg-id="eurosport2HD",Eurosport 2 HD
-http://92.53.64.197:5050/eurosport2HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ani" tvg-id="ani",Ani
+http://92.53.64.197:5050/ani/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Gulli Girl" tvg-id="gulli_girl",Gulli Girl
+http://92.53.64.197:5050/gulli_girl/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Nick Jr" tvg-id="nick_jr",Nick Jr
+http://92.53.64.197:5050/nick_jr/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Nicktoons" tvg-id="nicktoons",Nicktoons
+http://92.53.64.197:5050/nicktoons/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Tiji" tvg-id="tiji",Tiji
+http://92.53.64.197:5050/tiji/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Детский мир" tvg-id="detskiy_mir",Детский мир
+http://92.53.64.197:5050/detskiy_mir/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Карусель" tvg-id="karusel",Карусель
 http://92.53.64.197:5050/karusel/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мульт" tvg-id="mult",Мульт
 http://92.53.64.197:5050/mult/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мультиландия HD" tvg-id="multilandiya_hd",Мультиландия HD
 http://92.53.64.197:5050/multilandiya_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мультимузыка" tvg-id="multimuzika",Мультимузыка
+http://92.53.64.197:5050/multimuzika/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Солнце" tvg-id="sonce",Солнце
 http://92.53.64.197:5050/sonce/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Смайлик ТВ" tvg-id="smaylik_tv",Смайлик ТВ
 http://92.53.64.197:5050/smaylik_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="СТС Kids" tvg-id="knopka_tv",СТС Kids
 http://92.53.64.197:5050/knopka_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Nick Jr" tvg-id="nick_jr",Nick Jr
-http://92.53.64.197:5050/nick_jr/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мультимузыка" tvg-id="multimuzika",Мультимузыка
-http://92.53.64.197:5050/multimuzika/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Tiji" tvg-id="tiji",Tiji
-http://92.53.64.197:5050/tiji/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Gulli Girl" tvg-id="gulli_girl",Gulli Girl
-http://92.53.64.197:5050/gulli_girl/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ani" tvg-id="ani",Ani
-http://92.53.64.197:5050/ani/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Детский мир" tvg-id="detskiy_mir",Детский мир
-http://92.53.64.197:5050/detskiy_mir/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Nicktoons" tvg-id="nicktoons",Nicktoons
-http://92.53.64.197:5050/nicktoons/video.m3u8?token=m3VIth-Rou_bM1
+
 
 
 
@@ -812,6 +805,8 @@ http://92.53.64.197:5050/nicktoons/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/bridge_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Clubbing TV HD" tvg-id="clubbing_tv",Clubbing TV HD
 http://92.53.64.197:5050/clubbing_tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Retro music TV" tvg-id="retromusicTV",Retro music TV
+http://92.53.64.197:5050/retromusicTV/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="RU TV HD" tvg-id="ru_tv_hd",RU TV HD
 http://92.53.64.197:5050/ru_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="RU TV" tvg-id="ru_tv",RU TV
@@ -824,21 +819,42 @@ http://92.53.64.197:5050/ptica/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/muzika_pervogo/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Шансон ТВ" tvg-id="shanson_tv",Шансон ТВ
 http://92.53.64.197:5050/shanson_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Retro music TV" tvg-id="retromusicTV",Retro music TV
-http://92.53.64.197:5050/retromusicTV/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Пятница!" tvg-id="pyatnica",Пятница!
-http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ю" tvg-id="yu",Ю
-http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="E TV HD" tvg-id="e_tv_hd",E TV HD
-http://92.53.64.197:5050/e_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Твоё ТВ HD" tvg-id="tvoetv",Твоё ТВ HD
-http://92.53.64.197:5050/tvoetv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Твоё ТВ HD Юмор" tvg-id="tvoetv_yumor",Твоё ТВ HD Юмор
-http://92.53.64.197:5050/tvoetv_yumor/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="День Победы" tvg-id="mediaservicelorenzTV",День Победы
-http://92.53.64.197:5050/mediaservicelorenzTV/video.m3u8?token=m3VIth-Rou_bM1
+
+
+
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Eurosport 1 HD" tvg-id="eurosport1HD",Eurosport 1 HD
+http://92.53.64.197:5050/eurosport1HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Eurosport 2 HD" tvg-id="eurosport2HD",Eurosport 2 HD
+http://92.53.64.197:5050/eurosport2HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Матч! ТВ" tvg-id="match_tv",Матч! ТВ
+http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗",Матч ТВ HD
+http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Матч! Планета HD" tvg-id="match_planeta_hd",Матч! Планета HD
+http://92.53.64.197:5050/match_planeta_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Setanta Qazaqstan" tvg-id="match_premier",Матч Премьер
+http://92.53.64.197:5050/match_premier/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Мир Баскетбола" tvg-id="match_football3_hd",Мир Баскетбола
+http://92.53.64.197:5050/match_football3_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Футбол" tvg-id="football",Футбол
+http://92.53.64.197:5050/football/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="UDAR HD" tvg-id="udar_hd",UDAR HD
+http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Окко Спорт HD" tvg-id="okko_sport_hd",Окко Спорт HD
+http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Dubai Sports 2 HD" tvg-id="dubai_sports_2hd",Dubai Sports 2 HD
+http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗",Red Bull TV
+http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Setanta Sports 1" tvg-id="khl",Setanta Sports 1
+http://92.53.64.197:5050/khl/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Хоккей ТВ" tvg-id="khl_Prime",Хоккей ТВ
+http://92.53.64.197:5050/khl_Prime/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Беларусь 5 HD" tvg-id="match_football1_hd",Беларусь 5 HD
+http://92.53.64.197:5050/match_football1_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="CANAL+ SPORT 1" tvg-id="canalplus_sport1",CANAL+ SPORT 1
+http://92.53.64.197:5050/canalplus_sport1/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Спас" tvg-id="spas",Спас
 http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
@@ -846,17 +862,6 @@ http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/soyuz_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Вера 24 HD" tvg-id="vera_24",Вера 24 HD
 http://92.53.64.197:5050/vera_24/video.m3u8?token=m3VIth-Rou_bM1
-
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="ОТВ Челябинск HD" tvg-id="OTV_Chelyabinsk_HD",ОТВ Челябинск HD
-http://92.53.64.197:5050/OTV_Chelyabinsk_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="Ural 1 HD (Челябинск)" tvg-id="ural_1_HD",Ural 1 HD (Челябинск)
-http://92.53.64.197:5050/ural_1_HD/video.m3u8?token=m3VIth-Rou_bM1
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayDCComics.tv" tvg-logo="http://1lot.tv/ch/9234.png" catchup-type="flussonic" catchup-days="1" ,TVPlay DC Comics HD
