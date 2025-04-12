@@ -1811,7 +1811,7 @@ https://v2.catcast.tv/content/44051/index.m3u8
 https://v2.catcast.tv/content/39005/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16102024/logos/47689-670fba5762ff6.png",BCHD GROUP Малдер Мегахит
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16102024/logos/47689-670fba5762ff6.png",BCHD GROUP Malder Мегахит
 #EXTGRP:🐈 Catcast TV 🐈
 https://v2.catcast.tv/content/47689/index.m3u8
 
@@ -2512,159 +2512,6 @@ http://hls127.homeiptv.org:8880/Souz/video.m3u8
 http://hls127.homeiptv.org:8880/Spas/video.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png",4KIDS
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/7.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/ACM_TEMP.png",ACM
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/24.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AC_TEMP.png",alpha Cinema
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/32.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AF_TEMP.png",alpha Funny
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/35.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AG_TEMP.png",alpha Games
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/34.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AM_TEMP.png",alpha MoreTime
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/33.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/HITCOMEDY_TEMP.png",HIT Комедия
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/25.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/HITSVATY_TEMP.png",HIT Сваты
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/26.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KIDSPLUS_TEMP.png",KidsPlus
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/29.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KULTURA_TEMP.png",Kultura
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/6.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://i.postimg.cc/QCmKyhVC/1.png",ONAIR [Развод по расчёту]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/20.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/RESTORAN_TEMP.png",ONAIR [Ресторан по понятиям]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/37.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://i.postimg.cc/QxmbWr8f/1.png",ONAIR [Бедные смеются, богатые плачут]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/21.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/BEDNYI_TEMP.png",ONAIR [Бедный олигарх]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/38.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/DEVYCHI_TEMP.png",ONAIR [Девушки с Макаровым]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/46.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/DETECTIVE_TEMP.png",ONAIR [Детективное агентство Мухича]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/39.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/DEVICY_TEMP.png",ONAIR [Две девицы на мели]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/41.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/LICHACH_TEMP.png",ONAIR [Лихач]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/48.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://i.postimg.cc/mDJVd3zh/1.png",ONAIR [Иванько]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/22.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://i.postimg.cc/zvpnWJk8/TKACHEVY-TEMP.png",ONAIR [Игра на выживание]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/16.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/UNIVER_TEMP.png",ONAIR [Универ.13 лет спустя]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/19.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/NELICHNAYA_TEMP.png",ONAIR [Неличная жизнь]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/43.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KONTAKT_TEMP.png",ONAIR [Контакт]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/40.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://i.postimg.cc/Kj6R1jK1/1.png",ONAIR [МИР! ДРУЖБА! ЖВАЧКА!]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/23.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/MILICEISKY_TEMP.png",ONAIR [Милицейский с Рублёвки]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/45.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://i.postimg.cc/GtQvncB6/1.png",ONAIR [Мылодрама]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/18.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/OTPUSK_TEMP.png",ONAIR [Отпуск]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/44.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/STRIM_TEMP.png",ONAIR [Стрим]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/42.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/PATRIOT_TEMP.png",ONAIR [Патриот]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/17.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/POL_TEMP.png",ONAIR [Полярный]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/49.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/PES_TEMP.png",ONAIR [Пёс]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/47.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/IGRY_TEMP.png",ONAIR FREE [Игры 2024]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/12.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/ONAIRZ_TEMP.png",ONAIR FREE [Жуки]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/9.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TKACHEVY_TEMP.png",ONAIR FREE [Ткачевы на связи]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/11.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/MICHALYCH_TEMP.png",ONAIR FREE [Просто Михалыч]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/15.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KINOPREMIUM_TEMP.png",ONAIR GLOBAL MEDIA SPECIAL [Kino Premium 4K]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/30.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/PANDATV_TEMP.png",ONAIR PANDA TV SPECIAL [Kino Hit]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/13.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/HIT_TEMP.png",StreamBox.TV [Hit]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/28.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/SBPREMIUMHIT_TEMP.png",StreamBox.TV [Premium Hit]
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/14.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/MUSICHIT_TEMP.png",StreamBox.TV Music Hit
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/27.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TRR1S_TEMP.png",TRR-1-SAT
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/3.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",W1
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/5.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png",W2
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/10.m3u8
-
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-name="Sunset Music" tvg-logo="https://sunset-media.ru/assets/logos/music.png",Sunset Music
-https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://sunset-media.ru/Sunsetmusiclive.png",Sunset Music Live
-https://stream.sunset-media.ru/Free/Free/6.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-name="Sunset Movie" tvg-logo="https://sunset-media.ru/assets/logos/movie.png",Sunset Movie
-https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-name="Sunset Space" tvg-logo="https://sunset-media.ru/assets/logos/space.png",Sunset Space
-https://stream.sunset-media.ru:443/Free/Free/3.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://sunset-media.ru/assets/logos/anime.png",Sunset Anime
-https://stream.sunset-media.ru/Free/Free/5.m3u8
-
-#EXTINF:-1 group-title="Кинозалы A-Media" tvg-name="Sunset Kids" tvg-logo="https://sunset-media.ru/assets/logos/kids.png",Sunset Kids
-https://stream.sunset-media.ru:443/Free/Free/4.m3u8
 
 
 #EXTINF:-1 group-title="Кинозалы High Network", High Network
@@ -5162,72 +5009,6 @@ https://online.vse-tv.net/pyatyy_kanal/tracks-v1a1/mono.m3u8?token=bXRweC9XbXB2d
 
 
 
-
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="141" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png",15+ Media Group 15+ Music
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/16.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="100" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png",15+ Media Group Кринж ТВ
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/18.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="9238" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png",15+ Media Group Alpha Cinema
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/8.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="948" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png",15+ Media Group Alpha Onenite
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/9.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1384" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png",15+ Media Group Alpha Funny
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/10.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="1246" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png",15+ Media Group Alpha Games
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/11.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="09" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png",15+ Media Group Alpha Anime
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/12.m3u8
-#EXTINF:-1 group-title="Taurer Media" fiftmediagroup-id="190" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png",15+ Media Group Alpha Sex
-http://node-01.streaming.taurermedia.online:80/DNgXtq6mxU/RE9bedFwGP/13.m3u8
-
-#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",A-Media WAR-1
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/5.m3u8
-#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png",A-Media WAR-2
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/10.m3u8
-#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KULTURA_TEMP.png",A-Media Kultura
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/6.m3u8
-#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png",A-Media 4KIDS
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/7.m3u8
-#EXTINF:-1 group-title="Taurer Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png",Digital Filmix
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/8.m3u8
-
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 HLS
-http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 1 TS
-http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.ts
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 HLS
-http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Жуки 2 TS
-http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.ts
-
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1331" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Taurer Russia Groovezzo
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
-#EXTINF:-1 group-title="Taurer Media"taurer-id="11" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png",Taurer Russia RRTV Europe
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="135"  tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png",Taurer Russia NINJA
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
-#EXTINF:-1 group-title="Taurer Media"taurer-id="5323" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png",Taurer Russia World-1
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="4321" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png",Taurer Russia Криминал и Полиция
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1131" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png",Taurer Russia KidsPlanet
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="01" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png",Taurer Russia KidsPlanet+
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="948" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png",Taurer Russia Quality HD
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="131" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png",Taurer Russia Кулинар HD
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1339" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png",Taurer Russia Авто-Гир
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/28.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="948" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png",Taurer Russia TRR Georgia National Film
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/29.m3u8
-#EXTINF:-1 group-title="Taurer Media" taurer-id="1531" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" ,Taurer Russia Scorelive 1 HD
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
-
-
-#EXTINF:-1 group-title="Природа",Природа WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Природа",Живая природа
 http://178.212.71.253:8002/play/a00o/index.m3u8
@@ -14116,12 +13897,8 @@ http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн
-https://132544.edgevideo.ru/streams/132544_702992/720n/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/vZDKTKTb/1.jpg",Сериал Офис 2 сезон - Все серии
-https://132544.edgevideo.ru/streams/132544_737074/480n/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Viva HD
-https://132544.edgevideo.ru/streams/132544_713325/1080n/index.m3u8
+
+
 #EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 
@@ -14255,8 +14032,6 @@ http://live.trkmillet.ru/millet/index.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",РБК
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
-https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут HD
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://assets.limehd.tv/uploads/channel/10272/thumb_915e2961accb5f2736151caccb4c1ecc.png",Эхо ТВ 24
@@ -15402,6 +15177,39 @@ http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 
 
 
+
+
+
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Music" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz8VBi-S4Jqm2IEqDnJcMnnvLkGlBYoAPsINmaaErU7Yy.png",Sunset Music
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Space" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz2Ww6HKLGjpIu0Bh8fSLqASO42yT-qIyVZwTwBHtoEIH.png",Sunset Space
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Kids" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz0dG9BkK3CNuiLvuX3a_AjfhbAeRkt1I9egtCjPZSVzL.png",Sunset Kids
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Fantastic" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz6PM1V2fr1hyaaAvkzhEvbourvi9G56vNyYqWQwwGL8I.png",Sunset Fantastic
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Serial" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz_hO0Eky53tVcwF7UW0yq1FemyPRUUdALepyYjcg38_D.png",Sunset Serial
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
+
+#EXTINF:-1 group-title="185.57.68.33",Природа WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="185.57.68.33" ,Загородняя жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="185.57.68.33" ,Природа WORLD HD
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="185.57.68.33" ,Popznay
+http://185.57.68.33/237/mpegts
+
+#EXTINF:-1 group-title="edgevideo.ru" ,Видеокассета E-180
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 group-title="edgevideo.ru" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
+https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
+#EXTINF:-1 group-title="edgevideo.ru" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн
+https://132544.edgevideo.ru/streams/132544_702992/720n/index.m3u8
+#EXTINF:-1 group-title="edgevideo.ru" tvg-logo="https://i.postimg.cc/vZDKTKTb/1.jpg",Сериал Офис 2 сезон - Все серии
+https://132544.edgevideo.ru/streams/132544_737074/480n/index.m3u8
+#EXTINF:-1 group-title="edgevideo.ru",Viva HD
+https://132544.edgevideo.ru/streams/132544_713325/1080n/index.m3u8
 
 
 
