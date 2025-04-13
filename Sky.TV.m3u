@@ -2080,6 +2080,37 @@ https://playlist.nuum.ru/abr/287603/tracks-v1a1/mono.m3u8
 #EXTGRP:🎮 Nuum 🎮
 https://playlist.nuum.ru/abr/991426/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 group-title="Платформа edgevideo.ru" tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="Видеокасета VHS" ,ВидеоКассета VHS
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png,Видеокассета Киномир
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",Киномир 24/7
+https://hls.goodgame.ru/hls/212682.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",Дембель неизбежен
+https://132544.edgevideo.ru/streams/132544_730983/playlist.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",⭐СОЛДАТЫ⭐ [24/7]
+https://132544.edgevideo.ru/streams/132544_730983/1325441080/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",Соловьев Live
+https://132544.edgevideo.ru/streams/132544_896888/1325441080/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
+https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",VIVA Russia
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",Lady Gaga Live Coachella Full
+https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/YI8o3NtqNsyTtZ1Fv_B/ZX
+
+#EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир HD
+https://132544.edgevideo.ru/streams/132544_839765/1325441080/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир HD sputnik24.tv
+https://stream18.sputnik24.tv/sapfir/480p/index.m3u8?sig=1744543391_f22f7d8df619fc6d92db28991a99269c
+#EXTINF:-1 group-title="Платформа plvideo.ru",Россия 24
+https://132544.edgevideo.ru/streams/132544_845717/132544360/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",Вечер с Владимиром Соловьёвым 10.04.2025
+https://132544.edgevideo.ru/streams/132544_836561/132544480/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",D&G Music ☆🎶🎵 Музыка 2025 Онлайн 24/7 🎵🎶☆
+https://132544.edgevideo.ru/streams/132544_766510/132544480/index.m3u8
+
 #EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26439" tvg-name="Кино Панорама MAX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QH7s2UlHPhXyTHH-5L7-6j4KZOyysSpj5VGB6zBq9tN.png",Кино Панорама MAX
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39uHOJxIan-A2SDByaGJHvoHfDdP1IkPJHb9iv5HWZA0/ts
 #EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26905" tvg-name="Колобок ТВ - Cartoons FHD" tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JMmMjzegd2q0_GPOij6gjo-Y8aq4WspeTiRqg39aiV49.png",Колобок ТВ - Cartoons FHD
