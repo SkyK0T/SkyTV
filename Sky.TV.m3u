@@ -15258,7 +15258,14 @@ http://sc.id-tv.kz/1KanalEvraziya.m3u8
 
 
 
-
+#EXTINF:-1 group-title="185.57.68.33",Природа WORLD HD
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="185.57.68.33",Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="185.57.68.33"Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="185.57.68.33",Popznay
+http://185.57.68.33/237/mpegts
 
 
 
