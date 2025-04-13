@@ -15222,6 +15222,44 @@ https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Serial" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz_hO0Eky53tVcwF7UW0yq1FemyPRUUdALepyYjcg38_D.png",Sunset Serial
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 
+#EXTINF:-1 group-title="Казахтелеком",31 Канал
+http://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 group-title="Казахтелеком",7 канал
+http://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 group-title="Казахтелеком",A2
+http://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Amedia 2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Astana TV
+http://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Atameken Business TV
+http://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Hit TV
+http://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Khabar
+http://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Khabar24
+http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Ел Арна
+http://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 group-title="Казахтелеком",КТК
+http://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Мир
+http://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Мир 24
+http://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Мир Premium
+http://sc.id-tv.kz/mir_premium_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="185.57.68.33",Природа WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="185.57.68.33" ,Загородняя жизнь
@@ -15231,16 +15269,7 @@ http://185.57.68.33/232/mpegts
 #EXTINF:-1 group-title="185.57.68.33" ,Popznay
 http://185.57.68.33/237/mpegts
 
-#EXTINF:-1 group-title="edgevideo.ru" ,Видеокассета E-180
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:-1 group-title="edgevideo.ru" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
-https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
-#EXTINF:-1 group-title="edgevideo.ru" tvg-logo="https://i.postimg.cc/rmGxq8Ls/1.jpg",Осторожно модерн
-https://132544.edgevideo.ru/streams/132544_702992/720n/index.m3u8
-#EXTINF:-1 group-title="edgevideo.ru" tvg-logo="https://i.postimg.cc/vZDKTKTb/1.jpg",Сериал Офис 2 сезон - Все серии
-https://132544.edgevideo.ru/streams/132544_737074/480n/index.m3u8
-#EXTINF:-1 group-title="edgevideo.ru",Viva HD
-https://132544.edgevideo.ru/streams/132544_713325/1080n/index.m3u8
+
 
 
 
@@ -15341,15 +15370,6 @@ https://glb.bozztv.com/ssh101/kinotvua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Прочее" ,Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Прочее" ,Amedia 1
-http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="Прочее" ,Amedia 2
-http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 group-title="Прочее" ,Седьмой канал KZ
-http://sc.id-tv.kz/7_kanal_34_35.m3u8
-#EXTINF:-1 group-title="Прочее" ,1 канал KZ
-http://sc.id-tv.kz/31Kanal_34_35.m3u8
-
 
 #EXTINF:-1 group-title="Прочее" ,ATV Kinoman
 http://s1.merlive.am/Kinoman/index.m3u8
@@ -15363,6 +15383,8 @@ http://45.159.74.14:80/Filmzone/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Прочее" ,Timeless Dizi Channel
 http://194.158.222.36:6086
+
+
 
 
 
