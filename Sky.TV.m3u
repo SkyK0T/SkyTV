@@ -15268,7 +15268,14 @@ http://185.57.68.33/110/mpegts
 http://185.57.68.33/237/mpegts
 
 
-
+#EXTINF:-1 group-title="BY с задержкой",Cinema Космос ТВ HD BY
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="BY с задержкой",RED
+http://178.124.152.238:8088/sony
+#EXTINF:-1 group-title="BY с задержкой",Перец
+http://178.124.152.238:8088/perec
+#EXTINF:-1 group-title="BY с задержкой",Ностальгия
+http://178.124.152.238:8088/nostalgia
 
 
 
