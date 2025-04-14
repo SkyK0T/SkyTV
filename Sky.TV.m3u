@@ -1,6 +1,10 @@
+
+
+
+
 #EXTM3U url-tvg="https://gabbarit.page.link/epg, http://1lot.tv/epg/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 12.3.25💗 
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 14.4.25💗 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 
@@ -2291,6 +2295,247 @@ http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3-k4-cxywCDGXssvTbeYWbq5
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-YDViPup2bwEShB9DhvfJiz/ts
 #EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26666" tvg-name="Чебур ТВ - Шеф" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fqdJSh18TAOwCwgjKwb3fIADVdneiwzw4IXKep-9qB2eIdj8cVlDwyoEHCuyyfB3w.png",Чебур ТВ - Шеф
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H390UhmKqE6I02WCYu2_tsix4l6pTHU4kXe-beENf02fL/ts
+
+
+
+
+
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Music" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz8VBi-S4Jqm2IEqDnJcMnnvLkGlBYoAPsINmaaErU7Yy.png",Sunset Music
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Space" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz2Ww6HKLGjpIu0Bh8fSLqASO42yT-qIyVZwTwBHtoEIH.png",Sunset Space
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Kids" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz0dG9BkK3CNuiLvuX3a_AjfhbAeRkt1I9egtCjPZSVzL.png",Sunset Kids
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Fantastic" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz6PM1V2fr1hyaaAvkzhEvbourvi9G56vNyYqWQwwGL8I.png",Sunset Fantastic
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
+#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Serial" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz_hO0Eky53tVcwF7UW0yq1FemyPRUUdALepyYjcg38_D.png",Sunset Serial
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
+
+#EXTINF:-1 group-title="Казахтелеком",31 Канал
+http://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 group-title="Казахтелеком",7 канал
+http://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 group-title="Казахтелеком",A2
+http://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Amedia 2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Astana TV
+http://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Atameken Business TV
+http://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Hit TV
+http://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Khabar
+http://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Khabar24
+http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Ел Арна
+http://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 group-title="Казахтелеком",КТК
+http://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Мир
+http://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Мир 24
+http://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Мир Premium
+http://sc.id-tv.kz/mir_premium_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya.m3u8
+
+
+#EXTINF:-1 group-title="185.57.68.33",Природа WORLD HD
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="185.57.68.33",Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="185.57.68.33"Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="185.57.68.33",Popznay
+http://185.57.68.33/237/mpegts
+
+#EXTINF:-1 group-title="BY с задержкой",Cinema Космос ТВ HD BY
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="BY с задержкой",RED
+http://178.124.152.238:8088/sony
+#EXTINF:-1 group-title="BY с задержкой",Перец
+http://178.124.152.238:8088/perec
+#EXTINF:-1 group-title="BY с задержкой",Ностальгия
+http://178.124.152.238:8088/nostalgia
+
+
+
+#EXTINF:-1 group-title="Прочее",Bazuka - Jump
+https://video2.tizam.cc/files/2233863/v_sport_zal___eroticheskiy_muzykalnyy_klip.mp4
+#EXTINF:-1 group-title="Прочее",Just TV
+http://185.236.229.62:9981/play/a08e
+#EXTINF:-1 group-title="Прочее",Viasat Kino World
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 group-title="Прочее",Timeless Dizi Channel
+http://194.158.222.36:6086
+
+#EXTINF:-1 group-title="Прочее",ТСВ
+https://iptv-hls.idc.md/hls/2/live1.m3u8
+#EXTINF:-1 group-title="Прочее",ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+
+
+
+#EXTINF:-1 group-title="Hetzner Online",Известия
+http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Мир
+http://65.21.85.175:8000/play/a00d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Мир 24
+http://65.21.85.175:8000/play/a029/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",НТВ Сериал
+http://65.21.85.175:8000/play/a016/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",НТВ Сериал
+http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",НТВ Стиль
+http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",НТВ Право
+http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",НТВ Хит
+http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",ТВЦ
+http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",ТВ3
+http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",ТВ3
+http://65.21.85.175:8000/play/a019/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",КВН ТВ
+http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Санкт-Петербург
+http://65.21.85.175:8000/play/a017/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Домашний
+http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+
+
+#EXTINF:-1 group-title="Hetzner Online",Amedia 1
+http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Amedia Premium
+http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Дом Кино
+http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Наше Мужское
+http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Русский детектив
+http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",TV1000
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",TV1000 Action
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Кинохит
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Кинопоказ
+http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Кинопремьера
+http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Киносвидание
+http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Киносемья
+http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Киномикс
+http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Кинокомедия
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Мужское кино
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Индийское Кино
+http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
+
+
+#EXTINF:-1 group-title="Hetzner Online",Discovery Channel
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Моя Планета
+http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Тайны галактики
+http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Индия
+http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Hetzner Online",Дикий
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Охота и Рыбалка
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Hetzner Online",RU.TV
+http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",МузТВ
+http://65.21.85.175:8000/play/a00t/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Жара
+http://65.21.85.175:8000/play/a00w/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Hetzner Online",Мама
+http://65.21.85.175:8000/play/a01l/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",ANI
+http://65.21.85.175:8000/play/a00h/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Солнце
+http://65.21.85.175:8000/play/a00l/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Cartoon Network HD
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Детский Мир
+http://65.21.85.175:8000/play/a00j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Супергерои
+http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Hetzner Online",Россия К
+http://65.21.85.175:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",Мир Баскетбола
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Hetzner Online",a000
+http://65.21.85.175:8000/play/a000/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a001
+http://65.21.85.175:8000/play/a001/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a002
+http://65.21.85.175:8000/play/a002/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a003
+http://65.21.85.175:8000/play/a003/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a004
+http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a005
+http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a006
+http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a007
+http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a008
+http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a009
+http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a00a
+http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a00b
+http://65.21.85.175:8000/play/a00b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a00e
+http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a00s
+http://65.21.85.175:8000/play/a00s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a00y
+http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a00z
+http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a01n
+http://65.21.85.175:8000/play/a01n/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a01q
+http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",a031
+http://65.21.85.175:8000/play/a031/index.m3u8?token=livetv
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5931,132 +6176,7 @@ http://91.196.37.133:4000/play/a02b
 
 
 
-#EXTINF:-1 group-title="Hetzner Online" ,Россия К
-http://65.21.85.175:8000/play/a01j/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Россия 24
-http://65.21.85.175:8000/play/a031/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,НТВ-Мир
-http://65.21.85.175:8000/play/a016/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,НТВ Сериал
-http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,НТВ Стиль
-http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,НТВ Хит
-http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,НТВ Право
-http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Охота и Рыбалка
-http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Discovery Channel
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Моя Планета
-http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Тайны галактики
-http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,365 дней
-http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Amedia Premium
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Amedia 1
-http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,TV1000
-http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,TV1000 Action
-http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ДОМ КИНО
-http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ДОМАШНИЙ
-http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ЖАРА
-http://65.21.85.175:8000/play/a00w/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Известия
-http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Индия
-http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,КВН ТВ
-http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ИНДИЙСКОЕ КИНО
-http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,КИНОХИТ
-http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Кинокомедия
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Киномикс
-http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Кинопоказ
-http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Кинопремьера
-http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,НАШЕ МУЖСКОЕ
-http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Киносвидание
-http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Киносемья
-http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Мир 
-http://65.21.85.175:8000/play/a00d/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,МузТВ
-http://65.21.85.175:8000/play/a00t/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Москва Доверие
-http://65.21.85.175:8000/play/a01n/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Москва 24
-http://65.21.85.175:8000/play/a017/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Санкт-Петербург
-http://65.21.85.175:8000/play/a019/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ТВ3
-http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ТВЦ
-http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Мужское кино
-http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ПОБЕДА
-http://65.21.85.175:8000/play/a00s/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Русский Бестселлер
-http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Русский детектив
-http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Русский роман
-http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,RU.TV
-http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Мир 24
-http://65.21.85.175:8000/play/a029/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,ANI
-http://65.21.85.175:8000/play/a00h/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,CARTOON NETWORK
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Дикий
-http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Солнце
-http://65.21.85.175:8000/play/a00l/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Мама
-http://65.21.85.175:8000/play/a01l/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Супергерои
-http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online" ,Детский Мир
-http://65.21.85.175:8000/play/a00j/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ! Арена
-http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ! Боец
-http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ Премьер
-http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ! Страна
-http://65.21.85.175:8000/play/a00b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ HD
-http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ! Футбол 1
-http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ! Футбол 2
-http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",МАТЧ! Футбол 3
-http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",Eurosport 2
-http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Hetzner Online",Мир баскетбола
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+
 
 
 
@@ -13508,22 +13628,7 @@ http://185.112.140.28:80/Viasatsport/index.m3u8
 #EXTINF:-1 group-title="Трител-Крым",Матч ТВ HD
 http://185.112.140.28:80/Match_TV_HD/index.m3u8
 
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",МАТЧ HD
-http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",МАТЧ! Футбол 1
-http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",МАТЧ! Футбол 2
-http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",МАТЧ! Футбол 3
-http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",КВН ТВ
-http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",НТВ-Мир
-http://65.21.85.175:8000/play/a016/index.m3u8?token=livetv
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",НТВ Стиль
-http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
-#EXTINF:-1 group-title="65.21.85.175:8000 ⓵",Россия 24
-http://65.21.85.175:8000/play/a031/index.m3u8?token=livetv
+
 
 
 #EXTINF:-1 group-title="Smart Systems Technology",Bloomberg
@@ -15211,71 +15316,7 @@ http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 
 
 
-#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Music" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz8VBi-S4Jqm2IEqDnJcMnnvLkGlBYoAPsINmaaErU7Yy.png",Sunset Music
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Space" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz2Ww6HKLGjpIu0Bh8fSLqASO42yT-qIyVZwTwBHtoEIH.png",Sunset Space
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Kids" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz0dG9BkK3CNuiLvuX3a_AjfhbAeRkt1I9egtCjPZSVzL.png",Sunset Kids
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Fantastic" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz6PM1V2fr1hyaaAvkzhEvbourvi9G56vNyYqWQwwGL8I.png",Sunset Fantastic
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
-#EXTINF:-1 group-title="Кинозалы Sunset/A-Media/Taurer" tvg-name="Sunset Serial" tvg-logo="https://stream.sunset-media.org:443/images/AfE0MpsGM8EECV5bHCwLz_hO0Eky53tVcwF7UW0yq1FemyPRUUdALepyYjcg38_D.png",Sunset Serial
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
 
-#EXTINF:-1 group-title="Казахтелеком",31 Канал
-http://sc.id-tv.kz/31Kanal.m3u8
-#EXTINF:-1 group-title="Казахтелеком",7 канал
-http://sc.id-tv.kz/7_kanal.m3u8
-#EXTINF:-1 group-title="Казахтелеком",A2
-http://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Amedia 1
-http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Amedia 2
-http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Astana TV
-http://sc.id-tv.kz/Astana.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Atameken Business TV
-http://sc.id-tv.kz/Atameken.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Hit TV
-http://sc.id-tv.kz/HitTV.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Khabar
-http://sc.id-tv.kz/Khabar.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Khabar24
-http://sc.id-tv.kz/Khabar_24.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Ел Арна
-http://sc.id-tv.kz/ElArna.m3u8
-#EXTINF:-1 group-title="Казахтелеком",КТК
-http://sc.id-tv.kz/KTK.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Мир
-http://sc.id-tv.kz/Mir.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Мир 24
-http://sc.id-tv.kz/Mir24.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Мир Premium
-http://sc.id-tv.kz/mir_premium_34_35.m3u8
-#EXTINF:-1 group-title="Казахтелеком",Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya.m3u8
-
-
-
-
-#EXTINF:-1 group-title="185.57.68.33",Природа WORLD HD
-http://185.57.68.33/232/mpegts
-#EXTINF:-1 group-title="185.57.68.33",Загородная жизнь
-http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="185.57.68.33"Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="185.57.68.33",Popznay
-http://185.57.68.33/237/mpegts
-
-
-#EXTINF:-1 group-title="BY с задержкой",Cinema Космос ТВ HD BY
-http://178.124.152.238:8088/cinema
-#EXTINF:-1 group-title="BY с задержкой",RED
-http://178.124.152.238:8088/sony
-#EXTINF:-1 group-title="BY с задержкой",Перец
-http://178.124.152.238:8088/perec
-#EXTINF:-1 group-title="BY с задержкой",Ностальгия
-http://178.124.152.238:8088/nostalgia
 
 
 
