@@ -1,10 +1,6 @@
+#EXTM3U url-tvg="https://gabbarit.page.link/epg,https://epg.drm-play.com/?prov=tvplay,http://1lot.tv/epg/epg.xml"
 
-
-
-
-#EXTM3U url-tvg="https://gabbarit.page.link/epg, http://1lot.tv/epg/epg.xml"
-
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 14.4.25💗 
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 12.3.25💗 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 
@@ -898,7 +894,7 @@ http://95.143.191.33:5050/TVPlayLihie90eKino/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayNovyoRUSHD.tv" tvg-logo="http://1lot.tv/ch/9254.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Новьё RUS HD
 http://95.143.191.33:5050/TVPlayNovyoRUSHD/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayNovyoWorldHD.tv" tvg-logo="http://1lot.tv/ch/9255.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Новьё Мир HD
-http://95.143.191.33:5050/TVPlayNovyoRUSHD/video.m3u8?token=Y9LUPAeayunx83
+http://95.143.191.33:5050/TVPlayNovyoWorldHD/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayIstoriiSredizemya.tv" tvg-logo="http://1lot.tv/ch/9235.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Истории Средиземья HD
 http://95.143.191.33:5050/TVPlayIstoriiSredizemya/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySeriesLatinas.tv" tvg-logo="http://1lot.tv/ch/9151.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Латинские сериалы ретро
@@ -956,7 +952,7 @@ http://95.143.191.33:5050/TVPlayVkusniyKanal/video.m3u8?token=Y9LUPAeayunx83
 http://95.143.191.33:5050/TVPlayBolshayaRaznica/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayGorodok.tv" tvg-logo="http://1lot.tv/ch/9228.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Городок
 http://95.143.191.33:5050/TVPlayGorodok/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPLAYMaskiShow.tv" tvg-logo="http://1lot.tv/ch/9152.png" catchup-type="flussonic" catchup-days="1" ,TVPLAY Маски Шоу
+#EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlayMaskiShow.tv" tvg-logo="http://1lot.tv/ch/9152.png" catchup-type="flussonic" catchup-days="1" ,TVPLAY Маски Шоу
 http://95.143.191.33:5050/TVPLAYMaskiShow/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗TVPlay💗" tvg-id="TVPlaySvoyaIgra.tv" tvg-logo="http://1lot.tv/ch/9256.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Своя игра HD
 http://95.143.191.33:5050/TVPlaySvoyaIgra/video.m3u8?token=Y9LUPAeayunx83
@@ -2296,6 +2292,169 @@ http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H3_nAsCP794NhXAtCbBVKA-YD
 #EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26666" tvg-name="Чебур ТВ - Шеф" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fqdJSh18TAOwCwgjKwb3fIADVdneiwzw4IXKep-9qB2eIdj8cVlDwyoEHCuyyfB3w.png",Чебур ТВ - Шеф
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H390UhmKqE6I02WCYu2_tsix4l6pTHU4kXe-beENf02fL/ts
 
+
+#EXTINF:-1 group-title="Sputnik24.tv",Россия 1
+https://stream11.sputnik24.tv/russia1/480p/index.m3u8?sig=1744666585_dddb99362cf5eb025048cbbbe55961a7
+#EXTINF:-1 group-title="Sputnik24.tv",Россия 24
+https://stream13.sputnik24.tv/russia24/480p/index.m3u8?sig=1744667186_cecc43d561e2c5d56c76c996845a2fe4
+#EXTINF:-1 group-title="Sputnik24.tv",Мир
+https://stream04.sputnik24.tv/mir/480p/index.m3u8?sig=1744667167_642eb3af6d750e90143bdc5d3a064c7b
+#EXTINF:-1 group-title="Sputnik24.tv",ТВЦ
+https://stream05.sputnik24.tv/tvcenter/480p/index.m3u8?sig=1744666586_e4de653ad4a89ca5be9f3c50a3b71e13
+#EXTINF:-1 group-title="Sputnik24.tv",НТВ
+https://stream03.sputnik24.tv/ntv/480p/index.m3u8?sig=1744666588_12d0716ca35d985a0e72ae3f3a1fc636
+#EXTINF:-1 group-title="Sputnik24.tv",Пятый канал
+https://stream10.sputnik24.tv/five/480p/index.m3u8?sig=1744667231_5546778c39b621874216611870c413b3
+#EXTINF:-1 group-title="Sputnik24.tv",СТС
+https://stream04.sputnik24.tv/ctc/480p/index.m3u8?sig=1744666590_9696eef3bfffd0a359fa98f6ee6ddc96
+#EXTINF:-1 group-title="Sputnik24.tv",РЕН ТВ
+https://stream01.sputnik24.tv/rentv/480p/index.m3u8?sig=1744667224_44a4036439c8680f826cd570f3d33e9a
+#EXTINF:-1 group-title="Sputnik24.tv",Ю-ТВ
+https://stream01.sputnik24.tv/utv/480p/index.m3u8?sig=1744666493_0fcebfeee5698db49d1570a457222688
+#EXTINF:-1 group-title="Sputnik24.tv",ОТР
+https://stream10.sputnik24.tv/otp/480p/index.m3u8?sig=1744667225_ebb4169760517bc5cec1e5629b7a7c6f
+#EXTINF:-1 group-title="Sputnik24.tv",Домашний
+https://stream03.sputnik24.tv/home/480p/index.m3u8?sig=1744667227_38df72c79b80e07d637d3c66978da47d
+#EXTINF:-1 group-title="Sputnik24.tv",Звезда
+https://stream10.sputnik24.tv/zvezda/480p/index.m3u8?sig=1744667229_99c518674d07abec038dd1aa7cbf8917
+#EXTINF:-1 group-title="Sputnik24.tv",Карусель
+https://stream14.sputnik24.tv/karusel/480p/index.m3u8?sig=1744667233_13f19807ad834674a43e3b15d0ad8be9
+#EXTINF:-1 group-title="Sputnik24.tv",Культура
+https://stream04.sputnik24.tv/russiak/480p/index.m3u8?sig=1744666595_bcc64070f0f639b6b22d2ffcceb0b3b6
+#EXTINF:-1 group-title="Sputnik24.tv",Спас
+https://stream01.sputnik24.tv/spas/480p/index.m3u8?sig=1744667187_72b870c677ae8d51de6258b0698b84f0
+#EXTINF:-1 group-title="Sputnik24.tv",ТелеДом
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8?sig=1744666600_e5d7cf5daa696520453ca36a09dc40ef
+#EXTINF:-1 group-title="Sputnik24.tv",Ивановское Общественное  телевидение
+https://stream17.sputnik24.tv/iot/480p/index.m3u8?sig=1744668101_d4c5eb63cd3e3e9344bddcf54c77753f
+#EXTINF:-1 group-title="Sputnik24.tv",Глазами Туриста 4К
+https://stream16.sputnik24.tv/glazami_turista_4k/2160p/index.m3u8?sig=1744667702_4e878f61a8bc67fedee4588aba1ae430
+#EXTINF:-1 group-title="Sputnik24.tv",BIG PLANET HD
+https://stream08.sputnik24.tv/big_planet_hd/1080p/index.m3u8?sig=1744668151_e997ab5ffab396419d2d451124407377
+#EXTINF:-1 group-title="Sputnik24.tv",Docubox HD
+https://stream13.sputnik24.tv/docubox_hd/1080p/index.m3u8?sig=1744667803_f4f54ade22e3ad02065b41a531af70e5
+#EXTINF:-1 group-title="Sputnik24.tv",Живая природа
+https://stream09.sputnik24.tv/zhivaya_priroda_hd/1080p/index.m3u8?sig=1744668148_a36b6caece5ac2067f9ec8f0091ba690
+#EXTINF:-1 group-title="Sputnik24.tv",HOME 4K
+https://stream04.sputnik24.tv/home_4k/1080p/index.m3u8?sig=1744668149_330b57574ad5b847f6567e8bdd2d1689
+#EXTINF:-1 group-title="Sputnik24.tv",Большая Азия
+https://stream10.sputnik24.tv/bigasia/1080p/index.m3u8?sig=1744666506_1c3cd192af7a5a2c2a1370ce2526a6e5
+#EXTINF:-1 group-title="Sputnik24.tv",Три ангела
+https://stream15.sputnik24.tv/angel/480p/index.m3u8?sig=1744667378_b59c1d846d7814ff00145630aa36fc20
+#EXTINF:-1 group-title="Sputnik24.tv",Тайны Галактики HD
+https://stream12.sputnik24.tv/tayny_galaktiki_hd/1080p/index.m3u8?sig=1744668199_20ef80e2f8f8b3f8245e3d32b34b88a6
+#EXTINF:-1 group-title="Sputnik24.tv",Fashionbox HD
+https://stream03.sputnik24.tv/fashionbox_hd/1080p/index.m3u8?sig=1744667858_f18131f6d545fff2360f190ff5fcb646
+#EXTINF:-1 group-title="Sputnik24.tv",World Fashion International HD
+https://stream10.sputnik24.tv/worldfashioninthd/1080p/index.m3u8?sig=1744666831_44259670609a774ef9aae952062049b7
+#EXTINF:-1 group-title="Sputnik24.tv",World Fashion Channel HD
+https://stream06.sputnik24.tv/worldfashionchannelhd/1080p/index.m3u8?sig=1744667003_34f5b21100f5e4b8003b255a91cc980a
+
+#EXTINF:-1 group-title="Sputnik24.tv",Аппетитный
+https://stream18.sputnik24.tv/appetitniy/480p/index.m3u8?sig=1744667982_64f57ce47e11e558d229f1ebb478f7d8
+#EXTINF:-1 group-title="Sputnik24.tv",Вкус
+https://stream19.sputnik24.tv/vkus_hd/480p/index.m3u8?sig=1744667605_ef5b4b9d380d37ca4472ef2f5711aeeb
+#EXTINF:-1 group-title="Sputnik24.tv",#EXTINF:-1 group-title="Sputnik24.tv",Первый вегетарианский HD
+https://stream12.sputnik24.tv/perviy_vegetarianskiy_hd/1080p/index.m3u8?sig=1744667703_919a30c75ec58f9f8131b1cb1fbffce1
+#EXTINF:-1 group-title="Sputnik24.tv",#EXTINF:-1 group-title="Sputnik24.tv",Women`s Magazine HD
+https://stream17.sputnik24.tv/womens_magazine_hd/1080p/index.m3u8?sig=1744667983_a10a7822c770b9ea80d46be7951db80e
+
+
+
+
+#EXTINF:-1 group-title="Sputnik24.tv",Сапфир
+https://stream18.sputnik24.tv/sapfir/480p/index.m3u8?sig=1744667422_7c81141c4ebaf256d24efd571267163a
+#EXTINF:-1 group-title="Sputnik24.tv",Старт Триумф
+https://stream18.sputnik24.tv/start_triumf_mp2/480p/index.m3u8?sig=1744667423_e3a0655ad6dd96f8bc425dfddd2355fb
+#EXTINF:-1 group-title="Sputnik24.tv",Bolt
+https://stream18.sputnik24.tv/bolt/480p/index.m3u8?sig=1744667878_d3c5b23a8a18ff4309458a446b56cde9
+#EXTINF:-1 group-title="Sputnik24.tv",FilmBox
+https://stream12.sputnik24.tv/filmbox/480p/index.m3u8?sig=1744667517_c5044726d06337b6dccd8dbaff490719
+#EXTINF:-1 group-title="Sputnik24.tv",Filmbox Arthouse
+https://stream12.sputnik24.tv/filmbox_arthouse/480p/index.m3u8?sig=1744667859_48683cff1a699422c60dff81bf2825ac
+#EXTINF:-1 group-title="Sputnik24.tv",Kinoliving HD
+https://stream17.sputnik24.tv/kinoliving_hd/1080p/index.m3u8?sig=1744668234_6d9bd66555c9db395c3178c9b4766154
+#EXTINF:-1 group-title="Sputnik24.tv",STAR Cinema
+https://stream18.sputnik24.tv/star_cinema/480p/index.m3u8?sig=1744667880_66db53e9a2069dfe4c44ad45da55b9fc
+#EXTINF:-1 group-title="Sputnik24.tv",STAR Family
+https://stream18.sputnik24.tv/star_family/480p/index.m3u8?sig=1744667982_0b9755135054783c7f627db8c13d3a0e
+#EXTINF:-1 group-title="Sputnik24.tv",Кинеко
+https://stream18.sputnik24.tv/kineko/480p/index.m3u8?sig=1744665320_140ebe26a88e3cf3abb2876e9c845192
+#EXTINF:-1 group-title="Sputnik24.tv",Кино без границ HD
+https://stream11.sputnik24.tv/kino_bez_granits_hd/1080p/index.m3u8?sig=1744667705_37dbfc43e89dc3342b5cc6972b95f3b6
+#EXTINF:-1 group-title="Sputnik24.tv",Мужской HD
+https://stream11.sputnik24.tv/muzhskoy_hd/1080p/index.m3u8?sig=1744667876_a8411fd91190c4277b80edb76140afd7
+#EXTINF:-1 group-title="Sputnik24.tv",Just TV
+https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8_output_0.m3u8?session=YofedShSbSGTGiN387ra74
+#EXTINF:-1 group-title="Sputnik24.tv",Дорама HD
+https://stream05.sputnik24.tv/dorama_hd/1080p/index.m3u8?sig=1744667708_b3231424c144d464c439a1f1c0eb19a6
+#EXTINF:-1 group-title="Sputnik24.tv",Театр HD
+https://stream14.sputnik24.tv/teatr_hd/1080p/index.m3u8?sig=1744667603_28869349059e6dfbba08f0adb8176a0c
+#EXTINF:-1 group-title="Sputnik24.tv",День Победы HD
+https://stream13.sputnik24.tv/den_pobedy_hd/1080p/index.m3u8?sig=1744668101_0cc058236df20e1442f0eb93747078f3
+#EXTINF:-1 group-title="Sputnik24.tv",Мы
+https://stream18.sputnik24.tv/my/480p/index.m3u8?sig=1744668101_a1c74ea4a06423de9431f64dab01af0a
+#EXTINF:-1 group-title="Sputnik24.tv",Среда
+https://stream07.sputnik24.tv/sreda_hd/1080p/index.m3u8?sig=1744668197_f0f80b22763ff6f52a46c7453398a6ec
+
+
+#EXTINF:-1 group-title="Sputnik24.tv",Муз ТВ
+https://stream03.sputnik24.tv/muztv/480p/index.m3u8?sig=1744665865_48c73efc0a28bcb0dc9f1c1ad03640bd
+#EXTINF:-1 group-title="Sputnik24.tv",MusicBox Gold
+https://stream06.sputnik24.tv/musicbox/480p/index.m3u8?sig=1744666966_ba9fbd7b48e534e07cdebf4fc4a0e014
+#EXTINF:-1 group-title="Sputnik24.tv",Russian Music Box
+https://stream06.sputnik24.tv/russianmusicboxhd/1080p/index.m3u8?sig=1744667113_4a16ec425307f47c426d5ca62a7a579e
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge TV
+https://stream01.sputnik24.tv/bridge/480p/index.m3u8?sig=1744667235_f4273fb092921776cf27d94db3a67a40
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge TV Шлягер
+https://stream01.sputnik24.tv/bridgesh/480p/index.m3u8?sig=1744667236_08eee2f7d2a4d8b8698590a29e596d64
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge Фрэш
+https://stream06.sputnik24.tv/bridgef/480p/index.m3u8?sig=1744667707_c478db986bfabd9fefaba9e1be905757
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge ROCK
+https://stream06.sputnik24.tv/bridgef/480p/index.m3u8?sig=1744668269_32a6e65093023d66c642fd04d52fb077
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge TV Hits
+https://stream01.sputnik24.tv/bridgeh/480p/index.m3u8?sig=1744668288_4ceaa57905dec2b7e32d61193ddacd81
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge TV Classic
+https://stream06.sputnik24.tv/bridgec/480p/index.m3u8?sig=1744668317_d793c711ff3568941b5c5d8ab8f4bc86
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge TV Русский Хит
+https://stream01.sputnik24.tv/bridgerus/480p/index.m3u8?sig=1744667416_18156810aefa05cc99fabb39a748bdb8
+#EXTINF:-1 group-title="Sputnik24.tv",Bridge ЭТНО
+https://stream19.sputnik24.tv/bridge_etno_hd/480p/index.m3u8?sig=1744667606_827ac0f1423a57dbd80168fa1409548b
+
+
+#EXTINF:-1 group-title="Sputnik24.tv",Солнце
+https://stream15.sputnik24.tv/solnce/480p/index.m3u8?sig=1744666602_e1eb6d47728f90d600a0d1c813e78dd8
+#EXTINF:-1 group-title="Sputnik24.tv",ТипТоп
+https://stream03.sputnik24.tv/tiptophd/1080p/index.m3u8?sig=1744667111_b6e92eede319eb4c78a363edc3be3bde
+#EXTINF:-1 group-title="Sputnik24.tv",Лёва HD
+https://stream10.sputnik24.tv/leva_hd/1080p/index.m3u8?sig=1744667985_aafb1b49b35f4c0c00de80d725ab6b71
+#EXTINF:-1 group-title="Sputnik24.tv",Пингвин
+https://stream13.sputnik24.tv/pingvin_mp2/480p/index.m3u8?sig=1744667861_c05edee2facb0f2cd82fd1f86bbd45d1
+#EXTINF:-1 group-title="Sputnik24.tv",BABY TIME
+https://stream04.sputnik24.tv/baby_time/480p/index.m3u8?sig=1744667549_da6c9d24f72780740d55c1a61d10fb9b
+#EXTINF:-1 group-title="Sputnik24.tv",В гостях у Сказки HD
+https://stream08.sputnik24.tv/skazka_hd/1080p/index.m3u8?sig=1744667548_e5c8816404d0ce3f4962da7a3ff760f0
+
+
+#EXTINF:-1 group-title="Sputnik24.tv",Матч ТВ
+https://stream04.sputnik24.tv/match/480p/index.m3u8?sig=1744666477_c4cad8f63ba41309fb28ecda7b872e47
+#EXTINF:-1 group-title="Sputnik24.tv",Футбольный HD
+https://stream09.sputnik24.tv/footballhd/1080p/index.m3u8?sig=1744668921_0782f7239b7fdfc89466684e6b2ba47f
+#EXTINF:-1 group-title="Sputnik24.tv",Спортивный HD
+https://stream05.sputnik24.tv/sporthd/1080p/index.m3u8?sig=1744666938_52929993b3b559bd2e7a5e7ec540f1cc
+#EXTINF:-1 group-title="Sputnik24.tv",Хоккейный HD
+https://stream05.sputnik24.tv/hockeyhd/1080p/index.m3u8?sig=1744667068_9a347751e6b2e3a68419b93e690cbe08
+#EXTINF:-1 group-title="Sputnik24.tv",Живи Активно HD
+https://stream09.sputnik24.tv/zhivi_aktivno_hd/1080p/index.m3u8?sig=1744667988_203dce85c073d13140b20a158a7fe551
+#EXTINF:-1 group-title="Sputnik24.tv",Fast&FunBox HD
+https://stream14.sputnik24.tv/fast_funbox_hd/1080p/index.m3u8?sig=1744668200_42766f3449728790189dc3c040e45fa8
+#EXTINF:-1 group-title="Sputnik24.tv",Fightbox HD
+https://stream15.sputnik24.tv/fightbox_hd/1080p/index.m3u8?sig=1744667519_8ac50655b528b14393a2d709ddf094db
+
+#EXTINF:-1 group-title="Sputnik24.tv",7 TV
+https://stream13.sputnik24.tv/7tv/480p/index.m3u8?sig=1744667410_6622c3404417bca70731284a79213ca6
+#EXTINF:-1 group-title="Sputnik24.tv",Ювелирочка
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/tracks-v1a1/mono.m3u8?hls_proxy_host=4e78605bb909253a60de325d60db8383
 
 
 
