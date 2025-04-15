@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg,https://epg.drm-play.com/?prov=tvplay,http://1lot.tv/epg/epg.xml"
+#EXTM3U url-tvg="https://gabbarit.page.link/epg,https://epg.drm-play.com/?prov=tvplay,https://epg.lampa.stream/?prov=catcast,http://1lot.tv/epg/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Обновлено 12.3.25💗 
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
@@ -1798,11 +1798,11 @@ https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTGRP:🐈 Catcast TV 🐈
 https://v2.catcast.tv/content/37925/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg",Видеосалон VHS
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg",Видеосалон
 #EXTGRP:🐈 Catcast TV 🐈
 https://v2.catcast.tv/content/40391/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg",MGM HD VHS
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg",MGM HD
 #EXTGRP:🐈 Catcast TV 🐈
 https://v2.catcast.tv/content/44051/index.m3u8
 
