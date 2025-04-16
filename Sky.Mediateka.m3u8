@@ -1,11 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Клипы",Кислотная Королева клип ИИ
-https://rutube.ru/video/cc75e76d80aeeb758ca103824031767c
-#EXTINF:-1 group-title="Клипы",Кислотная Королева клип ИИ
+#EXTINF:-1 group-title="Клипы ИИ",Кислотная Королева клип ИИ
 https://river-5-553.rutube.ru/hls-vod/k3rqfrBrB-QkPtLlubJmhQ/1745369973/2550/0x5000039ce863eabd/23aafb00c6e4441597dd1b1e9453cdd1.mp4.m3u8?i=1920x1080_4414
-#EXTINF:-1 group-title="Клипы",Кислотная Королева клип ИИ
-https://vkvd408.okcdn.ru/?expires=1745024555861&srcIp=185.145.125.171&pr=40&srcAg=CHROME&ch=-1335630616&ms=45.136.20.176&type=1&sig=iw-j2aihOJU&ct=6&urls=185.226.55.141&clientType=13&appId=512000384397&id=7672553933537
+
+
+
 #EXTINF:-1 group-title="Платформа plvideo.ru",Всегда говори «ДА» / Yes Man (2008) [H.265/2160p] [4K, SDR, 10-bit] РЕСТАВРАЦИЯ
 https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/YI8o3Nt00HV-jrWe-ty/ZX
 #EXTINF:-1 group-title="Платформа plvideo.ru",Кабельщик / The Cable Guy (1996) WEB-DLRip [AV1/2160p] [4K, SDR, 10-bit] РЕСТАВРАЦИЯ
