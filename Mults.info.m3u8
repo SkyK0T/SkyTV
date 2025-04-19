@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",💗Мультики с сайта mults.info💗 
+https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
+
 #EXTINF:-1 , 2+1= (Пилот 2003 г.)
 https://mults.info/mp4/2_plyus_1_ravno.mp4
 #EXTINF:-1 , 25-е первый день (Союзмультфильм 1968 г)
