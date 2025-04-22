@@ -17,8 +17,7 @@ https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4.m3u8?md5=FqJYhk
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
 
 
-#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",TUCKER. "Россия 24"
-https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/084/547_d20241031125812.smil/chunklist_b1200000_pd1155000.m3u8
+
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Известия
@@ -223,7 +222,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://vovkvi.github.io/picons/smotrim.png",Смотрим Тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
-
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",TUCKER. "Россия 24"
+https://cdn-v.smotrim.ru/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/003/084/547_d20241031125812.smil/chunklist_b1200000_pd1155000.m3u8
 
 
 #EXTINF:-1 group-title="Новости",НТМ HD
@@ -267,7 +267,7 @@ https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -442,14 +442,6 @@ https://tv.radiobussola.it/hls/stream/stream1200.m3u8
 https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.coolstreaming.us/img/ch/image72612344614.webp",RADIO MILAZZO TV
 https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
-#EXTINF:-1 group-title="iptv.itv.uz ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema 
-https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3u8
-#EXTINF:-1 group-title="iptv.itv.uz ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
-https://iptv.itv.uz/hls/live/t/HNkqYEnnr5I4pOs9Utt2Iw/e/1780568011/4001/index.m3u8
-
-
-
-
 
 
 #EXTINF:-1 group-title="Музыка",Шансон ТВ HD
@@ -576,6 +568,13 @@ https://stream.ads.ottera.tv/cl/250310cv73sr77crj8m0immfsg/1920x1080_1790800_1_f
 
 
 
+#EXTINF:-1 group-title="Музыка",Xite Rock x Metal
+https://d32icy1yl4ivpp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w5h5vxbdxahks/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 group-title="iptv.itv.uz ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema 
+https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3u8
+#EXTINF:-1 group-title="iptv.itv.uz ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
+https://iptv.itv.uz/hls/live/t/HNkqYEnnr5I4pOs9Utt2Iw/e/1780568011/4001/index.m3u8
 
 #EXTINF:-1 group-title="🤗IPTVPlay🤗" tvg-name="IPTVPLAY ФАНТАСТИКА HD" tvg-id="IPTVPLAYFANTASTIKA.tv",IPTVPLAY Фантастика HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
@@ -5531,19 +5530,19 @@ https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
 #EXTINF:-1 group-title="CloudFlare Inc",Animal Planet HD
 https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc"group-title="Музыкальные 🎶",Baby Time
+#EXTINF:-1 group-title="CloudFlare Inc,Baby Time
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV
+#EXTINF:-1 group-title="CloudFlare Inc",Bridge TV
 https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Classic
+#EXTINF:-1 group-title="CloudFlare Inc",Bridge TV Classic
 https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Deluxe
+#EXTINF:-1 group-title="CloudFlare Inc",Bridge TV Deluxe
 https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Hits
+#EXTINF:-1 group-title="CloudFlare Inc",Bridge TV Hits
 https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Русский хит
+#EXTINF:-1 group-title="CloudFlare Inc",Bridge TV Русский хит
 https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc" group-title="Музыкальные 🎶",Bridge TV Шлягер
+#EXTINF:-1 group-title="CloudFlare Inc",Bridge TV Шлягер
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 group-title="CloudFlare Inc",Da Vinci
 https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
@@ -13769,196 +13768,6 @@ https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.piterpan.it/wp-content/uploads/2023/02/logo-radio-piterpan.png",Piterpan TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/JzrfFnQw/2024-02-24-182647787.png",OF-TV
-https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" ,AFN Music
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
-https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/bblack-africa.jpg",Bblack! Africa
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/bblack-caribbean.jpg",Bblack! Caribbean
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/bblack-classik.jpg",Bblack! Classik
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png",Now 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://e7.pngegg.com/pngimages/675/222/png-clipart-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-thumbnail.png",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://m.media-amazon.com/images/I/61--8gptnIL.jpg",Now 90's
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/ima50357087515.jpg",88 STEREO TV
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo320.png",Radio Love FM
-https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png",Radio Ibiza TV
-https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg",Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/htkDhkfS/image.jpg",Super Six
-https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://epg.it999.ru/img2/6116.png",Kiss Kiss TV HD
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://epg.it999.ru/img2/6117.png",Kiss Kiss Italia HD
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://epg.it999.ru/img2/6118.png",Kiss Kiss Napoli HD
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://epg.it999.ru/img/681.png",Европа Плюс ТВ
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://pbs.twimg.com/profile_images/934720615298236416/G_VUWXnh_400x400.jpg",Afrobeats TV
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/d0TTSH94/ewewe.jpg",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/c44h5Wth/cz-ocko-star-6827.jpg",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/7LdPjqL2/914-ocko-hity.jpg",ÓČKO HITY
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Company TV
-https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image24561560526.jpg",Zerouno TV
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://barazaradio.com/wp-content/uploads/2022/12/logo-300x300.png",Baraza TV Hits
-https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Music Reload TV HD
-http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Reload Radio Music Power HD
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://dvb.by/sources/logos/1607s.png",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i2.wp.com/www.afghanlive.tv/wp-content/uploads/2015/04/kayhant-tv-live.jpg",Kayhan Afghan
-https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",On Air TV
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/Persiana-Nostalgia.png",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image63665874675.jpg",PERSIANA SONNATI TV
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png",4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_35.png",PowerTürk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png",PowerTürk Slow
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png",PowerTürk Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png",PowerTürk Akustik
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da86c21d6a79912e3f698bff6234a2d.webp",Vibee TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",PMC Royale
-https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://img15.lostpic.net/2019/08/31/21d2b07e6372b09404d0f4abcd1ae56e.png",Kronehit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="http://www.1muz.com/images/LOGORUS.png",Первый музыкальный
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Rock&Roll
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik OKK
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Vision HD
-http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Jeka
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Worldwide
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik TV
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Sense
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Flashback
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Electro
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik HipHop
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Mediteraneo
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Retro TV
-https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg",V2Beat TV Live
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/4166360d/c900f3ee_sm.png",inRating TV
-https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Magic TV
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",CVR
-https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://static.wixstatic.com/media/8e4524_91096f29144a4bafae0648b2426c2861~mv2.gif",Happy Radio
-https://live.prd.dlive.tv/hls/live/happyradio.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://ritsatv.ru/files/poster/medium/700805.jpg",VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Music TV
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_ROCK_LOGO_RGB-1.png",Deluxe Rock
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png",Deluxe Flashback
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",QMUSIC
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",NRG 91 Music HD
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",RU.TV
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.shanson.tv/i/logo_191112.png",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://matur-tv.ru/images/logo.png",Матур ТВ
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",Meidan TV HD
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg",30A MUSIC TV
-https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/18060.v7.png",Radio Kemonia
-https://skyradiostream.com/1935/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg",COMPANY TV HD
-https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/ima35817922978.jpg",RADIO PADOVA TV
-https://58d921499d3d3.streamlock.net/RadioPadova/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image65240141377.jpg",RADIO ZETA HD TV
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image19985124794.jpg",RB24 TV RADIO BUSSOLA 24
-https://tv.radiobussola.it/hls/stream/stream1200.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image70939143654.jpg",RADIO STUDIO ONE VISUAL TV
-https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image72612344614.webp",RADIO MILAZZO TV
-https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
 #EXTINF:-1 group-title="iptv.itv.uz ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema 
 https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3u8
 #EXTINF:-1 group-title="iptv.itv.uz ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
