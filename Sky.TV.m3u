@@ -238,6 +238,25 @@ http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 
 
 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png",Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png",Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/th-logo-NspqmEDEOC62mNyeOHpMvusQt8prpj.png",Tech House Terrace
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png",House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202024-10-02%20at%2003.26.40-wBY3tcf4ACTGW9V9Y9HMGenqYJlLQZ.jpeg",MiNiMaL
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/mainstage-logo-4vQjTuvQ3qTEzPDIILUAu2MOiYdXnA.png",Mainstream EDM
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/caf-logo-Tu9IdzvKf3xoe8MzK0JiUYgwKCcqGw.png",Chill AF Downtempo
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg",Melodic Tech
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
+
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.piterpan.it/wp-content/uploads/2023/02/logo-radio-piterpan.png",Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
@@ -389,22 +408,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Best of Dance TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",DANCE TV TECHNO
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Techno Warehouse
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",House Floor
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Downtempo
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+
+
+
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",QMUSIC
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",NRG 91 Music HD
@@ -13921,22 +13927,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Best of Dance TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",DANCE TV TECHNO
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Techno Warehouse
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",House Floor
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Downtempo
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",QMUSIC
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",NRG 91 Music HD
