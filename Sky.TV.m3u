@@ -6,8 +6,6 @@ https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Россия РТР
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4.m3u8?md5=xCwDmmspTy9phucwOTkFPQ&e=1745380431&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="360News.ru",360° Новости
@@ -47,7 +45,10 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 
 
 
-
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png", РТР-Планета
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Россия РТР
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4.m3u8?md5=54T5PeXCxQYauUFJbkzH7A&e=1745459052&hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Москва 24
 https://vgtrksmotrim.cdnvideo.ru/hls/moscow_24/playlist_3.m3u8?md5=H4HjHR3LXkVJ-Tcxe1PDsQ&e=1745384833&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="Bashkortostan24.ru",Башкортостан 24 (Уфа)
