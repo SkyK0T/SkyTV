@@ -485,7 +485,8 @@ http://95.143.191.33:5050/TVPlayGarryPotter/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayIgraPrestolov.tv" tvg-logo="http://1lot.tv/ch/9222.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Игра Престолов HD
 http://95.143.191.33:5050/TVPlayIgraPrestolov/video.m3u8?token=Y9LUPAeayunx83
 
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayALF.tv" tvg-logo="http://1lot.tv/ch/9226.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Альф
+	
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYALF.TV" tvg-id="TVPlayALF.tv" tvg-logo="http://1lot.tv/ch/9226.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Альф
 http://95.143.191.33:5050/TVPlayALF/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayBuffyIstrebitelnicaVampirovHD.tv" tvg-logo="http://1lot.tv/ch/9378.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Баффи HD
 http://95.143.191.33:5050/TVPlayBuffyIstrebitelnicaVampirovHD.tv/video.m3u8?token=Y9LUPAeayunx83
@@ -494,7 +495,7 @@ http://95.143.191.33:5050/TVPlayDruzyaHD.tv/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayZacharovanniyeHD.tv" tvg-logo="http://1lot.tv/ch/9380.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Зачарованные HD
 http://95.143.191.33:5050/TVPlayZacharovanniyeHD.tv/video.m3u8?token=Y9LUPAeayunx83
 
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayAvtorskiyPerevod.tv" tvg-logo="http://1lot.tv/ch/9223.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Авторский перевод HD
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYAVTORSKIYPEREVOD.TV" tvg-id="TVPlayAvtorskiyPerevod.tv" tvg-logo="http://1lot.tv/ch/9223.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Авторский перевод HD
 http://95.143.191.33:5050/TVPlayAvtorskiyPerevod/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayVavilon5.tv" tvg-logo="http://1lot.tv/ch/9231.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Космический
 http://95.143.191.33:5050/TVPlayVavilon5/video.m3u8?token=Y9LUPAeayunx83
@@ -503,9 +504,9 @@ http://95.143.191.33:5050/TVPlayVavilon5/video.m3u8?token=Y9LUPAeayunx83
 http://95.143.191.33:5050/TVPlayLihie90eSerial/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayLihie90eKino.tv" tvg-logo="http://1lot.tv/ch/9253.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Лихие 90е Кино
 http://95.143.191.33:5050/TVPlayLihie90eKino/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayNovyoRUSHD.tv" tvg-logo="http://1lot.tv/ch/9254.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Новьё RUS HD
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYNOVYORUSHD.TV" tvg-id="TVPlayNovyoRUSHD.tv" tvg-logo="http://1lot.tv/ch/9254.png" catchup-type="flussonic" catchup-days="1",TVPlay Новьё RUS HD
 http://95.143.191.33:5050/TVPlayNovyoRUSHD/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayNovyoWorldHD.tv" tvg-logo="http://1lot.tv/ch/9255.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Новьё Мир HD
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYNOVYOWORLDHD.TV" tvg-id="TVPlayNovyoWorldHD.tv" tvg-logo="http://1lot.tv/ch/9255.png" catchup-type="flussonic" catchup-days="1",TVPlay Новьё Мир HD
 http://95.143.191.33:5050/TVPlayNovyoWorldHD/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayIstoriiSredizemya.tv" tvg-logo="http://1lot.tv/ch/9235.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Истории Средиземья HD
 http://95.143.191.33:5050/TVPlayIstoriiSredizemya/video.m3u8?token=Y9LUPAeayunx83
@@ -520,7 +521,7 @@ http://95.143.191.33:5050/TVPlayMythsandLegends.tv/video.m3u8?token=Y9LUPAeayunx
 http://95.143.191.33:5050/TVPlaySledstvievedutHD.tv/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayUzhastikHD.tv" tvg-logo="http://1lot.tv/ch/9373.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Ужастик HD
 http://95.143.191.33:5050/TVPlayUzhastikHD.tv/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayFantastikaHD.tv" tvg-logo="http://1lot.tv/ch/9374.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Фантастика HD
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYFANTASTIKAHD.TV" tvg-id="TVPlayFantastikaHD.tv" tvg-logo="http://1lot.tv/ch/9374.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Фантастика HD
 http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayFantasticRUSHD.tv" tvg-logo="http://1lot.tv/ch/9381.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Фантастика RUS HD
 http://95.143.191.33:5050/TVPlayFantasticRUSHD.tv/video.m3u8?token=Y9LUPAeayunx83
@@ -539,9 +540,9 @@ http://95.143.191.33:5050/TVPlayPapinyDochki.tv/video.m3u8?token=Y9LUPAeayunx83
 
 
 
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayPsihoHD.tv" tvg-logo="http://1lot.tv/ch/10402.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Психо HD
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYPSIHOHD.TV" tvg-id="TVPlayPsihoHD.tv" tvg-logo="http://1lot.tv/ch/10402.png" catchup-type="flussonic" catchup-days="1",TVPlay Психо HD
 http://95.143.191.33:5050/TVPlayPsihoHD.tv/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayNovogodniy.tv" tvg-logo="http://1lot.tv/ch/10547.png" catchup-type="flussonic" catchup-days="1" ,TVPlay ZOMBIE Грайндхаус
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayNovogodniy.tv" tvg-logo="http://1lot.tv/ch/10547.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Zombie Грайндхаус
 http://95.143.191.33:5050/TVPlayNovogodniy.tv/video.m3u8?token=Y9LUPAeayunx83
 
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlaySovKinoHD.tv" tvg-logo="http://1lot.tv/ch/9375.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Советское Кино HD
@@ -553,7 +554,7 @@ http://95.143.191.33:5050/TVPlayDaneliya.tv/video.m3u8?token=Y9LUPAeayunx83
 
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlaySledstvieVeli.tv" tvg-logo="http://1lot.tv/ch/9810.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Следствие вели
 http://95.143.191.33:5050/TVPlaySledstvieVeli.tv/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayBiografii.tv" tvg-logo="http://1lot.tv/ch/9811.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Биографии
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYBIOGRAFII.TV" tvg-id="TVPlayBiografii.tv" tvg-logo="http://1lot.tv/ch/9811.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Биографии
 http://95.143.191.33:5050/TVPlayBiografii.tv/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlay6Kadrov.tv" tvg-logo="http://1lot.tv/ch/9225.png" catchup-type="flussonic" catchup-days="1" ,TVPlay 6 Кадров
 http://95.143.191.33:5050/TVPlay6Kadrov/video.m3u8?token=Y9LUPAeayunx83
@@ -562,14 +563,14 @@ http://95.143.191.33:5050/TVPlayVkusniyKanal/video.m3u8?token=Y9LUPAeayunx83
 
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayBolshayaRaznica.tv" tvg-logo="http://1lot.tv/ch/9229.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Большая Разница
 http://95.143.191.33:5050/TVPlayBolshayaRaznica/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayGorodok.tv" tvg-logo="http://1lot.tv/ch/9228.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Городок
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYGORODOK.TV" tvg-id="TVPlayGorodok.tv" tvg-logo="http://1lot.tv/ch/9228.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Городок
 http://95.143.191.33:5050/TVPlayGorodok/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayMaskiShow.tv" tvg-logo="http://1lot.tv/ch/9152.png" catchup-type="flussonic" catchup-days="1" ,TVPLAY Маски Шоу
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayMaskiShow.tv" tvg-logo="http://1lot.tv/ch/9152.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Маски Шоу
 http://95.143.191.33:5050/TVPLAYMaskiShow/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlaySvoyaIgra.tv" tvg-logo="http://1lot.tv/ch/9256.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Своя игра HD
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="TVPLAYSVOYAIGRA.TV" tvg-id="TVPlaySvoyaIgra.tv" tvg-logo="http://1lot.tv/ch/9256.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Своя игра HD
 http://95.143.191.33:5050/TVPlaySvoyaIgra/video.m3u8?token=Y9LUPAeayunx83
 
-#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayFOOTBALLWORLDCUPS.tv" tvg-logo="http://1lot.tv/ch/10192.png" catchup-type="flussonic" catchup-days="1" ,TVPlay FOOTBALL WORLD CUPS
+#EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayFOOTBALLWORLDCUPS.tv" tvg-logo="http://1lot.tv/ch/10192.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Football WORLD Cups
 http://95.143.191.33:5050/TVPlayFOOTBALLWORLDCUPS.tv/video.m3u8?token=Y9LUPAeayunx83
 
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="TVPlayEralash.tv" tvg-logo="http://1lot.tv/ch/9224.png" catchup-type="flussonic" catchup-days="1" ,TVPlay Ералаш
@@ -716,8 +717,6 @@ http://92.53.64.197:5050/RTD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Дума ТВ" tvg-id="duma_tv",Дума ТВ
 http://92.53.64.197:5050/duma_tv/video.m3u8?token=m3VIth-Rou_bM1
 
-
-
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Мир 24 HD" tvg-id="Mir_24_HD",Мир 24 HD
 http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Крым 24 HD" tvg-id="Krym_24",Крым 24 HD
@@ -728,7 +727,6 @@ http://92.53.64.197:5050/Vostok_24/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/len_tv_24/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Луганск 24 HD" tvg-id="Luhansk_24_HD",Луганск 24 HD
 http://92.53.64.197:5050/Luhansk_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-
 
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="8 Канал" tvg-id="8_kanal",8 Канал
 http://92.53.64.197:5050/8_kanal/video.m3u8?token=m3VIth-Rou_bM1
@@ -746,7 +744,6 @@ http://92.53.64.197:5050/OTV_Chelyabinsk_HD/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/ural_1_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-id="mamonttv",Мамонт ТВ
 http://92.53.64.197:5050/mamonttv/video.m3u8?token=m3VIth-Rou_bM1
-
 
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Первый Республиканский" tvg-id="1_respublikanskiy",Первый Республиканский
 http://92.53.64.197:5050/1_respublikanskiy/video.m3u8?token=m3VIth-Rou_bM1
@@ -822,9 +819,6 @@ http://92.53.64.197:5050/smaylik_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="СТС Kids" tvg-id="knopka_tv",СТС Kids
 http://92.53.64.197:5050/knopka_tv/video.m3u8?token=m3VIth-Rou_bM1
 
-
-
-
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Bridge TV" tvg-id="bridge_tv",Bridge TV
 http://92.53.64.197:5050/bridge_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Clubbing TV HD" tvg-id="clubbing_tv",Clubbing TV HD
@@ -843,9 +837,6 @@ http://92.53.64.197:5050/ptica/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/muzika_pervogo/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Шансон ТВ" tvg-id="shanson_tv",Шансон ТВ
 http://92.53.64.197:5050/shanson_tv/video.m3u8?token=m3VIth-Rou_bM1
-
-
-
 
 #EXTINF:-1 group-title="💗🤗TVPlay💗IPTVPlay🤗💗" tvg-name="Eurosport 1 HD" tvg-id="eurosport1HD",Eurosport 1 HD
 http://92.53.64.197:5050/eurosport1HD/video.m3u8?token=m3VIth-Rou_bM1
