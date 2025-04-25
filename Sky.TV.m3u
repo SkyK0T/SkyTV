@@ -442,16 +442,24 @@ https://tvcdnpotok.com/z56-y1Np53T7TxAYOov7aw/570/1745641932/index.m3u8
 
 
 
-#EXTINF:-1 group-title="💗tvin.su💗" tvg-logo="https://iptvstok.work/images/channels/original.jpg",Мужское кино
+#EXTINF:-1 group-title="💗TVin.Su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/mens-kino-channel.png",Мужское кино
 http://148.251.240.90:8081/iptv/muzhskoe-channel/chunks.m3u8?nimblesessionid=12796&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6NDE6NDggUE0maGFzaF92YWx1ZT1YTWYzN1hIYkw1MFZDSk9QYUU0VkNRPT0mdmFsaWRtaW51dGVzPTEwMA==
-#EXTINF:-1 group-title="💗tvin.su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/mens-kino-channel.png",Дом Кино
+#EXTINF:-1 group-title="💗TVin.Su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/mens-kino-channel.png",Дом Кино
 http://89.23.113.27:8081/iptv/dom-kino-channel/chunks.m3u8?nimblesessionid=36084&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6NTY6MTQgUE0maGFzaF92YWx1ZT1KNnFuZktZZThLT1hoU0JrL3U5eHZ3PT0mdmFsaWRtaW51dGVzPTEwMA==
-#EXTINF:-1 group-title="💗tvin.su💗",Кино ТВ
+#EXTINF:-1 group-title="💗TVin.Su💗",Кино ТВ
 http://178.22.31.41:8081/iptv/kino-tv-channel/chunks.m3u8?nimblesessionid=7382&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6NTc6MjEgUE0maGFzaF92YWx1ZT1COThyRTdqSWhVeW56dnZheGl3WEh3PT0mdmFsaWRtaW51dGVzPTEwMA==
+#EXTINF:-1 group-title="💗TVin.Su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/strashnoe-kino-logo.jpg",Magic Horror
+http://135.181.10.168:8081/iptv/nst-channel/chunks.m3u8?nimblesessionid=43353&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDExOjQyOjU0IFBNJmhhc2hfdmFsdWU9Ylg2Um5LVzZNQnpiZ2h1bXB6WkRMUT09JnZhbGlkbWludXRlcz0xMDA=
+#EXTINF:-1 group-title="💗TVin.Su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/detektiv-channel.png",Русский детектив
+http://135.181.10.168:8081/iptv/russkiy-detektive-channel/chunks.m3u8?nimblesessionid=43346&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDExOjM4OjI1IFBNJmhhc2hfdmFsdWU9Yk1EMmk5K0V0N2ZoVTRhbjRLRWdhQT09JnZhbGlkbWludXRlcz0xMDA=
+#EXTINF:-1 group-title="💗TVin.Su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/nasha-pobeda-logo.png",,VF Наша Победа
+http://45.151.62.140:8081/iptv/nasha-pobeda-channel/chunks.m3u8?nimblesessionid=51683&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDExOjM1OjEwIFBNJmhhc2hfdmFsdWU9YWdjaFFrYzFDWHNRd0xjSDR1eEt0QT09JnZhbGlkbWludXRlcz0xMDA=
+#EXTINF:-1 group-title="💗TVin.Su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/nashe-kino.png",Золотая коллекция
+http://157.90.14.152:8081/iptv/rodnoe-kino-channel/chunks.m3u8?nimblesessionid=88290&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDExOjQ0OjIyIFBNJmhhc2hfdmFsdWU9SkdnZStKQ0F5QWFwZGVLVGNvcDF4UT09JnZhbGlkbWludXRlcz0xMDA=
+#EXTINF:-1 group-title="💗TVin.Su💗" tvg-logo="",Лайк ФМ
+https://pub0301.101.ru:8443/stream/air/mp3/256/219
 
 
-#EXTINF:-1 group-title="💗" tvg-logo="https://iptvstok.work/images/channels/original.jpg",Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 
 
