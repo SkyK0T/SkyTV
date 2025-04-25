@@ -115,6 +115,16 @@ https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Радио Юность
 https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
 
+#EXTINF:-1group-title="😤Тест😤",Oasis Horror
+https://tv.tvcdnpotok.com/2Q2iGkwSNagz6kt0DCPPnQ/1164/1745622508/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",Oasis Mafia
+https://tv.tvcdnpotok.com/sv4pwdxhPAFvrLVpOWMUXA/1165/1745626633/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",Netflix TV
+https://tv.tvcdnpotok.com/4vFVr3IuJyAcknv0DfTzpw/1011/1745626871/index.m3u8
+
+#EXTINF:-1group-title="😤Тест😤",RuTube TV
+https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/fH_oUfDFu3XjUz3whjlhDg/stream/genetta-326.m9.rutube.ru/sZQ6a7dw2Q2B-oT4YzZsrg/1746213008/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+
 
 
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1
