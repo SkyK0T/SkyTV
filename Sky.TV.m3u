@@ -44,7 +44,8 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 
-
+#EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Енисей
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺" tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png", РТР-Планета
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
@@ -115,15 +116,236 @@ https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1 group-title="☭🇷🇺 ВГТРК Смотрим ☭🇷🇺",Радио Юность
 https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
 
-#EXTINF:-1group-title="😤Тест😤",Oasis Horror
+
+
+
+#EXTINF:-1 group-title="💗tvin.su💗" tvg-logo="https://iptvstok.work/images/channels/original.jpg",Мужское кино
+http://148.251.240.90:8081/iptv/muzhskoe-channel/chunks.m3u8?nimblesessionid=12796&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6NDE6NDggUE0maGFzaF92YWx1ZT1YTWYzN1hIYkw1MFZDSk9QYUU0VkNRPT0mdmFsaWRtaW51dGVzPTEwMA==
+#EXTINF:-1 group-title="💗tvin.su💗" tvg-logo="http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/mens-kino-channel.png",Дом Кино
+http://89.23.113.27:8081/iptv/dom-kino-channel/chunks.m3u8?nimblesessionid=36084&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6NTY6MTQgUE0maGFzaF92YWx1ZT1KNnFuZktZZThLT1hoU0JrL3U5eHZ3PT0mdmFsaWRtaW51dGVzPTEwMA==
+#EXTINF:-1 group-title="💗tvin.su💗",Кино ТВ
+http://178.22.31.41:8081/iptv/kino-tv-channel/chunks.m3u8?nimblesessionid=7382&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6NTc6MjEgUE0maGFzaF92YWx1ZT1COThyRTdqSWhVeW56dnZheGl3WEh3PT0mdmFsaWRtaW51dGVzPTEwMA==
+
+
+#EXTINF:-1 group-title="💗" tvg-logo="https://iptvstok.work/images/channels/original.jpg",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+
+
+#EXTINF:-1group-title="😤Tvcdnpotok😤",Oasis Horror
 https://tv.tvcdnpotok.com/2Q2iGkwSNagz6kt0DCPPnQ/1164/1745622508/index.m3u8
-#EXTINF:-1group-title="😤Тест😤",Oasis Mafia
+#EXTINF:-1group-title="😤Tvcdnpotok😤",Oasis Mafia
 https://tv.tvcdnpotok.com/sv4pwdxhPAFvrLVpOWMUXA/1165/1745626633/index.m3u8
-#EXTINF:-1group-title="😤Тест😤",Netflix TV
+#EXTINF:-1group-title="😤Tvcdnpotok😤",Netflix TV
 https://tv.tvcdnpotok.com/4vFVr3IuJyAcknv0DfTzpw/1011/1745626871/index.m3u8
 
 #EXTINF:-1group-title="😤Тест😤",RuTube TV
 https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/fH_oUfDFu3XjUz3whjlhDg/stream/genetta-326.m9.rutube.ru/sZQ6a7dw2Q2B-oT4YzZsrg/1746213008/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+
+#EXTINF:-1group-title="😤Тест😤",RuTube TV
+https://salam-mskost-51.rutube.ru/dive/river-5-534.rutube.ru/ioJOJdR4_oSjY3LJUSyvkQ/stream/genetta-311.m9.rutube.ru/OxWm6sLsXvFr8Ng2DxPXNg/1746214904/44ec3da94f343d8fb34b90b2dfdbee2c/1080p_stream.m3u8
+
+#EXTINF:-1group-title="😤Тест😤",Brodilo.TV
+http://brodilo.tv/channel.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GGLbJIi.jpg",Brodilo TV
+http://brodilo.tv/channel.php
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://online-red.com/images/tv/86.png",86 канал (Сургут),Телеканал 86 (Сургут)
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1group-title="😤Тест😤",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://i.imgur.com/D5M4Gjr.png",RBK,RBK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://i.imgur.com/thfF7IJ.jpg",Salyam,Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1group-title="😤Тест😤",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",TnBnkom FHD
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",АРИС 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",Астрахань 24 HD
+https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png" ,Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:-1group-title="😤Тест😤",Башкортостан 24 HD
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Ветта 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Восток 24
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Вот ТВ HD
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://www.guberniatv.ru/img/logo.png" ,Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Дон 24
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Домашний
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Губерния 33 HD
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1group-title="😤Тест😤",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" ,МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://i.imgur.com/CrFWXTD.png" ,Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg",Мир,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://online-red.com/images/tv/mosobr.png" ,Московский образовательный
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",Муз союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",НВК Саха
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",НТМ
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://saransk-tv.ru/assets/images/slider/170321-pic-01.jpg",НТМ (Мордовия),НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png",Надежда
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://nikatv.ru/public/img/logo2.png" ,Ника TV,Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Первый Тульский HD
+http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",ОТС HD
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",Наше Крутое HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png",Небеса ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://only-tv.org/images/rbk.png" ,РБК
+http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://145.239.78.42/logos/rbk.png",РБК
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1group-title="😤Тест😤",РТС (Хакасия)
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Радио Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" ,Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1group-title="😤Тест😤",Ратник
+http://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Рифей ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Россия 1 +1
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Россия 1 +3
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Россия 1 +8
+http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" ,С1 (Сургут)
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1group-title="😤Тест😤",СТС Прима
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Саха (Якутск)
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",ТВ-ИН HD
+http://a3569457554-rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",ТВ3
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤",Тивиком HD (+5)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" ,Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1group-title="😤Тест😤",Хамдан (Элиста)
+http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="https://static.tildacdn.com/tild6230-3662-4537-a334-363564306535/Untitled-4.png" ,Хузур ТВ
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Хузур ТВ (Татарстан)
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤" tvg-logo="http://tv41.ru/images/00.png",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1group-title="😤Тест😤" ,Эхо TV (Рязань),Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1group-title="😤Тест😤",Радио Хит ТВ
+http://hithd.camsh.orsk.ru/hls/hit.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -161,6 +383,16 @@ https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg",Melodic Tech
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
+
+
+#EXTINF:-1 group-title="Музыка",One.by
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Музыка",One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",One.by Россия HD
+http://rtmp.one.by:2300
 
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.piterpan.it/wp-content/uploads/2023/02/logo-radio-piterpan.png",Piterpan TV
@@ -246,6 +478,9 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
+
+
+
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_35.png",PowerTürk TV
@@ -1513,6 +1748,76 @@ https://132544.edgevideo.ru/streams/132544_845717/132544360/index.m3u8
 https://132544.edgevideo.ru/streams/132544_836561/132544480/index.m3u8
 #EXTINF:-1 group-title="Платформа plvideo.ru",D&G Music ☆🎶🎵 Музыка 2025 Онлайн 24/7 🎵🎶☆
 https://132544.edgevideo.ru/streams/132544_766510/132544480/index.m3u8
+
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",21 HD
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Jan TV
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",48
+http://ott-cdn.ucom.am/s48/index.m3u8
+
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Первый канал
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Россия РТР
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Россия K
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",НТВ Мир
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Food Network
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Центральное Телевидение
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Россия 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",BBC Amerika
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Загородный
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Amedia 2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Mezzo
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",РБК
+http://ott-cdn.ucom.am/s36/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Мир
+http://ott-cdn.ucom.am/s39/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Шансон ТВ
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Amedia 1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Детский мир
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Техно 24
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Extreme
+http://ott-cdn.ucom.am/s76/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Нтв Стиль
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Fast & FanBox
+http://ott-cdn.ucom.am/s79/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",RT Doc
+http://ott-cdn.ucom.am/s93/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Дорама
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Наука
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1 group-title="😤Армения https://www.ucom.am/ru😤",Приключения HD
+http://ott-cdn.ucom.am/s99/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Колобок ТВ / Чебуратор ТВ" xui-id="26439" tvg-name="Кино Панорама MAX" tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4QH7s2UlHPhXyTHH-5L7-6j4KZOyysSpj5VGB6zBq9tN.png",Кино Панорама MAX
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H39uHOJxIan-A2SDByaGJHvoHfDdP1IkPJHb9iv5HWZA0/ts
@@ -16996,7 +17301,6 @@ http://lionztv.com:2095/saad2/48522/120510
 http://lionztv.com:2095/saad2/48522/120509
 #EXTINF:-1 group-title="LionzTV" ,ZA: SUPERSPORT Cricket FHD
 http://lionztv.com:2095/saad2/48522/120508
-
 
 
 
