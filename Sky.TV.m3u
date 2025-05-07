@@ -47,7 +47,7 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
@@ -90,7 +90,7 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",360
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" ,360°
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",360 HD
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
@@ -104,7 +104,7 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png",4 канал
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" ,43 канал HD Туапсе
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",43 канал HD Туапсе
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://online-red.com/images/tv/86.png",86 канал Сургут
 https://sitv.ru/hls/s861024.m3u8
@@ -307,7 +307,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-id="stv-by",СТВ Беларусь
 https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" ,Страна FM
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",Страна FM TV
 http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
@@ -355,11 +355,11 @@ https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://tv41.ru/images/00.png",Щелковское ТВ
 http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" ,Эхо TV Рязань
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",Эхо TV Рязань
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="https://assets.limehd.tv/uploads/channel/10272/thumb_915e2961accb5f2736151caccb4c1ecc.png",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
-#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" ,Югра
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
 
 
@@ -373,32 +373,21 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
-#EXTGRP:ВГТРК 🇷🇺☭
+#EXTGRP:ВГТРК 🇷🇺☭ Смотрим
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1 ,Бобер
-#EXTGRP:ВГТРК 🇷🇺☭
+#EXTGRP:ВГТРК 🇷🇺☭ Смотрим
 #EXTVLCOPT:http-referrer=https://bober.ru
 https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:-1, Top Secret
-#EXTGRP:ВГТРК 🇷🇺☭
+#EXTGRP:ВГТРК 🇷🇺☭ Смотрим
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 
 
 
 
-#EXTINF:-1 group-title="НТВ",МузТв
-https://edge01r.mediavitrina.ru/dashp-livef1/muztv/index.mpd?token=v2.H-Drp4-WVqIyxKuejb4cVXovFKZa0QyoH5QPMH-pWPw.ovRp-x9Mfjox6nLQIst0vlemDwilDHmOvmfx2_YgiEg.1747101656.3b6bf42eebcb11fae24dfb2f9cfce728
-#EXTINF:-1 group-title="НТВ",МузТв
-https://edge01d.mediavitrina.ru/dashp-livef1/muztv/index.mpd?token=v2.SXJ0NnOBsBTAzv0e0OHUhQSNt3v4BrqwCfFxSL68mBw.QNiYseOHfv9VZbZeodrJHXcD0BWd5YHO4WTLSsfhoRY.1747101754.a06e655147a7cfde191860b0d82fcec1
-#EXTINF:-1 group-title="НТВ",Рен ТВ
-https://edge01d.mediavitrina.ru/dashp-livef1/ren-tv/index.mpd?token=v2.7UNqzoHeCIZbQqj4YJDTLdbCY5RGa4L9yHI5DSKQQlA.aPPOoyZ-7vnoVc08JZM8ya-bTFUt_2CurFi7NaK-35U.1747101843.f54d89bf2f266771c0d56ef6a2695106
-#EXTINF:-1 group-title="НТВ",СТС
-https://edge02r.mediavitrina.ru/dashp-livef1/ctc/index.mpd?token=v2.uEGe1-mFkxriG2YHcpkfwJ4hk_MUn4MBWAVn_tu_q-M.GMWloD8CeTHDy4DM-qxKlr536zT5zaS1cmYhtVIlvRo.1747101904.e916b1c65818f2202850bdbb52f9a918
-
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 group-title="Триколор ТВ",Первый HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
@@ -951,26 +940,26 @@ https://pub0301.101.ru:8443/stream/air/mp3/256/219
 
 
 
-#EXTINF:-1 group-title="Радио + "Веб-камера",Авторадио
+#EXTINF:-1 group-title="Радио + Веб-камера",Авторадио
 https://salam-mskugr-11.rutube.ru/dive/river-3-345.rutube.ru/RuaaQfAkQwpNX7DdIdpjfQ/stream/genetta-325.m9.rutube.ru/jAluFJd3eUZPkzfGVnVzew/1747090968/0054a8346fa6645eff79901062d77dee/1080p_stream.m3u8
 
-#EXTINF:-1 group-title="Радио + "Веб-камера",Радио Макс FM Сочи
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Макс FM Сочи
 http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
-#EXTINF:-1 group-title="Радио + "Веб-камера",Радио Говорит Москва
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Говорит Москва
 http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:-1 group-title="Радио + "Веб-камера",Радио Говорит Москва [RU] (Веб-камера)
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Говорит Москва [RU] (Веб-камера)
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Радио + "Веб-камера",Радио Шансон
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Радио + "Веб-камера"  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg",Шансон-ТВ
+#EXTINF:-1 group-title="Радио + Веб-камера" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg",Шансон-ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Радио + "Веб-камера",Радио России
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио России
 https://vgtrksmotrim.cdnvideo.ru/hls/RadioRFM/video.m3u8?md5=FTkKyyiYUxB9jaiIRhFJLA&e=1745384617&hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
-#EXTINF:-1 group-title="Радио + "Веб-камера",Радио Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/tracks-v1a1/mono.m3u8?hls_proxy_host=111691cfa2b3e6ed7b2f3322ff53b6a8#EXTINF:-1 
-#EXTINF:-1 group-title="Радио + "Веб-камера",Радио Хит ТВ Орск
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/tracks-v1a1/mono.m3u8?hls_proxy_host=111691cfa2b3e6ed7b2f3322ff53b6a8
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Хит ТВ Орск
 http://hithd.camsh.orsk.ru/hls/hit.m3u8
 
 
@@ -994,10 +983,7 @@ http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="0423" tvg-name="CMS Андрей Федорцов" tvg-logo="https://i.ibb.co/pBsLK7Zh/image.png" catchup="flussonic" catchup-days="3", CMS Андрей Федорцов
 http://cdn1.starcinemax.fun:2095/0423/index.m3u8
-#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",Dimonovich CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",Dimonovich CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
+
 #EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",Dimonovich СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Dimonovich Чип и Дейл
@@ -1029,7 +1015,10 @@ http://tvrlive.susu.ru/1800k/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",Dimonovich CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",Dimonovich CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg",Mafi2a Music TV
 http://158.101.194.132:8080/channel/n5a0c5a33/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
@@ -1401,62 +1390,63 @@ https://d32icy1yl4ivpp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Путешествия" tvg-logo="https://i.imgur.com/GGLbJIi.jpg",Brodilo TV
 http://brodilo.tv/channel.php
 
-
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1 group-title="Wink"  tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png",Камин ТВ
+#EXTINF:-1 group-title="Wink" tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png",Камин ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+1)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+3)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +5
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+6)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +6
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+8)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+9)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +9
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ +4
@@ -1468,7 +1458,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Репортер 73
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png",Рифей-ТВ
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png",Рифей ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
@@ -1483,19 +1473,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +5
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+6)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +6
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+8)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+9)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 +9
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
@@ -1504,100 +1494,100 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8	
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце 
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl2",Пятница! (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl2",Пятница! +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl4",Пятница! (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl4",Пятница! +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl5",Пятница! (+5)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl5",Пятница! +5
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl7",Пятница! (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl7",Пятница! +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl4",Пятый канал (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl4",Пятый канал +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl7",Пятый канал (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl7",Пятый канал +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
@@ -1606,13 +1596,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Сургут 24
@@ -1621,7 +1611,7 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2038",ТВ Центр (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2038",ТВ Центр +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ +4
@@ -1633,37 +1623,37 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
@@ -1681,13 +1671,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
@@ -1705,13 +1695,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="doverie",Москва. Доверие
@@ -1720,13 +1710,13 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ (+2)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ +2
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ (+4)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ +4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ (+7)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ +7
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",31 канал Челябинск
@@ -1738,7 +1728,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="12-omsk",12 канал HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Норд ТВ (Новодвинск)
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Норд ТВ Новодвинск
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_NORDTV/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",5 канал +4
@@ -1774,7 +1764,7 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="aist",АИСТ HD
+#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="aist",Аист
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 #EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1obl-blagoveschensk",Амурское областное телевидение
