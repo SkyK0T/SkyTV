@@ -386,7 +386,31 @@ https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
 
 
+#EXTINF:-1 group-title="Кино1ТВ", СТС Love
+https://edge02p.mediavitrina.ru/dashp-livef1/ctc-love/index.mpd?token=v2.gsgsI6W7cKJaYtvDrSdSJntwJKpGm0jqiUJEQl0b4GA.ZF0D71WM9EFNP1Bin_3Y7Bwah6dKGba9DY0zciq7mqM.1750450419.166cf983c476cd02b0f23c28597fa89e
 
+#EXTINF:-1 group-title="Кино1ТВ", Первый канал
+https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
+#EXTINF:-1 group-title="Кино1ТВ", Дом кино
+https://bl.webcaster.pro/file/playlist/api_free_6ec7df5a403562102800c22e55e8c7ee/37_3262301494/1080/ec5bf346b921e17a5ad4518dcac8fc7f/4834133281.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Дом кино Премиум
+https://bl.webcaster.pro/file/playlist/api_free_0946c94167f714bf18a3b313cd2a015a/37_5918060898/1080/3e16295ebffab2803a7a2695a15c2ec3/4834133281.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Детский телеканал «О!»
+https://bl.webcaster.pro/file/playlist/api_free_d0f98af3933f6b16a6c800db7a8611a4_hd/37_9850383658/1080/a8367ab6e19dd06f5d335c9acbaa4618/4762333726.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Лапки LIVE
+https://bl.webcaster.pro/file/playlist/api_free_adcc41da23a924138baf85cb106504e1/37_1716963575/1080/6e24e30bb0140a7202cf54c9ff7e3f5a/4850110166.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Бобёр
+https://bl.webcaster.pro/file/playlist/api_free_269f489803e1ee334e0f0073e8b7843c_hd/37_5892297881/1080/447bc03c71e0196c46ca74becd25e3b1/4817719151.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Телекафе
+https://bl.webcaster.pro/file/playlist/api_free_d3cbb5664913c4c4115c789b1d522ac5_hd/37_4377072566/1080/6c326d686bdb5be0ba0829e7a447aefb/4817719151.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Победа
+https://bl.webcaster.pro/file/playlist/api_free_82899d2019caa59f438090abb1dbaaff/37_5804683399/1080/7c9015cf5452414f47f6112d828890bb/4834133281.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Время
+https://bl.webcaster.pro/file/playlist/api_free_14f3329c1fd6d09b0b38ca3e6ad22249/37_2298536232/1080/e493e3828b6283ebba79facb5e29e94d/4834133281.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Музыка первого
+https://bl.webcaster.pro/file/playlist/api_free_3e2f9b8b13ac00bd66bacc8821e0d46a/37_7629457535/1080/cca3e2c6f8474d04ee96007a2fbfca99/4834133281.m3u8
+#EXTINF:-1 group-title="Кино1ТВ", Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 
 #EXTINF:-1 group-title="Триколор ТВ",Первый HD
