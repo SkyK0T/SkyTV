@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg,https://epg.drm-play.com/?prov=tvplay,https://epg.lampa.stream/?prov=catcast,http://1lot.tv/epg/epg.xml"
+#EXTM3U url-tvg="https://epg.drm-play.com/?prov=tvplay,https://epg.lampa.stream/?prov=catcast,http://1lot.tv/epg/epg.xml"
 #EXTM3U url-tvg="http://epg.streaming-elbrus.su/xmltv/epg.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗Обновлено 6.5.25💗😈
