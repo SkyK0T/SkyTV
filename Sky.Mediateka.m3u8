@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Supermen.2025.jpg",Супермен / Superman 2025
+https://www.kinoteatr.kg/video4/Filmu/7Supermen.2025.mp4
+#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Snova%20v%20dele.2025.png",Снова в деле/Back in Action 2025
+https://www.kinoteatr.kg/video4/Filmu/7Snova%20v%20dele.2025.mp4
+#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Flight.Risk.2025.jpg",Особо опасный пассажир/Flight Risk 2025
+https://www.kinoteatr.kg/video4/Filmu/7Flight.Risk.2025.mp4
+#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Cleaner.2025.jpg",Клинер/Cleaner Жанр:боевик, триллер, драма / Год: 2025
+https://www.kinoteatr.kg/video4/Filmu/7Cleaner.2025.mp4
+#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/The.Gorge.2025.jpg",Ущелье/The Gorge Жанр:фантастика, боевик, мелодрама / Год: 2025
+https://www.kinoteatr.kg/video4/Filmu/7The.Gorge.2025.mp4
+#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Snova%20v%20dele.2025.png",Снова в деле/Back in Action Жанр:боевик, комедия / Год: 2025 Джейми Фокс, Кэмерон Диас
+https://www.kinoteatr.kg/video4/Filmu/7Snova%20v%20dele.2025.mp4
+
 #EXTINF:-1 group-title="🍿KinoTeatr.kg🍿60 FPS🍿",Падение Луны Трейлер
 https://kinoteatr.kg/video4/Trailer/Padenie%20Lunu%2060fps.2022.mp4
 #EXTINF:-1 group-title="🍿KinoTeatr.kg🍿60 FPS🍿",Падение Луны 60 FPS Moonfall 2022 Жанр:фантастика, боевик 
@@ -124,20 +136,8 @@ https://www.kinoteatr.kg/video2/Filmu/7Chujoi.%20Zavet.2017.60fps.mp4
 https://kinoteatr.kg/video4/Trailer/Novui%20god%20v%20Berezovke.2024.mp4
 #EXTINF:-1 group-title="🍿KinoTeatr.kg🍿Русские🍿" tvg-logo="https://kinoteatr.kg/uploads/Novui%20god%20v%20Berezovke.2024.jpg",Новый год в Берёзовке
 https://kinoteatr.kg/video4/Filmu/7Novui%20god%20v%20Berezovke.2024.mp4
-
-
-#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Supermen.2025.jpg",Супермен / Superman 2025
-https://www.kinoteatr.kg/video4/Filmu/7Supermen.2025.mp4
-#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Snova%20v%20dele.2025.png",Снова в деле/Back in Action 2025
-https://www.kinoteatr.kg/video4/Filmu/7Snova%20v%20dele.2025.mp4
-#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Flight.Risk.2025.jpg",Особо опасный пассажир/Flight Risk 2025
-https://www.kinoteatr.kg/video4/Filmu/7Flight.Risk.2025.mp4
-#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Cleaner.2025.jpg",Клинер/Cleaner Жанр:боевик, триллер, драма / Год: 2025
-https://www.kinoteatr.kg/video4/Filmu/7Cleaner.2025.mp4
-#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/The.Gorge.2025.jpg",Ущелье/The Gorge Жанр:фантастика, боевик, мелодрама / Год: 2025
-https://www.kinoteatr.kg/video4/Filmu/7The.Gorge.2025.mp4
-#EXTINF:0 group-title="🍿KinoTeatr.kg🍿2025🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Snova%20v%20dele.2025.png",Снова в деле/Back in Action Жанр:боевик, комедия / Год: 2025 Джейми Фокс, Кэмерон Диас
-https://www.kinoteatr.kg/video4/Filmu/7Snova%20v%20dele.2025.mp4
+#EXTINF:-1 group-title="🍿KinoTeatr.kg🍿Русские🍿" tvg-logo="https://www.kinoteatr.kg/uploads/Solovey.protiv.Muromtsa.2025.jpg",Соловей против Муромца 2025
+https://www.kinoteatr.kg/video4/Filmu/7Solovey.protiv.Muromtsa.2025.mp4
 
 
 
