@@ -4,3 +4,6 @@
 #EXTM3U url-tvg="http://epg.streaming-elbrus.su/xmltv/epg.xml.gz" refresh="3600"
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 5.10.25👈💗😈
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
+
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
