@@ -1703,6 +1703,8 @@ https://hls.goodgame.ru/manifest/40391_master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/manifest/196745_master.m3u8
 
+#EXTINF:-1 group-title="🎮 GoodGame.ru 🎮",Киномир 24/7
+https://hls.goodgame.ru/hls/212682.m3u8
 
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="MGM HD" tvg-logo="https://img.catcast.tv/uploads/05072024/logos/44051-66880b2fe11c5.jpg",MGM HD
 https://v2.catcast.tv/content/44051/index.m3u8
@@ -1943,17 +1945,22 @@ https://v2.catcast.tv/content/47787/index.m3u8
 https://v2.catcast.tv/content/46695/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="ШКОЛА ДЕТОКСА | DRIM TV" tvg-id="47778",ШКОЛА ДЕТОКСА | DRIM TV
 https://v2.catcast.tv/content/47778/index.m3u8
-
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="KBC+100500 (18+)" tvg-id="42052",KBC+100500 (18+)
 https://v2.catcast.tv/content/42052/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Платформа plvideo.ru",Россия 24
+https://132544.edgevideo.ru/streams/132544_845717/132544360/index.m3u8
+#EXTINF:-1 group-title="Платформа plvideo.ru",VIVA Russia
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 
 
 #EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="Видеокасета VHS" ,ВидеоКассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png,Видеокассета Киномир
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-#EXTINF:-1 group-title="Платформа plvideo.ru",Киномир 24/7
-https://hls.goodgame.ru/hls/212682.m3u8
+
 #EXTINF:-1 group-title="Платформа plvideo.ru",Дембель неизбежен
 https://132544.edgevideo.ru/streams/132544_730983/playlist.m3u8
 #EXTINF:-1 group-title="Платформа plvideo.ru",⭐СОЛДАТЫ⭐ [24/7]
@@ -1962,8 +1969,7 @@ https://132544.edgevideo.ru/streams/132544_730983/1325441080/index.m3u8
 https://132544.edgevideo.ru/streams/132544_896888/1325441080/index.m3u8
 #EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
 https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
-#EXTINF:-1 group-title="Платформа plvideo.ru",VIVA Russia
-https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+
 #EXTINF:-1 group-title="Платформа plvideo.ru",Lady Gaga Live Coachella Full
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/YI8o3NtqNsyTtZ1Fv_B/ZX
 
@@ -1971,9 +1977,758 @@ https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/YI8o3NtqNsyTtZ1Fv_B/ZX
 https://132544.edgevideo.ru/streams/132544_839765/1325441080/index.m3u8
 #EXTINF:-1 group-title="Платформа plvideo.ru" tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир HD sputnik24.tv
 https://stream18.sputnik24.tv/sapfir/480p/index.m3u8?sig=1744543391_f22f7d8df619fc6d92db28991a99269c
-#EXTINF:-1 group-title="Платформа plvideo.ru",Россия 24
-https://132544.edgevideo.ru/streams/132544_845717/132544360/index.m3u8
 #EXTINF:-1 group-title="Платформа plvideo.ru",Вечер с Владимиром Соловьёвым 10.04.2025
 https://132544.edgevideo.ru/streams/132544_836561/132544480/index.m3u8
 #EXTINF:-1 group-title="Платформа plvideo.ru",D&G Music ☆🎶🎵 Музыка 2025 Онлайн 24/7 🎵🎶☆
-https://132544.edgevideo.ru/streams/132544_766510/132544480/index.m3u8
+https://132544.edgevideo.ru/streams/132544_916850/132544480/index.m3u8
+
+
+#EXTINF:-1 group-title="VK Play!(-_-)!",ВидеоКассета
+https://live.vkvideo.ru/vhs90e
+#EXTINF:-1 group-title="VK Play!(-_-)!",Фильмы! 24/7
+https://live.vkvideo.ru/video_prokat
+#EXTINF:-1 group-title="VK Play!(-_-)!",Смотрим фильмы 24/7
+https://live.vkvideo.ru/timetomovie
+#EXTINF:-1 group-title="VK Play!(-_-)!",Смотрим хорроры 24/7
+https://live.vkvideo.ru/timetohorror					   
+#EXTINF:-1 group-title="VK Play!(-_-)!",Сериалы 24/7
+https://live.vkvideo.ru/lampovoetv						  
+#EXTINF:-1 group-title="VK Play!(-_-)!",Мультфильмы 24/7
+https://live.vkvideo.ru/wfliq
+#EXTINF:-1 group-title="VK Play!(-_-)!",Мультфильмы 24/7
+https://live.vkvideo.ru/mezontrop
+#EXTINF:-1 group-title="VK Play!(-_-)!",Глад Валакас
+https://live.vkvideo.ru/gladvalakas
+#EXTINF:-1 group-title="VK Play!(-_-)!",Кино 24/7 фильмы обзор
+https://live.vkvideo.ru/movietoper
+#EXTINF:-1 group-title="VK Play!(-_-)!",Solo ink
+https://live.vkvideo.ru/soloink
+#EXTINF:-1 group-title="VK Play!(-_-)!",TopMoment
+https://live.vkvideo.ru/topmoment
+#EXTINF:-1 group-title="VK Play!(-_-)!",onlain4ikON 🔴Кино! Приятного просмотра!
+https://live.vkvideo.ru/onlain4ikoff
+#EXTINF:-1 group-title="VK Play!(-_-)!",Gnumme Крепкий Гнумешек
+https://live.vkvideo.ru/gnumme
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,Тест
+#EXTGRP:Тест
+https://mhd219.iptv2022.com/p/ZfFHnEXcHROPJqoPA0OWXw,1729812395/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 ,Тест
+#EXTGRP:Тест
+https://mhd219.iptv2022.com/p/ZfFHnEXcHROPJqoPA0OWXw,1729812395/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 ,Тест
+#EXTGRP:Тест
+https://mhd.iptv2022.com/p/ZfFHnEXcHROPJqoPA0OWXw,1729812395/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 ,Тест
+#EXTGRP:Тест
+https://mhd156.iptv2022.com/p/zRTIv0iiE_NXMelgKTnWKw,1729812491/streaming/aiva_tv/324/5/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 ,Красная линия
+#EXTGRP:dmi3y-tv.ru
+http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Cineman
+http://195.158.222.115:8002/cineman
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Action
+http://195.158.222.115:8002/cineman_action
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Marvel
+http://195.158.222.115:8002/cineman_marvel
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Melodrama
+http://195.158.222.115:8002/cineman_melodrama
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan MiniSeries
+http://195.158.222.115:8002/cineman_miniseries
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Premium
+http://195.158.222.115:8002/cineman_premium
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Thriller
+http://195.158.222.115:8002/cineman_thriller
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Top
+http://195.158.222.115:8002/cineman_top
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan VHS
+http://195.158.222.115:8002/cineman_vhs
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan РуКино
+http://195.158.222.115:8002/cineman_rukino
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Лесник
+http://195.158.222.115:8002/cineman_lesnik
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Катастрофы
+http://195.158.222.115:8002/cineman_katastrofi
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Комедия
+http://195.158.222.115:8002/cineman_comedy
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Симпсоны
+http://195.158.222.115:8002/cineman_simpson
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Скорая помощь
+http://195.158.222.115:8002/cineman_skoraya_pomosh
+#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Сваты
+http://195.158.222.115:8002/cineman_svaty
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Start World
+http://195.158.222.115:8002/start_world
+
+
+#EXTINF:-1 group-title="Cineman 195.158.222.115",История
+http://195.158.222.115:8000/play/102/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kineko",Кинеко
+http://195.158.222.115:8000/play/170/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Кино без границ
+http://195.158.222.115:8001/play/a087/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Кино без границ HD
+http://195.158.222.115:8001/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Киномикс
+http://195.158.222.115:8000/play/47/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",КиноМульт
+http://195.158.222.115:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Киносерия
+http://195.158.222.115:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kinouzhas",Киноужас
+http://195.158.222.115:8001/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kinosvidanie",Киносвидание
+http://195.158.222.115:8001/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Кто есть кто 
+http://195.158.222.115:8000/play/192/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Мир сериала HD
+http://195.158.222.115:8000/play/75/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="mir-seriala",Мир сериала
+http://195.158.222.115:8001/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Мульт 
+http://195.158.222.115:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="muzhskoe-kino",Мужское кино
+http://195.158.222.115:8001/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Наше новое кино 
+http://195.158.222.115:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="nashe-novoe-kino",Наше новое кино
+http://195.158.222.115:8001/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Пятница!
+http://195.158.222.115:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Уникум 
+http://195.158.222.115:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",ЦТВ
+http://195.158.222.115:8001/play/a083/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",2x2
+http://195.158.222.115:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",A2 
+http://195.158.222.115:8000/play/62/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Bollywood HD
+http://195.158.222.115:8000/play/169/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Cartoon Classics
+http://195.158.222.115:8001/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Hollywood HD 
+http://195.158.222.115:8000/play/166/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Kids TV 
+http://195.158.222.115:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Kinoliving
+http://195.158.222.115:8001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="start-world" tvg-id="start-world",Start World
+http://195.158.222.115:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Star Cinema
+http://195.158.222.115:8000/play/a04q/index.m3u8 
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju TV1000 
+http://195.158.222.115:8001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju TV1000 Action
+http://195.158.222.115:8000/play/36/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju+ Comedy HD
+http://195.158.222.115:8000/play/40/index.m3u8
+#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju+ Megahit 
+http://195.158.222.115:8000/play/38/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Premiere
+http://str30.tv/3078/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 1 HD
+http://str30.tv/7167/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 2 HD
+http://str30.tv/2938/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал Premiere 3 HD
+http://str30.tv/7597/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Premiere Ultra 4K
+http://str30.tv/3408/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Мультсериал HD
+http://str30.tv/8590/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Kids
+http://str30.tv/8585/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Kids+
+http://str30.tv/6398/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Little
+http://str30.tv/7994/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Кинозал СССР
+http://str30.tv/9118/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Russia 90s
+http://str30.tv/2563/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU VHS
+http://str30.tv/3239/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Action HD
+http://str30.tv/7255/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Cosmo
+http://str30.tv/3559/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Catastrophe HD
+http://str30.tv/5577/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Charm
+http://str30.tv/1665/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Comedy HD
+http://str30.tv/2718/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Fantastic HD
+http://str30.tv/7834/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU FilMystic HD
+http://str30.tv/6071/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU History HD
+http://str30.tv/8129/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Reality
+http://str30.tv/2310/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Marvel HD
+http://str30.tv/1740/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Romantic HD
+http://str30.tv/4559/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Stars HD
+http://str30.tv/9944/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU RUSerial HD
+http://str30.tv/2420/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Russian
+http://str30.tv/4165/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Сваты HD
+http://str30.tv/2307/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Criminal HD
+http://str30.tv/3871/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Cinema HD
+http://str30.tv/1086/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Cinema+ HD
+http://str30.tv/6536/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Kinorating
+http://str30.tv/2071/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU Survival
+http://str30.tv/6035/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+#EXTINF:-1 group-title="Кинозалы str30", BCU TruMotion
+http://str30.tv/8885/video.m3u8?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+
+
+
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR 1941-1945 HD
+http://str30.ottg.app/3599/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Детектив HD
+http://str30.ottg.app/7483/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Комедия HD
+http://str30.ottg.app/1121/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Приключения HD
+http://str30.ottg.app/9068/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Сказки HD
+http://str30.ottg.app/3374/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Драма HD
+http://str30.ottg.app/3819/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Воронины HD
+http://str30.ottg.app/3466/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM USSR Мультфильм HD
+http://str30.ottg.app/7225/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Tom and Jerry HD
+http://str30.ottg.app/5857/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Агата Кристи HD
+http://str30.ottg.app/6906/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Rock HD
+http://str30.ottg.app/2952/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM 007 HD
+http://str30.ottg.app/1190/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Flip UHD
+http://str30.ottg.app/6182/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Honey HD
+http://str30.ottg.app/4629/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Lesson HD
+http://str30.ottg.app/7616/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Live Planet HD
+http://str30.ottg.app/4085/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Love HD
+http://str30.ottg.app/8384/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 1 HD
+http://str30.ottg.app/9582/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 2 HD
+http://str30.ottg.app/2462/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm 3 HD
+http://str30.ottg.app/3151/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM NewFilm RU HD
+http://str30.ottg.app/1571/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Relax HD
+http://str30.ottg.app/4153/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Smile HD
+http://str30.ottg.app/3788/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM UFO HD
+http://str30.ottg.app/4264/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Приключения HD
+http://str30.ottg.app/4596/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Walt Disney HD
+http://str30.ottg.app/3781/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM World Hits HD
+http://str30.ottg.app/6813/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Боевик HD
+http://str30.ottg.app/2053/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Боевик Classic HD
+http://str30.ottg.app/4171/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Вестерн HD
+http://str30.ottg.app/8466/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Грайндхаус HD
+http://str30.ottg.app/4601/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Затмение HD
+http://str30.ottg.app/6567/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM История HD
+http://str30.ottg.app/2476/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Катастрофа HD
+http://str30.ottg.app/9725/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Квартирник HD
+http://str30.ottg.app/4037/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Киберпанк HD
+http://str30.ottg.app/3441/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Комедия Classic HD
+http://str30.ottg.app/4024/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Комедия HD
+http://str30.ottg.app/8038/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Криминал HD
+http://str30.ottg.app/5220/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Крутые 90-е HD
+http://str30.ottg.app/5495/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Кунг-Фу HD
+http://str30.ottg.app/3715/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Мифология HD
+http://str30.ottg.app/5157/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Нуар HD
+http://str30.ottg.app/6491/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Погружение HD
+http://str30.ottg.app/7686/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Полицейский с Рублёвки HD
+http://str30.ottg.app/8573/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Роскино HD
+http://str30.ottg.app/1488/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Сваты HD
+http://str30.ottg.app/3318/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Семейный 1 HD
+http://str30.ottg.app/1358/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Семейный 2 HD
+http://str30.ottg.app/2262/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Синематограф HD
+http://str30.ottg.app/3812/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ситком HD
+http://str30.ottg.app/2511/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ситком 2.0 HD
+http://str30.ottg.app/6880/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Скорость HD
+http://str30.ottg.app/1581/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Спорт HD
+http://str30.ottg.app/3451/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Стивен Кинг HD
+http://str30.ottg.app/7848/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Супергерои HD
+http://str30.ottg.app/1556/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Триллер HD
+http://str30.ottg.app/4829/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ужастик HD
+http://str30.ottg.app/4708/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ужасы Classic HD
+http://str30.ottg.app/6908/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Ужасы HD
+http://str30.ottg.app/5519/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Фантастика HD
+http://str30.ottg.app/6901/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Фобия HD
+http://str30.ottg.app/4293/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Celebrity HD
+http://str30.ottg.app/9541/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Classic HD
+http://str30.ottg.app/4789/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Translation HD
+http://str30.ottg.app/1186/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Драма HD
+http://str30.ottg.app/9941/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Микромир HD
+http://str30.ottg.app/2131/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Макромир HD
+http://str30.ottg.app/4234/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Мегамир HD
+http://str30.ottg.app/5908/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Experiment HD
+http://str30.ottg.app/4968/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM OldSchool HD
+http://str30.ottg.app/9976/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Гриффины HD
+http://str30.ottg.app/5556/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Открытия HD
+http://str30.ottg.app/2202/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+#EXTINF:-1 group-title="Кинозалы str30",MM Кинофестиваль HD
+http://str30.ottg.app/7749/mpegts?token=9bd5c60f0cede7fd151cc9b5da1f0799
+
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Celebrity HD
+http://str16.tv/9541/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Love HD
+http://str16.tv/8384/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 1 HD
+http://str16.tv/9582/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 2 HD
+http://str16.tv/2462/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 3 HD
+http://str16.tv/3151/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm RU HD
+http://str16.tv/1571/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Translation HD
+http://str16.tv/1186/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM UFO HD
+http://str16.tv/4264/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Боевик HD
+http://str16.tv/2053/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Боевик Classic HD
+http://str16.tv/4171/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Вестерн HD
+http://str16.tv/8466/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Воронины HD
+http://str16.tv/3466/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Грайндхаус HD
+http://str16.tv/4601/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Гриффины HD
+http://str16.tv/5556/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Затмение HD
+http://str16.tv/6567/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Драма HD
+http://str16.tv/9941/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM История HD
+http://str16.tv/2476/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Катастрофа HD
+http://str16.tv/9725/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Киберпанк HD
+http://str16.tv/3441/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Кинофестиваль
+http://str16.tv/7749/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Комедия HD
+http://str16.tv/8038/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Комедия Classic HD
+http://str16.tv/4024/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Сваты HD
+http://str16.tv/3318/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 1 HD
+http://str16.tv/1358/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 2 HD
+http://str16.tv/2262/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Синематограф HD
+http://str16.tv/3812/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Фобия HD
+http://str16.tv/4293/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Tom And Jerry HD
+http://str16.tv/5857/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Walt Disney HD
+http://str16.tv/3781/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Сказки HD
+http://str16.tv/3374/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Мультфильм HD
+http://str16.tv/7225/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM 007 HD
+http://str16.tv/1190/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Classic HD
+http://str16.tv/4789/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Flip UHD
+http://str16.tv/6182/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR 1941-1945 HD
+http://str16.tv/3599/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Детектив HD
+http://str16.tv/7483/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Драма HD
+http://str16.tv/3819/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Комедия HD
+http://str16.tv/1121/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Приключения HD
+http://str16.tv/9068/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Агата Кристи HD
+http://str16.tv/6906/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Криминал HD
+http://str16.tv/5220/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Крутые 90-е HD
+http://str16.tv/5495/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Кунг-Фу HD
+http://str16.tv/3715/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Мифология HD
+http://str16.tv/5157/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Нуар HD
+http://str16.tv/6491/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Погружение HD
+http://str16.tv/7686/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Полицейский с Рублёвки HD
+http://str16.tv/8573/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Приключения HD
+http://str16.tv/4596/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Роскино HD
+http://str16.tv/1488/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ситком 2.0 HD
+http://str16.tv/6880/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Скорость HD
+http://str16.tv/1581/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Спорт HD
+http://str16.tv/3451/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Стивен Кинг HD
+http://str16.tv/7848/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Супергерои HD
+http://str16.tv/1556/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Триллер HD
+http://str16.tv/4829/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужастик HD
+http://str16.tv/4708/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы HD
+http://str16.tv/5519/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы Classic HD
+http://str16.tv/6908/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Фантастика HD
+http://str16.tv/6901/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Relax HD
+http://str16.tv/4153/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Experiment HD
+http://str16.tv/4968/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Honey HD
+http://str16.tv/4629/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Lesson HD
+http://str16.tv/7616/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Live Planet HD
+http://str16.tv/4085/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM OldSchool HD
+http://str16.tv/9976/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Rock HD
+http://str16.tv/2952/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Smile HD
+http://str16.tv/3788/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM World Hits HD
+http://str16.tv/6813/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Квартирник HD
+http://str16.tv/4037/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Макромир HD
+http://str16.tv/4234/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Мегамир HD
+http://str16.tv/5908/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Микромир HD
+http://str16.tv/2131/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Открытия HD
+http://str16.tv/2202/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Ситком HD
+http://str16.tv/2511/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Premiere
+http://str16.tv/3078/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 1 HD
+http://str16.tv/7167/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 2 HD
+http://str16.tv/2938/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал Premiere 3 HD
+http://str16.tv/7597/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Мультсериал HD
+http://str16.tv/8590/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Kids
+http://str16.tv/8585/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Kids+
+http://str16.tv/6398/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Little
+http://str16.tv/7994/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Кинозал СССР
+http://str16.tv/9118/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Russia 90s
+http://str16.tv/2563/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU VHS
+http://str16.tv/3239/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Action HD
+http://str16.tv/7255/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Cosmo
+http://str16.tv/3559/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Catastrophe HD
+http://str16.tv/5577/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Charm
+http://str16.tv/1665/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Comedy HD
+http://str16.tv/2718/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Fantastic HD
+http://str16.tv/7834/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU FilMystic HD
+http://str16.tv/6071/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU History HD
+http://str16.tv/8129/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Reality
+http://str16.tv/2310/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Marvel HD
+http://str16.tv/1740/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Romantic HD
+http://str16.tv/4559/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Stars HD
+http://str16.tv/9944/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU RUSerial HD
+http://str16.tv/2420/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Russian
+http://str16.tv/4165/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Сваты HD
+http://str16.tv/2307/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Criminal HD
+http://str16.tv/3871/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Cinema HD
+http://str16.tv/1086/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Cinema+ HD
+http://str16.tv/6536/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Kinorating
+http://str16.tv/2071/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU Survival
+http://str16.tv/6035/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+#EXTINF:-1 group-title="Кинозалы BCU", BCU TruMotion
+http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
+
