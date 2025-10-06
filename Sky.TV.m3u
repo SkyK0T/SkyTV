@@ -16,9 +16,61 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
+#EXTINF:-1 group-title="Кино1ТВ", Первый канал
+https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
+#EXTINF:-1 group-title="Кино1ТВ", Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 
+#EXTINF:-1 group-title="Радио + Веб-камера",Авторадио
+https://river-3-345.rtbcdn.ru/stream/genetta-513.ost.rutube.ru/HTfdGwcaWXFz_mAl3XekVQ/1760330405/0054a8346fa6645eff79901062d77dee/1080p_stream.m3u8
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Макс FM Сочи
+http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Говорит Москва [RU] (Веб-камера)
+https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Радио + Веб-камера" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио России
+https://vgtrksmotrim.cdnvideo.ru/hls/RadioRFM/video.m3u8?md5=FTkKyyiYUxB9jaiIRhFJLA&e=1745384617&hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/tracks-v1a1/mono.m3u8?hls_proxy_host=111691cfa2b3e6ed7b2f3322ff53b6a8
+#EXTINF:-1 group-title="Радио + Веб-камера",Радио Хит ТВ Орск
+http://hithd.camsh.orsk.ru/hls/hit.m3u8
 
+
+#EXTINF:-1 group-title="Радио",Радио Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="Радио",Радио Культура
+https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+#EXTINF:-1 group-title="Радио",Радио Юность
+https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1 group-title="Радио",Радио Шансон
+https://chanson.hostingradio.ru:8041/chanson256.mp3
+
+#EXTINF:-1 group-title="Новости",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Тивиком HD +5
+https://stream.trafjam.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://i.imgur.com/D5M4Gjr.png",РБК
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Новости",TV BRICS HD (English)
+http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="0423" tvg-name="CMS Андрей Федорцов" tvg-logo="https://i.ibb.co/pBsLK7Zh/image.png" catchup="flussonic" catchup-days="3", CMS Андрей Федорцов
+http://cdn1.starcinemax.fun:2095/0423/index.m3u8
+
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",Dimonovich СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Dimonovich Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="🍿Кинозалы🍿", Kinojam 1
+https://stream.gia.tv/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="🍿Кинозалы🍿", Kinojam 1
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
+#EXTINF:-1 group-title="🍿Кинозалы🍿", Kinojam 1 HD
+http://31.130.16.62:4022/udp/239.1.12.15:1234
 
 
 
