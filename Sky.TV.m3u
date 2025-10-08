@@ -1735,7 +1735,7 @@ https://autopilot.catcast.tv/content/37925/index.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="http://img.catcast.tv/uploads/04092021/logos/40675-61335c6a27efa.jpg",VHS-Крутая Видеотека
 https://v2.catcast.tv/content/40675/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://i.pinimg.com/736x/8d/6e/cb/8d6ecb1e3db114663105374c7b93ea79.jpg",VHS TV ФИЛЬМЫ (6+)
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/11092020/avatars/13459-5f5baeccae760.png",VHS TV ФИЛЬМЫ (6+)
 https://v2.catcast.tv/content/41458/index.m3u8
 
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/04062022/banners/39005-629ba53ce1357.png",Киноклуб
@@ -2751,6 +2751,7 @@ http://str16.tv/6035/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 
 #EXTINF:-1 group-title="Кинозалы BCU", BCU TruMotion
 http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
 
 
 
