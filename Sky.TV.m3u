@@ -21,6 +21,25 @@ https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
 #EXTINF:-1 group-title="Кино1ТВ", Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +3
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +5
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +6
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +9
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+
 #EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="0423" tvg-name="CMS Андрей Федорцов" tvg-logo="https://i.ibb.co/pBsLK7Zh/image.png" catchup="flussonic" catchup-days="3", CMS Андрей Федорцов
 http://cdn1.starcinemax.fun:2095/0423/index.m3u8
 
@@ -1745,44 +1764,42 @@ http://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="https://catcast.tv/assets/no-logo.svg",TvikselTV Военное кино ссылки пока нет
 https://неработает
 
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png",IPTVPLAY Промо
-https://s.catcast.tv/content/39161/index.m3u8?token=7cab4e42a94a6e71d4f898b69587ac62
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38850-61045d8175ad6.png",IPTVPLAY МультСказки
-https://s.catcast.tv/content/38850/index.m3u8?token=6c93e874917f93b3fb1b2a19aff4eade
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38896-61045dae6ffff.png",IPTVPLAY Ужастик 
-https://s.catcast.tv/content/38896/index.m3u8?token=9478147e3637dc15dc7286e0aab29da1
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38821-61045e2aa14fb.png",IPTVPLAY Память (не работает)
-https://неработает
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38801-61045ebfe0919.png",IPTVPLAY Фантастика (не работает)
-https://неработает
-
-
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ - КИНОЭКШЕН" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
-https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ - КИНОСЕМЬЯ" tvg-logo="",Сити Эдем - КиноСемья
-https://v2.catcast.tv/content/38128/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ - КИНОДОК" tvg-logo="",Сити Эдем - КиноДок
-https://v2.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia", Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png", Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png", Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈",Сити Эдем - КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
-https://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
-https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ - КИНОКЛАССИКА" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ - КИНОМИСТИКА" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
-https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png", Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png", Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" tvg-id="cityedem-kinoklas", Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png", Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" tvg-id="cityedem-kinomist", Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png", Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" tvg-id="cityedem-kinoact", Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov", Сити Эдем - Теленовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ - ТЕЛЕНОВЕЛЛА",Сити Эдем - ТелеНовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем TV - на русском
-https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ ТВ - ХРИСТИАНСКИЙ" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем - Христианское радио
-https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем - Meditation Music (не идёт)
-https://v2.catcast.tv/content/47410/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="http://www.cityeden.info/logotv/logotip_siti_ehdem_tv_ru.png",Сити Эдем - Classic Music (не идёт)
-https://v2.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png", Сити Эдем - Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png", Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png", Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png", Сити Эдем - АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png", Сити Эдем - МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
 
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://img.catcast.tv/uploads/26012024/backgrounds/42935-65b3cb3640d77.jpg",4K Hits Кино и сериалы 24/7  (token) 4k_no VKPlay.live
 https://s.catcast.tv/content/42935/index.m3u8?token=80ca2c515a2e79175bbbbdb73610567d
@@ -2730,5 +2747,6 @@ http://str16.tv/6035/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 
 #EXTINF:-1 group-title="Кинозалы BCU", BCU TruMotion
 http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
 
 
