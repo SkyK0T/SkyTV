@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="http://epg.ru-tv.site/14.xml" x-tvg-url="http://epg.ru-tv.site/14-light.xml"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
+
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
+
 #EXTINF:0 CUID="1972" number="1" tvg-id="epg1:NO EPG RUTV" tvg-name="epg1:NO EPG RUTV" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Инфоканал.png" group-title="Информационные",ИНФОКАНАЛ
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiOGNiY2NjNDQiLCJwIjoiOGNiY2NjNDQ2OGY5ODY1YiIsImMiOiIxOTcyIiwidCI6ImQzNDIxMmM0OTY0M2RlNzVhY2YyMjdkMDQ4MzhkYWVjIiwiZCI6IjQyMjMxOCIsInIiOiI0MzQyODUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2L3J1dHYxL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 #EXTINF:0 CUID="1" number="2" tvg-id="epg1:Первый канал" tvg-name="epg1:Первый канал" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Первый канал1.png" group-title="Информационные",Первый канал
