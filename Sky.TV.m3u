@@ -2025,7 +2025,7 @@ https://v2.catcast.tv/content/47778/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="KBC+100500 (18+)" tvg-id="42052",KBC+100500 (18+)
 https://v2.catcast.tv/content/42052/index.m3u8
 
-#EXTINF:-1 group-title="👉Платформа plvideo.ru👈" tvg-logo="https://img.plvideo.ru/images/fp-2025-images/c/cover/62/45/6245b87b85b730e94280f496efa08116/original68d58799ddd146.56621843.jpg",ИНТЕРНЕТ канал ВИДЕОКАССЕТА 24/7
+#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",ВИДЕОКАССЕТА 24/7
 https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
 #EXTINF:-1 group-title="👉Платформа plvideo.ru👈",Соловьев Live
 https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
@@ -2033,7 +2033,7 @@ https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
 https://132544.edgevideo.ru/streams/132544_973517/1325441080/index.m3u8
 #EXTINF:-1 group-title="👉Платформа plvideo.ru👈",☆🎶🎵 Музыка 2025 Онлайн 24/7 🎵🎶☆
 https://132544.edgevideo.ru/streams/132544_916856/132544480/index.m3u8
-#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",Южный Парк: Большой, длинный, необрезанный . 1999 г. (США, Испания)
+#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",Южный Парк 1999 г. (США, Испания)
 https://132544.edgevideo.ru/streams/132544_1001627/1325441080/index.m3u8
 
 #EXTINF:-1 group-title="👉Платформа plvideo.ru👈",Modern Talking - Cheri Cheri Lady - 4K• UHD• 60fps (remaster).
@@ -2055,13 +2055,13 @@ https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/zE2SWKSdLXNrZs6kQWR/ZX
 #EXTINF:-1 group-title="👉Платформа plvideo.ru👈",Dj Kip - Love No Lies (NEW Eurodance Hit) Танцевальная электронная музыка
 https://vod.plvideo.ru/GMPb65uk/80DHbPf3sO/FP7MRNSOrd597lrLzoB/ZX
 
-#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",КАМИН 4К 🔥 со звуками огня для расслабления. Fireplace 4K ULTRA HD
+#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",КАМИН 4К со звуками огня для расслабления. Fireplace 4K ULTRA HD
 https://vod.plvideo.ru/JLxVTeJD/GOLIUUl6bq/zE2SWKSHIghpAMplYta/ZX
-#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",🔥 КАМИН 4К с синим пламенем! Fireplace 4K Ultra HD
+#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",КАМИН 4К с синим пламенем! Fireplace 4K Ultra HD
 https://vod.plvideo.ru/xdhKhqAx/KIxJeP4QQ0/zE2SWKS3H3HfruiqcJ6/ZX
-#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",Blue Fireplace 4K 🔥 Синий огонь в камине со звуками треска дров
+#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",Blue Fireplace 4K Синий огонь в камине со звуками треска дров
 https://vod.plvideo.ru/GMPb65uk/KIxJeP4QQ0/zE2SWKSYN4lNjO1fRHn/ZX
-#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",🔥 УЮТНЫЙ КАМИН 4K Ultra HD. Камин с фиолетовым огнем для Хэллоуина
+#EXTINF:-1 group-title="👉Платформа plvideo.ru👈",УЮТНЫЙ КАМИН 4K Ultra HD. Камин с фиолетовым огнем для Хэллоуина
 https://vod.plvideo.ru/FbZEopwh/GOLIUUl6bq/zE2SWKSaOSMv7hEUh6q/ZX
 #EXTINF:-1 group-title="👉Платформа plvideo.ru👈",ЛУЧШИЙ СБОРНИК ФОНК 2023 - АТМОСФЕРНЫЙ ФОНК | ATMOSPHERIC PHONK (LXST CXNTURY TYPE)
 https://vod.plvideo.ru/GMPb65uk/Hb10stIMfV/FP7MRNSK87kyQH-KxLw/ZX
@@ -3274,6 +3274,7 @@ http://ott.watch/stream/D17LBTRCERA/462.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
 #EXTGRP:Новостные
 http://ott.watch/stream/D17LBTRCERA/63.m3u8
+
 
 
 
