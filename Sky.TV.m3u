@@ -65,7 +65,24 @@ https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Смотрим 🇷🇺",TV Про
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
-
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-rec="7" timeshift="7",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-rec="7" timeshift="7",ТВ3
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-rec="7" timeshift="7",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-rec="7" timeshift="7",Звезда плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg" tvg-rec="7" timeshift="7",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-rec="7" timeshift="7",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="https://i.imgur.com/CrFWXTD.png" , tvg-rec="7" timeshift="7",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-rec="7" timeshift="7",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 group-title="Смотрим 🇷🇺",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="0423" tvg-name="CMS Андрей Федорцов" tvg-logo="https://i.ibb.co/pBsLK7Zh/image.png" catchup="flussonic" catchup-days="3", CMS Андрей Федорцов
 http://cdn1.starcinemax.fun:2095/0423/index.m3u8
@@ -2882,6 +2899,7 @@ http://ott.watch/stream/D17LBTRCERA/462.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
 #EXTGRP:Новостные
 http://ott.watch/stream/D17LBTRCERA/63.m3u8
+
 
 
 
