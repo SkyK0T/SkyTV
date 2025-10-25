@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 5.10.25👈💗😈
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Первый канал
+https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",Россия 24
@@ -16,10 +18,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино1ТВ", Первый канал
-https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
-#EXTINF:-1 group-title="Кино1ТВ", Первый Крымский
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+
 
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
@@ -40,6 +39,32 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Россия 1 +9
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим",НТВ
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="ВГТРК 🇷🇺☭ Смотрим", TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+
 #EXTINF:-1 group-title="🍿Кинозалы🍿" tvg-id="0423" tvg-name="CMS Андрей Федорцов" tvg-logo="https://i.ibb.co/pBsLK7Zh/image.png" catchup="flussonic" catchup-days="3", CMS Андрей Федорцов
 http://cdn1.starcinemax.fun:2095/0423/index.m3u8
 
@@ -53,8 +78,6 @@ https://stream.gia.tv/giatv/giatv-88882com/88882com/chunks.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 group-title="🍿Кинозалы🍿", Kinojam 1 HD
 http://31.130.16.62:4022/udp/239.1.12.15:1234
-
-
 
 
 #EXTINF:-1 group-title="💗🤗IPTVPlay🤗💗" tvg-name="IPTVPLAY ФАНТАСТИКА HD" tvg-id="IPTVPLAYFANTASTIKA.tv",IPTVPLAY Фантастика HD
@@ -2751,6 +2774,7 @@ http://str16.tv/6035/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 
 #EXTINF:-1 group-title="Кинозалы BCU", BCU TruMotion
 http://str16.tv/8885/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+
 
 
 
