@@ -3,66 +3,66 @@
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 25.10.25👈💗😈
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Первый канал
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Первый канал
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)",Россия 24
+#EXTINF:-1 group-title="Смотрим 🇷🇺",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-id="360News.ru",360° Новости
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-id="360News.ru",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-id="360.ru",360°
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-id="360.ru",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-id="Xizvestia" tvg-logo="http://ru.epg.one/img22/2271.png",Известия HD
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-id="Xizvestia" tvg-logo="http://ru.epg.one/img22/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)",Известия
+#EXTINF:-1 group-title="Смотрим 🇷🇺",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +1
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +2
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +2
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +3
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +3
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +4
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +4
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +5
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +5
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +6
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +6
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +7
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +7
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +8
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)", Россия 1 +9
+#EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +9
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)",НТВ
+#EXTINF:-1 group-title="Смотрим 🇷🇺",НТВ
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/2001.png",НТВ HD
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/1753.png",НТВ Право
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/1753.png",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/1754.png",НТВ Сериал
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/1754.png",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/1755.png",НТВ Стиль
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/1755.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/2041.png",НТВ Хит
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/2041.png",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/2036.png",НТВ +1
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/2036.png",НТВ +1
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/2036.png",НТВ +2
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/2036.png",НТВ +2
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/2964.png",НТВ +4
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/2964.png",НТВ +4
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)" tvg-logo="http://ru.epg.one/img2/3028.png",НТВ +7
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="http://ru.epg.one/img2/3028.png",НТВ +7
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)",Первый Крымский
+#EXTINF:-1 group-title="Смотрим 🇷🇺",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 group-title="Смотрим 🇷🇺 (ВГТРК)",TV Про
+#EXTINF:-1 group-title="Смотрим 🇷🇺",TV Про
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 
@@ -2026,142 +2026,9 @@ https://live.vkvideo.ru/gnumme
 
 
 
-
-
 #EXTINF:-1 ,Красная линия
 #EXTGRP:dmi3y-tv.ru
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Cineman
-http://195.158.222.115:8002/cineman
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Action
-http://195.158.222.115:8002/cineman_action
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Marvel
-http://195.158.222.115:8002/cineman_marvel
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Melodrama
-http://195.158.222.115:8002/cineman_melodrama
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan MiniSeries
-http://195.158.222.115:8002/cineman_miniseries
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Premium
-http://195.158.222.115:8002/cineman_premium
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Thriller
-http://195.158.222.115:8002/cineman_thriller
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Top
-http://195.158.222.115:8002/cineman_top
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan VHS
-http://195.158.222.115:8002/cineman_vhs
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan РуКино
-http://195.158.222.115:8002/cineman_rukino
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Лесник
-http://195.158.222.115:8002/cineman_lesnik
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Катастрофы
-http://195.158.222.115:8002/cineman_katastrofi
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Комедия
-http://195.158.222.115:8002/cineman_comedy
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Симпсоны
-http://195.158.222.115:8002/cineman_simpson
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Скорая помощь
-http://195.158.222.115:8002/cineman_skoraya_pomosh
-#EXTINF:-1 group-title="Cineman 195.158.222.115",CineMan Сваты
-http://195.158.222.115:8002/cineman_svaty
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Start World
-http://195.158.222.115:8002/start_world
-
-
-#EXTINF:-1 group-title="Cineman 195.158.222.115",История
-http://195.158.222.115:8000/play/102/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kineko",Кинеко
-http://195.158.222.115:8000/play/170/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Кино без границ
-http://195.158.222.115:8001/play/a087/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Кино без границ HD
-http://195.158.222.115:8001/play/a0au/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Киномикс
-http://195.158.222.115:8000/play/47/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",КиноМульт
-http://195.158.222.115:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Киносерия
-http://195.158.222.115:8000/play/43/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kinouzhas",Киноужас
-http://195.158.222.115:8001/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="kinosvidanie",Киносвидание
-http://195.158.222.115:8001/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Кто есть кто 
-http://195.158.222.115:8000/play/192/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Мир сериала HD
-http://195.158.222.115:8000/play/75/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="mir-seriala",Мир сериала
-http://195.158.222.115:8001/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Мульт 
-http://195.158.222.115:8000/play/122/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="muzhskoe-kino",Мужское кино
-http://195.158.222.115:8001/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Наше новое кино 
-http://195.158.222.115:8000/play/66/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="nashe-novoe-kino",Наше новое кино
-http://195.158.222.115:8001/play/a0bd/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Пятница!
-http://195.158.222.115:8000/play/16/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Уникум 
-http://195.158.222.115:8000/play/123/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",ЦТВ
-http://195.158.222.115:8001/play/a083/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",2x2
-http://195.158.222.115:8000/play/24/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",A2 
-http://195.158.222.115:8000/play/62/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Bollywood HD
-http://195.158.222.115:8000/play/169/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Cartoon Classics
-http://195.158.222.115:8001/play/a08g/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Hollywood HD 
-http://195.158.222.115:8000/play/166/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Kids TV 
-http://195.158.222.115:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Kinoliving
-http://195.158.222.115:8001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115" tvg-id="start-world" tvg-id="start-world",Start World
-http://195.158.222.115:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Star Cinema
-http://195.158.222.115:8000/play/a04q/index.m3u8 
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju TV1000 
-http://195.158.222.115:8001/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju TV1000 Action
-http://195.158.222.115:8000/play/36/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju+ Comedy HD
-http://195.158.222.115:8000/play/40/index.m3u8
-#EXTINF:-1 group-title="Cineman 195.158.222.115",Viju+ Megahit 
-http://195.158.222.115:8000/play/38/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2209,15 +2076,6 @@ http://ott.watch/stream/D17LBTRCERA/183.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Домашний HD
 #EXTGRP:Развлекательные
 http://ott.watch/stream/D17LBTRCERA/227.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Телекафе
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/314.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Інтер+ HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/345.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Новий канал HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/157.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ICTV 2 HD
 #EXTGRP:Развлекательные
 http://ott.watch/stream/D17LBTRCERA/368.m3u8
@@ -2230,9 +2088,6 @@ http://ott.watch/stream/D17LBTRCERA/173.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",FILMUADRAMA HD
 #EXTGRP:Развлекательные
 http://ott.watch/stream/D17LBTRCERA/273.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",UA: Культура HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/435.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",К1 HD
 #EXTGRP:Развлекательные
 http://ott.watch/stream/D17LBTRCERA/270.m3u8
@@ -2272,177 +2127,14 @@ http://ott.watch/stream/D17LBTRCERA/73.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Караван ТВ
 #EXTGRP:Развлекательные
 http://ott.watch/stream/D17LBTRCERA/190.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ПлюсПлюс HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/339.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Бiгудi
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/340.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Машина Часу HD
 #EXTGRP:Развлекательные
 http://ott.watch/stream/D17LBTRCERA/140.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Знаєм 24 HD
 #EXTGRP:Развлекательные
 http://ott.watch/stream/D17LBTRCERA/145.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Наталі ТВ
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/203.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Вікторина
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/146.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Невигадані Історії HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/159.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Про Київ HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/160.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",Ми - Україна HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/442.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ECO TV HD
-#EXTGRP:Развлекательные
-http://ott.watch/stream/D17LBTRCERA/222.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Армія TV HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/468.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Інтер HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/174.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ICTV HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/158.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/172.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 Україна HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/219.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К2 HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/324.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Київ HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/439.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Крим HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/436.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Перший HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/437.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Zoom HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/327.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Уніан HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/341.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 9 HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/20.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/293.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 12 HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/294.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/295.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Channel 14 HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/454.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Zoom (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/377.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",KAN23 (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/378.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",YES Movies Action HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/380.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",HOT Zone HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/379.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",HOT HBO HD (Израиль)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/381.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",7 канал (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/27.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",31 Канал (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/388.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Qazaqstan (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/71.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Астана ТВ (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/28.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",КТК (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/26.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",НТК (Казахстан)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/389.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Armenia 1 TV (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/38.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Armenia TV HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/175.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Shant HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/37.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ATV HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/36.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Kentron HD (Армения)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/39.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Armenia Premium 1 HD
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/123.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 Life HD (Латвия)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/373.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV 7 HD (Латвия)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/371.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LTV1 (Латвия)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/34.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LNK HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/30.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",BTV HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/35.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LRT HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/31.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",LRT Plius HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/353.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 8 HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/374.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV3 HD (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/29.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Balticum (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/376.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",TV 6 (Литва)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/375.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Молдова 1
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/336.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ONE TV (Молдова)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/335.m3u8
-#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Jurnal TV (Молдова)
-#EXTGRP:Национальные
-http://ott.watch/stream/D17LBTRCERA/277.m3u8
+
+
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery HD
 #EXTGRP:Познавательные
 http://ott.watch/stream/D17LBTRCERA/177.m3u8
@@ -3190,7 +2882,6 @@ http://ott.watch/stream/D17LBTRCERA/462.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
 #EXTGRP:Новостные
 http://ott.watch/stream/D17LBTRCERA/63.m3u8
-
 
 
 
