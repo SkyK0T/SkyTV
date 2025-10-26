@@ -2851,6 +2851,54 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 
 
 
+#EXTINF:-1 group-title="Sputnik24.tv",ТелеДом
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8?sig=1744666600_e5d7cf5daa696520453ca36a09dc40ef
+
+#EXTINF:-1 group-title="Казахтелеком",31 Канал
+http://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1 group-title="Казахтелеком",7 канал
+http://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1 group-title="Казахтелеком",A2
+http://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Amedia 2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Astana TV
+http://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Atameken Business TV
+http://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Khabar
+http://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Khabar24
+http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Ел Арна
+http://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1 group-title="Казахтелеком",КТК
+http://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Мир
+http://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title="Казахтелеком",Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya.m3u8
+
+
+#EXTINF:-1 group-title="185.57.68.33",Природа WORLD HD
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="185.57.68.33",Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="185.57.68.33",Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="185.57.68.33",Popznay
+http://185.57.68.33/237/mpegts
+
+
+#EXTINF:-1 group-title="Прочее",Bazuka - Jump
+https://video2.tizam.cc/files/2233863/v_sport_zal___eroticheskiy_muzykalnyy_klip.mp4
+
+
+
+
+
 
 #EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz"
 #EXTINF:-1 group-title="Развлекательные" tvg-rec="7" timeshift="7",ТВ3 HD
@@ -3701,6 +3749,7 @@ http://ott.watch/stream/D17LBTRCERA/462.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
 #EXTGRP:Новостные
 http://ott.watch/stream/D17LBTRCERA/63.m3u8
+
 
 
 
