@@ -2473,6 +2473,11 @@ http://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="" tvg-logo="https://catcast.tv/assets/no-logo.svg",TvikselTV Военное кино ссылки пока нет
 https://неработает
 
+
+#EXTINF:-1 group-title="🐈Catcast🐈",Сити Эдем - АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 group-title="🐈Catcast🐈",Сити Эдем - Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia", Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png", Сити Эдем - КиноАрт
@@ -2497,16 +2502,14 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov", Сити Эдем - Теленовелла
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-name="СИТИ ЭДЕМ - ТЕЛЕНОВЕЛЛА",Сити Эдем - ТелеНовелла
+#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov", Сити Эдем - Теленовелла
 https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png", Сити Эдем - Бирма Play
-https://cityeden.catcast.tv/content/34100/index.m3u8
+
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png", Сити Эдем - Классическая Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png", Сити Эдем - Сиртаки ТВ
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png", Сити Эдем - АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
+
 #EXTINF:-1 group-title="🐈Catcast🐈" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png", Сити Эдем - МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
 
@@ -3856,6 +3859,7 @@ http://ott.watch/stream/D17LBTRCERA/462.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
 #EXTGRP:Новостные
 http://ott.watch/stream/D17LBTRCERA/63.m3u8
+
 
 
 
