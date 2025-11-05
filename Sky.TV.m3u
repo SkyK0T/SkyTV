@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg2.xml.gz,http://1lot.tv/epg/epg.xml,http://epg.streaming-elbrus.su/xmltv/epg.xml.gz" refresh="3600"
 
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 25.10.25👈💗😈
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 5.11.25👈💗😈
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:-1 group-title="Смотрим 🇷🇺",Первый канал
@@ -3004,8 +3004,10 @@ http://185.57.68.33/237/mpegts
 
 #EXTINF:-1 group-title="Прочее",Bazuka - Jump
 https://video2.tizam.cc/files/2233863/v_sport_zal___eroticheskiy_muzykalnyy_klip.mp4
-
-
+#EXTINF:-1 group-title="🦊FanFilm4K🦊 (тест источника)" tvg-logo="https://v4.fanfilm4k.media/uploads/posts/2025-07/ff34f343-min.jpg",Меган 2.0
+https://913-f8a-406gv.stream-balancer-allo-1.live/M2/0/1/1762376153/SDnPkt8_sJIijVQh-rawjA/4/2160/3/1104349/index-f1-v1.m3u8
+#EXTINF:-1 group-title="🦊FanFilm4K🦊 (тест источника) "tvg-logo="https://v4.fanfilm4k.media/uploads/posts/2023-12/610x900_62336.jpg",Меган
+https://921-5da-101gv.stream-balancer-allo-1.live/M2/61/1/1762376535/4c_uXYSOnUIIl_TmfxYWIA/5/2160/1/925380/index-f1-v1.m3u8
 
 
 
@@ -3859,10 +3861,6 @@ http://ott.watch/stream/D17LBTRCERA/462.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
 #EXTGRP:Новостные
 http://ott.watch/stream/D17LBTRCERA/63.m3u8
-
-
-
-
 
 
 
