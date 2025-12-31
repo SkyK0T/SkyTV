@@ -533,7 +533,7 @@ http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
 #EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Mix HD
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
 
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Asia
+#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸 tvg-logo="https://raw.githubusercontent.com/SkyK0T/SkyTV/refs/heads/main/skykotik.gif",Clarity4K Asia
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6nnBpBDCvrcw2Wti3VqPhA/m3u8
 #EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Gamefilm
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9ilh616q4OXW1P_wmg5R_c/m3u8
@@ -3872,6 +3872,7 @@ https://online.vse-tv.net/ussr/tracks-v1/index.fmp4.m3u8?token=F3szRlhxCxRmMVM0T
 
 #EXTINF:-1 group-title="online.vse-tv.net",Сделано в СССР
 https://online.vse-tv.net/ussr/tracks-v1/index.fmp4.m3u8
+
 
 
 
