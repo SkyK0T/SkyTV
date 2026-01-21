@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg2.xml.gz,http://1lot.tv/epg/epg.xml,http://epg.streaming-elbrus.su/xmltv/epg.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="http://ru.epg.one/epg2.xml.gz","http://ru.epg.one/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 5.11.25👈💗😈
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 22.1.26👈💗😈
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
-#EXTINF:-1 group-title="Смотрим 🇷🇺",Первый канал
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="https://raw.githubusercontent.com/SkyK0T/SkyTV/refs/heads/main/Picons/JabikProncess.png",Первый канал
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
 #EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -16517,6 +16517,7 @@ http://r1.cdntv.online/low/47eurvkpm6/2208.m3u8
 #EXTINF:0 tvg-id="2209" tvg-logo="http://epg.cdntv.online/img/2209.png" group-title="Латвия", Radio SWH TV
 #EXTGRP:🏰VvivamaxPro🏰Латвия
 http://r1.cdntv.online/low/47eurvkpm6/2209.m3u8
+
 
 
 
