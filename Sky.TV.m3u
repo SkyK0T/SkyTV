@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg2.xml.gz,http://1lot.tv/epg/epg.xml,http://epg.streaming-elbrus.su/xmltv/epg.xml.gz" refresh="3600"
 #EXTM3U x-tvg-url="http://ru.epg.one/epg2.xml.gz","http://ru.epg.one/epg2.xml.gz"
-#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈💗👉Обновлено 22.1.26👈💗😈
+#EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈🧸💗👉Обновлено 22.1.26👈💗🧸😈
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
 #EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="https://raw.githubusercontent.com/SkyK0T/SkyTV/refs/heads/main/Picons/JabikProncess.png",Первый канал
@@ -434,180 +434,7 @@ http://5.188.158.65:4040/match_strana/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="💗🤗IPTVPlay🤗💗" tvg-name="Trace Sport" tvg-id="TraceSport",Trace Sport
 http://5.188.158.65:4040/TraceSport/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/SJ5rBP0/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="3",BCU Action HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4eLzH741Ep10bM9e3rrOlE/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/cDJy91y/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="3",BCU Catastrophe HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9f6SWiFw8PNZk4id7RFgc0/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/6tHkSvX/BCU-Charm-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucharmhd.png" channelId="-1" tvg-id="bcu-charm",BCU Charm HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-JFmQWO4ln-WckFd8N6rHI/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/vhyvSQT/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="3" tvg-country="1",BCU Cinema HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4I4rb8HB6HRT1m2r704nAw/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/GdM3CWh/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="3",BCU Cinema+ HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3ep5istILlJoTAz8cyQG0U/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/qyLPdC2/c694a4d34b380968a5473da5c73cf6d8.jpg" logo="http://epg.openboxfan.com/picon/bcucomedyhd.png" channelId="-1" tvg-id="bcu-comedy" shift="3",BCU Comedy HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwrX1vZH9mpCzdyKcCunfNk/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/Lz5TnWN/BCU-Cosmo-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bcucosmohd.png" channelId="-1" tvg-id="bcu-cosmo",BCU Cosmo HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv48nbqzix0io8M6uabX7_v8/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/MD2hLs7/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="https://bcumedia.pro/storage/images/channels/7b5c12c8d.png" channelId="-1" tvg-id="bcu-criminal" shift="3",BCU Criminal HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5SksEGtd7d3nuu2927oA-g/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/hdQF3jZ/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="3",BCU Fantastic HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9yDIvAPIZngXrZU-0F_-8U/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/FkvcVmR/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="bcu-history" shift="3" tvg-country="1",BCU History HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0HXetcxnD1ns5KIFtC2rOQ/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/Q9x8HT0/bd24a344d18bc01cd339db36de9832b6.jpg" logo="http://epg.openboxfan.com/picon/bcukidshd.png" channelId="-1" tvg-id="bcu-kids" shift="3",BCU Kids HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwKeLvglHIE9szxGKxKsPkM/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/7pHCcmP/bd514397638110cb6833202f4af115bb.jpg" logo="http://epg.openboxfan.com/picon/bcukidsplushd.png" channelId="-1" tvg-id="bcu-kids-plus" shift="3",BCU Kids+ HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5vdPZncqE0CWdh9OPaENog/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/1f790Y8/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="3" tvg-country="1",BCU Kinorating HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv__ZwaT4B7QdWMBkb5kWJNg/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/thP8YX8/BCU-Little-HD-220x220.png" logo="https://epg.openboxfan.com/picon/bculittlehd.png" channelId="-1" tvg-id="bcu-little",BCU Little HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2xdypzM8wFnIQl73Odc4iY/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/d6Mb3d1/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-id="bcu-marvel" shift="3",BCU Marvel HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzZezz2CrQYl8Z_Xa37sO8k/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",BCU Media HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyerBpVTXuRwaTpz1Q0lAEI/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",BCU Premiere Ultra 4K
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxc3Zv7vg7VT_3AmRBZD8p8/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="https://bcumedia.pro/storage/images/channels/74f157dbaa1e37a122a0daafc21f4c02.png?d=1677781572" channelId="-1" tvg-name="BCU Кинозал Premiere 1 HD" tvg-id="bcu-kinozal-prem-1" shift="3" tvg-country="2",BCU Premiere 1 HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxneYdsHqR6D2yQR55Hqido/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="https://bcumedia.pro/storage/images/channels/79ce343127a0c46892da934f9c9df88f.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="3" tvg-country="2",BCU Premiere 2 HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyvLqSptfc1SKx-z1dV8ZbI/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="https://bcumedia.pro/storage/images/channels/9d614e0fac0591b4d8248664aa5efbae.png" channelId="-1" tvg-name="BCU Кинозал Premiere 3 HD" tvg-id="bcu-kinozal-prem-3" shift="3" tvg-country="2",BCU Premiere 3 HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyB3p-UUaNgn4QKM3cNGArQ/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/3CTBdkg/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="3",BCU Premiere HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-IbT0YqD94K8roB7swxNvI/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/s5MJmqB/9500c3bceee76d081884b3a253d98ee2.jpg" logo="http://epg.openboxfan.com/picon/bcuruserialhd.png" channelId="-1" shift="3",BCU RUSerial HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv8WUwxJpt9iPp8oa4id9ykA/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.postimg.cc/zGDd5fFq/3635ec37e32d8ae0312734db03baeea4.png" logo="https://epgx.site/p/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="3" tvg-country="1",BCU Reality HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvz_T7-fuqyrZoj4BDiDMayg/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/z6xcykc/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="3" tvg-country="1",BCU Romantic HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv8gND1fvbAVKVj_5gBWsjzE/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/Z2ZprLz/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="3",BCU Russian HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6i6bewaKtNcxXjUkKEU31I/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/7v5Z4RR/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="3",BCU Stars HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv8FJ3fIo0L9Tnm2AALJkBcQ/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/ZMNyXL7/BCU-Tru-Motion-HD-220x220.png" logo="https://i.ibb.co/nbRM8kw/BCU-Tru-Motion-HD-220x132-tr.png" channelId="-1" tvg-id="bcu-trumotion",BCU TruMotion HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4xqWDWCCyLn2qp38HJ0cwY/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/HBGQ8Zs/d4adcf0dd49dd9b25331e689a92c932c.jpg" logo="http://epg.openboxfan.com/picon/bcuultra4k.png" channelId="-1" tvg-id="bcu-ultra4k" shift="3",BCU Ultra 4K
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_rw3dU4YBMISQwdwuZK9nA/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/tYgcpH8/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="3",BCU VHS HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6oyEnkSHfCOe9d2ntzE5bE/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/ZG726FN/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-id="bcu-multserial" shift="3",BCU Мультсериал HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7JTnkmkdMT99PwNcZ5RVwE/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/rMdqGTk/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="845" shift="3" tvg-country="1",BCU СССР HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2lEkhxN6MKHmepnlKJwNyw/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/y4gDG3q/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="3",BCU Сваты HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-jMlYJyz_AfhkVNRyYSe20/m3u8
 
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="http://epg.one/img/5166.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20HD.png" channelId="-1" tvg-id="mm-skorost",MM Скорость HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4QZFqoSHwsiXQK62f-XB84/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/Ny9spWT/Paradise-HD-249x250.png" logo="http://epg.openboxfan.com/picon/paradisehd.png" channelId="-1" shift="3",Paradise HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1ymZnvpdA7VVeBxPbKNLXM/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/RSTRWgK/Paradox-HD-249x250.png" logo="http://epg.openboxfan.com/picon/paradoxhd.png" channelId="-1" tvg-id="1231" shift="3",Paradox HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0mGTLZyQSBtfDUezq77YFc/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/5YnTH7b/Premiere-HD-249x250.png" logo="https://i.ibb.co/hKXRbQH/Premiere-HD-978x586-tr.png" channelId="-1" shift="3",Premiere HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3hp8mt7jGjo2mZDYp8o-aw/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/CwfHqQk/Premium-HD-249x250.png" logo="https://i.ibb.co/mcrwgvd/Premium-HD-220x132-tr.png" channelId="-1" tvg-id="1247" shift="3",Premium HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxGlyIqJpKzz60JdDaXkvfY/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/VtVJy7k/Thriller-HD-249x250.png" logo="https://i.ibb.co/tQZyBsV/Thriller-HD-220x132-tr.png" channelId="-1" shift="3",Thriller HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv69RTspOGaN2X9tv9oBUIwo/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/CvXLS5M/USSR-249x250.png" logo="http://overlay.iptvin.online/epg/PIC/USSR.png" channelId="-1" shift="3",USSR HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyINZ1goWbX7bHaFmofDHME/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸" tvg-logo="https://i.ibb.co/TWDpTJg/Ru-Kino-HD-249x250.png" logo="http://epg.openboxfan.com/picon/рукиноhd.png" channelId="-1" tvg-id="1246" shift="3",РуКино HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4v6E3GAxRPzSZFpK7g6XRU/m3u8
-
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Action HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Cartoon HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Comedy HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Drama HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Fresh HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Investigation
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Jackie Chan HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",CPS Mix HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
-
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸 tvg-logo="https://raw.githubusercontent.com/SkyK0T/SkyTV/refs/heads/main/skykotik.gif",Clarity4K Asia
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6nnBpBDCvrcw2Wti3VqPhA/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Gamefilm
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9ilh616q4OXW1P_wmg5R_c/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Netflix
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9K80Kj9919zeURQC1ls5-Q/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Боевик
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwlgYR9qr1eyz4PjODcA3ZI/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Драмы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3cw3AYcpykIevuuHuTNLHo/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K КиноФраншизы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwTy_xynfL02EvcZe17vsIM/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Комедия
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4WajS2b09aCFvYL5e94y5Q/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Русские сериалы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1FuqOHg8H8BrXSp5tXXeds/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Семейный
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2rbJdyAm9SQytYhL4-XGdI/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Ужасы VHS (siries)
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1vcMzfvQsg3qIv2w4TyFSI/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Фантастика
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv49INV_Q3fmz3vc6KLVMLiY/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Clarity4K Фэнтези
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvykLh0twtzi_g6SbofMifbQ/m3u8
-
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Adventure
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwWIMtUbVX8RxgY_MRQg9qM/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Cinema
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvy9MyfYATgJBs50Rq_G1sEw/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Comedy
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_kbl9USUymUabnMB_DNsFU/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Family
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxYpW0tmQCgZId9S5AvVHXg/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Fantastic
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1L_DM9rYYp8RVH3K99Boso/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Horror
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5_ir7QUYOohVqI8RxutCCs/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Kids
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1uviDICO0U0QqeiF2Tw5II/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Premiere
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9fTHx6usythMQMP9rSvVhQ/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Rating
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9XZDJsWiO9NBhY-o9jDMBM/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Romantic
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4AmmWlfbJ12WZMTkoCLIFw/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Russian
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4i_UMevRTmdTutADtGVFu8/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Series
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv550oirWaYBXG8G6zL_8IR4/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Soviet
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2y6gWxSU1Sy_MlHGiaYpTE/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh Thriller
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvya6fzR2BgJ4U4NYkUQffHs/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Fresh VHS
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-GE-VuaB5lB-DiIWRjgNFk/m3u8
-
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",IPTVPlay Ведьмак HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3F-Q_PTmZVmp3vq8tnL9jQ/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",IPTVPlay Великая Отечественная HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1oSoYiDdFV7V52_6UyzNiQ/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",IPTVPlay Интерны
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1pPDj1nUkwwvBX3q9jnnMs/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",IPTVPlay Мультсказки HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6g1x969E10nKP-tiqxPdJQ/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",IPTVPlay Память HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv808kjmqoH7ZgsfHtdlJxog/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",IPTVPlay Ужастик HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv00bneXjPKOEur-OTTYsPIs/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",IPTVPlay Фантастика HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0DWZhmYKJR1ZSb2Hr3grFI/m3u8
-
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Red Junior HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4tu455tteF5_iNwz3nsmw0/m3u8
-#EXTINF:-1 group-title="👉 Кинозалы 👈 BCU🧸Clarity4k🧸CPS🧸MM🧸Fresh🧸IPTVPlay🧸",Red Premium HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1x7izL_mYwaKrbZXM7bYu4/m3u8
 
 #EXTINF:-1 group-title="Триколор ТВ 🇷🇺 (токен OnlineTV Сочи)",Первый HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
@@ -16517,6 +16344,7 @@ http://r1.cdntv.online/low/47eurvkpm6/2208.m3u8
 #EXTINF:0 tvg-id="2209" tvg-logo="http://epg.cdntv.online/img/2209.png" group-title="Латвия", Radio SWH TV
 #EXTGRP:🏰VvivamaxPro🏰Латвия
 http://r1.cdntv.online/low/47eurvkpm6/2209.m3u8
+
 
 
 
