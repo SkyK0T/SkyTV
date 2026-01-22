@@ -12,9 +12,10 @@
 #EXTINF:-1 tvg-logo="https://github.com/SkyK0T/SkyTV/blob/main/skykotik.gif?raw=true",😈🧸💗👉Обновлено 22.1.26👈💗🧸😈
 https://github.com/SkyK0T/SkyTV/raw/refs/heads/main/CatofDuty.mp4
 
+
 #EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="https://raw.githubusercontent.com/SkyK0T/SkyTV/refs/heads/main/Picons/JabikProncess.png",Первый канал
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1749846233
-#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-id="Xrossia1" tvg-logo="https://media1.tenor.com/m/oBAa2WiR1QoAAAAd/%D0%BF%D0%B5%D0%BF%D0%B5-%D0%BF%D0%B5%D0%BF%D0%B5%D1%81%D1%84%D0%BB%D0%B0%D0%B3%D0%BE%D0%BC.gif",Россия 1 HD
+#EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-id="Xrossia1" tvg-logo="https://raw.githubusercontent.com/SkyK0T/SkyTV/refs/heads/main/Picons/Rossia1.v.1.jpg",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Смотрим 🇷🇺" tvg-logo="https://tenor.com/ru/view/пепе-пепесфлагом-россия-gif-27674291",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
@@ -16353,6 +16354,7 @@ http://r1.cdntv.online/low/47eurvkpm6/2208.m3u8
 #EXTINF:0 tvg-id="2209" tvg-logo="http://epg.cdntv.online/img/2209.png" group-title="VivaMaxPro Латвия", Radio SWH TV
 #EXTGRP:VivaMaxPro Латвия
 http://r1.cdntv.online/low/47eurvkpm6/2209.m3u8
+
 
 
 
