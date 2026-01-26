@@ -1,16 +1,22 @@
 ![](https://media.tenor.com/smcv7ZXHBGMAAAAm/live-news.webp)
 > ### 🆕 Обновлено 26/1/2026😼💥
+Мною лично составленные полные списки с сайтов
+> ### 👉ИзбаТВ👈,а именно сайт😈👉https://ushba.tv👈😈
 ```PY 
-По моим наблюдениям автор IPTVSHARED обновляет этот репизиторий - 
-https://github.com/IPTVSHARED/VeronaTV
-
-😈😈😈
-Это не реклама, информация для тех, кто сюда попал по каким то причинам, чтоб скачать плейлист
- ```
-Ссылка на плейлист😈😈😈
-```PY 
-https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
+http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/UzbaTVFull.m3u8
 ```
+> ### Отечественная и зарубежная мультипликация,а именно сайт😈👉https://mults.info👈😈
+```PY 
+http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/Mults.info.m3u8
+```
+> ### Моя фильмотека + сайт 😈👉https://kinoteatr.kg👈😈 — Лучшее из мирового кино в FULL HD и 60fps
+Сайт неполный я не обновлял полгода точно, там хорошее качество, более того скажу там все ссылки правильные, но есть битые, так как работают рандомно, то добавляют, то удаляют Сегодня фильм работает, завтра нет и т.д., похоже на чью-то медиабиблиотеку, мб от какого-то сервиса.
+```PY 
+http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/Sky.Mediateka.m3u8
+```
+
+
+
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 <br>
