@@ -4,7 +4,7 @@
 https://github.com/IPTVSHARED/VeronaTV
 😈😈😈
 Ссылка на плейлист
-https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
+```PYhttps://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u ```
 😈😈😈
 Это не реклама, информация для тех, кто сюда попал по каким то причинам, чтоб скачать плейлист
  ```
