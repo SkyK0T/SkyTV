@@ -1,19 +1,24 @@
+![](https://media.tenor.com/smcv7ZXHBGMAAAAm/live-news.webp)
 > ### 🆕 Обновлено 26/1/2026😼💥
 ```PY 
 По моим наблюдениям автор IPTVSHARED обновляет этот репизиторий - 
 https://github.com/IPTVSHARED/VeronaTV
-😈😈😈
-Ссылка на плейлист
-```PYhttps://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u ```
+
 😈😈😈
 Это не реклама, информация для тех, кто сюда попал по каким то причинам, чтоб скачать плейлист
  ```
-
+Ссылка на плейлист😈😈😈
+```PY 
+https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
+```
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 <br>
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRwZzF3OTR6dmZrczNzeDNlMjB5aHIyYW9mZGMwZmFpb2plaWR2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKLL2g1Nsh5Ab5QmtH/giphy.gif)
 <br>
+
+
+![](https://i.pinimg.com/736x/e7/18/c6/e718c687518cd30da6814d59e476d329.jpg)
 
 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 🎬🔥IPTV🍿☭🇷🇺
