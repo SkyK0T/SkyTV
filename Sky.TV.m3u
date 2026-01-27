@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg2.xml.gz","http://epg.cdntv.online/full.xml.gz".
-#EXT-X-ALLOW-CACHE:NO
 # https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png
 # "http://epg.streaming-elbrus.su/xmltv/epg.xml.gz",
 # "http://1lot.tv/epg/epg.xml",
@@ -16351,6 +16350,7 @@ http://r1.cdntv.online/low/47eurvkpm6/2208.m3u8
 #EXTINF:0 tvg-id="2209" tvg-logo="http://epg.cdntv.online/img/2209.png" group-title="VivaMaxPro Латвия", Radio SWH TV
 #EXTGRP:VivaMaxPro Латвия
 http://r1.cdntv.online/low/47eurvkpm6/2209.m3u8
+
 
 
 
