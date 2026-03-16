@@ -1,7 +1,7 @@
 ![](https://media.tenor.com/smcv7ZXHBGMAAAAm/live-news.webp)
 > ### 🆕 Обновлено 26/1/2026😼💥
 Мною лично составленные полные списки с сайтов, которые живут годами
-> ### 👉ИзбаТВ👈,а именно сайт🦊👉https://ushba.tv👈🦊
+> ### 👉ИзбаТВ👈,а именно сайт🦊👉[https://ushba.tv](https://ushba.tv/)👈🦊
 ```PY 
 http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/UzbaTVFull.m3u8
 ```
