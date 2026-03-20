@@ -9,7 +9,7 @@ http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/UzbaTVFull.m3u8
 ```PY 
 http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/Mults.info.m3u8
 ```
-> ### 🍿Моя Фильмотека🍿 + сайт с фильмами💥😼👉 [[https://kinoteatr.kg](https://kinoteatr.kg) 😼💥👈😼💥 — Лучшее из мирового кино в FULL HD и 60fps
+> ### 🍿Моя Фильмотека🍿 + сайт с фильмами💥😼👉 [https://kinoteatr.kg](https://kinoteatr.kg) 😼💥👈😼💥 — Лучшее из мирового кино в FULL HD и 60fps
 👉Сайт неполный я давно не обновлял полгода точно, там хорошее качество, все ссылки на источники верные, но есть ньюанс, работают рандомно, сегодня фильм работает, завтра нет и в т.п., похоже на чью-то медиабиблиотеку, мб от какого-то сервиса, во многих лейлистах, эти потоки мелькают, надоело выдирать из каждого стороннего плейлиста потоки, вот я и решил составить полный список 👈😈 <br>
 ```PY 
 http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/Sky.Mediateka.m3u8
