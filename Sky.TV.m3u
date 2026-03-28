@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg2.xml.gz","http://epg.cdntv.online/full.xml.gz".
 # https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png
 # "http://epg.streaming-elbrus.su/xmltv/epg.xml.gz",
@@ -28,7 +27,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/trac
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Смотрим 🇷🇺",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="Смотрим 🇷🇺", Россия 1 +1
@@ -2318,3 +2316,854 @@ http://185.57.68.33/40/mpegts
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="185.57.68.33",Popznay
 http://185.57.68.33/237/mpegts
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.1:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МАТЧ!
+http://109.127.185.118:81/udp/225.77.225.3:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-1
+http://109.127.185.118:81/udp/225.77.225.2:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-К
+http://109.127.185.118:81/udp/225.77.225.6:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ПЯТЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.5:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", НТВ
+http://109.127.185.118:81/udp/225.77.225.4:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-24
+http://109.127.185.118:81/udp/225.77.225.7:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ОТР
+http://109.127.185.118:81/udp/225.77.225.9:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", КАРУСЕЛЬ
+http://109.127.185.118:81/udp/225.77.225.8:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ Центр
+http://109.127.185.118:81/udp/225.77.225.10:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РЕН ТВ
+http://109.127.185.118:81/udp/225.77.225.11:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Спас
+http://109.127.185.118:81/udp/225.77.225.12:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", СТС
+http://109.127.185.118:81/udp/225.77.225.13:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Домашний
+http://109.127.185.118:81/udp/225.77.225.14:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ3
+http://109.127.185.118:81/udp/225.77.225.15:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Пятница
+http://109.127.185.118:81/udp/225.77.225.16:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МИР
+http://109.127.185.118:81/udp/225.77.225.18:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Звезда
+http://109.127.185.118:81/udp/225.77.225.17:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТНТ
+http://109.127.185.118:81/udp/225.77.225.19:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МУЗ ТВ
+http://109.127.185.118:81/udp/225.77.225.20:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.21:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-1
+http://109.127.185.118:81/udp/225.77.225.22:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МАТЧ!
+http://109.127.185.118:81/udp/225.77.225.23:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", НТВ
+http://109.127.185.118:81/udp/225.77.225.24:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ПЯТЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.25:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-К
+http://109.127.185.118:81/udp/225.77.225.26:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-24
+http://109.127.185.118:81/udp/225.77.225.27:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", КАРУСЕЛЬ
+http://109.127.185.118:81/udp/225.77.225.28:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ОТР
+http://109.127.185.118:81/udp/225.77.225.29:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ Центр
+http://109.127.185.118:81/udp/225.77.225.30:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РЕН ТВ
+http://109.127.185.118:81/udp/225.77.225.31:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", СТС
+http://109.127.185.118:81/udp/225.77.225.33:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Спас
+http://109.127.185.118:81/udp/225.77.225.32:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Домашний
+http://109.127.185.118:81/udp/225.77.225.34:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Пятница
+http://109.127.185.118:81/udp/225.77.225.36:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ3
+http://109.127.185.118:81/udp/225.77.225.35:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Звезда
+http://109.127.185.118:81/udp/225.77.225.37:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МИР
+http://109.127.185.118:81/udp/225.77.225.38:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТНТ
+http://109.127.185.118:81/udp/225.77.225.39:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МУЗ ТВ
+http://109.127.185.118:81/udp/225.77.225.40:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.41:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-1
+http://109.127.185.118:81/udp/225.77.225.42:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МАТЧ!
+http://109.127.185.118:81/udp/225.77.225.43:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", НТВ
+http://109.127.185.118:81/udp/225.77.225.44:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ПЯТЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.45:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-К
+http://109.127.185.118:81/udp/225.77.225.46:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", КАРУСЕЛЬ
+http://109.127.185.118:81/udp/225.77.225.48:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-24
+http://109.127.185.118:81/udp/225.77.225.47:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ОТР
+http://109.127.185.118:81/udp/225.77.225.49:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РЕН ТВ
+http://109.127.185.118:81/udp/225.77.225.51:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ Центр
+http://109.127.185.118:81/udp/225.77.225.50:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Спас
+http://109.127.185.118:81/udp/225.77.225.52:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", СТС
+http://109.127.185.118:81/udp/225.77.225.53:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Домашний
+http://109.127.185.118:81/udp/225.77.225.54:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ3
+http://109.127.185.118:81/udp/225.77.225.55:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Пятница
+http://109.127.185.118:81/udp/225.77.225.56:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Звезда
+http://109.127.185.118:81/udp/225.77.225.57:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МИР
+http://109.127.185.118:81/udp/225.77.225.58:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТНТ
+http://109.127.185.118:81/udp/225.77.225.59:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МУЗ ТВ
+http://109.127.185.118:81/udp/225.77.225.60:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.61:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-1
+http://109.127.185.118:81/udp/225.77.225.62:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МАТЧ!
+http://109.127.185.118:81/udp/225.77.225.63:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", НТВ
+http://109.127.185.118:81/udp/225.77.225.64:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ПЯТЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.65:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-К
+http://109.127.185.118:81/udp/225.77.225.66:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-24
+http://109.127.185.118:81/udp/225.77.225.67:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", КАРУСЕЛЬ
+http://109.127.185.118:81/udp/225.77.225.68:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ОТР
+http://109.127.185.118:81/udp/225.77.225.69:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ Центр
+http://109.127.185.118:81/udp/225.77.225.70:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РЕН ТВ
+http://109.127.185.118:81/udp/225.77.225.71:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Спас
+http://109.127.185.118:81/udp/225.77.225.72:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", СТС
+http://109.127.185.118:81/udp/225.77.225.73:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Домашний
+http://109.127.185.118:81/udp/225.77.225.74:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ3
+http://109.127.185.118:81/udp/225.77.225.75:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Пятница
+http://109.127.185.118:81/udp/225.77.225.76:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Звезда
+http://109.127.185.118:81/udp/225.77.225.77:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МИР
+http://109.127.185.118:81/udp/225.77.225.78:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТНТ
+http://109.127.185.118:81/udp/225.77.225.79:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МУЗ ТВ
+http://109.127.185.118:81/udp/225.77.225.80:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.81:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-1
+http://109.127.185.118:81/udp/225.77.225.82:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МАТЧ!
+http://109.127.185.118:81/udp/225.77.225.83:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", НТВ
+http://109.127.185.118:81/udp/225.77.225.84:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ПЯТЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.85:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-К
+http://109.127.185.118:81/udp/225.77.225.86:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-24
+http://109.127.185.118:81/udp/225.77.225.87:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", КАРУСЕЛЬ
+http://109.127.185.118:81/udp/225.77.225.88:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ОТР
+http://109.127.185.118:81/udp/225.77.225.89:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ Центр
+http://109.127.185.118:81/udp/225.77.225.90:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.91:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ОТР
+http://109.127.185.118:81/udp/225.77.225.99:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.101:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-1
+http://109.127.185.118:81/udp/225.77.225.102:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МАТЧ!
+http://109.127.185.118:81/udp/225.77.225.103:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", НТВ
+http://109.127.185.118:81/udp/225.77.225.104:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ПЯТЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.105:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-К
+http://109.127.185.118:81/udp/225.77.225.106:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РОССИЯ-24
+http://109.127.185.118:81/udp/225.77.225.107:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", КАРУСЕЛЬ
+http://109.127.185.118:81/udp/225.77.225.108:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ОТР
+http://109.127.185.118:81/udp/225.77.225.109:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ Центр
+http://109.127.185.118:81/udp/225.77.225.110:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", РЕН ТВ
+http://109.127.185.118:81/udp/225.77.225.111:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Спас
+http://109.127.185.118:81/udp/225.77.225.112:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", СТС
+http://109.127.185.118:81/udp/225.77.225.113:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Домашний
+http://109.127.185.118:81/udp/225.77.225.114:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТВ3
+http://109.127.185.118:81/udp/225.77.225.115:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Пятница
+http://109.127.185.118:81/udp/225.77.225.116:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", Звезда
+http://109.127.185.118:81/udp/225.77.225.117:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МИР
+http://109.127.185.118:81/udp/225.77.225.118:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", ТНТ
+http://109.127.185.118:81/udp/225.77.225.119:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺", МУЗ ТВ
+http://109.127.185.118:81/udp/225.77.225.120:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕРВЫЙ КАНАЛ
+http://109.127.185.118:81/udp/225.77.225.121:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",СТС Love
+http://109.127.185.118:81/udp/225.33.23.20:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",LEOMAX24
+http://109.127.185.118:81/udp/225.33.23.54:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Че! +0
+http://109.127.185.118:81/udp/225.33.23.101:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Радио Sputnik HD
+http://109.127.185.118:81/udp/225.33.23.120:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Девяностые HD
+http://109.127.185.118:81/udp/225.33.23.124:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Нулевые HD
+http://109.127.185.118:81/udp/225.33.23.125:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Музыка для детей HD
+http://109.127.185.118:81/udp/225.33.23.126:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Русская популярная музыка HD
+http://109.127.185.118:81/udp/225.33.23.127:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Погружение в себя HD
+http://109.127.185.118:81/udp/225.33.23.128:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Отдых и расслабление HD
+http://109.127.185.118:81/udp/225.33.23.130:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Музыка без слов HD
+http://109.127.185.118:81/udp/225.33.23.131:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Зарубежная поп-музыка HD
+http://109.127.185.118:81/udp/225.33.23.133:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Советская классика HD
+http://109.127.185.118:81/udp/225.33.23.137:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Хорошее настроение HD
+http://109.127.185.118:81/udp/225.33.23.139:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Суббота!
+http://109.127.185.118:81/udp/225.33.23.201:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Ю-ТВ +0
+http://109.127.185.118:81/udp/225.33.23.205:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",2x2
+http://109.127.185.118:81/udp/225.33.23.211:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Солнце +0
+http://109.127.185.118:81/udp/225.33.23.223:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ТНТ4  (+0)
+http://109.127.185.118:81/udp/225.33.23.226:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Радио ENERGY HD
+http://109.127.185.118:81/udp/225.33.23.245:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Авторадио HD
+http://109.127.185.118:81/udp/225.33.23.246:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Радио Romantika HD
+http://109.127.185.118:81/udp/225.33.23.247:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Юмор FM HD
+http://109.127.185.118:81/udp/225.33.23.248:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Relax FM HD
+http://109.127.185.118:81/udp/225.33.23.249:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Детское радио HD
+http://109.127.185.118:81/udp/225.33.23.250:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Comedy Radio HD
+http://109.127.185.118:81/udp/225.33.23.251:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Радио Гордость HD
+http://109.127.185.118:81/udp/225.33.23.252:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Первый канал (IPTV) HD
+http://109.127.185.118:81/udp/225.33.53.1:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Red Lips HD
+http://109.127.185.118:81/udp/225.33.53.2:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",МАТЧ! АРЕНА HD
+http://109.127.185.118:81/udp/225.33.53.3:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",МАТЧ! Премьер HD
+http://109.127.185.118:81/udp/225.33.53.4:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",САПФИР HD
+http://109.127.185.118:81/udp/225.33.53.5:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",TERRA HD
+http://109.127.185.118:81/udp/225.33.53.6:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ТВ-21 HD
+http://109.127.185.118:81/udp/225.33.53.7:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Sumiko HD
+http://109.127.185.118:81/udp/225.33.53.8:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BRIDGE ФРЭШ HD
+http://109.127.185.118:81/udp/225.33.53.10:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",O2TV HD
+http://109.127.185.118:81/udp/225.33.53.13:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Карусель HD
+http://109.127.185.118:81/udp/225.33.53.14:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",English Class HD
+http://109.127.185.118:81/udp/225.33.53.15:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",.red HD
+http://109.127.185.118:81/udp/225.33.53.16:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",КИНЕКО HD
+http://109.127.185.118:81/udp/225.33.53.17:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Лёва HD
+http://109.127.185.118:81/udp/225.33.53.18:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",KINOLIVING HD
+http://109.127.185.118:81/udp/225.33.53.19:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju+ Premiere HD
+http://109.127.185.118:81/udp/225.33.53.20:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju+ Megahit HD
+http://109.127.185.118:81/udp/225.33.53.21:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju+ Comedy HD
+http://109.127.185.118:81/udp/225.33.53.22:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Россия 1 HD
+http://109.127.185.118:81/udp/225.33.53.23:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BRIDGE TV DELUXE HD
+http://109.127.185.118:81/udp/225.33.53.24:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",RTTV HD
+http://109.127.185.118:81/udp/225.33.53.25:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",TV BRICS HD
+http://109.127.185.118:81/udp/225.33.53.26:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",KHL Prime HD
+http://109.127.185.118:81/udp/225.33.53.27:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju+ Planet HD
+http://109.127.185.118:81/udp/225.33.53.28:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Amedia 1 HD
+http://109.127.185.118:81/udp/225.33.53.29:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Amedia Premium (IPTV) HD
+http://109.127.185.118:81/udp/225.33.53.30:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Plan B HD
+http://109.127.185.118:81/udp/225.33.53.31:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Страшное HD
+http://109.127.185.118:81/udp/225.33.53.32:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju+ Serial HD
+http://109.127.185.118:81/udp/225.33.53.33:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju+ Sport HD
+http://109.127.185.118:81/udp/225.33.53.34:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Hollywood HD
+http://109.127.185.118:81/udp/225.33.53.35:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BRIDGE TV HD
+http://109.127.185.118:81/udp/225.33.53.36:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Футбол 1 HD
+http://109.127.185.118:81/udp/225.33.53.38:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Футбол 2 HD
+http://109.127.185.118:81/udp/225.33.53.39:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Футбол 3 HD
+http://109.127.185.118:81/udp/225.33.53.40:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Amedia Hit HD
+http://109.127.185.118:81/udp/225.33.53.41:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Дом Кино ПРЕМИУМ HD
+http://109.127.185.118:81/udp/225.33.53.42:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Планета HD
+http://109.127.185.118:81/udp/225.33.53.43:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Подмосковье HD
+http://109.127.185.118:81/udp/225.33.53.44:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Поехали! HD
+http://109.127.185.118:81/udp/225.33.53.46:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Матч ТВ HD
+http://109.127.185.118:81/udp/225.33.53.47:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Big Planet HD
+http://109.127.185.118:81/udp/225.33.53.49:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Лапки Live HD
+http://109.127.185.118:81/udp/225.33.53.50:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Шёлк  HD
+http://109.127.185.118:81/udp/225.33.53.51:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Еда Премиум HD
+http://109.127.185.118:81/udp/225.33.53.52:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",RTД HD
+http://109.127.185.118:81/udp/225.33.53.54:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Bollywood HD
+http://109.127.185.118:81/udp/225.33.53.56:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",365 дней HD
+http://109.127.185.118:81/udp/225.33.53.57:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",МУЗ HD
+http://109.127.185.118:81/udp/225.33.53.58:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Womens Magazine HD
+http://109.127.185.118:81/udp/225.33.53.60:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Матч! Игра HD
+http://109.127.185.118:81/udp/225.33.53.61:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",World Fashion Channel HD
+http://109.127.185.118:81/udp/225.33.53.62:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju History HD
+http://109.127.185.118:81/udp/225.33.53.64:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju Explore HD
+http://109.127.185.118:81/udp/225.33.53.65:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju TV1000 HD
+http://109.127.185.118:81/udp/225.33.53.66:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju TV1000 action HD
+http://109.127.185.118:81/udp/225.33.53.67:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju TV1000 русское HD
+http://109.127.185.118:81/udp/225.33.53.68:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Русский роман HD
+http://109.127.185.118:81/udp/225.33.53.69:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Мульт HD
+http://109.127.185.118:81/udp/225.33.53.70:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",360 Новости HD
+http://109.127.185.118:81/udp/225.33.53.71:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Music Box Russia HD
+http://109.127.185.118:81/udp/225.33.53.72:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",РЕН ТВ HD
+http://109.127.185.118:81/udp/225.33.53.73:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",СТС kids HD
+http://109.127.185.118:81/udp/225.33.53.74:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Матч ТВ (Москва и МО) HD
+http://109.127.185.118:81/udp/225.33.53.75:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",DuckTV HD
+http://109.127.185.118:81/udp/225.33.53.76:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Curiosity Stream HD
+http://109.127.185.118:81/udp/225.33.53.78:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ТНТ HD
+http://109.127.185.118:81/udp/225.33.53.79:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Travel and Adventure HD
+http://109.127.185.118:81/udp/225.33.53.80:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Ключ HD
+http://109.127.185.118:81/udp/225.33.53.82:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",RU.TV HD
+http://109.127.185.118:81/udp/225.33.53.83:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Шалун ТВ HD
+http://109.127.185.118:81/udp/225.33.53.84:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Кино ТВ HD
+http://109.127.185.118:81/udp/225.33.53.85:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Диалоги о рыбалки HD
+http://109.127.185.118:81/udp/225.33.53.87:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Пятница HD
+http://109.127.185.118:81/udp/225.33.53.88:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Amedia 2 HD
+http://109.127.185.118:81/udp/225.33.53.89:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Мосфильм.Золотая коллекция HD
+http://109.127.185.118:81/udp/225.33.53.90:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Большая Азия HD
+http://109.127.185.118:81/udp/225.33.53.91:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Babes TV HD
+http://109.127.185.118:81/udp/225.33.53.92:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Fashion TV HD
+http://109.127.185.118:81/udp/225.33.53.93:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ОТР HD
+http://109.127.185.118:81/udp/225.33.53.94:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Жара HD
+http://109.127.185.118:81/udp/225.33.53.95:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Мир Баскетбола HD
+http://109.127.185.118:81/udp/225.33.53.96:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju Nature HD
+http://109.127.185.118:81/udp/225.33.53.98:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",MMA-TV HD
+http://109.127.185.118:81/udp/225.33.53.100:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",КИНОХИТ HD
+http://109.127.185.118:81/udp/225.33.53.105:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",КИНОСЕМЬЯ HD
+http://109.127.185.118:81/udp/225.33.53.106:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",КИНОСВИДАНИЕ HD
+http://109.127.185.118:81/udp/225.33.53.107:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",КИОНОПРЕМЬЕРА HD
+http://109.127.185.118:81/udp/225.33.53.108:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Star Cinema HD
+http://109.127.185.118:81/udp/225.33.53.109:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Star Family HD
+http://109.127.185.118:81/udp/225.33.53.110:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BOLT HD
+http://109.127.185.118:81/udp/225.33.53.111:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Дикая охота HD
+http://109.127.185.118:81/udp/225.33.53.113:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Дикая рыбалка HD
+http://109.127.185.118:81/udp/225.33.53.114:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Неизвестная Россия  HD
+http://109.127.185.118:81/udp/225.33.53.115:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Театр HD
+http://109.127.185.118:81/udp/225.33.53.118:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",FAN HD
+http://109.127.185.118:81/udp/225.33.53.119:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Тайны Галактики HD
+http://109.127.185.118:81/udp/225.33.53.121:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПОБЕДА HD
+http://109.127.185.118:81/udp/225.33.53.122:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Еда HD
+http://109.127.185.118:81/udp/225.33.53.123:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Киноужас HD
+http://109.127.185.118:81/udp/225.33.53.126:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",AIVA HD
+http://109.127.185.118:81/udp/225.33.53.127:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",EPIC HD
+http://109.127.185.118:81/udp/225.33.53.128:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Exxxotica HD
+http://109.127.185.118:81/udp/225.33.53.129:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Живая природа HD
+http://109.127.185.118:81/udp/225.33.53.133:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Глазами туриста HD
+http://109.127.185.118:81/udp/225.33.53.134:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Magnat HD
+http://109.127.185.118:81/udp/225.33.53.135:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Ратник HD
+http://109.127.185.118:81/udp/225.33.53.137:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Русский экстрим HD
+http://109.127.185.118:81/udp/225.33.53.138:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Загородная жизнь HD
+http://109.127.185.118:81/udp/225.33.53.139:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ТВ 3 HD
+http://109.127.185.118:81/udp/225.33.53.146:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",СТС HD
+http://109.127.185.118:81/udp/225.33.53.147:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Домашний HD
+http://109.127.185.118:81/udp/225.33.53.148:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Европа Плюс ТВ HD
+http://109.127.185.118:81/udp/225.33.53.149:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Драйв HD
+http://109.127.185.118:81/udp/225.33.53.150:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Мы HD
+http://109.127.185.118:81/udp/225.33.53.151:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Киносерия HD
+http://109.127.185.118:81/udp/225.33.53.156:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Song TV Russia HD
+http://109.127.185.118:81/udp/225.33.53.157:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Song TV Armenia HD
+http://109.127.185.118:81/udp/225.33.53.158:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju TV1000 Новелла HD
+http://109.127.185.118:81/udp/225.33.53.159:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Живи активно HD
+http://109.127.185.118:81/udp/225.33.53.160:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Звезда Плюс HD
+http://109.127.185.118:81/udp/225.33.53.161:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",МАТЧ! БОЕЦ HD
+http://109.127.185.118:81/udp/225.33.53.162:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",МАТЧ! СТРАНА HD
+http://109.127.185.118:81/udp/225.33.53.163:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",МИР HD
+http://109.127.185.118:81/udp/225.33.53.164:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",KHL HD
+http://109.127.185.118:81/udp/225.33.53.165:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Live 1 HD
+http://109.127.185.118:81/udp/225.33.53.166:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Бразильский футбол 2 HD
+http://109.127.185.118:81/udp/225.33.53.167:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Бразильский футбол 3 HD
+http://109.127.185.118:81/udp/225.33.53.168:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Зал суда HD
+http://109.127.185.118:81/udp/225.33.53.169:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Gagsnetwork HD
+http://109.127.185.118:81/udp/225.33.53.170:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Бразильский футбол 4 HD
+http://109.127.185.118:81/udp/225.33.53.173:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Индия HD
+http://109.127.185.118:81/udp/225.33.53.175:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ЖИВИ! HD
+http://109.127.185.118:81/udp/225.33.53.176:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",RT DE HD
+http://109.127.185.118:81/udp/225.33.53.179:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ТОЧКА.РФ HD
+http://109.127.185.118:81/udp/225.33.53.188:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Ювелиртрейд HD
+http://109.127.185.118:81/udp/225.33.53.190:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Бокс ТВ HD
+http://109.127.185.118:81/udp/225.33.53.191:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",VHS-ка HD
+http://109.127.185.118:81/udp/225.33.53.192:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Аппетитный HD
+http://109.127.185.118:81/udp/225.33.53.194:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",РУССКИЙ КОРАБЛЬ HD
+http://109.127.185.118:81/udp/225.33.53.195:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Феникс плюс Кино HD
+http://109.127.185.118:81/udp/225.33.53.197:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",START Air HD
+http://109.127.185.118:81/udp/225.33.53.198:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Start World HD
+http://109.127.185.118:81/udp/225.33.53.199:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Classic Music HD
+http://109.127.185.118:81/udp/225.33.53.200:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",.black HD
+http://109.127.185.118:81/udp/225.33.53.201:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",.sci-fi HD
+http://109.127.185.118:81/udp/225.33.53.202:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Романтичное HD
+http://109.127.185.118:81/udp/225.33.53.203:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Кинопоказ HD
+http://109.127.185.118:81/udp/225.33.53.204:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",KinoJam HD
+http://109.127.185.118:81/udp/225.33.53.207:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",FamilyJam HD
+http://109.127.185.118:81/udp/225.33.53.208:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",KIONХИТ HD
+http://109.127.185.118:81/udp/225.33.53.209:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Волейбол HD
+http://109.127.185.118:81/udp/225.33.53.210:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Русская история HD
+http://109.127.185.118:81/udp/225.33.53.211:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Ювелирочка HD
+http://109.127.185.118:81/udp/225.33.53.212:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju TV1000 romantica HD
+http://109.127.185.118:81/udp/225.33.53.213:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",ПЕТЕРБУРГ - 5 КАНАЛ HD
+http://109.127.185.118:81/udp/225.33.53.214:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Госфильмофонд. Машина Времени HD
+http://109.127.185.118:81/udp/225.33.53.216:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",DetectiveJam HD
+http://109.127.185.118:81/udp/225.33.53.219:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",KinoJam 2 HD
+http://109.127.185.118:81/udp/225.33.53.220:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",UNIVER TV HD
+http://109.127.185.118:81/udp/225.33.53.221:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BRIDGE ROCK HD
+http://109.127.185.118:81/udp/225.33.53.222:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BRIDGE Русский Хит HD
+http://109.127.185.118:81/udp/225.33.53.224:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BRIDGE Hits HD
+http://109.127.185.118:81/udp/225.33.53.225:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Конгресс ТВ HD
+http://109.127.185.118:81/udp/225.33.53.226:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",А3 HD
+http://109.127.185.118:81/udp/225.33.53.227:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Старт Баскет HD
+http://109.127.185.118:81/udp/225.33.53.228:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Классика кино HD
+http://109.127.185.118:81/udp/225.33.53.229:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Новелла ТВ HD
+http://109.127.185.118:81/udp/225.33.53.230:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Аниме ТВ HD
+http://109.127.185.118:81/udp/225.33.53.231:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Детское кино HD
+http://109.127.185.118:81/udp/225.33.53.232:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",МультСезон HD
+http://109.127.185.118:81/udp/225.33.53.233:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Hollywood HD
+http://109.127.185.118:81/udp/225.33.43.35:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",BRIDGE TV HD
+http://109.127.185.118:81/udp/225.33.43.36:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Match! Football 1 HD
+http://109.127.185.118:81/udp/225.33.43.38:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Match! Football 3 HD
+http://109.127.185.118:81/udp/225.33.43.40:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Match! Football 2 HD
+http://109.127.185.118:81/udp/225.33.43.39:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Amedia Hit HD
+http://109.127.185.118:81/udp/225.33.43.41:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Moya Planeta HD
+http://109.127.185.118:81/udp/225.33.43.43:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Dom Kino Premiun HD
+http://109.127.185.118:81/udp/225.33.43.42:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",360 HD
+http://109.127.185.118:81/udp/225.33.43.44:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Poehali HD
+http://109.127.185.118:81/udp/225.33.43.46:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",N/A HD
+http://109.127.185.118:81/udp/225.33.43.45:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Match TV HD
+http://109.127.185.118:81/udp/225.33.43.47:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Lapki Live HD
+http://109.127.185.118:81/udp/225.33.43.50:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Big Planet HD
+http://109.127.185.118:81/udp/225.33.43.49:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Avto 24 HD
+http://109.127.185.118:81/udp/225.33.43.48:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Silk HD
+http://109.127.185.118:81/udp/225.33.43.51:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Eda Premium HD
+http://109.127.185.118:81/udp/225.33.43.52:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",RTа? HD
+http://109.127.185.118:81/udp/225.33.43.54:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Bollywood HD
+http://109.127.185.118:81/udp/225.33.43.56:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",365 dney HD
+http://109.127.185.118:81/udp/225.33.43.57:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",MUZ HD
+http://109.127.185.118:81/udp/225.33.43.58:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Izvestiya HD
+http://109.127.185.118:81/udp/225.33.43.59:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Match! Igra HD
+http://109.127.185.118:81/udp/225.33.43.61:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Womens magazine HD
+http://109.127.185.118:81/udp/225.33.43.60:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",WFC HD
+http://109.127.185.118:81/udp/225.33.43.62:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Viasat History HD
+http://109.127.185.118:81/udp/225.33.43.64:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",NTV HD
+http://109.127.185.118:81/udp/225.33.43.63:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Viasat Explore HD
+http://109.127.185.118:81/udp/225.33.43.65:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",TV1000 HD
+http://109.127.185.118:81/udp/225.33.43.66:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",viju TV1000 action HD
+http://109.127.185.118:81/udp/225.33.43.67:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",TV1000 Rus Kino HD
+http://109.127.185.118:81/udp/225.33.43.68:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",360 Novosti HD
+http://109.127.185.118:81/udp/225.33.43.71:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Russkiy roman HD
+http://109.127.185.118:81/udp/225.33.43.69:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Mult HD
+http://109.127.185.118:81/udp/225.33.43.70:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",STS Kids HD
+http://109.127.185.118:81/udp/225.33.43.74:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Ren TV HD
+http://109.127.185.118:81/udp/225.33.43.73:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Russian Musicbox HD
+http://109.127.185.118:81/udp/225.33.43.72:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",DuckTV HD
+http://109.127.185.118:81/udp/225.33.43.76:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Match TV HD
+http://109.127.185.118:81/udp/225.33.43.75:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",TVC HD
+http://109.127.185.118:81/udp/225.33.43.77:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Curiosity Stream HD
+http://109.127.185.118:81/udp/225.33.43.78:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",TNT HD
+http://109.127.185.118:81/udp/225.33.43.79:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kluch HD
+http://109.127.185.118:81/udp/225.33.43.82:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",START TRIUMPH HD
+http://109.127.185.118:81/udp/225.33.43.81:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Travel and Adventure HD
+http://109.127.185.118:81/udp/225.33.43.80:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kino TV HD
+http://109.127.185.118:81/udp/225.33.43.85:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",RUTV HD
+http://109.127.185.118:81/udp/225.33.43.83:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Shalun HD
+http://109.127.185.118:81/udp/225.33.43.84:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Shant Premium HD
+http://109.127.185.118:81/udp/225.33.43.86:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Pyatnitsa HD
+http://109.127.185.118:81/udp/225.33.43.88:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Dialogi o rybalke HD
+http://109.127.185.118:81/udp/225.33.43.87:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Mosfilm HD
+http://109.127.185.118:81/udp/225.33.43.90:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",A2 HD
+http://109.127.185.118:81/udp/225.33.43.89:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Big Asia HD
+http://109.127.185.118:81/udp/225.33.43.91:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Babes TV HD
+http://109.127.185.118:81/udp/225.33.43.92:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",OTR HD
+http://109.127.185.118:81/udp/225.33.43.94:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",FashionTV HD
+http://109.127.185.118:81/udp/225.33.43.93:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Zhara HD
+http://109.127.185.118:81/udp/225.33.43.95:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Mir Basketbola HD
+http://109.127.185.118:81/udp/225.33.43.96:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Viasat Nature HD
+http://109.127.185.118:81/udp/225.33.43.98:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kazakh TV HD
+http://109.127.185.118:81/udp/225.33.43.99:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",MMA TV HD
+http://109.127.185.118:81/udp/225.33.43.100:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Russian Extreme Ultra
+http://109.127.185.118:81/udp/225.33.43.104:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Ultra Cinema
+http://109.127.185.118:81/udp/225.33.43.103:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kinohit HD
+http://109.127.185.118:81/udp/225.33.43.105:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kinosemya HD
+http://109.127.185.118:81/udp/225.33.43.106:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kinopremiera HD
+http://109.127.185.118:81/udp/225.33.43.108:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kinosvidaniye HD
+http://109.127.185.118:81/udp/225.33.43.107:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Bolt HD
+http://109.127.185.118:81/udp/225.33.43.111:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Star Family HD
+http://109.127.185.118:81/udp/225.33.43.110:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Star Cinema HD
+http://109.127.185.118:81/udp/225.33.43.109:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Dikaya rybalka HD
+http://109.127.185.118:81/udp/225.33.43.114:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Vse TV HD
+http://109.127.185.118:81/udp/225.33.43.112:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Dikaya ohota HD
+http://109.127.185.118:81/udp/225.33.43.113:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Udar HD
+http://109.127.185.118:81/udp/225.33.43.117:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",UnknownRussia HD
+http://109.127.185.118:81/udp/225.33.43.115:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Teatr HD
+http://109.127.185.118:81/udp/225.33.43.118:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",FAN HD
+http://109.127.185.118:81/udp/225.33.43.119:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Pobeda HD
+http://109.127.185.118:81/udp/225.33.43.122:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Tajny Galaktiki HD
+http://109.127.185.118:81/udp/225.33.43.121:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Eda HD
+http://109.127.185.118:81/udp/225.33.43.123:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Shant Serial HD
+http://109.127.185.118:81/udp/225.33.43.125:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",SHant Music HD
+http://109.127.185.118:81/udp/225.33.43.124:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",AIVA HD
+http://109.127.185.118:81/udp/225.33.43.127:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kinouzhas HD
+http://109.127.185.118:81/udp/225.33.43.126:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",EPIC HD
+http://109.127.185.118:81/udp/225.33.43.128:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Exxxotica HD
+http://109.127.185.118:81/udp/225.33.43.129:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Luxury HD
+http://109.127.185.118:81/udp/225.33.43.131:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Teo TV HD
+http://109.127.185.118:81/udp/225.33.43.130:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",N/A HD
+http://109.127.185.118:81/udp/225.33.43.133:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Glazami turista HD
+http://109.127.185.118:81/udp/225.33.43.134:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Shot TV HD
+http://109.127.185.118:81/udp/225.33.43.132:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Magnat HD
+http://109.127.185.118:81/udp/225.33.43.135:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",N/A HD
+http://109.127.185.118:81/udp/225.33.43.136:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",N/A HD
+http://109.127.185.118:81/udp/225.33.43.137:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Zagorodnaya zhizn HD
+http://109.127.185.118:81/udp/225.33.43.139:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Russkij Ekstrim HD
+http://109.127.185.118:81/udp/225.33.43.138:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",TV 3 HD
+http://109.127.185.118:81/udp/225.33.43.146:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Europa Plus HD
+http://109.127.185.118:81/udp/225.33.43.149:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Domashniy HD
+http://109.127.185.118:81/udp/225.33.43.148:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",STS HD
+http://109.127.185.118:81/udp/225.33.43.147:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",My HD
+http://109.127.185.118:81/udp/225.33.43.151:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Drive HD
+http://109.127.185.118:81/udp/225.33.43.150:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",NashaSibir4k
+http://109.127.185.118:81/udp/225.33.43.153:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Kinoseriya HD
+http://109.127.185.118:81/udp/225.33.43.156:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",SONG TV Russia HD
+http://109.127.185.118:81/udp/225.33.43.157:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",N/A HD
+http://109.127.185.118:81/udp/225.33.43.160:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Viju TV1000 Novella HD
+http://109.127.185.118:81/udp/225.33.43.159:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",SONG TV Armenia HD
+http://109.127.185.118:81/udp/225.33.43.158:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",N/A HD
+http://109.127.185.118:81/udp/225.33.43.163:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Match! Boets HD
+http://109.127.185.118:81/udp/225.33.43.162:5000
+#EXTINF:-1 group-title="Kursknet.ru 🇷🇺",Zvezda plus HD
+http://109.127.185.118:81/udp/225.33.43.161:5000
